@@ -1,0 +1,66 @@
+[
+  {
+    "id": "yujin",
+    "name": "차유진",
+    "size": [
+      1254,
+      1254
+    ],
+    "file": "yujin_profile_v001.png",
+    "runtime_crop": [
+      269,
+      15,
+      759,
+      759
+    ],
+    "sha256": "17db69506008b73d9ca7dea500ad1338eb34fb4c7e01a2c34b1d86cd2bb84401"
+  },
+  {
+    "id": "jihyun",
+    "name": "백지현",
+    "size": [
+      1254,
+      1254
+    ],
+    "file": "jihyun_profile_v001.png",
+    "runtime_crop": [
+      234,
+      0,
+      759,
+      759
+    ],
+    "sha256": "6e6a8a28b7303e42a847a6ff79976fec63ebb0afba62a259dd1a26b3a382c6ad"
+  },
+  {
+    "id": "ria",
+    "name": "강리아",
+    "size": [
+      1254,
+      1254
+    ],
+    "file": "ria_profile_v001.png",
+    "runtime_crop": [
+      249,
+      15,
+      759,
+      759
+    ],
+    "sha256": "c5de5b7ed2b655d82c7aeb603392d0c7857966fdc4d08f74b568457600c6634f"
+  },
+  {
+    "id": "seoyun",
+    "name": "한서윤",
+    "size": [
+      1254,
+      1254
+    ],
+    "file": "seoyun_profile_v001.png",
+    "runtime_crop": [
+      219,
+      30,
+      759,
+      759
+    ],
+    "sha256": "230c58eb49b67655ea2d46f4313244f10359b06d9a20593ff21f1dd9d9aafe65"
+  }
+]
