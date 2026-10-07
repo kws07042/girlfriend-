@@ -1,0 +1,243 @@
+{
+  "updated": "2026-10-07",
+  "scope": "Current approved heroine masters, active pose PNGs, phone profile photos, and Ria cafe selfie.",
+  "runtime_images": 18,
+  "canonical_masters": 4,
+  "comparison_previews": 4,
+  "files": [
+    {
+      "path": "히로인/한서윤_seoyun_MASTER.png",
+      "character": "seoyun",
+      "role": "canonical_master",
+      "width": 1024,
+      "height": 1535,
+      "bytes": 763173,
+      "sha256": "223ffcaa6fb874511f696115d601b8cffc59a1afc90783063fabb197b8964b22"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_master.png",
+      "character": "seoyun",
+      "role": "MASTER",
+      "width": 2048,
+      "height": 3070,
+      "bytes": 2097574,
+      "sha256": "6d9b8baa76578dc77eaaa8db4887c809ae6bca813add0fae206c6fe97de4177f"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/work.png",
+      "character": "seoyun",
+      "role": "업무",
+      "width": 2048,
+      "height": 3070,
+      "bytes": 2113638,
+      "sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/casual.png",
+      "character": "seoyun",
+      "role": "편한 대화",
+      "width": 2048,
+      "height": 3070,
+      "bytes": 2027004,
+      "sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1"
+    },
+    {
+      "path": "RenPy_게임/game/images/phone/seoyun_profile_v001.png",
+      "character": "seoyun",
+      "role": "phone_profile",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2110029,
+      "sha256": "230c58eb49b67655ea2d46f4313244f10359b06d9a20593ff21f1dd9d9aafe65"
+    },
+    {
+      "path": "히로인/previews/seoyun_preview.jpg",
+      "character": "seoyun",
+      "role": "comparison_preview",
+      "width": 1140,
+      "height": 680,
+      "bytes": 85931,
+      "sha256": "c6d6ee342ff9e66bf1f75fc822d0e9aeafb1e3a551a5ce74c8647deace20926c"
+    },
+    {
+      "path": "히로인/강리아_ria_MASTER.png",
+      "character": "ria",
+      "role": "canonical_master",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1470307,
+      "sha256": "2731f7978de8905d5af64a84f4483e60e1702b87bb764ff2f4c4abd1eda0c19e"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_master.png",
+      "character": "ria",
+      "role": "MASTER",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3908371,
+      "sha256": "9248b73e5ac1e9b0bf0a8830ef3ab740bafc11d053fe7af849ae46cc75f2dea2"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/explaining.png",
+      "character": "ria",
+      "role": "설명",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3951561,
+      "sha256": "6036ae220b4d59ff6ce4b4c4a322a627944dcb909772ffa1883baadf8e7fec55"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/casual.png",
+      "character": "ria",
+      "role": "편한 대화",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3708292,
+      "sha256": "1789c27c476d60da457ea2c3449a10eefbd8a58501da700f4b0fdc4e0b4205a0"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/listening.png",
+      "character": "ria",
+      "role": "듣는 자세",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 4005425,
+      "sha256": "1425dc1fbe86f023fb20434a924bb8225a72b7284ff996b5d9b23dc8d3bd1205"
+    },
+    {
+      "path": "RenPy_게임/game/images/phone/ria_profile_v001.png",
+      "character": "ria",
+      "role": "phone_profile",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2259426,
+      "sha256": "c5de5b7ed2b655d82c7aeb603392d0c7857966fdc4d08f74b568457600c6634f"
+    },
+    {
+      "path": "히로인/previews/ria_preview.jpg",
+      "character": "ria",
+      "role": "comparison_preview",
+      "width": 1520,
+      "height": 680,
+      "bytes": 112035,
+      "sha256": "164f5e28b6e2078ca67edb493610649a2c9b0287fc4c00a705fd126c234b929d"
+    },
+    {
+      "path": "히로인/차유진_yujin_MASTER.png",
+      "character": "yujin",
+      "role": "canonical_master",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1407902,
+      "sha256": "d28846081fa0b578a4b3d9cf7d3d18947486909c8e5a0a3a02c680d60e04701f"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_master.png",
+      "character": "yujin",
+      "role": "MASTER",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3547211,
+      "sha256": "0f5328cbbcbe2926d89fbb6e2754d68e068a3c827ece319c097ec596fa903a49"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/work.png",
+      "character": "yujin",
+      "role": "업무",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3423342,
+      "sha256": "f11cbb7ab56398ee10f89432993efb7b7927e488f0aad82b8e5295591db4cac0"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/casual.png",
+      "character": "yujin",
+      "role": "편한 대화",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3495436,
+      "sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c"
+    },
+    {
+      "path": "RenPy_게임/game/images/phone/yujin_profile_v001.png",
+      "character": "yujin",
+      "role": "phone_profile",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1880098,
+      "sha256": "17db69506008b73d9ca7dea500ad1338eb34fb4c7e01a2c34b1d86cd2bb84401"
+    },
+    {
+      "path": "히로인/previews/yujin_preview.jpg",
+      "character": "yujin",
+      "role": "comparison_preview",
+      "width": 1140,
+      "height": 680,
+      "bytes": 83395,
+      "sha256": "19a32d902394d548276f2a8040f959336bc45c4f83e79472796233649690a74a"
+    },
+    {
+      "path": "히로인/백지현_jihyun_MASTER.png",
+      "character": "jihyun",
+      "role": "canonical_master",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1267290,
+      "sha256": "8dc316fd361abaf308094b488bb7c3a9db9f74feadae621613f62f4b804fce7e"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_master.png",
+      "character": "jihyun",
+      "role": "MASTER",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2713592,
+      "sha256": "266a25a186bfb1cd738bbba79d145117ce8d5e76350852d02074be07c59823fe"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/work.png",
+      "character": "jihyun",
+      "role": "업무",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2687909,
+      "sha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/casual.png",
+      "character": "jihyun",
+      "role": "편한 대화",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 3093390,
+      "sha256": "a2dca7d9e50e6a155fd81b5a8f086bf2b44317b66d2b839f4dce5a094ad31a8b"
+    },
+    {
+      "path": "RenPy_게임/game/images/phone/jihyun_profile_v001.png",
+      "character": "jihyun",
+      "role": "phone_profile",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2251167,
+      "sha256": "6e6a8a28b7303e42a847a6ff79976fec63ebb0afba62a259dd1a26b3a382c6ad"
+    },
+    {
+      "path": "히로인/previews/jihyun_preview.jpg",
+      "character": "jihyun",
+      "role": "comparison_preview",
+      "width": 1140,
+      "height": 680,
+      "bytes": 71235,
+      "sha256": "c1902c33685f8ebd7adb65706c6fc8bc0b48c039d078bfe432e5ab8cf549fc57"
+    },
+    {
+      "path": "RenPy_게임/game/images/cg/ria_cafe_cg_v001.png",
+      "character": "ria",
+      "role": "cafe_selfie",
+      "width": 1672,
+      "height": 940,
+      "bytes": 2138567,
+      "sha256": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189"
+    }
+  ]
+}
