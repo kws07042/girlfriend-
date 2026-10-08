@@ -3,7 +3,7 @@
   "scope": "Current approved heroine masters, active pose PNGs, phone profile photos, and Ria cafe selfie.",
   "runtime_images": 18,
   "canonical_masters": 4,
-  "comparison_previews": 4,
+  "comparison_previews": 0,
   "files": [
     {
       "path": "히로인/한서윤_seoyun_MASTER.png",
@@ -49,15 +49,6 @@
       "height": 1254,
       "bytes": 2110029,
       "sha256": "230c58eb49b67655ea2d46f4313244f10359b06d9a20593ff21f1dd9d9aafe65"
-    },
-    {
-      "path": "히로인/previews/seoyun_preview.jpg",
-      "character": "seoyun",
-      "role": "comparison_preview",
-      "width": 1140,
-      "height": 680,
-      "bytes": 85931,
-      "sha256": "c6d6ee342ff9e66bf1f75fc822d0e9aeafb1e3a551a5ce74c8647deace20926c"
     },
     {
       "path": "히로인/강리아_ria_MASTER.png",
@@ -114,15 +105,6 @@
       "sha256": "c5de5b7ed2b655d82c7aeb603392d0c7857966fdc4d08f74b568457600c6634f"
     },
     {
-      "path": "히로인/previews/ria_preview.jpg",
-      "character": "ria",
-      "role": "comparison_preview",
-      "width": 1520,
-      "height": 680,
-      "bytes": 112035,
-      "sha256": "164f5e28b6e2078ca67edb493610649a2c9b0287fc4c00a705fd126c234b929d"
-    },
-    {
       "path": "히로인/차유진_yujin_MASTER.png",
       "character": "yujin",
       "role": "canonical_master",
@@ -168,15 +150,6 @@
       "sha256": "17db69506008b73d9ca7dea500ad1338eb34fb4c7e01a2c34b1d86cd2bb84401"
     },
     {
-      "path": "히로인/previews/yujin_preview.jpg",
-      "character": "yujin",
-      "role": "comparison_preview",
-      "width": 1140,
-      "height": 680,
-      "bytes": 83395,
-      "sha256": "19a32d902394d548276f2a8040f959336bc45c4f83e79472796233649690a74a"
-    },
-    {
       "path": "히로인/백지현_jihyun_MASTER.png",
       "character": "jihyun",
       "role": "canonical_master",
@@ -220,15 +193,6 @@
       "height": 1254,
       "bytes": 2251167,
       "sha256": "6e6a8a28b7303e42a847a6ff79976fec63ebb0afba62a259dd1a26b3a382c6ad"
-    },
-    {
-      "path": "히로인/previews/jihyun_preview.jpg",
-      "character": "jihyun",
-      "role": "comparison_preview",
-      "width": 1140,
-      "height": 680,
-      "bytes": 71235,
-      "sha256": "c1902c33685f8ebd7adb65706c6fc8bc0b48c039d078bfe432e5ab8cf549fc57"
     },
     {
       "path": "RenPy_게임/game/images/cg/ria_cafe_cg_v001.png",
