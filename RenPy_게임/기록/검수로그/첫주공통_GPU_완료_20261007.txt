@@ -1,0 +1,143 @@
+Early init took 55 ms
+Loading error handling took 27 ms
+Loading script took 184 ms
+Loading save slot metadata took 86 ms
+Loading persistent took 2 ms
+Running init code took 38 ms
+Loading analysis data took 7 ms
+Analyze and compile ATL took 2 ms
+Reloading save slot metadata took 10 ms
+Dump and make backups took 2 ms
+Cleaning cache took 1 ms
+Making clean stores took 2 ms
+Initial gc took 29 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 195 ms
+Init translation took 2 ms
+Cleaning stores took 0 ms
+Load screen analysis took 15 ms
+Analyze screens took 1 ms
+Save screen analysis took 0 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_week
+[rpytest] [log] - global.office_week
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 5 ms
+Interface start took 192 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 522.25'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+[rpytest] [exc]   + office_week
+[rpytest] [exc]     - shared_and_answers
+[rpytest] [exc]     - shared_and_answers (50.983 s)
+Cleaning stores took 0 ms
+Load screen analysis took 20 ms
+Analyze screens took 1 ms
+Running _start took 2 ms
+[rpytest] [exc]     - shared_and_boundaries
+[rpytest] [exc]     - shared_and_boundaries (51.813 s)
+Cleaning stores took 0 ms
+Load screen analysis took 14 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - shared_call_interrupt
+[rpytest] [exc]     - shared_call_interrupt (2.590 s)
+
+[rpytest] Test outcomes (Detailed)
+[rpytest] PASSED  global               - (107.713 s [01:47])
+[rpytest]   PASSED  office_week          - (107.000 s [01:47])
+[rpytest]     PASSED  shared_and_answers   - (50.983 s)
+[rpytest]     PASSED  shared_and_boundaries - (51.813 s)
+[rpytest]     PASSED  shared_call_interrupt - (2.590 s)
+[rpytest]   NOT RUN office_message_day_boundary
+[rpytest]   NOT RUN office_message_backlog
+[rpytest]   NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_restore_20261007
+[rpytest]     NOT RUN original_faces      
+[rpytest]     NOT RUN office_phone_live   
+[rpytest]     NOT RUN office_phone_scroll 
+[rpytest]     NOT RUN office_reply_marker 
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_scene_motion 
+[rpytest]     NOT RUN office_bc_camera    
+[rpytest]   NOT RUN office_other_expressions
+[rpytest]   NOT RUN office_phone_continuity_20261007
+[rpytest]     NOT RUN late_personality    
+[rpytest]     NOT RUN followup_state      
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_phone_live   
+[rpytest]   NOT RUN office_phone_scroll 
+[rpytest]   NOT RUN office_pose_flow    
+[rpytest]   NOT RUN office_pose_palette_20261007
+[rpytest]     NOT RUN palette_frames      
+[rpytest]     NOT RUN fixed_comparison_frames
+[rpytest]   NOT RUN office_private_week_20261007
+[rpytest]     NOT RUN seoyun_book         
+[rpytest]     NOT RUN yujin_cup           
+[rpytest]     NOT RUN jihyun_movie_save   
+[rpytest]   NOT RUN office_reply_marker 
+[rpytest]   NOT RUN office_ria_animation
+[rpytest]   NOT RUN office_ria_soft_expressions
+[rpytest]   NOT RUN office_scene_ghost_20261007
+[rpytest]     NOT RUN lunch_to_office     
+[rpytest]     NOT RUN empty_scene_save_and_call
+[rpytest]     NOT RUN all_heroine_outgoing_freeze
+[rpytest]   NOT RUN office_scene_motion 
+[rpytest]   NOT RUN office_selected_assets_20261007
+[rpytest]     NOT RUN assets_and_frames   
+[rpytest]   NOT RUN office_seoyun_expressions
+[rpytest]   NOT RUN office_seoyun_local_preservation_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_master_approved_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_rebuild_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_skin_jaw_v2  
+[rpytest]   NOT RUN office_qa           
+[rpytest]     NOT RUN cafe_path           
+[rpytest]     NOT RUN home_path           
+[rpytest]     NOT RUN photo_permissions   
+[rpytest]   NOT RUN office_ui_preview   
+[rpytest]   NOT RUN office_upscaled_assets
+[rpytest]   NOT RUN office_week_visual  
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    14 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     2 skipped |    10 not run
+[rpytest] Test cases :    26 |     3 passed |     0 xfailed |     0 failed |     0 xpassed |     7 skipped |    16 not run
+[rpytest] Test hooks :     5 |     5 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    39 |    39 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 107.714 s [01:47]
+[rpytest] Status: PASSED 
+

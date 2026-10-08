@@ -1,0 +1,12 @@
+{
+  "half": {
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-982c839b-b1ca-4ca0-a744-b9f3380c050f.png",
+    "prompt": "Edit the exact supplied SQUARE face crop of adult 27-year-old Kang Ria. Both upper eyelids gently descend to a HALF-CLOSED position, halfway through a natural blink. Keep the turquoise irises partially visible below the lowered upper lids. Brows do not move. No smiling-eye squint, no wink, no emotion change. This is an animation frame, not a new expression. Change ONLY eyelids and eyelashes; keep exact mature face shape, head angle, eye positions, brows, lips and current smile, cheek color, nose, ears, gold earrings, blonde hair silhouette/strands, clothes and square crop framing. Do not shift or enlarge the eyes. Match the same illustration linework, shading and color. One 1024x1024 square image, same alignment as reference, transparent background preserved, no text or panels.",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_animation\\half.png"
+  },
+  "closed": {
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-66e9eca4-7382-4c06-af4c-cd3b99f4e2b2.png",
+    "prompt": "Edit the exact supplied SQUARE face crop of adult 27-year-old Kang Ria. Both eyes completely CLOSED in a natural brief blink. Draw gentle curved closed upper-lid/lash lines following the reference head tilt; delicate lashes, no iris or eye white visible. Brows do not move. No wink, no exaggerated squint, no smile change. This is an animation frame, not a new expression. Change ONLY eyelids and eyelashes; keep exact mature face shape, head angle, eye positions, brows, lips and current smile, cheek color, nose, ears, gold earrings, blonde hair silhouette/strands, clothes and square crop framing. Do not shift or enlarge the eyes. Match the same illustration linework, shading and color. One 1024x1024 square image, same alignment as reference, transparent background preserved, no text or panels.",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_animation\\closed.png"
+  }
+}

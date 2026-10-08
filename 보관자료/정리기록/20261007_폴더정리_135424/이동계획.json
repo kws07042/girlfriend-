@@ -1,0 +1,658 @@
+{
+  "root": "C:\\Users\\user\\Desktop\\건\\오피스",
+  "record": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\정리기록\\20261007_폴더정리_135424",
+  "moves": [
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v3",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v3",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v4",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v4",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v5",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v5",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v6",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v6",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\예시자산_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\예시자산_v1",
+      "reason": "게임의 실행용 복사본과 구분한 이전 시안",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기",
+      "reason": "이전 버전 화면 미리보기",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\기획문서_v1.zip",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\04_기획초안\\기획문서_v1.zip",
+      "reason": "처음 받은 기획문서 ZIP 원본",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\사용자원본",
+      "reason": "배경 동기화 원본",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정",
+      "reason": "배경 동기화 원본",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1",
+      "reason": "프로필 생성 원본과 후보",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1",
+      "reason": "후속 모델 작업용 준비 자료",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1",
+      "reason": "승인된 전신 원화와 국소 수정 근거를 보존",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1",
+      "reason": "현재 MASTER/실행 이미지와 구분하는 이전 생성·수정·업스케일 작업물",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성",
+      "reason": "최종 24장 세트와 분리한 귀 수정 중간 자료",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력",
+      "reason": "최종 24장 세트와 분리한 귀 수정 중간 자료",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\수정전_확인",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\수정전_확인",
+      "reason": "최종 24장 세트와 분리한 귀 수정 중간 자료",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비",
+      "reason": "최종 24장 세트와 분리한 귀 수정 중간 자료",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\active_call_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\active_call_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\active_call_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\active_call_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_preview_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_preview_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_preview_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_preview_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_qa_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_qa_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_qa_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_qa_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_camera_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_camera_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_camera_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_camera_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_lint.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_lint.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_lint_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_lint_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_preview.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_preview.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_preview_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_preview_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\BC_구도_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\BC_구도_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\call_layout_lint.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\call_layout_lint.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\call_layout_lint_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\call_layout_lint_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_call_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_call_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_call_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_call_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_marker_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_marker_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_marker_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_marker_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_live_regression_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_live_regression_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_live_regression_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_live_regression_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_scroll_regression_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_scroll_regression_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_scroll_regression_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_scroll_regression_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_qa_regression_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_qa_regression_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_qa_regression_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_qa_regression_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_lint.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_lint.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_lint_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_lint_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_design_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_design_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_design_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_design_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_live_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_live_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_live_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_live_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_lint.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_lint.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_lint_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_lint_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_tests.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_tests.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_tests_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_tests_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_qa_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_qa_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_qa_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_qa_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_scroll_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_scroll_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_scroll_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_scroll_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_lint.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_lint.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_lint_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_lint_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\profile_preview_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\profile_preview_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\profile_preview_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\profile_preview_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\reply_marker_test.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\reply_marker_test.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\reply_marker_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\reply_marker_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_test_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_test_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_test_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_test_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_visual_error.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_visual_error.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_visual_output.txt",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_visual_output.txt",
+      "reason": "이전 검수 로그 보관",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\다른히로인표정_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\다른히로인표정_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\문자시간과답장_정리.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\문자시간과답장_정리.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\사진포즈_적용과색감크기검수_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\사진포즈_적용과색감크기검수_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤_MASTER확정과원화보존_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤_MASTER확정과원화보존_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤전면재설계_적용_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤전면재설계_적용_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤표정_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤표정_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\업스케일_인게임_적용.json",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\업스케일_인게임_적용.json",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\업스케일_인게임_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\업스케일_인게임_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\원화얼굴복구와UI검수_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\원화얼굴복구와UI검수_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\장면전환_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\장면전환_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\전체히로인_피부색재검수_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\전체히로인_피부색재검수_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\첫주_사적장면_규칙검수.json",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\첫주_사적장면_규칙검수.json",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\첫주_사적장면과포즈_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\첫주_사적장면과포즈_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\캐릭터애니메이션_도구검토.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\캐릭터애니메이션_도구검토.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\통화표시와종료_검수.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\통화표시와종료_검수.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈_게임에셋목록.json",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈_게임에셋목록.json",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈연결_검수.json",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈연결_검수.json",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈와리아움직임_적용.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈와리아움직임_적용.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\휴대폰대화연결_적용_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\휴대폰대화연결_적용_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    },
+    {
+      "from": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\히로인포즈_색감통일_적용_20261007.md",
+      "to": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\히로인포즈_색감통일_적용_20261007.md",
+      "reason": "적용·검수 기록을 한곳에서 확인",
+      "status": "moved"
+    }
+  ],
+  "protected": [
+    "RenPy_게임/game/images",
+    "RenPy_게임/game/saves",
+    "RenPy_게임/game/tests",
+    "RenPy_게임/tests",
+    "RenPy_게임/샘플",
+    "도구",
+    "히로인/*_MASTER.png",
+    "변경백업"
+  ]
+}

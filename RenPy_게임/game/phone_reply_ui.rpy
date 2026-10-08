@@ -1,13 +1,12 @@
 # Contact cues distinguish an actionable reply from an unread message.
 init python:
     def phone_contact_attention(who, required_reply=None):
-        required = (required_reply and required_reply not in phone_replied
-                    and required_reply not in phone_expired)
+        required = required_reply and phone_reply_available(required_reply)
         if required:
             target = message_data[required_reply].get("who", "ria")
             if who == target:
                 return "reply"
-        elif current_reply_key(who):
+        if current_reply_key(who):
             return "reply"
         if phone_unread.get(who, 0):
             return "unread"

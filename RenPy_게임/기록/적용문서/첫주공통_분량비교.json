@@ -1,0 +1,128 @@
+{
+  "primary": {
+    "before": {
+      "blocks": 327,
+      "characters": 13382,
+      "heroines": {
+        "sy": 39,
+        "yj": 34,
+        "jh": 30,
+        "ri": 61
+      },
+      "daily": {
+        "1": {
+          "blocks": 140,
+          "characters": 5853
+        },
+        "2": {
+          "blocks": 56,
+          "characters": 2285
+        },
+        "3": {
+          "blocks": 48,
+          "characters": 1867
+        },
+        "4": {
+          "blocks": 45,
+          "characters": 1817
+        },
+        "5": {
+          "blocks": 38,
+          "characters": 1560
+        }
+      }
+    },
+    "after": {
+      "blocks": 507,
+      "characters": 20301,
+      "heroines": {
+        "sy": 70,
+        "yj": 64,
+        "jh": 60,
+        "ri": 63
+      },
+      "daily": {
+        "1": {
+          "blocks": 202,
+          "characters": 8078
+        },
+        "2": {
+          "blocks": 88,
+          "characters": 3559
+        },
+        "3": {
+          "blocks": 55,
+          "characters": 2136
+        },
+        "4": {
+          "blocks": 74,
+          "characters": 2981
+        },
+        "5": {
+          "blocks": 88,
+          "characters": 3547
+        }
+      }
+    }
+  },
+  "adjusted_days_2_to_5": {
+    "before": {
+      "blocks": 165,
+      "characters": 6939,
+      "heroines": {
+        "sy": 21,
+        "jh": 15,
+        "ri": 20,
+        "yj": 22
+      },
+      "daily": {
+        "2": {
+          "blocks": 47,
+          "characters": 2020
+        },
+        "3": {
+          "blocks": 44,
+          "characters": 1724
+        },
+        "4": {
+          "blocks": 45,
+          "characters": 1864
+        },
+        "5": {
+          "blocks": 29,
+          "characters": 1331
+        }
+      }
+    },
+    "after": {
+      "blocks": 303,
+      "characters": 12222,
+      "heroines": {
+        "sy": 45,
+        "ri": 30,
+        "yj": 44,
+        "jh": 37
+      },
+      "daily": {
+        "2": {
+          "blocks": 84,
+          "characters": 3463
+        },
+        "3": {
+          "blocks": 53,
+          "characters": 2056
+        },
+        "4": {
+          "blocks": 78,
+          "characters": 3147
+        },
+        "5": {
+          "blocks": 88,
+          "characters": 3556
+        }
+      }
+    }
+  },
+  "method": "Actual visible say callbacks; excludes menus and phone bubble text. Compare matching day ranges, not all possible choice combinations.",
+  "all_tested_day_ranges_not_shorter": true
+}

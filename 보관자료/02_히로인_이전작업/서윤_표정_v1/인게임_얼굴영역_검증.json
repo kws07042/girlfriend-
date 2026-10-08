@@ -1,0 +1,32 @@
+{
+  "smile": {
+    "difference_bbox": [
+      999,
+      73,
+      1267,
+      300
+    ],
+    "changed_pixels": 57434,
+    "pixels_changed_outside_face_region": 0
+  },
+  "serious": {
+    "difference_bbox": [
+      999,
+      73,
+      1267,
+      300
+    ],
+    "changed_pixels": 57712,
+    "pixels_changed_outside_face_region": 0
+  },
+  "surprised": {
+    "difference_bbox": [
+      999,
+      73,
+      1267,
+      300
+    ],
+    "changed_pixels": 57476,
+    "pixels_changed_outside_face_region": 0
+  }
+}

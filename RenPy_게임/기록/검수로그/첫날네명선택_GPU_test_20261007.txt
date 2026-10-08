@@ -1,0 +1,239 @@
+Early init took 61 ms
+Loading error handling took 38 ms
+Loading script took 290 ms
+Loading save slot metadata took 35 ms
+Loading persistent took 11 ms
+Running init code took 52 ms
+Loading analysis data took 6 ms
+Analyze and compile ATL took 3 ms
+Reloading save slot metadata took 4 ms
+Dump and make backups took 2 ms
+Cleaning cache took 1 ms
+Making clean stores took 1 ms
+Initial gc took 47 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 412 ms
+Init translation took 2 ms
+Cleaning stores took 0 ms
+Load screen analysis took 23 ms
+Analyze screens took 1 ms
+Save screen analysis took 0 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_day1_choices_20261007
+[rpytest] [log] - global.office_day1_choices_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 8 ms
+Interface start took 218 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 522.25'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+[rpytest] [exc]   + office_day1_choices_20261007
+[rpytest] [exc]     - seoyun_full
+[rpytest] [exc]     - seoyun_full (17.363 s)
+Cleaning stores took 0 ms
+Load screen analysis took 21 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - ria_full
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 462, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 508, in check_for_timeout
+    raise RenpyTestTimeoutError(f"TestCase timed out after {_test.timeout} seconds.")
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 35.0 seconds.
+
+While running game code:
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 35.0 seconds.
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 115, in script
+  menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 25, in testsuite global
+    testsuite office_day1_choices_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 87, in testsuite office_day1_choices_20261007
+    testcase ria_full:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 93, in testcase ria_full
+    click "리아과 점심을 먹는다."
+
+====================
+[rpytest] [exc]     - ria_full (36.808 s)
+[rpytest] [exc]     - ria_full (36.808 s)
+Cleaning stores took 0 ms
+Load screen analysis took 15 ms
+Analyze screens took 0 ms
+Running _start took 1 ms
+[rpytest] [exc]     - yujin_full
+[rpytest] [exc]     - yujin_full (15.398 s)
+Cleaning stores took 0 ms
+Load screen analysis took 15 ms
+Analyze screens took 1 ms
+Running _start took 2 ms
+[rpytest] [exc]     - jihyun_full
+[rpytest] [exc]     - jihyun_full (15.611 s)
+Cleaning stores took 0 ms
+Load screen analysis took 29 ms
+Analyze screens took 1 ms
+Running _start took 3 ms
+[rpytest] [exc]     - rest_full
+[rpytest] [exc]     - rest_full (2.502 s)
+Cleaning stores took 0 ms
+Load screen analysis took 36 ms
+Analyze screens took 0 ms
+Running _start took 4 ms
+[rpytest] [exc]     - mixed_contacts_and_save
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 462, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 508, in check_for_timeout
+    raise RenpyTestTimeoutError(f"TestCase timed out after {_test.timeout} seconds.")
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 35.0 seconds.
+
+While running game code:
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 35.0 seconds.
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 29, in script
+    menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 25, in testsuite global
+    testsuite office_day1_choices_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 239, in testsuite office_day1_choices_20261007
+    testcase mixed_contacts_and_save:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\day1_choices_test.rpy", line 243, in testcase mixed_contacts_and_save
+    click "리아와 자료를 함께 읽고 고객 흐름을 정리한다."
+
+====================
+[rpytest] [exc]     - mixed_contacts_and_save (35.433 s)
+[rpytest] [exc]     - mixed_contacts_and_save (35.433 s)
+Cleaning stores took 1 ms
+Load screen analysis took 17 ms
+Analyze screens took 0 ms
+Running _start took 0 ms
+[rpytest] [exc]     - decline_invitation
+[rpytest] [exc]     - decline_invitation (8.592 s)
+Cleaning stores took 0 ms
+Load screen analysis took 24 ms
+Analyze screens took 1 ms
+Running _start took 3 ms
+[rpytest] [exc]     - interrupt_call
+[rpytest] [exc]     - interrupt_call (8.958 s)
+
+[rpytest] Test outcomes (Detailed)
+[rpytest] FAILED  global               - (143.162 s [02:23])
+[rpytest]   FAILED  office_day1_choices_20261007 - (142.349 s [02:22])
+[rpytest]     PASSED  seoyun_full          - (17.363 s)
+[rpytest]     FAILED  ria_full             - (36.808 s)
+[rpytest]     PASSED  yujin_full           - (15.398 s)
+[rpytest]     PASSED  jihyun_full          - (15.611 s)
+[rpytest]     PASSED  rest_full            - (2.502 s)
+[rpytest]     FAILED  mixed_contacts_and_save - (35.433 s)
+[rpytest]     PASSED  decline_invitation   - (8.592 s)
+[rpytest]     PASSED  interrupt_call       - (8.958 s)
+[rpytest]   NOT RUN office_message_day_boundary
+[rpytest]   NOT RUN office_message_backlog
+[rpytest]   NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_restore_20261007
+[rpytest]     NOT RUN original_faces      
+[rpytest]     NOT RUN office_phone_live   
+[rpytest]     NOT RUN office_phone_scroll 
+[rpytest]     NOT RUN office_reply_marker 
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_scene_motion 
+[rpytest]     NOT RUN office_bc_camera    
+[rpytest]   NOT RUN office_other_expressions
+[rpytest]   NOT RUN office_phone_continuity_20261007
+[rpytest]     NOT RUN late_personality    
+[rpytest]     NOT RUN followup_state      
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_phone_live   
+[rpytest]   NOT RUN office_phone_scroll 
+[rpytest]   NOT RUN office_pose_flow    
+[rpytest]   NOT RUN office_pose_palette_20261007
+[rpytest]     NOT RUN palette_frames      
+[rpytest]     NOT RUN fixed_comparison_frames
+[rpytest]   NOT RUN office_private_week_20261007
+[rpytest]     NOT RUN seoyun_book         
+[rpytest]     NOT RUN yujin_cup           
+[rpytest]     NOT RUN jihyun_movie_save   
+[rpytest]   NOT RUN office_reply_marker 
+[rpytest]   NOT RUN office_ria_animation
+[rpytest]   NOT RUN office_ria_soft_expressions
+[rpytest]   NOT RUN office_scene_ghost_20261007
+[rpytest]     NOT RUN lunch_to_office     
+[rpytest]     NOT RUN empty_scene_save_and_call
+[rpytest]     NOT RUN all_heroine_outgoing_freeze
+[rpytest]   NOT RUN office_scene_motion 
+[rpytest]   NOT RUN office_selected_assets_20261007
+[rpytest]     NOT RUN assets_and_frames   
+[rpytest]   NOT RUN office_seoyun_expressions
+[rpytest]   NOT RUN office_seoyun_local_preservation_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_master_approved_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_rebuild_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_skin_jaw_v2  
+[rpytest]   NOT RUN office_qa           
+[rpytest]     NOT RUN cafe_path           
+[rpytest]     NOT RUN home_path           
+[rpytest]     NOT RUN photo_permissions   
+[rpytest]   NOT RUN office_ui_preview   
+[rpytest]   NOT RUN office_upscaled_assets
+[rpytest]   NOT RUN office_week         
+[rpytest]     NOT RUN continuous_week     
+[rpytest]     NOT RUN adjusted_and_rest   
+[rpytest]   NOT RUN office_week_visual  
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    14 |     0 passed |     0 xfailed |     2 failed |     0 xpassed |     1 skipped |    11 not run
+[rpytest] Test cases :    29 |     6 passed |     0 xfailed |     2 failed |     0 xpassed |     5 skipped |    16 not run
+[rpytest] Test hooks :    10 |    10 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    59 |    59 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 143.166 s [02:23]
+[rpytest] Status: FAILED 
+

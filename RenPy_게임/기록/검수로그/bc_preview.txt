@@ -1,0 +1,56 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global::office_ui_preview
+[rpytest] [log] - global::office_ui_preview
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   - office_ui_preview
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 471, in execute
+    self.node_state = self.node.execute(self.node_state, elapsed)
+                      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1561, in execute
+    raise RenpyTestScreenshotError(
+    ...<3 lines>...
+    )
+renpy.test.types.RenpyTestScreenshotError: C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.png (pixel difference: 602568 > 0)
+Current image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.new.png
+Difference image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.diff.png
+
+While running game code:
+renpy.test.types.RenpyTestScreenshotError: C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.png (pixel difference: 602568 > 0)
+Current image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.new.png
+Difference image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\tests\screenshots\ui_choices.diff.png
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 31, in script
+  menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\ui_preview.rpy", line 1, in testsuite global
+    testcase office_ui_preview:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\ui_preview.rpy", line 10, in testcase office_ui_preview
+    screenshot "ui_choices"
+
+====================
+[rpytest] [exc]   - office_ui_preview (3.108 s)
+[rpytest] [exc]   - office_ui_preview (3.108 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     3 |     0 passed |     0 xfailed |     1 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :     9 |     0 passed |     0 xfailed |     1 failed |     0 xpassed |     8 skipped |     0 not run
+[rpytest] Test hooks :     0 |     0 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :     0 |     0 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 4.112 s
+[rpytest] Status: FAILED 
+

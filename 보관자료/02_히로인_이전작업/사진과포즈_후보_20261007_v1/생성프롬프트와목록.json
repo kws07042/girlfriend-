@@ -1,0 +1,80 @@
+{
+  "mode": "built-in image_gen",
+  "status": "예시 후보, 게임 미적용",
+  "items": [
+    {
+      "key": "ria_selfie",
+      "transparent": false,
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\cg\\ria_cafe_cg_v001.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: candidate in-game smartphone message attachment for an adult Korean office romance visual novel. Input image 1 is the approved identity/outfit reference of 강리아, an adult 27-year-old woman; image 2 is only the warm cafe setting/style reference, NOT the pose to copy. Create ONE new landscape 16:9 anime illustration that plausibly looks like Ria took a quick casual phone selfie alone after work in this cafe. Preserve her exact mature face identity, clear blue eyes, blonde high wavy ponytail, small gold hoop earrings, navy ribbed sleeveless high-neck top and blue-grey skirt. Camera is held by her at slightly above eye level and a natural arm-length distance, off to one side, with subtly tilted casual framing. Her head and shoulders occupy roughly the left half; enough cafe window and an empty seat at her table are visible on the right to show where she is. Her extended camera arm is only partly visible along a lower edge; no second person and no visible phone covering her face. Small relaxed closed-mouth smile, a little tired but friendly after work, adult coworker intimacy, not a glamour photoshoot or date invitation fantasy. The coffee cup can rest on the table within the lower part of the scene, not held against her chest. Warm early-evening cafe light with gentle natural skin tones and coherent facial shading. Same refined VN linework and painterly shading as reference, not photorealism. No V-sign, no wink, no chibi face, no enlarged childlike eyes, no redesigned clothing, no skin-color islands around eyes or lips. No lettering, captions, UI, borders, watermark, or collage. One complete landscape photo illustration.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-117d8fa9-f2fa-412f-ad95-b493251c079b.png",
+      "filename": "리아_A_창가셀카.png",
+      "saved_path": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\리아_A_창가셀카.png",
+      "size": [
+        1672,
+        940
+      ],
+      "mode": "RGB"
+    },
+    {
+      "key": "ria_coffee_selfie",
+      "transparent": false,
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\cg\\ria_cafe_cg_v001.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: ONE candidate smartphone selfie sent by 강리아 in an adult Korean office romance visual novel. Input image 1 is her approved MASTER identity and office clothes; image 2 is only cafe-setting/style reference. Create a new horizontal 16:9 anime illustration that unmistakably looks SELF-PHOTOGRAPHED by this exact 27-year-old adult woman holding her own phone at arm's length, not photographed by another person across the table. Perspective: near arm-length front camera from slightly above and to her right, moderate natural wide-angle selfie perspective. Her extended camera-holding arm leads visibly from a lower foreground edge to her shoulder, with her hand/phone just outside the frame, making the self-shot geometry clear. Her other hand holds a plain ceramic coffee cup low near her collarbone but not covering her face. She looks directly into her phone's lens with a small relaxed closed-lip smile, slightly inclined head, casual unposed feeling after work. Her face and upper torso occupy the right-center; the warm cafe window and a little table are visible at left. Preserve exact mature face and blue eyes, blonde high wavy ponytail, gold hoop earrings, navy ribbed sleeveless high-neck top; preserve art style and consistent natural facial skin shading. Do not change her age, hairstyle, clothes, chest proportions, face or iris shape. The cafe is quiet early evening, warm light and ordinary small cafe details, not a glamour studio or romance date with a photographer. Natural anatomy and adult-sized cup-holding fingers, no extra digits. No second person, no mirror, no external photographer angle, no chin resting on a hand, no fashion-photo pose, no peace sign or wink, no text, UI, branding, watermark, border or collage. One completed landscape selfie illustration with opaque cafe background.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-2f3915ee-d28d-484f-8128-a3426a9994b8.png",
+      "filename": "리아_B_커피셀카.png",
+      "saved_path": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\리아_B_커피셀카.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGB"
+    },
+    {
+      "key": "jihyun_hip",
+      "transparent": true,
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: ONE alternate full-body transparent character sprite pose candidate for an adult Korean office romance visual novel. The supplied image is the approved MASTER identity and clothing of 백지현, a 36-year-old adult business strategy team lead. Preserve EXACT face identity, mature brown eyes and eyelid shape, jaw and lips, short dark chin-length bob, small round stud earrings, silver wristwatch, adult body proportions and the original illustration style. Preserve black tailored blazer, white open-collar blouse with the SAME neckline, black high-waisted pencil skirt with the same slit, sheer dark tights and black pumps. Change only posture and a restrained expression: one hand rests naturally on the side of her waist/hip over the blazer, elbow modestly outward; the OTHER arm rests loosely down her side with an anatomically natural open relaxed hand. Shoulders relaxed, torso slightly turned three-quarter while her face looks toward the listener. Confident attentive expression with a tiny closed-mouth smile; a composed experienced adult listening to a colleague, not a model catwalk, pinup, angry boss or coy girl. This must be clearly distinct from clasped hands, crossed arms and palm-up pointing poses. No paper, clipboard, tablet, pen, coffee, phone, desk, or other props. Keep nearly the same head height, overall full-body scale and foot margins as the MASTER so it can be used as a sprite. Both complete shoes visible, no cropping. Vertical approximately 1024x1536 composition. True transparent alpha background, clean cutout hair edges, no gradient or floor shadow, no black or white backdrop. Natural adult-size hands with readable fingers and nails, five fingers per hand, no extra joints or stray finger nubs. No skin patches, no face replacement border. No text or labels, no multiple panels.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-180e08c8-08ed-4ed3-8953-dec25ae3f1bd.png",
+      "filename": "지현_A_한손허리.png",
+      "saved_path": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\지현_A_한손허리.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        254
+      ]
+    },
+    {
+      "key": "jihyun_cuff",
+      "transparent": true,
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: ONE alternate full-body transparent character sprite pose candidate for an adult Korean office romance visual novel. The supplied image is the approved MASTER identity and clothing of 백지현, an adult 36-year-old business strategy team lead. Preserve EXACT mature face identity, brown eyes and eyelid shape, jaw and lips, chin-length short dark bob, small stud earrings, silver wristwatch, adult proportions and refined VN linework/shading. Preserve the same black tailored blazer and skirt, original white blouse neckline, sheer dark tights and black pumps. Create a new subtle pre-meeting pose: her left forearm is held low and comfortably across her waist with the silver watch still visible; her right hand gently tidies the edge of the left blazer sleeve beside the watch. Both elbows stay low, arms NOT folded high across her chest, no pointing or open-palm lecture gesture. Fingers lightly pinch only the cuff edge, with clear natural adult anatomy and no tangled hands. She has just lifted her gaze toward the listener, face visible, shoulders relaxed, upright mature poise, restrained warm closed-mouth smile. This reads as a small everyday action by an experienced woman before continuing a conversation, not dressing/undressing or an exaggerated glamour pose. Preserve overall body scale, head height, leg proportions and enough margin around both full shoes. Vertical approximately 1024x1536. No papers, board, clipboard, tablet, pen, phone, coffee, desk, or other props. True transparent alpha background with clean hair/garment edges, no gradient, checkerboard, backdrop or floor shadow. No facial skin-color seams or patches, no eye/lip restyling. No lettering, labels, borders or collage. ONE woman, ONE full-body sprite.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-99c33acb-a0ca-4e4c-a77d-ec923ccabccd.png",
+      "filename": "지현_B_소매정리.png",
+      "saved_path": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\지현_B_소매정리.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        254
+      ]
+    }
+  ]
+}

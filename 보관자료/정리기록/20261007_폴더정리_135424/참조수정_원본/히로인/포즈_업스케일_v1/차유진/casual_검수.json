@@ -1,0 +1,23 @@
+{
+  "who": "yujin",
+  "name": "차유진",
+  "key": "casual",
+  "label": "머리만지며대화",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c08e218b-2b32-4633-9f40-51069a4b7401.png",
+  "status": "요청에 따라 제작",
+  "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Quiet personal conversation pose. The cream portfolio is put aside OFF SCREEN and absent. Her right arm on IMAGE LEFT rests naturally at her side; her left hand lightly touches a strand of her OWN long hair near her shoulder, below her chin, a small understated self-conscious gesture. Elbow low and relaxed, no dramatic hair flip. Face still visible, subtle CLOSED-LIP smile, softened mature purple almond eyes, no exaggerated blush or giggle. Preserve her elegant reserved adult personality, long dark-blue hair silhouette, gold earrings, burgundy square neckline dress with belt and original matching shoes. Keep exact face identity, mature age/proportions, eye color and iris size, hair texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\원화\\차유진_머리만지며대화_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_머리만지며대화_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "206845dc8b25f2622f4e04e914fdbb8d97b46f8b5a6dcbd529671247a47b73d3"
+}

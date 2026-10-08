@@ -1,0 +1,77 @@
+Early init took 60 ms
+Loading error handling took 40 ms
+Loading script took 279 ms
+Loading save slot metadata took 41 ms
+Loading persistent took 12 ms
+Running init code took 51 ms
+Loading analysis data took 5 ms
+Analyze and compile ATL took 2 ms
+Reloading save slot metadata took 5 ms
+Backing up script files to 'C:\\Users\\user\\AppData\\Local\\Temp\\office-intro-baseline-saves/backups\\RenPy_게임':
+Dump and make backups took 96 ms
+Cleaning cache took 1 ms
+Making clean stores took 2 ms
+Initial gc took 47 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 277 ms
+Init translation took 1 ms
+Cleaning stores took 0 ms
+Load screen analysis took 10 ms
+Analyze screens took 11 ms
+Save screen analysis took 14 ms
+Save pyanalysis took 0 ms
+Save bytecode took 34 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_week
+[rpytest] [log] - global.office_week
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 8 ms
+Interface start took 215 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 522.25'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+[rpytest] [exc]   + office_week
+[rpytest] [exc]     - continuous_week
+[rpytest] [exc]     - continuous_week (55.424 s)
+Cleaning stores took 0 ms
+Load screen analysis took 47 ms
+Analyze screens took 0 ms
+Running _start took 3 ms
+[rpytest] [exc]     - adjusted_and_rest
+[rpytest] [exc]     - adjusted_and_rest (26.105 s)
+
+[rpytest] Test outcomes (Detailed)
+[rpytest] PASSED  global               - (82.771 s [01:22])
+[rpytest]   PASSED  office_week          - (82.008 s [01:22])
+[rpytest]     PASSED  continuous_week      - (55.424 s)
+[rpytest]     PASSED  adjusted_and_rest    - (26.105 s)
+[rpytest]   NOT RUN office_week_visual  
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    14 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |    12 skipped |     0 not run
+[rpytest] Test cases :    66 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |    63 skipped |     1 not run
+[rpytest] Test hooks :     4 |     4 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    40 |    40 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 82.773 s [01:22]
+[rpytest] Status: PASSED 
+

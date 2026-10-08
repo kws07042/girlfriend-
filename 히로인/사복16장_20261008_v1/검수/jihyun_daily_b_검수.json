@@ -1,0 +1,38 @@
+{
+  "id": "jihyun_daily_b",
+  "who": "jihyun",
+  "kind": "daily_b",
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Baek Jihyun, an ADULT age 36. Exact familiar mature face, brown eyes, black side-parted bob, ONE small ivory rounded-triangle pearl stud per visible ear, smooth ears, silver wristwatch. Same adult figure and long legs, relaxed restrained closed-mouth smile. Change ONLY pose/layer wearing position. Preserve the EXACT black mock-neck fine-knit top, stone-gray straight jeans, white low-top sneakers, silver wristwatch and the SAME slate-blue casual jacket from image 1. In pose B she WEARS that same jacket open, with collar/buttons/cuffs matching the folded jacket, not a new design. One hand lightly holds an open jacket edge near her waist and the other arm hangs relaxed by her side; both feet planted, shoulders relaxed toward the viewer. No walking/crossed-leg stance, no hand in jeans pocket, no office blazer. Exact face and hair unchanged.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\jihyun_casual_outfit_pose_v001.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+  ],
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-7ec0b2dc-875e-4e1a-9e6a-71fa6f55e222.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_daily_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_daily_b_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "196e9616dd4f20a3defe01b9cbf4fbb154d45e8fd51839573d6e14099b63b239",
+  "output_sha256": "6d1417a4e458fd12d448e817b9bffd36cffdd5a911450a9f6ad60eefb8a45724",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 14.34
+}

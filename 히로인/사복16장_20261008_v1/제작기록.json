@@ -1,0 +1,620 @@
+{
+  "date": "2026-10-08",
+  "generation": "built-in image_gen",
+  "new_generations": 12,
+  "reused_previous": 4,
+  "files": [
+    {
+      "id": "seoyun_daily_a",
+      "who": "seoyun",
+      "kind": "daily_a",
+      "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\seoyun_casual_outfit_pose_v001.png",
+      "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. The supplied image is the immutable identity / body-proportion / illustration-style reference for Han Seoyun, a 40-year-old adult Korean woman. Generate ONLY this same heroine, not a redesign. Preserve the exact mature face, eye spacing and brown eyes, brown low bun and loose side strands, strong elegant eye makeup, closed berry-toned lips with a subtle confident smile, and the ONE small beauty mark at the viewer-right mouth corner. Preserve her reference adult curvy upper-body proportions, slim waist, long legs and small adult head relative to height; hands are mature and sufficiently long, clearly separated anatomically correct fingers. Smooth bare ear lobes, NO earrings or flesh bumps; retain wristwatch. Match the reference's polished anime VN line weight, painterly but clean fabric shading, hair highlights and exact natural peach skin hue. Change only clothing and pose. Outfit: refined off-duty sage-green fitted fine-knit wrap sweater, softly open V neckline at a tasteful level, navy fluid ankle-length A-line skirt with natural folds, dark brown flat ankle boots. No office blouse, no tablet, no heels. Pose: relaxed three-quarter stance toward the viewer, weight resting on one leg, both forearms softly raised to hold a small closed novel vertically against her upper chest, one long-fingered hand holding its lower spine and the other lightly resting over its top edge. Calm adult confidence, not shy or juvenile. Whole character from crown to both shoes fully visible, comfortable margins, standing centered, neutral even lighting. SINGLE sprite only, no panels, labels, lettering, logos or watermark. Genuine transparent alpha background, no gradient, no glow, no colored fringe, no floor shadow. Keep the same face, hairstyle, skin color, body scale and same visual-novel art style as the reference; do not make a photorealistic photo.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+      ],
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_daily_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_daily_a_2x.png",
+      "source_size": [
+        1024,
+        1535
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "72f5d6daa30f5c61b06aaca4b5fee793aedc052cdc9bf8ce8c4172a7bf31b76a",
+      "output_sha256": "b9235a246077975f67e93c89b57ad703fcfeac832af7bdca726e35bc706d26d5",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 14.46
+    },
+    {
+      "id": "seoyun_daily_b",
+      "who": "seoyun",
+      "kind": "daily_b",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Han Seoyun, an ADULT age 40. Exact mature face, brown eyes, brown low bun and side locks, strong refined eye makeup, closed berry lips, ONE beauty mark at viewer-right mouth corner, no earrings, smooth bare ears, same round wristwatch. Same adult full upper torso, slim waist, long legs and small mature head proportion. Change ONLY pose. Lock the entire clothing design from image 1: sage wrap fine-knit sweater with viewer-right waist tie, navy ankle-length A-line skirt, brown flat ankle boots; same brown closed novel and watch. New pose B: hold the closed novel LOW beside one hip with one hand; free hand makes a small relaxed open-palm gesture near her waist, elbow softly bent; feet planted naturally with one slightly forward, calm three-quarter stance. Very different from hugging a book against the chest. Keep her existing face orientation and expression as close as possible.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\seoyun_casual_outfit_pose_v001.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-bef3114f-4abc-4afe-b273-957e9363bf20.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_daily_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_daily_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "1f58b94c7554d32a5881bff0d58d5327e607706b696f6b12b1269b27febb94b2",
+      "output_sha256": "25e964c12dea12baf147a44c3e767209588bfd070f8580557ef262dfa2b07196",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 15.22
+    },
+    {
+      "id": "seoyun_date_a",
+      "who": "seoyun",
+      "kind": "date_a",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Han Seoyun, an ADULT age 40. Exact mature face, brown eyes, brown low bun and side locks, strong refined eye makeup, closed berry lips, ONE beauty mark at viewer-right mouth corner, no earrings, smooth bare ears, same round wristwatch. Same adult full upper torso, slim waist, long legs and small mature head proportion. One distinctly dressed-up off-duty outfit: deep berry-wine soft woven WRAP MIDI DRESS with three-quarter sleeves, tasteful V neckline, side waist tie, gently flared calf-length hem; BLACK FLAT loafers with subtle GOLD BAR decoration, matching her approved flat-shoe taste. Small structured TAN leather handbag with short handles. Preserve watch, NO earrings. Fine woven folds, not glossy plastic or office clothes. Date pose A: mature relaxed three-quarter stance; handbag hangs by one thigh from a naturally lowered hand, other hand rests lightly near the waist without gripping cloth; one foot modestly forward. Closed-lip confident subtle smile; adult poise, not childish shyness.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\seoyun_casual_outfit_pose_v001.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-da5a3f50-5838-47ae-b3c2-dd8aa8a91ebe.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_date_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_date_a_2x.png",
+      "source_size": [
+        1024,
+        1535
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "d2751242ca19025baad930fc357b797f0b217c9eabb44833b6c1b388ae74c947",
+      "output_sha256": "f7796d01cde0209c0c84386714c9c8eb4623745941d4a821a9ba4c1c83c28a86",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 14.44
+    },
+    {
+      "id": "seoyun_date_b",
+      "who": "seoyun",
+      "kind": "date_b",
+      "references": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-da5a3f50-5838-47ae-b3c2-dd8aa8a91ebe.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Han Seoyun, an ADULT age 40. Exact mature face, brown eyes, brown low bun and side locks, strong refined eye makeup, closed berry lips, ONE beauty mark at viewer-right mouth corner, no earrings, smooth bare ears, same round wristwatch. Same adult full upper torso, slim waist, long legs and small mature head proportion. New date pose B: her tan handbag is held with both long adult hands at the FRONT of her lower waist, elbows gently bent and wrists not crossed; feet comfortably near parallel with one a small step forward; relaxed shoulders toward viewer. No hand on hip and no handbag hanging at one side. Preserve EXACT berry-wine wrap midi dress, three-quarter sleeves and cuffs, waist tie, flared hem, black gold-bar flat loafers, bag hardware/short handles, wristwatch, bare ears. Same expression and face orientation as image 1. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0f03d6c3-b26f-4a1c-8b6d-9ba58f11ad4e.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_date_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_date_b_2x.png",
+      "source_size": [
+        1024,
+        1535
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "a093d1ce4e5b77e30fa9c5136aa6e1b6602e1fc3118dbd96ae4d678467630e7c",
+      "output_sha256": "95fe76303b9dd6511b0a3c81234323acbfe3cbfbfbd5d6cd261da58ae864b1d0",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 15.92
+    },
+    {
+      "id": "ria_daily_a",
+      "who": "ria",
+      "kind": "daily_a",
+      "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\ria_casual_outfit_pose_v001.png",
+      "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. Supplied image is the immutable identity/body/art-style reference for Kang Ria, a 27-year-old adult Korean woman. Preserve her exact familiar face, bright turquoise eyes, blonde high ponytail with the same loose curled side locks, natural peach skin color, adult body proportions and long legs, the same small delicate thin GOLD OVAL HOOP earrings with clear open inner spaces and smooth ear lobes, no fused skin protrusions. Match precisely the reference's polished anime visual-novel linework, hair rendering, soft fabric shading and restrained highlights. Change only outfit and pose. Outfit: cream casual zip hoodie worn open, fitted muted mint T-shirt underneath (fully opaque), high-waisted medium-blue straight jeans, clean white low-top sneakers. Hoodie and jeans have believable cloth folds, no logos. Pose: energetic friendly off-duty wave, one hand raised beside and slightly above her head with clearly separated relaxed long adult fingers, the other hand in her front jeans pocket; torso turned a little toward the viewer, one knee bent with that heel lightly raised, balanced plausible stance. Warm modest smile, lively but not exaggerated or giant open mouth. No coffee cup, no formal pencil skirt, no ankle-strap heels, no bag or extra prop. SINGLE standing heroine, crown to both entire shoes visible with generous margins, centered in portrait canvas, neutral even light. Genuine transparent alpha background without any scenery, shadow, glow, dark aura, colored fringe, text, labels, logos or watermark. Do not redesign her identity, hair, body scale, skin hue or illustration style. This is a VN illustration, NOT a photorealistic photo.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png"
+      ],
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_daily_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_daily_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "dcb6938800e84c8d76fed7c87ecd42f9e31676f586ad5db9145dee8a9c9139b5",
+      "output_sha256": "309683bb50f173b80d90382b16090def11b5713cd46f2f682ab47212db6de1d8",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 18.6
+    },
+    {
+      "id": "ria_daily_b",
+      "who": "ria",
+      "kind": "daily_b",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Kang Ria, an ADULT age 27. Exact familiar face, turquoise eyes, blonde high ponytail with loose curls, ONE thin open gold oval hoop per visible ear, no fleshy protrusions. Preserve adult torso/waist/long-leg proportions and a friendly modest smile; do not exaggerate mouth or eyes. Change ONLY pose. Exact cream open zip hoodie, muted mint opaque tee, same medium-blue jeans including pockets, buttons and seams, white low-top sneakers, same hoop earrings and ponytail. New pose B: both elbows low, hands lightly holding the two lower open hoodie edges near her waist with relaxed long fingers; both feet on the ground, comfortable stance with a slight torso turn and small head tilt. No raised wave, no lifted leg, no bag, cup or new accessory. Keep her existing friendly face and mouth shape close to reference.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\ria_casual_outfit_pose_v001.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-439bc4ff-a084-4dd8-b4fd-b790d3d18dc6.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_daily_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_daily_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "2809ad25f52c0bfb823567f074b7b671b6dd11d510f66780087778f742f3ffa0",
+      "output_sha256": "e9e1776bfd286b8d71da2fadc2c1ccdd9d485efe8fbed1a010da1b2eb2665e95",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 20.74
+    },
+    {
+      "id": "ria_date_a",
+      "who": "ria",
+      "kind": "date_a",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Kang Ria, an ADULT age 27. Exact familiar face, turquoise eyes, blonde high ponytail with loose curls, ONE thin open gold oval hoop per visible ear, no fleshy protrusions. Preserve adult torso/waist/long-leg proportions and a friendly modest smile; do not exaggerate mouth or eyes. One dressed-up off-duty date outfit: WARM CORAL sleeveless fit-and-flare dress with wrap-like waist detail and tasteful above-knee hem, opaque fabric, IVORY cropped cardigan worn OPEN, WHITE FLAT delicate strap sandals with no heel, a small rounded IVORY crossbody bag with thin matching strap. Keep the same thin gold oval hoops and blonde ponytail. No office skirt, no hoodie, no jeans. Date pose A: one hand rests lightly on her hip, other hand holds the crossbody strap near one shoulder; comfortably turned toward viewer, feet close but not crossed, warm restrained friendly smile. Long natural adult fingers. No wave.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\ria_casual_outfit_pose_v001.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-bcd3a22f-5e6a-4add-a0fb-e5acb6e1f5ba.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_date_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_date_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "7c7ab55f8e56c7f32c0d88bb2280b694334377a38bee066395cbeb0022104d27",
+      "output_sha256": "7ba19a4a2ccc3b2f871a466697b43ccf0f00dd76a2f8637cf96ae6ff03d3b5d5",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 18.81
+    },
+    {
+      "id": "ria_date_b",
+      "who": "ria",
+      "kind": "date_b",
+      "references": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-bcd3a22f-5e6a-4add-a0fb-e5acb6e1f5ba.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Kang Ria, an ADULT age 27. Exact familiar face, turquoise eyes, blonde high ponytail with loose curls, ONE thin open gold oval hoop per visible ear, no fleshy protrusions. Preserve adult torso/waist/long-leg proportions and a friendly modest smile; do not exaggerate mouth or eyes. New date pose B: both hands rest naturally BEHIND her back, shoulders relaxed, torso leans forward only VERY slightly as if listening warmly; grounded adult stance with one knee a little relaxed, no childish inward-knee exaggeration; the SAME ivory crossbody bag remains hanging at her hip from its strap. No raised wave, no hand on hip, no holding strap at shoulder. Keep exact coral dress, wrap waist bow, skirt hem, open cropped ivory cardigan including buttons/cuffs, white flat sandals, all earrings and hair. Preserve friendly adult proportions and restrained original smile. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-2ff39fd8-5d61-4b56-932b-0c8a4d83f9c7.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_date_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_date_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "7b12def7524ae2cc8f7f984bda295a4c2e0a1f5f6ad719bf674a89ef27a5a61c",
+      "output_sha256": "0c32d43f96c64afa1bf1b53ef9d91ed94290429f874ad43b2022c86eed9daacb",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 24.54
+    },
+    {
+      "id": "yujin_daily_a",
+      "who": "yujin",
+      "kind": "daily_a",
+      "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png",
+      "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. Supplied image is the immutable identity/body/art-style reference for Cha Yujin, a 32-year-old adult Korean woman. Preserve her exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, natural peach skin hue, adult curvy torso, slim waist and long legs; preserve the same delicate gold connector and SINGLE gold teardrop earring on each visible ear, smooth anatomically normal ear lobes, no extra jewelry or flesh bumps. Match exactly the reference's elegant clean anime VN linework, glossy but finely shaded hair, controlled soft skin and fabric rendering. Change only outfit and pose. Outfit: relaxed dusty-mauve fine-knit boat-neck sweater with long sleeves loosely pushed to her forearms, fitted neatly at the waist without childish oversized proportions, charcoal high-waisted wide-leg trousers, burgundy flat ballet shoes. No office burgundy dress or high heels. Pose: thoughtful casual three-quarter stance, one hand naturally tucking a loose hair strand behind her ear without obscuring the face, other arm hanging naturally with hand holding the short handles of a small plain cream canvas tote beside her thigh. Slight gentle tilt of head, reserved closed-mouth smile, comfortable adult poise; this is NOT the office chin-touch / crossed-arm pose. Fingers long enough, individually defined, anatomically correct; earrings remain visible and distinct from skin. One SINGLE sprite, whole crown and both entire shoes in frame with comfortable margins; centered portrait canvas; neutral even lighting. Genuine transparent alpha background; no scenery, floor shadow, glow, dark aura, colored fringing, text, logo or watermark. Lock her face identity, hairstyle, body scale and skin hue. Visual novel illustration, NOT a photorealistic photo.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png"
+      ],
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_daily_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_daily_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "d82557736e42113c7ba273bec283c738fe4b30da7cfff9870b07ec9471e1e105",
+      "output_sha256": "9c9511fb2137d12e65a086211015f425c7152ec7542c43b582ec076cd863e141",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 20.84
+    },
+    {
+      "id": "yujin_daily_b",
+      "who": "yujin",
+      "kind": "daily_b",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Cha Yujin, an ADULT age 32. Exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, gold connector with ONE small gold teardrop pendant per visible ear, smooth ears. Same adult body, long legs and subtle closed-lip smile. Change ONLY pose. Exact dusty-mauve boat-neck long-sleeve fine-knit sweater with sleeves pushed to forearms, charcoal wide-leg high-waisted trousers, burgundy ballet flats, plain cream canvas tote. New pose B: both arms lowered naturally in front, hands gently holding the tote handles together below her waist; shoulders at a slight three-quarter angle, feet naturally parallel, quietly attentive expression. Do not tuck hair or raise a hand to her face. Preserve all clothing colors, material grain, bag proportions, earrings and long hair.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f71e1caf-1e54-4fc5-85e9-f31d119232b4.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_daily_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_daily_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "0ed5e78ea5adf8cf7769e82a1387b8af92bcd8b0cb4bb7a202cbd18116273a0e",
+      "output_sha256": "2b62240678d4fc8e5691c74f7d3c956cf47b3fc7757b7ba9a9234ab3a49223ea",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 19.88
+    },
+    {
+      "id": "yujin_date_a",
+      "who": "yujin",
+      "kind": "date_a",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Cha Yujin, an ADULT age 32. Exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, gold connector with ONE small gold teardrop pendant per visible ear, smooth ears. Same adult body, long legs and subtle closed-lip smile. One dressed-up off-duty date outfit: DEEP TEAL opaque square-neck sleeveless MIDI dress with a softly flowing A-line skirt, fitted at waist; light IVORY cropped cardigan worn OPEN; BURGUNDY FLAT ballet shoes, a small plain BEIGE leather crossbody bag with narrow strap. Preserve exact gold teardrop earrings and very long dark navy hair. Elegant gallery/date look, no office burgundy dress, no new hairstyle. Date pose A: body slightly turned three-quarter away while face gently looks back toward viewer (do not turn head so far that identity changes); one hand loosely rests on crossbody bag at outer hip, other arm relaxed beside skirt; one foot set slightly behind, calm grounded stance. Do not raise hand to hair or face.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-70fafbe4-8f74-499e-a3f4-45e0d92459f0.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_date_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_date_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "b3bda24458958aa968817366c703cfd29697f9d2afda3ed9a76e1a4cce64fbac",
+      "output_sha256": "a0e0a23be1b64718520871726cd4ddfe869d499578c6b4f1675361faedf527f8",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 16.99
+    },
+    {
+      "id": "yujin_date_b",
+      "who": "yujin",
+      "kind": "date_b",
+      "references": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-70fafbe4-8f74-499e-a3f4-45e0d92459f0.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Cha Yujin, an ADULT age 32. Exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, gold connector with ONE small gold teardrop pendant per visible ear, smooth ears. Same adult body, long legs and subtle closed-lip smile. New date pose B: torso faces viewer in a soft three-quarter orientation, one long-fingered hand gently touches the cardigan edge just beside her collarbone (not touching hair or face), other hand naturally rests over the SAME beige crossbody bag beside her hip; feet planted with one slightly forward, quiet closed-mouth smile. Keep the exact teal square-neck midi dress, open short ivory cardigan with the SAME cuffs/buttons and knit texture, burgundy flat ballet shoes, bag strap/hardware, gold teardrop earrings and navy-black long hair. Not the look-back walking stance of image 1. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-77511f0a-ac82-4121-aeb2-29dca3ad3534.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_date_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_date_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "42f9bfaaf2041a66cf67c22abe8c28572cde4fe24b0c25f59284bb92a3d89607",
+      "output_sha256": "d4203ec3a1c5ae2b8a490961830be014183ff24d17f74b01da10e0a771388cf9",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 16.39
+    },
+    {
+      "id": "jihyun_daily_a",
+      "who": "jihyun",
+      "kind": "daily_a",
+      "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\jihyun_casual_outfit_pose_v001.png",
+      "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. Supplied image is the immutable identity/body/art-style reference for Baek Jihyun, a 36-year-old adult Korean woman. Preserve her exact familiar mature face, brown eyes, short black side-parted bob with the same shape, natural peach skin hue, adult body proportions, long legs, small adult head relative to height, SINGLE small ivory rounded-triangle pearl stud earring at each visible ear with no fused skin bump, and silver wristwatch. Match the reference's polished anime VN linework, silky subtle hair highlights, soft carefully controlled skin and cloth shading. Change only clothing and pose. Outfit: simple fitted black fine-knit mock-neck long-sleeve top, medium-light stone-gray straight-leg jeans, clean white low-top sneakers. Off-duty casual look, clearly different from the black office suit and pencil skirt. A lightweight muted slate-blue casual jacket is folded naturally over one forearm, not worn as an office blazer. Pose: relaxed slight three-quarter walking pause, one hand resting naturally in the front jeans pocket, the opposite forearm holding the folded jacket by her side; one foot half a step ahead; shoulders relaxed, chin level, restrained small closed-mouth smile. No crossed arms, no paper pointing, no hands clasped at the waist. Hands and visible fingers adult-sized, long, cleanly defined and anatomically correct. SINGLE heroine full body, crown and both entire shoes visible with comfortable margins in a centered portrait canvas, neutral even lighting. Genuine transparent alpha background, no scenery, no floor shadow, no glow, no dark aura, no colored fringe, no text/logo/watermark. Do not alter identity, haircut, skin hue or body proportions. Visual novel illustration, NOT a photorealistic photo.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_daily_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_daily_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "e483580b77c644e1b87662f9bb91b8017c072407b05d7dcc001ba57963859f80",
+      "output_sha256": "8433812b195babbcff2049ccce2a879c437dcd21a121d6707fa8f5e78eb9e876",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 14.89
+    },
+    {
+      "id": "jihyun_daily_b",
+      "who": "jihyun",
+      "kind": "daily_b",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Baek Jihyun, an ADULT age 36. Exact familiar mature face, brown eyes, black side-parted bob, ONE small ivory rounded-triangle pearl stud per visible ear, smooth ears, silver wristwatch. Same adult figure and long legs, relaxed restrained closed-mouth smile. Change ONLY pose/layer wearing position. Preserve the EXACT black mock-neck fine-knit top, stone-gray straight jeans, white low-top sneakers, silver wristwatch and the SAME slate-blue casual jacket from image 1. In pose B she WEARS that same jacket open, with collar/buttons/cuffs matching the folded jacket, not a new design. One hand lightly holds an open jacket edge near her waist and the other arm hangs relaxed by her side; both feet planted, shoulders relaxed toward the viewer. No walking/crossed-leg stance, no hand in jeans pocket, no office blazer. Exact face and hair unchanged.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\jihyun_casual_outfit_pose_v001.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-7ec0b2dc-875e-4e1a-9e6a-71fa6f55e222.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_daily_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_daily_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "196e9616dd4f20a3defe01b9cbf4fbb154d45e8fd51839573d6e14099b63b239",
+      "output_sha256": "6d1417a4e458fd12d448e817b9bffd36cffdd5a911450a9f6ad60eefb8a45724",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 14.34
+    },
+    {
+      "id": "jihyun_date_a",
+      "who": "jihyun",
+      "kind": "date_a",
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Baek Jihyun, an ADULT age 36. Exact familiar mature face, brown eyes, black side-parted bob, ONE small ivory rounded-triangle pearl stud per visible ear, smooth ears, silver wristwatch. Same adult figure and long legs, relaxed restrained closed-mouth smile. One dressed-up off-duty date outfit: IVORY fitted fine-knit mock-neck top, NAVY high-waisted wide-leg ankle-length trousers, an open CAMEL lightweight trench-style coat with clean lapels and waist belt hanging naturally, BLACK FLAT ankle boots. Preserve silver watch and same tiny ivory triangle pearl studs. This is relaxed polished date clothing, not the black office suit. No heels, no necktie or clipboard. Date pose A: one hand relaxed in a coat pocket, other lightly touches the coat lapel near collarbone; body three-quarter toward viewer, feet planted with one toe slightly outward, quiet small closed-mouth smile. No walking pose and no folded jacket carried.",
+      "references": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\jihyun_casual_outfit_pose_v001.png"
+      ],
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-650d23c2-5d63-4d17-bfa8-ea5dc0389736.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_date_a.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_date_a_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "549094c5ecb8ff83535547084e439423f534b6152ca093e7242ee60c415a0abf",
+      "output_sha256": "6281ef2c68ec5270ce402845183d650e9d233e70fe66db7b00fdd356c9411c25",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 14.8
+    },
+    {
+      "id": "jihyun_date_b",
+      "who": "jihyun",
+      "kind": "date_b",
+      "references": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-650d23c2-5d63-4d17-bfa8-ea5dc0389736.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Baek Jihyun, an ADULT age 36. Exact familiar mature face, brown eyes, black side-parted bob, ONE small ivory rounded-triangle pearl stud per visible ear, smooth ears, silver wristwatch. Same adult figure and long legs, relaxed restrained closed-mouth smile. New date pose B: both forearms form a LOOSE LOW fold in front of her lower rib cage/waist, one hand resting lightly on the opposite forearm rather than a tightly defensive chest cross; shoulders easy, standing facing viewer with both feet planted. The SAME camel trench stays OPEN with its existing lapels/belt; exact ivory fitted mock-neck knit, navy wide-leg trousers, same black ankle boots and silver watch, same pearl studs. No coat-pocket hand, no hand holding lapel, no carried or new coat. Keep original calm closed-mouth smile and exact mature face. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+      "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c352fac1-39b3-4a43-ad69-81df3efe192c.png",
+      "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_date_b.png",
+      "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_date_b_2x.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "normalized_size": [
+        1024,
+        1536
+      ],
+      "normalized_offset": [
+        0,
+        0
+      ],
+      "output_size": [
+        2048,
+        3072
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_matches_normalized_source_2x": true,
+      "source_sha256": "3aa7138017b632f173eae703f941ea645f29b2d360d116b87f5532799e66906b",
+      "output_sha256": "ff6fae577a903caff8d72d575a69ae0f00468ebcb1f63fa7f4db64153d685ece",
+      "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+      "seconds": 15.0
+    }
+  ],
+  "upscale_tool": "local Real-ESRGAN NCNN Vulkan general x4plus GPU 1",
+  "target_size": [
+    2048,
+    3072
+  ],
+  "status": "candidate sprites; not registered in game",
+  "originals_unchanged": true,
+  "alpha_verified": true
+}

@@ -1,0 +1,86 @@
+{
+  "story_unchanged": true,
+  "poses": [
+    {
+      "who": "ria",
+      "pose": "listening",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/ria_poses/listening.png"
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/ria_poses/explaining.png"
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/ria_poses/casual.png"
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3070
+      ],
+      "path": "images/characters/seoyun_poses/work.png"
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3070
+      ],
+      "path": "images/characters/seoyun_poses/casual.png"
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/yujin_poses/work.png"
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/yujin_poses/casual.png"
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/jihyun_poses/work.png"
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "path": "images/characters/jihyun_poses/casual.png"
+    }
+  ]
+}

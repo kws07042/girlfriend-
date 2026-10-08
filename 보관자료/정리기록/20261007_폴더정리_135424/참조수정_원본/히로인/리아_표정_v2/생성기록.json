@@ -1,0 +1,24 @@
+[
+  {
+    "expression": "smile",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-4f3a9761-3c15-4f29-8f88-d7f795e13e0f.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\업스케일\\강리아_미소_2x_v2.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_expressions\\smile.png",
+    "recipe": "original 60% + Real-ESRGAN general 40%",
+    "size": [
+      2048,
+      3072
+    ]
+  },
+  {
+    "expression": "surprised",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-39d4fc8d-3b24-4b89-8ccb-7a2ee55b6d40.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\업스케일\\강리아_놀람_2x_v2.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_expressions\\surprised.png",
+    "recipe": "original 60% + Real-ESRGAN general 40%",
+    "size": [
+      2048,
+      3072
+    ]
+  }
+]

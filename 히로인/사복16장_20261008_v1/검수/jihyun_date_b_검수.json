@@ -1,0 +1,38 @@
+{
+  "id": "jihyun_date_b",
+  "who": "jihyun",
+  "kind": "date_b",
+  "references": [
+    "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-650d23c2-5d63-4d17-bfa8-ea5dc0389736.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+  ],
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Baek Jihyun, an ADULT age 36. Exact familiar mature face, brown eyes, black side-parted bob, ONE small ivory rounded-triangle pearl stud per visible ear, smooth ears, silver wristwatch. Same adult figure and long legs, relaxed restrained closed-mouth smile. New date pose B: both forearms form a LOOSE LOW fold in front of her lower rib cage/waist, one hand resting lightly on the opposite forearm rather than a tightly defensive chest cross; shoulders easy, standing facing viewer with both feet planted. The SAME camel trench stays OPEN with its existing lapels/belt; exact ivory fitted mock-neck knit, navy wide-leg trousers, same black ankle boots and silver watch, same pearl studs. No coat-pocket hand, no hand holding lapel, no carried or new coat. Keep original calm closed-mouth smile and exact mature face. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c352fac1-39b3-4a43-ad69-81df3efe192c.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_date_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_date_b_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "3aa7138017b632f173eae703f941ea645f29b2d360d116b87f5532799e66906b",
+  "output_sha256": "ff6fae577a903caff8d72d575a69ae0f00468ebcb1f63fa7f4db64153d685ece",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 15.0
+}

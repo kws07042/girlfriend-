@@ -1,61 +1,22 @@
-# 히로인 MASTER · 포즈 · 사진
+# 현재 히로인 이미지
 
-2026-10-07 현재 프로젝트에서 사용하는 이미지 모음입니다. 비교 미리보기 아래에서 원본 PNG를 각각 열 수 있습니다.
+## 승인 MASTER
 
-- 게임용 MASTER 4장 + 추가 포즈 9장
-- 휴대폰 프로필 사진 4장 + 리아 카페 셀카 1장
-- 승인 MASTER 원화 4장과 비교 미리보기 4장
+- [한서윤](한서윤_seoyun_MASTER.png)
+- [강리아](강리아_ria_MASTER.png)
+- [차유진](차유진_yujin_MASTER.png)
+- [백지현](백지현_jihyun_MASTER.png)
 
-이번 업데이트는 이미지 자료입니다. 게임 코드·스토리의 전체 동기화와는 별개입니다.
+## 최신 후보 세트
 
-## 한서윤
+[표정 24장 · 귀걸이 통일 v2](표정24장_귀걸이통일_20261007_v2/README.md)
 
-![한서윤 포즈 비교](previews/seoyun_preview.jpg)
+[24장 + MASTER 묶음 ZIP](표정24장_귀걸이통일_20261007_v2/히로인_표정24장_귀수정.zip)
 
-[승인 MASTER 원화](한서윤_seoyun_MASTER.png)
+이 세트의 새 진지 표정은 게임에 연결하지 않은 후보입니다. 현재 실행 이미지는 RenPy_게임/game/images/characters에 있습니다. 승인 MASTER·업무·편한 대화 포즈와 리아의 듣는 포즈를 사용합니다.
 
-| MASTER | 업무 | 편한 대화 |
-| --- | --- | --- |
-| ![한서윤 MASTER](../RenPy_게임/game/images/characters/seoyun_master.png) | ![한서윤 업무](../RenPy_게임/game/images/characters/seoyun_poses/work.png) | ![한서윤 편한 대화](../RenPy_게임/game/images/characters/seoyun_poses/casual.png) |
+이전 생성·표정·업스케일·재설계 자료는 [보관자료](../보관자료/README.md)에 남겼습니다. 서윤의 승인 원화 보존 과정과 Live2D 준비 자료는 [원본자료](../원본자료/README.md)에 있습니다. 보관은 폐기를 뜻하지 않습니다.
 
-## 강리아
+- [사복 16장 후보와 업스케일](사복16장_20261008_v1/README.md) — 일상복/외출복 각 2포즈, 2048×3072.
 
-![강리아 포즈 비교](previews/ria_preview.jpg)
-
-[승인 MASTER 원화](강리아_ria_MASTER.png)
-
-| MASTER | 설명 | 편한 대화 | 듣는 자세 |
-| --- | --- | --- | --- |
-| ![강리아 MASTER](../RenPy_게임/game/images/characters/ria_master.png) | ![강리아 설명](../RenPy_게임/game/images/characters/ria_poses/explaining.png) | ![강리아 편한 대화](../RenPy_게임/game/images/characters/ria_poses/casual.png) | ![강리아 듣는 자세](../RenPy_게임/game/images/characters/ria_poses/listening.png) |
-
-## 차유진
-
-![차유진 포즈 비교](previews/yujin_preview.jpg)
-
-[승인 MASTER 원화](차유진_yujin_MASTER.png)
-
-| MASTER | 업무 | 편한 대화 |
-| --- | --- | --- |
-| ![차유진 MASTER](../RenPy_게임/game/images/characters/yujin_master.png) | ![차유진 업무](../RenPy_게임/game/images/characters/yujin_poses/work.png) | ![차유진 편한 대화](../RenPy_게임/game/images/characters/yujin_poses/casual.png) |
-
-## 백지현
-
-![백지현 포즈 비교](previews/jihyun_preview.jpg)
-
-[승인 MASTER 원화](백지현_jihyun_MASTER.png)
-
-| MASTER | 업무 | 편한 대화 |
-| --- | --- | --- |
-| ![백지현 MASTER](../RenPy_게임/game/images/characters/jihyun_master.png) | ![백지현 업무](../RenPy_게임/game/images/characters/jihyun_poses/work.png) | ![백지현 편한 대화](../RenPy_게임/game/images/characters/jihyun_poses/casual.png) |
-
-## 휴대폰 프로필 사진
-
-| 서윤 | 리아 | 유진 | 지현 |
-|---|---|---|---|
-| ![한서윤 프로필](../RenPy_게임/game/images/phone/seoyun_profile_v001.png) | ![강리아 프로필](../RenPy_게임/game/images/phone/ria_profile_v001.png) | ![차유진 프로필](../RenPy_게임/game/images/phone/yujin_profile_v001.png) | ![백지현 프로필](../RenPy_게임/game/images/phone/jihyun_profile_v001.png) |
-
-## 리아 카페 셀카
-
-![리아 카페 셀카](../RenPy_게임/game/images/cg/ria_cafe_cg_v001.png)
-
-PNG는 원본 파일 그대로 업로드했습니다. 비교 미리보기만 보기 쉽게 축소·배치했습니다. 크기와 체크섬은 [파일 목록](images_manifest.json)에 있습니다.
+- [MASTER·현재 포즈·휴대폰 사진 모음](이미지목록.md)

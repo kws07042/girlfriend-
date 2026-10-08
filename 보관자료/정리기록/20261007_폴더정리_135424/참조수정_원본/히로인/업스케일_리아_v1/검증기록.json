@@ -1,0 +1,20 @@
+{
+  "character": "강리아",
+  "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\강리아_ria_MASTER.png",
+  "source_sha256": "5318f541b52e44588cb23f4407735a617ea43b2ac986aa16099ce5b31c14e368",
+  "source_unchanged": true,
+  "original_size": [
+    1024,
+    1536
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_matches_original_resized": true,
+  "device": "RTX 3060 Laptop Vulkan device 1",
+  "natural_recipe": "Real-ESRGAN x4plus 4x -> Lanczos 2x; original Lanczos RGB 60% + SR RGB 40%; original resized alpha",
+  "sharp_recipe": "Real-ESRGAN x4plus-anime 4x -> Lanczos 2x; original resized alpha",
+  "cloud_credits_used": 0,
+  "output_folder": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1"
+}

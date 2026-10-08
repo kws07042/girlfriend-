@@ -1,0 +1,766 @@
+{
+  "generation_tool": "built-in image_gen imagegen",
+  "upscaler": "Real-ESRGAN ncnn Vulkan / general model",
+  "items": [
+    {
+      "who": "ria",
+      "name": "강리아",
+      "key": "listening",
+      "label": "커피내리고듣기",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_커피내리고듣기.png",
+      "status": "사용자 채택",
+      "prompt": "이전 생성 채택본: 커피를 든 손을 내리고 진지하게 듣는 포즈.",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_커피내리고듣기_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_커피내리고듣기_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "a142fd276f53d4b4a5ed0259debe468e507cf36a3c120123d0fc10e974e035c3"
+    },
+    {
+      "who": "ria",
+      "name": "강리아",
+      "key": "explaining",
+      "label": "손짓하며설명",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_손짓하며설명.png",
+      "status": "사용자 채택",
+      "prompt": "이전 생성 채택본: 커피를 내려두고 손바닥을 가볍게 펴 설명하는 포즈.",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_손짓하며설명_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_손짓하며설명_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "ea74324008ec7ad6b8d52728e5ebf1b3a5da55b858b4c319bb9866422e34a872"
+    },
+    {
+      "who": "ria",
+      "name": "강리아",
+      "key": "casual",
+      "label": "두손커피_편한대화",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_두손커피_편한대화.png",
+      "status": "사용자 채택",
+      "prompt": "이전 생성 채택본: 커피를 두 손으로 잡고 편하게 대화하는 포즈.",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_두손커피_편한대화_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_두손커피_편한대화_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "707d31ce0cfb19146a9baf4506529a4391a647cfb621809a6bc024356955fc26"
+    },
+    {
+      "key": "work",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+      "source_sha256": "f10982b9112d9e2e7e3e98973b024ee84abe0d837a881e1a3e1cc79650030b1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_work_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        13,
+        12
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 536.063829787234
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1083,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "f13a3dc0cea2aba6a133c39b69171d7b7a8ce0f32fc6e3ce8c1b9feeb0c83c07",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\work_귀국소수정_정규화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_귀국소수정_원화보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "upscale_protected_rect": [
+        1097,
+        247,
+        1191,
+        344
+      ],
+      "upscale_outside_ear_changed_pixels": 0,
+      "upscale_alpha_changed_pixels": 0,
+      "upscaled_sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990",
+      "upscale_method": "Lanczos 2x only; no generated texture or colour filter",
+      "who": "seoyun",
+      "name": "한서윤",
+      "label": "태블릿 설명 / 성인 손 비율",
+      "status": "승인 원화 복구 / 귀 국소 수정 / 원화 보존 업스케일 / 인게임 적용",
+      "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A composed experienced professional explaining something gently. Her left forearm supports a slim matte dark tablet held vertically close against the left side of her ribcage, its top below her bust. Left hand wraps around the tablet's lower side with a visibly LONG adult thumb and clear natural long fingers; the tablet must not hide all finger anatomy. Right forearm bends low beside her waist, right palm angled partly upward toward the listener in a small conversational gesture, with relaxed gracefully separated long fingers and visible knuckles. The open hand is comfortably sized and readable, no clenched fist and no pointing index. Elbows close, shoulders relaxed, upright slight three-quarter torso, feet stable rather than crossed. Keep EXACT approved head/face orientation and the subtle closed-mouth confident smile, no mouth opening, no teeth, no lip-sync. No pen, cup or other props. This is a distinct work-conversation pose, while maintaining the MASTER's anatomy and drawing style.",
+      "supersedes": {
+        "key": "work",
+        "filename": "한서윤_work_귀돌기완전제거_최종원화.png",
+        "refs": [
+          "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c03779af-978b-4eef-baf0-ba2a6f4ac81c.png"
+        ],
+        "prompt": "Use case: precise-object-edit. ONLY erase the entire EARRING and white protruding lump on the lower visible ear of this illustration. The visible ear must be COMPLETELY BARE with no jewelry, no pearl, no stud, no white dot, no metallic line, no gem, no piercing hole. At the earlobe around x=570 y=147 on this 1024x1536 image, replace every white rounded bead and thick pale/skin-colored bulge with natural peach EAR SKIN. Draw the lower earlobe as a smooth small natural contour continuous with the upper ear, without a round knob, white highlight ball or swollen extra flap. NO WHITE PATCH OR DOT ON THE LOWER EARLOBE. Only a subtle normal skin shadow is permitted; keep pearl-white highlights OFF the lower lobe. Do not change the upper cartilage or the brown hair. Preserve the entire rest of the image faithfully: mature face identity, eye makeup, closed berry lips, mole beside mouth, nose and jaw, bun, proportions and height, every finger and long adult hand, body, tablet pose, clothing, colours, watch and black loafers. The user explicitly marked this protruding white earlobe shape for removal. NO replacement earring of ANY kind. This is a jewelry/ear-bulb removal, not a face or body redesign. Return a complete full-body 1024x1536 transparent-alpha image including head and both complete shoes. Same clean anime VN style; no background, gradient, halo, floor shadow, checkerboard, circles, text, panels, labels or watermark. Maintain the work pose.",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0678d930-5771-404c-b57f-b4147efe3c78.png",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_귀돌기완전제거_최종원화.png",
+        "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_귀돌기완전제거_최종원화.png",
+        "normalization": {
+          "uniform_scale": 1.002650762094102,
+          "offset": [
+            -2,
+            -1
+          ],
+          "normalized_canvas": [
+            1024,
+            1535
+          ],
+          "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+        },
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_귀돌기완전제거_최종원화_2x_원화보존.png",
+        "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+        "dimensions": [
+          2048,
+          3070
+        ],
+        "alpha_preserved": true,
+        "source_sha256": "fbfa2774ed77a5d68a5ae33d804f356d4c90baad67569ae5ac2d23929f9d03b2",
+        "upscaled_sha256": "5169065486b50c7c442621a0e44ab37586fa19457487560f3f7cc791bde75095",
+        "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+        "who": "seoyun",
+        "name": "한서윤",
+        "label": "태블릿 설명 / 성인 손 비율",
+        "status": "사용자 채택 MASTER / 귀 돌기 최종 수정 / 포즈 적용",
+        "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A composed experienced professional explaining something gently. Her left forearm supports a slim matte dark tablet held vertically close against the left side of her ribcage, its top below her bust. Left hand wraps around the tablet's lower side with a visibly LONG adult thumb and clear natural long fingers; the tablet must not hide all finger anatomy. Right forearm bends low beside her waist, right palm angled partly upward toward the listener in a small conversational gesture, with relaxed gracefully separated long fingers and visible knuckles. The open hand is comfortably sized and readable, no clenched fist and no pointing index. Elbows close, shoulders relaxed, upright slight three-quarter torso, feet stable rather than crossed. Keep EXACT approved head/face orientation and the subtle closed-mouth confident smile, no mouth opening, no teeth, no lip-sync. No pen, cup or other props. This is a distinct work-conversation pose, while maintaining the MASTER's anatomy and drawing style.",
+        "supersedes": {
+          "key": "work",
+          "filename": "한서윤_work_최종_얇은스터드_원화.png",
+          "refs": [
+            "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-a70b7d61-d562-4734-9368-3f16e7bbc330.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit only ONE tiny EAR DETAIL in the supplied full-body illustration. The remaining white ROUND PEARL/BALL at the lower visible earlobe MUST BE ERASED COMPLETELY. It still looks like a white swollen protrusion; do not preserve, enhance or shrink a round pearl. REMOVE THE ROUND WHITE BALL AND ITS BULGING FLESH RING. Draw a smooth normal flat earlobe outline with NO lump at its lower edge. For the jewelry, use only a very small, thin, nearly flat SILVER BAR STUD (a short delicate metallic line), lying INSIDE the front surface of the earlobe a little above the bottom rim. NO circles, spheres, pearls, round white dots, beads, thick metal mounts, dangling ornaments or protruding shapes. This tiny bar should not project outside the ear silhouette. Keep all the rest of the approved sprite faithfully unchanged: exact mature face, eye makeup, beauty mark next to mouth, closed lips, brown bun, head/body/leg proportions, bust/waist/hips, hands and long fingers, tablet pose, clothing and colours, watch and loafers, clean anime VN linework and all shadows. Return the FULL 1024x1536 head-to-shoes image with complete shoes and hair, not a close-up. Actual transparent alpha background, no halo, gradient, backdrop, floor shadow or checkerboard. No red marks, annotations, text or panels. Only erase the small swollen-looking round pearl at roughly x=570/y=145, and add the thin flat bar stud inside the smoothly repaired ear. Keep this work pose and every finger exactly.",
+          "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c03779af-978b-4eef-baf0-ba2a6f4ac81c.png",
+          "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_최종_얇은스터드_원화.png",
+          "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_최종_얇은스터드_원화.png",
+          "normalization": {
+            "uniform_scale": 1.003315649867374,
+            "offset": [
+              -2,
+              -1
+            ],
+            "normalized_canvas": [
+              1024,
+              1535
+            ],
+            "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+          },
+          "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_최종_얇은스터드_원화_2x_원화보존.png",
+          "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+          "dimensions": [
+            2048,
+            3070
+          ],
+          "alpha_preserved": true,
+          "source_sha256": "46ac8c2ae16d94673241805006ecee3123bf0f2866e21b60d1826caaf961492f",
+          "upscaled_sha256": "b240a24f9149dbd0cf001ca6848a7fa63d584423abc686e03fa9d621b69a1276",
+          "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+          "who": "seoyun",
+          "name": "한서윤",
+          "label": "태블릿 설명 / 성인 손 비율",
+          "status": "사용자 채택 MASTER / 귀 돌기 최종 수정 / 포즈 적용",
+          "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A composed experienced professional explaining something gently. Her left forearm supports a slim matte dark tablet held vertically close against the left side of her ribcage, its top below her bust. Left hand wraps around the tablet's lower side with a visibly LONG adult thumb and clear natural long fingers; the tablet must not hide all finger anatomy. Right forearm bends low beside her waist, right palm angled partly upward toward the listener in a small conversational gesture, with relaxed gracefully separated long fingers and visible knuckles. The open hand is comfortably sized and readable, no clenched fist and no pointing index. Elbows close, shoulders relaxed, upright slight three-quarter torso, feet stable rather than crossed. Keep EXACT approved head/face orientation and the subtle closed-mouth confident smile, no mouth opening, no teeth, no lip-sync. No pen, cup or other props. This is a distinct work-conversation pose, while maintaining the MASTER's anatomy and drawing style.",
+          "supersedes": {
+            "key": "work",
+            "filename": "한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+            "refs": [
+              "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-aaa64fdc-bc3f-4445-9ab3-19b44faa54c4.png"
+            ],
+            "prompt": "Use case: precise-object-edit. Asset type: FULL-BODY transparent Han Seoyun sprite, tiny local correction to visible EAR. The user marked the rounded protruding bulb at the lower earlobe/earring location and says this bulge must be REMOVED. Edit only this small spot near normalized image position x=0.56, y=0.094 (approximately x=570, y=145 on a 1024x1536 canvas). REMOVE the rounded flesh/white bulb-like protrusion and thick swollen-looking ring at the bottom outside edge of her visible ear. Reconstruct a smooth natural continuous EARLOBE OUTLINE without a separate dangling skin knob, extra flap, skin island or blob. Keep the ear contour small and anatomically plausible. Use a TINY almost-flat ivory/silver stud lying on the front surface INSIDE the ear outline, placed a little above the lower rim, with a delicate grey outline and pinpoint glint so it is distinguishable from skin. The stud must NOT protrude beyond the ear contour as a rounded ball. Do NOT enlarge a pearl, add a thick backing or add a dangling earring. Avoid a puffy skin ring or large dark spot. Preserve all other aspects EXACTLY: approved mature face/eyes/jaw and closed berry lips, smoky eyeliner, single tiny beauty mark at mouth corner, brown bun/strands, long-body small-head proportions, slim waist/hips and full clothed upper torso, precise pose and all natural long adult hands/fingers, tablet, blue/ivory/taupe clothes/colors/folds, silver watch, black loafers and full canvas placement. No face restyling, no body changes and no hand redraw. Preserve clean anime VN linework, coherent original skin shading and actual transparent alpha. Return the complete 1024x1536 portrait FULL-BODY IMAGE including all hair and both whole shoes, NOT an ear close-up, crop, collage or comparison. No red marks, circles or annotations, no labels or watermark, no backdrop, halo, gradient, checkerboard or floor shadow. This is removal of a tiny visible protrusion in an approved illustration. Keep the work pose.",
+            "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-a70b7d61-d562-4734-9368-3f16e7bbc330.png",
+            "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+            "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+            "normalization": {
+              "uniform_scale": 1.002650762094102,
+              "offset": [
+                -2,
+                0
+              ],
+              "normalized_canvas": [
+                1024,
+                1535
+              ],
+              "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+            },
+            "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_업무설명_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+            "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+            "dimensions": [
+              2048,
+              3070
+            ],
+            "alpha_preserved": true,
+            "source_sha256": "1ccbac79ff34c02822ca7328e379530f9e40e88c7d611efd90fac884083c51fc",
+            "upscaled_sha256": "f20d587f513460d603256cb11d72e5932ed14ac0e6a6acb6c9a34e953da3a031",
+            "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+            "who": "seoyun",
+            "name": "한서윤",
+            "label": "태블릿 설명 / 성인 손 비율",
+            "status": "사용자 채택 MASTER 기준, 포즈 구현 및 적용",
+            "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A composed experienced professional explaining something gently. Her left forearm supports a slim matte dark tablet held vertically close against the left side of her ribcage, its top below her bust. Left hand wraps around the tablet's lower side with a visibly LONG adult thumb and clear natural long fingers; the tablet must not hide all finger anatomy. Right forearm bends low beside her waist, right palm angled partly upward toward the listener in a small conversational gesture, with relaxed gracefully separated long fingers and visible knuckles. The open hand is comfortably sized and readable, no clenched fist and no pointing index. Elbows close, shoulders relaxed, upright slight three-quarter torso, feet stable rather than crossed. Keep EXACT approved head/face orientation and the subtle closed-mouth confident smile, no mouth opening, no teeth, no lip-sync. No pen, cup or other props. This is a distinct work-conversation pose, while maintaining the MASTER's anatomy and drawing style.",
+            "supersedes": {
+              "key": "work",
+              "file": "exec-c875032d-c899-4ef7-86f6-f44117939858.png",
+              "filename": "한서윤_설명_골반균형_최종_원화.png",
+              "refs": [
+                "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c875032d-c899-4ef7-86f6-f44117939858.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+              ],
+              "prompt": "Use case: identity-preserve. Asset type: final local proportion balancing of approved Han Seoyun full-body transparent game sprite. IMAGE 1 IS THE EDIT TARGET. Images 2-4 are the OTHER THREE GAME HEROINES, used ONLY to check the SAME clean anime VN art style, head/body scale and full-body canvas framing, never to copy their face, clothes or slim body type. The user likes Seoyun's current mature face, full clothed upper torso, slimmer waist and slimmer thighs. Make ONLY a very small pelvis correction: widen the OUTER PELVIC/HIP silhouette about 5-6 percent compared with image 1, mostly the upper-hip region just below the waistband, to improve balance with her substantial bust. Keep the current narrow waist and current thigh thickness, calves, body height and leg length unchanged. Do NOT make all legs heavier or undo the latest waist/thigh slimming. Blend the small upper-hip widening smoothly into the existing slimmer upper thighs; adjust only nearby trouser folds and cardigan outline as necessary. Preserve her exact mature brown-eyed face identity, relaxed eyelids, cheeks and jaw, tiny gently CLOSED-mouth smile (no visible teeth, mouth opening or interior), low brown bun, pearl studs, full upper torso and upper arms, original hands/props and pose. Keep blue blouse/ivory inner/taupe cardigan/ivory trousers, all color values and lighting, silver watch and black loafers with small gold bars. IMPORTANT her drawing must stay precisely in the shared clean-line VN style of the supplied game heroines; no realistic skin or mottled textile rendering. Her standing figure should use the same roughly head-to-shoes scale as the three heroines on the same 1024x1536 vertical canvas, without an oversized head or shortened/chibi legs. Existing Seoyun head/body scale is already close, so use only tiny necessary proportion refinements, do not overhaul her face or stretch legs. Both complete shoes and all hair visible with comparable top/bottom margins to the style references. Preserve her current tablet pose exactly; no cup or new props. Natural adult fingers, no added nubs or merged digits. Genuine transparent alpha background; no gradient, halo, black/white backdrop, floor shadow, checkerboard or colored fringe. One adult woman only; no text, labels, panels, watermark or multiple characters. A restrained pelvic-balance correction to an approved design, not a redesign. Preserve this work pose.",
+              "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-b70eac7f-c0f3-4e76-973f-b44640ed27be.png",
+              "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_설명_골반균형_최종_원화.png",
+              "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_설명_골반균형_최종_원화.png",
+              "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_설명_골반균형_최종_원화_2x_원화보존.png",
+              "normalization": {
+                "uniform_scale": 0.9888888888888889,
+                "offset": [
+                  5,
+                  7
+                ],
+                "normalized_canvas": [
+                  1024,
+                  1535
+                ],
+                "target_silhouette_height_pixels": 1513,
+                "note": "Uniform scale and padding only; no separate head, leg or body stretching."
+              },
+              "dimensions": [
+                2048,
+                3070
+              ],
+              "alpha_preserved": true,
+              "recipe": "Uniform sprite scale/padding, then Lanczos original 60% + Real-ESRGAN general 40%",
+              "source_sha256": "0623c1837c1897b1d7aaf938aa690a48b8f51fb5f200a349e18109580806e529",
+              "upscaled_sha256": "8b6a1b29034eac09c1135bfb3b68b2268c69f96615930aab32bd43da3058476f",
+              "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+              "who": "seoyun",
+              "name": "한서윤",
+              "label": "태블릿을 들고 설명",
+              "status": "사용자 전면 재설계 및 후속 수정 지시에 따라 인게임 적용",
+              "supersedes": {
+                "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+                "prompt": "MASTER의 눈/눈썹/입술 픽셀을 기존 손 수정본에 복원. 얼굴 재생성 없음. 손/몸/의상/투명도 유지.",
+                "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\한서윤_태블릿설명_MASTER눈입복원_v4_2x.png",
+                "source_sha256": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+                "status": "사용자 피드백 반영",
+                "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+                "dimensions": [
+                  2048,
+                  3070
+                ],
+                "who": "seoyun",
+                "correction": "MASTER 눈매와 입술선 복원",
+                "version": 4,
+                "recipe": "Reuse approved 2x MASTER eyes/brows/lips; approved hand correction retained",
+                "face_regions": [
+                  {
+                    "center": [
+                      1022,
+                      230
+                    ],
+                    "feather": 8,
+                    "radii": [
+                      78,
+                      52
+                    ]
+                  },
+                  {
+                    "center": [
+                      908,
+                      266
+                    ],
+                    "feather": 8,
+                    "radii": [
+                      62,
+                      48
+                    ]
+                  },
+                  {
+                    "center": [
+                      1000,
+                      348
+                    ],
+                    "feather": 6,
+                    "radii": [
+                      58,
+                      32
+                    ]
+                  }
+                ],
+                "generation_tool": "No new generation; approved MASTER pixel restoration",
+                "previous": {
+                  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+                  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\한서윤_태블릿설명_손가락수정_v3.png"
+                },
+                "label": "태블릿보며설명",
+                "alpha_preserved": true,
+                "name": "한서윤",
+                "key": "work",
+                "mode": "RGBA",
+                "pixels_changed_outside_face_region": 0,
+                "alpha_changed_pixels": 0,
+                "master_feature_pixels_exact": true,
+                "hand_pixels_unchanged": true,
+                "face_restore_note": "손가락 수정 v3와 원래 얼굴을 유지. MASTER 눈/입 덧붙임 v4는 보관만 함."
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "casual",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+      "source_sha256": "f78cd706375289858db9fd38d993057d009dfa634e4f6adfeb00ab63ae6ef24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_casual_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        11,
+        11
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 626.7936170212766
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1082,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "d2f32c0f25404d0cf6c1a2d3e4153ea73fe49d3a10434a819951c0f93e47fdd6",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\casual_귀국소수정_정규화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_귀국소수정_원화보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "normalization": {
+        "uniform_scale": 1.0059840425531914,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "upscale_protected_rect": [
+        1098,
+        247,
+        1192,
+        344
+      ],
+      "upscale_outside_ear_changed_pixels": 0,
+      "upscale_alpha_changed_pixels": 0,
+      "upscaled_sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+      "upscale_method": "Lanczos 2x only; no generated texture or colour filter",
+      "who": "seoyun",
+      "name": "한서윤",
+      "label": "태블릿 낮게 들기 / 성인 손 비율",
+      "status": "승인 원화 복구 / 귀 국소 수정 / 원화 보존 업스케일 / 인게임 적용",
+      "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A quiet approachable listening pose between work conversations. Both hands support a slim closed matte dark tablet LOW and almost horizontally across the front of her lower waist. Tablet's back faces viewer, upper edge stays near waist rather than blocking chest. The two adult-size hands hold the bottom corners with long natural fingers curving around the edges and thumbs resting on the front-facing edge. Keep fingers readable and gracefully elongated, not short mitten-like hands; fingers may be partly occluded by the tablet but five-digit anatomy must be plausible. Elbows low and relaxed, no high crossed arms, no wrist gripping. Shoulders settle comfortably, slight natural weight shift on one leg, preserve MASTER's current long legs and comparable foot positions. Same mature direct gaze and tiny fully closed-mouth knowing smile, exact makeup and beauty mark. No cup, pen, writing gesture, new clothing or wedding ring. Pose must clearly differ from the neutral MASTER's tablet at one hip and from the work pose's open-hand gesture.",
+      "supersedes": {
+        "key": "casual",
+        "filename": "한서윤_casual_귀돌기완전제거_최종원화.png",
+        "refs": [
+          "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-533d5301-aedc-4e9c-9337-15fd9c058251.png"
+        ],
+        "prompt": "Use case: precise-object-edit. ONLY erase the entire EARRING and white protruding lump on the lower visible ear of this illustration. The visible ear must be COMPLETELY BARE with no jewelry, no pearl, no stud, no white dot, no metallic line, no gem, no piercing hole. At the earlobe around x=570 y=147 on this 1024x1536 image, replace every white rounded bead and thick pale/skin-colored bulge with natural peach EAR SKIN. Draw the lower earlobe as a smooth small natural contour continuous with the upper ear, without a round knob, white highlight ball or swollen extra flap. NO WHITE PATCH OR DOT ON THE LOWER EARLOBE. Only a subtle normal skin shadow is permitted; keep pearl-white highlights OFF the lower lobe. Do not change the upper cartilage or the brown hair. Preserve the entire rest of the image faithfully: mature face identity, eye makeup, closed berry lips, mole beside mouth, nose and jaw, bun, proportions and height, every finger and long adult hand, body, tablet pose, clothing, colours, watch and black loafers. The user explicitly marked this protruding white earlobe shape for removal. NO replacement earring of ANY kind. This is a jewelry/ear-bulb removal, not a face or body redesign. Return a complete full-body 1024x1536 transparent-alpha image including head and both complete shoes. Same clean anime VN style; no background, gradient, halo, floor shadow, checkerboard, circles, text, panels, labels or watermark. Maintain the casual pose.",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-ab2c238d-c0a3-4e54-a83c-d4456f8c199d.png",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+        "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+        "normalization": {
+          "uniform_scale": 1.003315649867374,
+          "offset": [
+            -2,
+            -1
+          ],
+          "normalized_canvas": [
+            1024,
+            1535
+          ],
+          "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+        },
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_귀돌기완전제거_최종원화_2x_원화보존.png",
+        "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+        "dimensions": [
+          2048,
+          3070
+        ],
+        "alpha_preserved": true,
+        "source_sha256": "eb7c0cda176680acdac9842e2a26231a160b647ded3b555190a14a4361e080f1",
+        "upscaled_sha256": "bf6e45c76b4130a04d04acf96be0bed284f5a2a84322b14dcc3477fcc0f8f252",
+        "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+        "who": "seoyun",
+        "name": "한서윤",
+        "label": "태블릿 낮게 들기 / 성인 손 비율",
+        "status": "사용자 채택 MASTER / 귀 돌기 최종 수정 / 포즈 적용",
+        "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A quiet approachable listening pose between work conversations. Both hands support a slim closed matte dark tablet LOW and almost horizontally across the front of her lower waist. Tablet's back faces viewer, upper edge stays near waist rather than blocking chest. The two adult-size hands hold the bottom corners with long natural fingers curving around the edges and thumbs resting on the front-facing edge. Keep fingers readable and gracefully elongated, not short mitten-like hands; fingers may be partly occluded by the tablet but five-digit anatomy must be plausible. Elbows low and relaxed, no high crossed arms, no wrist gripping. Shoulders settle comfortably, slight natural weight shift on one leg, preserve MASTER's current long legs and comparable foot positions. Same mature direct gaze and tiny fully closed-mouth knowing smile, exact makeup and beauty mark. No cup, pen, writing gesture, new clothing or wedding ring. Pose must clearly differ from the neutral MASTER's tablet at one hip and from the work pose's open-hand gesture.",
+        "supersedes": {
+          "key": "casual",
+          "filename": "한서윤_casual_최종_얇은스터드_원화.png",
+          "refs": [
+            "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c3daf60f-58c1-4226-860d-e5f11f02067d.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit only ONE tiny EAR DETAIL in the supplied full-body illustration. The remaining white ROUND PEARL/BALL at the lower visible earlobe MUST BE ERASED COMPLETELY. It still looks like a white swollen protrusion; do not preserve, enhance or shrink a round pearl. REMOVE THE ROUND WHITE BALL AND ITS BULGING FLESH RING. Draw a smooth normal flat earlobe outline with NO lump at its lower edge. For the jewelry, use only a very small, thin, nearly flat SILVER BAR STUD (a short delicate metallic line), lying INSIDE the front surface of the earlobe a little above the bottom rim. NO circles, spheres, pearls, round white dots, beads, thick metal mounts, dangling ornaments or protruding shapes. This tiny bar should not project outside the ear silhouette. Keep all the rest of the approved sprite faithfully unchanged: exact mature face, eye makeup, beauty mark next to mouth, closed lips, brown bun, head/body/leg proportions, bust/waist/hips, hands and long fingers, tablet pose, clothing and colours, watch and loafers, clean anime VN linework and all shadows. Return the FULL 1024x1536 head-to-shoes image with complete shoes and hair, not a close-up. Actual transparent alpha background, no halo, gradient, backdrop, floor shadow or checkerboard. No red marks, annotations, text or panels. Only erase the small swollen-looking round pearl at roughly x=570/y=145, and add the thin flat bar stud inside the smoothly repaired ear. Keep this casual pose and every finger exactly.",
+          "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-533d5301-aedc-4e9c-9337-15fd9c058251.png",
+          "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_최종_얇은스터드_원화.png",
+          "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_최종_얇은스터드_원화.png",
+          "normalization": {
+            "uniform_scale": 1.0039814200398143,
+            "offset": [
+              -2,
+              -1
+            ],
+            "normalized_canvas": [
+              1024,
+              1535
+            ],
+            "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+          },
+          "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_최종_얇은스터드_원화_2x_원화보존.png",
+          "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+          "dimensions": [
+            2048,
+            3070
+          ],
+          "alpha_preserved": true,
+          "source_sha256": "b5e7a31b8e1c4735af4dc696b03192856c48d81ac1f7d0a781abd051b443d803",
+          "upscaled_sha256": "d9530d0f2b079581652f6bb71051d7c743e257f6369d571fec56b400c2639faa",
+          "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+          "who": "seoyun",
+          "name": "한서윤",
+          "label": "태블릿 낮게 들기 / 성인 손 비율",
+          "status": "사용자 채택 MASTER / 귀 돌기 최종 수정 / 포즈 적용",
+          "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A quiet approachable listening pose between work conversations. Both hands support a slim closed matte dark tablet LOW and almost horizontally across the front of her lower waist. Tablet's back faces viewer, upper edge stays near waist rather than blocking chest. The two adult-size hands hold the bottom corners with long natural fingers curving around the edges and thumbs resting on the front-facing edge. Keep fingers readable and gracefully elongated, not short mitten-like hands; fingers may be partly occluded by the tablet but five-digit anatomy must be plausible. Elbows low and relaxed, no high crossed arms, no wrist gripping. Shoulders settle comfortably, slight natural weight shift on one leg, preserve MASTER's current long legs and comparable foot positions. Same mature direct gaze and tiny fully closed-mouth knowing smile, exact makeup and beauty mark. No cup, pen, writing gesture, new clothing or wedding ring. Pose must clearly differ from the neutral MASTER's tablet at one hip and from the work pose's open-hand gesture.",
+          "supersedes": {
+            "key": "casual",
+            "filename": "한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+            "refs": [
+              "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-12fea6e6-e2c7-4a2d-8fe5-3e77f9cc3af7.png"
+            ],
+            "prompt": "Use case: precise-object-edit. Asset type: FULL-BODY transparent Han Seoyun sprite, tiny local correction to visible EAR. The user marked the rounded protruding bulb at the lower earlobe/earring location and says this bulge must be REMOVED. Edit only this small spot near normalized image position x=0.56, y=0.094 (approximately x=570, y=145 on a 1024x1536 canvas). REMOVE the rounded flesh/white bulb-like protrusion and thick swollen-looking ring at the bottom outside edge of her visible ear. Reconstruct a smooth natural continuous EARLOBE OUTLINE without a separate dangling skin knob, extra flap, skin island or blob. Keep the ear contour small and anatomically plausible. Use a TINY almost-flat ivory/silver stud lying on the front surface INSIDE the ear outline, placed a little above the lower rim, with a delicate grey outline and pinpoint glint so it is distinguishable from skin. The stud must NOT protrude beyond the ear contour as a rounded ball. Do NOT enlarge a pearl, add a thick backing or add a dangling earring. Avoid a puffy skin ring or large dark spot. Preserve all other aspects EXACTLY: approved mature face/eyes/jaw and closed berry lips, smoky eyeliner, single tiny beauty mark at mouth corner, brown bun/strands, long-body small-head proportions, slim waist/hips and full clothed upper torso, precise pose and all natural long adult hands/fingers, tablet, blue/ivory/taupe clothes/colors/folds, silver watch, black loafers and full canvas placement. No face restyling, no body changes and no hand redraw. Preserve clean anime VN linework, coherent original skin shading and actual transparent alpha. Return the complete 1024x1536 portrait FULL-BODY IMAGE including all hair and both whole shoes, NOT an ear close-up, crop, collage or comparison. No red marks, circles or annotations, no labels or watermark, no backdrop, halo, gradient, checkerboard or floor shadow. This is removal of a tiny visible protrusion in an approved illustration. Keep the casual pose.",
+            "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c3daf60f-58c1-4226-860d-e5f11f02067d.png",
+            "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+            "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+            "normalization": {
+              "uniform_scale": 1.0053156146179403,
+              "offset": [
+                -3,
+                -1
+              ],
+              "normalized_canvas": [
+                1024,
+                1535
+              ],
+              "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+            },
+            "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_편한대화_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+            "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+            "dimensions": [
+              2048,
+              3070
+            ],
+            "alpha_preserved": true,
+            "source_sha256": "666cdd0d3c566a350a195eecd59cdcdf06901b76ecdb54fcf47b5470fe145775",
+            "upscaled_sha256": "d83526773724458ab220debba7cac27a8ae575991254ef598bbe5c5d3caf43fd",
+            "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%",
+            "who": "seoyun",
+            "name": "한서윤",
+            "label": "태블릿 낮게 들기 / 성인 손 비율",
+            "status": "사용자 채택 MASTER 기준, 포즈 구현 및 적용",
+            "pose_prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A quiet approachable listening pose between work conversations. Both hands support a slim closed matte dark tablet LOW and almost horizontally across the front of her lower waist. Tablet's back faces viewer, upper edge stays near waist rather than blocking chest. The two adult-size hands hold the bottom corners with long natural fingers curving around the edges and thumbs resting on the front-facing edge. Keep fingers readable and gracefully elongated, not short mitten-like hands; fingers may be partly occluded by the tablet but five-digit anatomy must be plausible. Elbows low and relaxed, no high crossed arms, no wrist gripping. Shoulders settle comfortably, slight natural weight shift on one leg, preserve MASTER's current long legs and comparable foot positions. Same mature direct gaze and tiny fully closed-mouth knowing smile, exact makeup and beauty mark. No cup, pen, writing gesture, new clothing or wedding ring. Pose must clearly differ from the neutral MASTER's tablet at one hip and from the work pose's open-hand gesture.",
+            "supersedes": {
+              "key": "casual",
+              "file": "exec-babb6fd3-8713-454a-bba8-e45c47452b2e.png",
+              "filename": "한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+              "refs": [
+                "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-babb6fd3-8713-454a-bba8-e45c47452b2e.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+                "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+              ],
+              "prompt": "Use case: identity-preserve. Asset type: final local proportion balancing of approved Han Seoyun full-body transparent game sprite. IMAGE 1 IS THE EDIT TARGET. Images 2-4 are the OTHER THREE GAME HEROINES, used ONLY to check the SAME clean anime VN art style, head/body scale and full-body canvas framing, never to copy their face, clothes or slim body type. The user likes Seoyun's current mature face, full clothed upper torso, slimmer waist and slimmer thighs. Make ONLY a very small pelvis correction: widen the OUTER PELVIC/HIP silhouette about 5-6 percent compared with image 1, mostly the upper-hip region just below the waistband, to improve balance with her substantial bust. Keep the current narrow waist and current thigh thickness, calves, body height and leg length unchanged. Do NOT make all legs heavier or undo the latest waist/thigh slimming. Blend the small upper-hip widening smoothly into the existing slimmer upper thighs; adjust only nearby trouser folds and cardigan outline as necessary. Preserve her exact mature brown-eyed face identity, relaxed eyelids, cheeks and jaw, tiny gently CLOSED-mouth smile (no visible teeth, mouth opening or interior), low brown bun, pearl studs, full upper torso and upper arms, original hands/props and pose. Keep blue blouse/ivory inner/taupe cardigan/ivory trousers, all color values and lighting, silver watch and black loafers with small gold bars. IMPORTANT her drawing must stay precisely in the shared clean-line VN style of the supplied game heroines; no realistic skin or mottled textile rendering. Her standing figure should use the same roughly head-to-shoes scale as the three heroines on the same 1024x1536 vertical canvas, without an oversized head or shortened/chibi legs. Existing Seoyun head/body scale is already close, so use only tiny necessary proportion refinements, do not overhaul her face or stretch legs. Both complete shoes and all hair visible with comparable top/bottom margins to the style references. Preserve her current tablet pose exactly; no cup or new props. Natural adult fingers, no added nubs or merged digits. Genuine transparent alpha background; no gradient, halo, black/white backdrop, floor shadow, checkerboard or colored fringe. One adult woman only; no text, labels, panels, watermark or multiple characters. A restrained pelvic-balance correction to an approved design, not a redesign. Preserve this casual pose.",
+              "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8e03ed87-513f-4446-9254-12adc985ec59.png",
+              "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+              "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+              "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_태블릿낮게들기_골반균형_최종_원화_2x_원화보존.png",
+              "normalization": {
+                "uniform_scale": 0.9869536855838226,
+                "offset": [
+                  6,
+                  8
+                ],
+                "normalized_canvas": [
+                  1024,
+                  1535
+                ],
+                "target_silhouette_height_pixels": 1513,
+                "note": "Uniform scale and padding only; no separate head, leg or body stretching."
+              },
+              "dimensions": [
+                2048,
+                3070
+              ],
+              "alpha_preserved": true,
+              "recipe": "Uniform sprite scale/padding, then Lanczos original 60% + Real-ESRGAN general 40%",
+              "source_sha256": "36ecba0046aeb54f947c7eec5d74c339a768c5721926bd5a6d349f1b4f05812a",
+              "upscaled_sha256": "5cb290d1991f97fbc566e91ffbe5e0d71be4b9866a01bcb06bdec29589cc99f2",
+              "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+              "who": "seoyun",
+              "name": "한서윤",
+              "label": "태블릿을 양손으로 낮게 들기",
+              "status": "사용자 전면 재설계 및 후속 수정 지시에 따라 인게임 적용",
+              "supersedes": {
+                "who": "seoyun",
+                "name": "한서윤",
+                "key": "casual",
+                "label": "편한대화",
+                "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-9f75d79d-2c8b-4824-a57a-328b24162226.png",
+                "status": "요청에 따라 제작",
+                "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 34-year-old 한서윤. Relaxed personal conversation pose. She has put the tablet and stylus aside OFF SCREEN: both props are absent. Her arms lower naturally, then her hands lightly come together in front of her lower waist, one hand gently resting over the other wrist, elbows loose. Slight natural head inclination, gentle small CLOSED-LIP smile and warm mature attentive brown eyes; no squint or strong blush. Calm caring experienced adult professional now taking a break. Preserve low brown bun, blue open shirt over white inner top, taupe long cardigan, cream trousers, watch and original pumps. Keep exact face identity, mature age/proportions, eye color and iris size, hair texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+                "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_편한대화_원화.png",
+                "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_편한대화_2x_원화보존.png",
+                "dimensions": [
+                  2048,
+                  3070
+                ],
+                "mode": "RGBA",
+                "alpha_range": [
+                  0,
+                  255
+                ],
+                "alpha_preserved": true,
+                "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+                "source_sha256": "c35a36f33284117984907bbfdde4e9bd36b317aa00c052fa811c63fe565aa73a"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "key": "work",
+      "label": "유진_B_생각하며대화",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_B_생각하며대화_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "status": "사용자 채택, 인게임 적용",
+      "source_sha256": "c13d5f3092ef17f8bfa008223330aeb317940bddc6bd8f287f34ec6c8fe84b95",
+      "sha256": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+      "prompt": "Use case: identity-preserve. Asset type: one full-body pose preview for a Korean office romance visual novel. Input image is the approved MASTER of 차유진, an adult 32-year-old brand design lead; use it as the exact identity, clothing and illustration-style reference. Preserve her mature face shape, violet-grey eyes and eyelid shape, small lips, extremely long dark blue-black hair with bangs, gold teardrop earrings, original adult body proportions, wine-burgundy square-neck short-sleeved fitted dress, matching belt with gold buckle, original side slit and burgundy shoes. Keep original neckline and proportions, no redesign. Refined anime VN linework and softly painted shading. Full body from head to complete shoes, vertical 1024x1536 composition with comfortable margins, same scale as MASTER. Calm reserved adult demeanor, coherent natural skin shading across eyes, cheeks and mouth, restrained expression. Natural adult-size hands, readable fingers and fingernails without exaggerated microdetail. True transparent alpha background; do NOT copy the dark halo or gradient surrounding the reference. No room, floor shadow, fake checkerboard, text, border, watermark or collage. One woman only. Change posture as specified: A quiet thoughtful conversational posture with NO props or paper. Her left forearm lies low across her waist and gently supports her right elbow. Her right hand rises near her chin, with relaxed lightly curved fingers and one fingertip softly touching the SIDE of her chin; do not obscure her mouth, cheek or eyes. Head slightly inclined, eyes meeting the listener, a restrained thoughtful almost-smile rather than an angry skeptical face. Arms remain relaxed and elbows low, no high crossed-arms posture, no exaggerated palm-up or pointing gesture, no touching hair. Weight rests naturally on one leg; both shoes fully visible. Maintain exact facial identity and clean hand/chin boundaries; no skin patches or detached fingertips.",
+      "supersedes": {
+        "who": "yujin",
+        "name": "차유진",
+        "key": "work",
+        "label": "시안보여주기",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-95d314bd-1c00-4f15-a4fb-c888f374fc0b.png",
+        "status": "요청에 따라 제작",
+        "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Design explanation pose. Hold her cream portfolio/display board upright in front of her lower torso with one hand. Turn its page face gently toward the viewer, showing only a sparse abstract arrangement of two small neutral color rectangles, no writing. The other hand points naturally with relaxed index finger to one area of this board, remaining low around waist level. Composed reserved professional expression, focused purple almond eyes, slightly parted lips as she explains, no exaggerated grin. Preserve long dark blue hair, gold earrings, burgundy square neckline dress with belt and original matching shoes. No pen or new accessories. Keep exact face identity, mature age/proportions, eye color and iris size, hair silhouette/texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_시안보여주기_원화.png",
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_시안보여주기_2x_원화보존.png",
+        "dimensions": [
+          2048,
+          3072
+        ],
+        "mode": "RGBA",
+        "alpha_range": [
+          0,
+          255
+        ],
+        "alpha_preserved": true,
+        "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+        "source_sha256": "35120d1560f59bfee7d012d75843d3cca4515294367cacac65af1e2814600e04"
+      }
+    },
+    {
+      "who": "yujin",
+      "key": "casual",
+      "label": "유진_A_폴더내려들기",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_A_폴더내려들기_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "status": "사용자 채택, 인게임 적용",
+      "source_sha256": "dda6cd8c91d9bd32ebb195da50ccb88862b293f8327f45fe28f47fb41b946e9e",
+      "sha256": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+      "prompt": "Use case: identity-preserve. Asset type: one full-body pose preview for a Korean office romance visual novel. Input image is the approved MASTER of 차유진, an adult 32-year-old brand design lead; use it as the exact identity, clothing and illustration-style reference. Preserve her mature face shape, violet-grey eyes and eyelid shape, small lips, extremely long dark blue-black hair with bangs, gold teardrop earrings, original adult body proportions, wine-burgundy square-neck short-sleeved fitted dress, matching belt with gold buckle, original side slit and burgundy shoes. Keep original neckline and proportions, no redesign. Refined anime VN linework and softly painted shading. Full body from head to complete shoes, vertical 1024x1536 composition with comfortable margins, same scale as MASTER. Calm reserved adult demeanor, coherent natural skin shading across eyes, cheeks and mouth, restrained expression. Natural adult-size hands, readable fingers and fingernails without exaggerated microdetail. True transparent alpha background; do NOT copy the dark halo or gradient surrounding the reference. No room, floor shadow, fake checkerboard, text, border, watermark or collage. One woman only. Change posture as specified: She holds a closed plain ivory folder vertically LOW against the side of her left thigh with her left hand; its top stays below her waist so her torso is unobstructed. Her right arm bends gently at her waist and the right hand lightly rests over her left wrist, not pointing, not folded across her chest. Torso slightly three-quarter turned, shoulders low and relaxed, looks toward the listener with a subtle attentive closed-mouth smile as if waiting for their opinion. Legs stand comfortably with a slight weight shift rather than an exaggerated crossed catwalk stance. This is an everyday quiet listening posture. No loose paper held up, no visible document diagrams, no pointing finger, no tablet or pen, no touching hair, no open-palm lecture gesture.",
+      "supersedes": {
+        "who": "yujin",
+        "name": "차유진",
+        "key": "casual",
+        "label": "머리만지며대화",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c08e218b-2b32-4633-9f40-51069a4b7401.png",
+        "status": "요청에 따라 제작",
+        "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Quiet personal conversation pose. The cream portfolio is put aside OFF SCREEN and absent. Her right arm on IMAGE LEFT rests naturally at her side; her left hand lightly touches a strand of her OWN long hair near her shoulder, below her chin, a small understated self-conscious gesture. Elbow low and relaxed, no dramatic hair flip. Face still visible, subtle CLOSED-LIP smile, softened mature purple almond eyes, no exaggerated blush or giggle. Preserve her elegant reserved adult personality, long dark-blue hair silhouette, gold earrings, burgundy square neckline dress with belt and original matching shoes. Keep exact face identity, mature age/proportions, eye color and iris size, hair texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_머리만지며대화_원화.png",
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_머리만지며대화_2x_원화보존.png",
+        "dimensions": [
+          2048,
+          3072
+        ],
+        "mode": "RGBA",
+        "alpha_range": [
+          0,
+          255
+        ],
+        "alpha_preserved": true,
+        "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+        "source_sha256": "206845dc8b25f2622f4e04e914fdbb8d97b46f8b5a6dcbd529671247a47b73d3"
+      }
+    },
+    {
+      "who": "jihyun",
+      "name": "백지현",
+      "key": "work",
+      "label": "팔교차_업무대화",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8df2a203-ca4a-4d7e-91f6-436be31c3a17.png",
+      "status": "요청에 따라 제작",
+      "prompt": "Edit the approved MASTER into ONE new work-discussion pose of the EXACT adult 36-year-old Baek Jihyun. Replace the original clasped hands with BOTH ARMS RELAXEDLY FOLDED ACROSS THE LOWER CHEST / UPPER WAIST, a composed confident listening stance. One forearm lies gently across the torso while the other hand rests lightly on the opposite upper forearm, fingers anatomically natural; shoulders relaxed, not defensive or angry. NO open-palm explaining gesture and NO coffee cup, so this is clearly distinct from Kang Ria's hand gesture pose. Calm professional expression with a restrained closed-lip smile, mature brown eyes, same face identity, head tilt and short dark bob. Preserve original black blazer, white shirt, black skirt, sheer tights, stud earrings, wristwatch and pumps, outfit textures/cuts/colors and body proportions. Modest natural adult workplace posture, no exaggerated emotion. Keep original fullbody camera, overall body scale, leg placement, head height and shoe margins. One 1024x1536 vertical fullbody sprite, actual transparent background, no text/labels/multiple panels, no redesign or new accessories.",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_원화_v2.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_2x_원화보존_v2.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "00843a01ae8950727aa60684b3a3225617c3a61b96166164fff8dd41d475393d",
+      "version": 2,
+      "previous": {
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\원화\\백지현_손짓하며설명_원화.png",
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_손짓하며설명_2x_원화보존.png"
+      }
+    },
+    {
+      "who": "jihyun",
+      "name": "백지현",
+      "key": "casual",
+      "label": "편한퇴근인사",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0116ef0d-998e-4ad5-9e77-66be1e5e08a4.png",
+      "status": "요청에 따라 제작",
+      "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 36-year-old 백지현. Relaxed after-work greeting pose. BOTH arms now rest loosely down at her sides instead of being clasped in front or gesturing. Hands open and relaxed, wrists natural. Shoulders gently relax, a tiny head inclination toward the listener, restrained small CLOSED-LIP smile and softened mature brown eyes. An experienced confident adult becoming approachable, no girlish coyness or exaggerated blush. Preserve short dark bob, stud earrings, black blazer, white shirt, black skirt, sheer tights, watch and original pumps. No props. Keep exact face identity, mature age/proportions, eye color and iris size, hair texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\원화\\백지현_편한퇴근인사_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_편한퇴근인사_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "ab3fad23dcd4ff662008c5d03b3560cef8f93f84f3c033eb8c28aae997100e7e"
+    }
+  ],
+  "current_game_face_policy": "포즈 원화 얼굴을 그대로 표시. 표정 PNG/마스크/피부 셰이더는 현재 합성에 사용하지 않음."
+}

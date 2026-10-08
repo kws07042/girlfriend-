@@ -1,0 +1,37 @@
+{
+  "id": "seoyun_daily_a",
+  "who": "seoyun",
+  "kind": "daily_a",
+  "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\seoyun_casual_outfit_pose_v001.png",
+  "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. The supplied image is the immutable identity / body-proportion / illustration-style reference for Han Seoyun, a 40-year-old adult Korean woman. Generate ONLY this same heroine, not a redesign. Preserve the exact mature face, eye spacing and brown eyes, brown low bun and loose side strands, strong elegant eye makeup, closed berry-toned lips with a subtle confident smile, and the ONE small beauty mark at the viewer-right mouth corner. Preserve her reference adult curvy upper-body proportions, slim waist, long legs and small adult head relative to height; hands are mature and sufficiently long, clearly separated anatomically correct fingers. Smooth bare ear lobes, NO earrings or flesh bumps; retain wristwatch. Match the reference's polished anime VN line weight, painterly but clean fabric shading, hair highlights and exact natural peach skin hue. Change only clothing and pose. Outfit: refined off-duty sage-green fitted fine-knit wrap sweater, softly open V neckline at a tasteful level, navy fluid ankle-length A-line skirt with natural folds, dark brown flat ankle boots. No office blouse, no tablet, no heels. Pose: relaxed three-quarter stance toward the viewer, weight resting on one leg, both forearms softly raised to hold a small closed novel vertically against her upper chest, one long-fingered hand holding its lower spine and the other lightly resting over its top edge. Calm adult confidence, not shy or juvenile. Whole character from crown to both shoes fully visible, comfortable margins, standing centered, neutral even lighting. SINGLE sprite only, no panels, labels, lettering, logos or watermark. Genuine transparent alpha background, no gradient, no glow, no colored fringe, no floor shadow. Keep the same face, hairstyle, skin color, body scale and same visual-novel art style as the reference; do not make a photorealistic photo.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+  ],
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_daily_a.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_daily_a_2x.png",
+  "source_size": [
+    1024,
+    1535
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "72f5d6daa30f5c61b06aaca4b5fee793aedc052cdc9bf8ce8c4172a7bf31b76a",
+  "output_sha256": "b9235a246077975f67e93c89b57ad703fcfeac832af7bdca726e35bc706d26d5",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 14.46
+}

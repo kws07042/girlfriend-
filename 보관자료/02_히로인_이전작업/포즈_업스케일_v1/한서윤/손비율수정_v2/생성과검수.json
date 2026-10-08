@@ -1,0 +1,30 @@
+{
+  "who": "seoyun",
+  "name": "한서윤",
+  "key": "work",
+  "label": "태블릿보며설명",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-cf25e9d7-3515-4bef-8214-f652bf89bf75.png",
+  "status": "요청에 따라 제작",
+  "prompt": "EDIT TARGET: the exact supplied Han Seoyun full-body tablet explanation sprite. Make ONE tightly localized anatomy correction ONLY to her stylus-holding right hand, located on IMAGE LEFT near the center of her chest. Increase this curled hand's palm width and volume very modestly, about 10 percent, and make the folded fingers slightly more substantial so the hand reads as an adult woman's hand rather than a small doll hand. Keep the original pen grip and stylus angle/position, five anatomically plausible fingers with natural knuckle structure, gentle nails. Blend the slightly fuller hand into a subtly sturdier natural wrist taper and the EXACT original blue cuff / forearm. Maintain the current pose; this is a small proportional correction, not a new gesture. IMPORTANT: the OTHER hand on IMAGE RIGHT supporting the tablet must remain exactly unchanged. Preserve the tablet size/position, stylus shape, shoulders, elbows, whole body silhouette, original mature 34-year-old face and expression, head tilt, low brown bun and hair strands, original clothing folds/textures/colors, watch, trousers, shoes, camera, head and feet position and margins. Do not redraw or beautify anything else; no extra fingers, no larger forearm, no oversized hand. One full-body portrait cutout at same 1024x1536 composition. Keep actual transparent alpha background; no white fringe, no scenery, no labels, no panels.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\원화\\한서윤_태블릿설명_손수정_v2.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\업스케일\\한서윤_태블릿설명_손수정_v2_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3070
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "1f2eb0988014989f6f3a040c5ece556e47219e59a8942e15d590e03c3711bc58",
+  "version": 2,
+  "correction": "펜을 쥔 손의 손바닥 폭/두께와 손목 연결 조정",
+  "previous": {
+    "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_태블릿보며설명_원화.png",
+    "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_태블릿보며설명_2x_원화보존.png"
+  },
+  "generation_tool": "built-in image_gen"
+}

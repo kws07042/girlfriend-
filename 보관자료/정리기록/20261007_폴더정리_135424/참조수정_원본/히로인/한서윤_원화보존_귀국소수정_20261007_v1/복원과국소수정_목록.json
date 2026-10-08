@@ -1,0 +1,705 @@
+{
+  "mode": "built-in image_gen",
+  "approved_master": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+  "requested_settings": {
+    "age": 40,
+    "marital_status": "미혼, 현재 연인 없음",
+    "career_years": 16,
+    "company_years": 9,
+    "oldest_heroine": true
+  },
+  "pose_prompts": [
+    {
+      "key": "work",
+      "filename": "한서윤_새MASTER_태블릿설명_원화.png",
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A composed experienced professional explaining something gently. Her left forearm supports a slim matte dark tablet held vertically close against the left side of her ribcage, its top below her bust. Left hand wraps around the tablet's lower side with a visibly LONG adult thumb and clear natural long fingers; the tablet must not hide all finger anatomy. Right forearm bends low beside her waist, right palm angled partly upward toward the listener in a small conversational gesture, with relaxed gracefully separated long fingers and visible knuckles. The open hand is comfortably sized and readable, no clenched fist and no pointing index. Elbows close, shoulders relaxed, upright slight three-quarter torso, feet stable rather than crossed. Keep EXACT approved head/face orientation and the subtle closed-mouth confident smile, no mouth opening, no teeth, no lip-sync. No pen, cup or other props. This is a distinct work-conversation pose, while maintaining the MASTER's anatomy and drawing style."
+    },
+    {
+      "key": "casual",
+      "filename": "한서윤_새MASTER_태블릿편한대화_원화.png",
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: production full-body transparent Han Seoyun pose for an adult Korean office-romance VN. The supplied image is the USER-APPROVED NEW MASTER, the ONLY identity, proportions, art style and palette reference. Preserve this EXACT mature face shape, warm brown relaxed almond eyes, defined dark eyeliner and smoky brown/taupe-plum makeup, dusty berry lipstick and gently FULLY CLOSED lips, ONE tiny dark-brown beauty mark beside the same mouth corner on her left cheek (viewer-right), low chestnut-brown bun, pearl studs and silver watch with dark strap. Never move or duplicate the beauty mark. Preserve the new smaller-head, longer-leg proportions, full clothed upper torso, mature femininity, slim natural waist and balanced hips/thighs. Do not revert to the older big-headed short-legged Seoyun. Preserve light-blue blouse over ivory scoop-neck inner, taupe knit cardigan, ivory tailored trousers and BLACK LOW-HEEL leather loafers with small gold bars, both whole shoes visible. Exact same clean anime VN linework and cel-like shadows softly blended with restrained painterly gradients. Same neutral lighting, peach skin and all garment/hair tones as MASTER. CRITICAL HAND ANATOMY: natural adult women's hands with elegant clear length, not tiny baby hands or short stubby fingers. Make the palm and fingers proportionate to her forearms and face. When not foreshortened, full hand length should read roughly three quarters of her face length. Middle finger almost as long as palm, index and ring slightly shorter, little finger clearly shorter, properly attached opposable thumb. Preserve plausible five-digit structure, readable knuckles/nails, and wrist transition. No finger nubs, fused fingers, extra fingers, doubled nails or excessively oversized hands. Pose should keep hand depth approximately in the torso plane, so the hands do not shrink through exaggerated perspective. Keep head location/size, overall body height, limb lengths and foot margins consistent with the approved MASTER on a vertical 1024x1536 canvas. Full head-to-shoes, no crop. Actual transparent alpha background; do not copy viewer glow, halo or gradient; no background, floor shadow, black/white backdrop, checkerboard or colored fringe. ONE woman, no text, watermark or collage. Change only the pose as specified: A quiet approachable listening pose between work conversations. Both hands support a slim closed matte dark tablet LOW and almost horizontally across the front of her lower waist. Tablet's back faces viewer, upper edge stays near waist rather than blocking chest. The two adult-size hands hold the bottom corners with long natural fingers curving around the edges and thumbs resting on the front-facing edge. Keep fingers readable and gracefully elongated, not short mitten-like hands; fingers may be partly occluded by the tablet but five-digit anatomy must be plausible. Elbows low and relaxed, no high crossed arms, no wrist gripping. Shoulders settle comfortably, slight natural weight shift on one leg, preserve MASTER's current long legs and comparable foot positions. Same mature direct gaze and tiny fully closed-mouth knowing smile, exact makeup and beauty mark. No cup, pen, writing gesture, new clothing or wedding ring. Pose must clearly differ from the neutral MASTER's tablet at one hip and from the work pose's open-hand gesture."
+    }
+  ],
+  "jewelry_stage": [
+    {
+      "key": "master",
+      "file": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+      "filename": "한서윤_MASTER_비율화장_귀걸이정리_원화.png",
+      "refs": [
+        "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: production Han Seoyun full-body transparent VN sprite. EDIT ONLY THE SMALL PEARL EARRING in the supplied approved image. The user says the earring currently blends into the ear skin. Keep the SAME small ivory pearl stud design, do not invent a long dangling earring or change her hairstyle. Refine the visible stud as a clearly separate jewelry object: a round pearl with one controlled white reflection and subtle pearl-grey lower shading, a very thin polished silver mounting/rim discernible between the pearl and the earlobe, a tiny natural contact shadow immediately behind the mounting, and a clean intact earlobe outline. It should be attached plausibly to the lobe, not floating away; no large dark hole, piercing scar, merged flesh/pearl blob or skin-colored gemstone. Make the pearl contour readable at gameplay scale without enlarging it into a huge button. The far earring may remain naturally hidden by hair. Preserve every other approved aspect: mature face shape and eyes, strong refined eyeliner/smoky brown-plum makeup, berry lips gently fully CLOSED, exactly ONE tiny beauty mark beside the same mouth corner, the smaller-head/longer-leg proportions, body volume, slim waist and balanced hips, all clothing/palette/light, tablet pose, every hand/finger shape and length, watch, loafers, hair, linework, overall 1024x1536 framing and margins. IMPORTANT do NOT shorten or redraw hands; the new poses already have correct LONG adult fingers. This is a single localized jewelry-detail correction, not a face retouch, new pose or body redesign. Same anime VN style and original face skin without patches. Keep the actual transparent alpha background; no halo, gradient, backdrop, floor shadow or checkerboard. One woman, no text, panels, watermark or extra marks. Preserve the master pose exactly."
+    },
+    {
+      "key": "work",
+      "file": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "filename": "한서윤_업무설명_비율화장_귀걸이정리_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: production Han Seoyun full-body transparent VN sprite. EDIT ONLY THE SMALL PEARL EARRING in the supplied approved image. The user says the earring currently blends into the ear skin. Keep the SAME small ivory pearl stud design, do not invent a long dangling earring or change her hairstyle. Refine the visible stud as a clearly separate jewelry object: a round pearl with one controlled white reflection and subtle pearl-grey lower shading, a very thin polished silver mounting/rim discernible between the pearl and the earlobe, a tiny natural contact shadow immediately behind the mounting, and a clean intact earlobe outline. It should be attached plausibly to the lobe, not floating away; no large dark hole, piercing scar, merged flesh/pearl blob or skin-colored gemstone. Make the pearl contour readable at gameplay scale without enlarging it into a huge button. The far earring may remain naturally hidden by hair. Preserve every other approved aspect: mature face shape and eyes, strong refined eyeliner/smoky brown-plum makeup, berry lips gently fully CLOSED, exactly ONE tiny beauty mark beside the same mouth corner, the smaller-head/longer-leg proportions, body volume, slim waist and balanced hips, all clothing/palette/light, tablet pose, every hand/finger shape and length, watch, loafers, hair, linework, overall 1024x1536 framing and margins. IMPORTANT do NOT shorten or redraw hands; the new poses already have correct LONG adult fingers. This is a single localized jewelry-detail correction, not a face retouch, new pose or body redesign. Same anime VN style and original face skin without patches. Keep the actual transparent alpha background; no halo, gradient, backdrop, floor shadow or checkerboard. One woman, no text, panels, watermark or extra marks. Preserve the work pose exactly."
+    },
+    {
+      "key": "casual",
+      "file": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "filename": "한서윤_편한대화_비율화장_귀걸이정리_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8b0770e2-25db-4989-8b59-01b73727c505.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: production Han Seoyun full-body transparent VN sprite. EDIT ONLY THE SMALL PEARL EARRING in the supplied approved image. The user says the earring currently blends into the ear skin. Keep the SAME small ivory pearl stud design, do not invent a long dangling earring or change her hairstyle. Refine the visible stud as a clearly separate jewelry object: a round pearl with one controlled white reflection and subtle pearl-grey lower shading, a very thin polished silver mounting/rim discernible between the pearl and the earlobe, a tiny natural contact shadow immediately behind the mounting, and a clean intact earlobe outline. It should be attached plausibly to the lobe, not floating away; no large dark hole, piercing scar, merged flesh/pearl blob or skin-colored gemstone. Make the pearl contour readable at gameplay scale without enlarging it into a huge button. The far earring may remain naturally hidden by hair. Preserve every other approved aspect: mature face shape and eyes, strong refined eyeliner/smoky brown-plum makeup, berry lips gently fully CLOSED, exactly ONE tiny beauty mark beside the same mouth corner, the smaller-head/longer-leg proportions, body volume, slim waist and balanced hips, all clothing/palette/light, tablet pose, every hand/finger shape and length, watch, loafers, hair, linework, overall 1024x1536 framing and margins. IMPORTANT do NOT shorten or redraw hands; the new poses already have correct LONG adult fingers. This is a single localized jewelry-detail correction, not a face retouch, new pose or body redesign. Same anime VN style and original face skin without patches. Keep the actual transparent alpha background; no halo, gradient, backdrop, floor shadow or checkerboard. One woman, no text, panels, watermark or extra marks. Preserve the casual pose exactly."
+    }
+  ],
+  "items": [
+    {
+      "key": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+      "source_sha256": "eeb1a502bf7b962fa393edd9c2e8b2f7417ea3e6188185c2f2f777db89d4df7b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_master_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 554,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        4,
+        10,
+        8
+      ],
+      "pose_alignment": {
+        "x": 0,
+        "y": 0
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1084,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "1e5aaacda2d8d8a65ad8a7fed9add972714a0c972990cfa21c8bdce3823ad27b",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\master_귀국소수정_정규화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_귀국소수정_원화보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          0
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "upscale_protected_rect": [
+        1095,
+        249,
+        1189,
+        346
+      ],
+      "upscale_outside_ear_changed_pixels": 0,
+      "upscale_alpha_changed_pixels": 0,
+      "upscaled_sha256": "6d9b8baa76578dc77eaaa8db4887c809ae6bca813add0fae206c6fe97de4177f",
+      "upscale_method": "Lanczos 2x only; no generated texture or colour filter"
+    },
+    {
+      "key": "work",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+      "source_sha256": "f10982b9112d9e2e7e3e98973b024ee84abe0d837a881e1a3e1cc79650030b1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_work_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        13,
+        12
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 536.063829787234
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1083,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "f13a3dc0cea2aba6a133c39b69171d7b7a8ce0f32fc6e3ce8c1b9feeb0c83c07",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\work_귀국소수정_정규화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_귀국소수정_원화보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "upscale_protected_rect": [
+        1097,
+        247,
+        1191,
+        344
+      ],
+      "upscale_outside_ear_changed_pixels": 0,
+      "upscale_alpha_changed_pixels": 0,
+      "upscaled_sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990",
+      "upscale_method": "Lanczos 2x only; no generated texture or colour filter"
+    },
+    {
+      "key": "casual",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+      "source_sha256": "f78cd706375289858db9fd38d993057d009dfa634e4f6adfeb00ab63ae6ef24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_casual_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        11,
+        11
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 626.7936170212766
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1082,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "d2f32c0f25404d0cf6c1a2d3e4153ea73fe49d3a10434a819951c0f93e47fdd6",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\casual_귀국소수정_정규화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_귀국소수정_원화보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "normalization": {
+        "uniform_scale": 1.0059840425531914,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "upscale_protected_rect": [
+        1098,
+        247,
+        1192,
+        344
+      ],
+      "upscale_outside_ear_changed_pixels": 0,
+      "upscale_alpha_changed_pixels": 0,
+      "upscaled_sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+      "upscale_method": "Lanczos 2x only; no generated texture or colour filter"
+    }
+  ],
+  "status": "승인 원화 색·질감 복원, 귀 국소 수정·2배 보존 확대·인게임 적용·검수 완료",
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_서윤MASTER화장비율확정",
+  "protected_hashes": {
+    "images\\bg\\BG_BAR_001.png": "ee33474530921631472e25fac0e3477018b5764ce68dd82ecf8380fe04154f54",
+    "images\\bg\\BG_CAFE_001.png": "aea8658671d4974c7d74956de249031c0fc38211dff636d6b404eb8232179c23",
+    "images\\bg\\BG_DESIGN_STUDIO_001.png": "f3de2173544c1fdd01180ff9228aef2cabe6c3a5faab7a1b7abff1970ac25a9e",
+    "images\\bg\\BG_DEVELOPMENT_SPACE_001.png": "d5bb2cb24237792fd4aedba0385de192e985bc9ea701f00af42cf9d4b091acf7",
+    "images\\bg\\BG_ELEVATOR_001.png": "387f4fae67fd2196afeab26e462ca5a2b40ffcc493b7612148a7c65480a91fa9",
+    "images\\bg\\BG_HOME_NIGHT_001.png": "b4980e029ecc513da47040faeda55a077d782c559565e07a8bb08418f5224a1b",
+    "images\\bg\\BG_HOTEL_LOBBY_001.png": "80f11f62e20d27c6513fbbe72213944a693b3aba6c76dfa20991b9cb1b30d7ad",
+    "images\\bg\\BG_LOUNGE_DAY_001.png": "3cc49ab99bc71aa4dfec42cf63ea067767a2ef1d15bece5ba5d7edc45ba5e33f",
+    "images\\bg\\BG_MARKETING_PROJECT_001.png": "1cfc9f6519880fee162e13117d61463569a5b098185b677d9c222084b71fc273",
+    "images\\bg\\BG_MEETING_ROOM_001.png": "2d3f09253dc6202f6c2c9fc3f5852b38afb52528649e30f5f8673c54a95e6534",
+    "images\\bg\\BG_MEETING_ROOM_NIGHT_001.png": "c4249fe4ea0396fff97c7c5ba16a6b530b82bcb77a2b2c50ae9dba5e1e548fa5",
+    "images\\bg\\BG_OFFICE_DAY_001.png": "b10b98d24ae43b7437b3e0c55c7698d0b93162d7a37de520ba6dc301222e51f6",
+    "images\\bg\\BG_OFFICE_NIGHT_001.png": "851e975fa8a87330397ab13ef2ee4c459a6c916062a1db4cc194513bfc37a03a",
+    "images\\bg\\BG_RESTAURANT_001.png": "6774538aa66582888ab54a35913dec89fd13175e194d9768389f417cfe18309f",
+    "images\\bg\\BG_ROOFTOP_NIGHT_001.png": "8c0d0cfb877ed3c05558399460130ea871bde619cc05b212cd922c4f6b81d064",
+    "images\\bg\\BG_STREET_RAIN_001.png": "4a6b97b8e684155e50ad132090806f5db6105d1b5c46fdddb507b65011fda811",
+    "images\\bg\\BG_TERRACE_DAY_001.png": "6490c3abc2deb5af1b186086c210ad82fd9ca3ad8f0345355ab179b72339ee58",
+    "images\\cg\\ria_cafe_cg_v001.png": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189",
+    "images\\cg\\ria_expression_sheet_v001.png": "976742cce0433162de973829ba228f6fb320094fee29c6980d722dcc31b0e980",
+    "images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "images\\phone\\jihyun_profile_v001.png": "6e6a8a28b7303e42a847a6ff79976fec63ebb0afba62a259dd1a26b3a382c6ad",
+    "images\\phone\\ria_profile_v001.png": "c5de5b7ed2b655d82c7aeb603392d0c7857966fdc4d08f74b568457600c6634f",
+    "images\\phone\\seoyun_profile_v001.png": "230c58eb49b67655ea2d46f4313244f10359b06d9a20593ff21f1dd9d9aafe65",
+    "images\\phone\\yujin_profile_v001.png": "17db69506008b73d9ca7dea500ad1338eb34fb4c7e01a2c34b1d86cd2bb84401",
+    "images\\ui_v2\\battery.png": "2bf0f9969c858da1b9a89e39845dbb8358375d7b6e6c2b51d9208e5d6a041080",
+    "images\\ui_v2\\camera.png": "b4e192b2c03f4c8f57e116c3a7cca2f37bd9f76c72ed3178ac73436477e42b95",
+    "images\\ui_v2\\circle.png": "572bc6b6520cfae24639172b39a85f8683ac4c9d90d4278f2ed6aca66fcf2e7d",
+    "images\\ui_v2\\glass.png": "198196c93c77517e60f7c707f426a70a4607c6f579726e6ee6df4b43bff594f4",
+    "images\\ui_v2\\glass_hover.png": "179bc91ac9a5d83193704fa9486c51a9f4b35900d6dfc20b94149644084f7f67",
+    "images\\ui_v2\\gold.png": "5d8aab8b91a9b52e9490fd88d65854954dc48672398772ae00c4e9c77c651fc9",
+    "images\\ui_v2\\gold_hover.png": "04b29407a3b3fd1378098a083941a0d3da17d1bfed12381f6a6274f9e78a7a5a",
+    "images\\ui_v2\\incoming.png": "483436cbbbaa5f19e534570f70fe488028244cc269cecfe763ab9c21ffacaa7c",
+    "images\\ui_v2\\line.png": "91ff0b7a03acfeb341a57baba1489ca6e9807a26faf3ec98931111d1998eae8c",
+    "images\\ui_v2\\outgoing.png": "6a554058a6551bc4b585cd244e49fc3a95948c869d5ceba93c134d54606c8fc1",
+    "images\\ui_v2\\paper.png": "3c78d362b38367f0adbefe69e06d8f82b21fa8ca9bfd0e902f7afb4718362b68",
+    "images\\ui_v2\\paper_hover.png": "c142ecc2664facedda1abef50f8711794f944dcdc3360763fdeea2d7ede9f772",
+    "images\\ui_v2\\phone_graphite.png": "37c3fc33cd5e55aaf97aaca1a161707616e64e4d3430a58bc8f5550aace12063",
+    "images\\ui_v2\\phone_rim.png": "b24f2e29a11e4928b750623635b54f0e889162894be6cecd2f01e47d9c34fd1a",
+    "images\\ui_v2\\phone_screen.png": "8f3a6fd5faaa20ff6a3bb7e2eecdc817cf698dd6230788983a4cab3320550959",
+    "images\\ui_v2\\phone_shell.png": "d86ab3bdf8da0b7520ce5781a9d0ed05084b9b8a50f0d2bb76e4899ece0fbf1a",
+    "images\\ui_v2\\pill.png": "86db39235dcc83979d9fc257eb816f4c30a02295230cc3850c110dd23838a4de",
+    "images\\ui_v2\\subtle.png": "028a08df69eddf21e487d5c7c1ff715280b9c42eeeeb0dcf557cf235c610ba54",
+    "images\\ui_v2\\typing_dot.png": "4d6cdf934aaa592c6fff5c9ee00ecdc63b975363eaf197bdb5a18fe899db2acb",
+    "images\\ui_v6\\album.png": "e1f38c4df286b795bc3366cc3b0b8c08b4b36917c319777d36d2fe03c39196bf",
+    "images\\ui_v6\\album_active.png": "69fcb81c4c5cdfc2e3d3e2c1e80a1f29a4a8ae67d27708b43cebc6171693c7fd",
+    "images\\ui_v6\\attach.png": "83a56d5062a7cb49b6d21a0aceaf576414ed4454304ef56edb39a1b98f1772f0",
+    "images\\ui_v6\\attach_active.png": "c4375753c7631e90a4989744a17493240743db91ade8fab288efd0f6cede8886",
+    "images\\ui_v6\\calendar.png": "cb3fdc1b027f5347c92d7451fe0a9de7066d135fa13bc636de02af49685fe405",
+    "images\\ui_v6\\calendar_active.png": "da243319dd5181afeba8751eb2f9f0e90551415683e4aeed2a067d972b6535cf",
+    "images\\ui_v6\\calls.png": "94011139983b9ef61eb693788335b104956cc8aa738251788856610921859658",
+    "images\\ui_v6\\calls_active.png": "48392a4928743230af90ad08b1d220828c1666bed3055014bd03421603a7fcb3",
+    "images\\ui_v6\\device_frame.png": "5c1ac5391297dde2574d9d7a786b0d4eb71e0cba34b737d45b5b81bcd4f3ec62",
+    "images\\ui_v6\\messages.png": "78813d70222d1c6567b67f662433dece691956722df461a67d22085268e4ff65",
+    "images\\ui_v6\\messages_active.png": "69b0c5979018deb52b23279f7a41906335d159410b0bc206f87d95b622ebba12",
+    "images\\ui_v6\\screen.png": "661f495b1c1032e5480f3140b05f3cab7e95ecac34b0b8f69417a25f1c2f316d",
+    "images\\ui_v6\\send.png": "efe01dcba1608673cee6794c223cda9fa1005ee80d51c0792d4f1b6c94172ff5",
+    "images\\ui_v6\\send_active.png": "f3688613038ba00d0d67e27c3183d6993b182113dc10f699a7ae0510cc3aeaee",
+    "images\\ui_v6\\send_white.png": "036a4f09deb63daca331db7b7f05f9ff3f513cdeb9fa3c3ee6f8e982e1162ef6",
+    "images\\ui_v6\\settings.png": "8b164ed82be992135c7d8e68c271f7fffe66ca45f39cd49f72611d6ab927797c",
+    "images\\ui_v6\\settings_active.png": "9624765d3a44db65294ae11bfa36b4b74a724b814c204d8fbef42c6c4e7acc73",
+    "images\\characters\\jihyun_expressions\\face_mask.svg": "c9b0c0e79792114e296c2e5628d4db5f072691efc79995dafb2f38d561db141b",
+    "images\\characters\\jihyun_expressions\\serious.png": "f3c6a5c6823647693416996524e9f1729fc3c464c7727ac1fd9818564011ff0a",
+    "images\\characters\\jihyun_expressions\\sheepish.png": "553571d0176da2cfe4613de4b23e149fc0650fb5d40b8024339665229a4ee94b",
+    "images\\characters\\jihyun_expressions\\smile.png": "39f140b83febb69837649bce0061839ff8f349e043660a03eea7f95125b4b566",
+    "images\\characters\\jihyun_expressions\\surprised.png": "ace8cf8940a33fa1981a05e08469e4ddbc0e9bf1e20f11f5ead7ee63b80524b1",
+    "images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "images\\characters\\ria_animation\\closed.png": "7abb071bd204f283769ece15337376d7b1e11fe1242754970a05f8ffc22828b1",
+    "images\\characters\\ria_animation\\eyes_mask.svg": "5753968320806b57fd94d6c032a01743254dfcc9cff866315f04751e01b109ca",
+    "images\\characters\\ria_animation\\half.png": "155001b4d0edec3bd3018bafbe3c205351f45bdcc7ec6aa7b1534bcc83785280",
+    "images\\characters\\ria_expressions\\face_mask.svg": "fcb72479106bc19ab317c3f15c3bd17f1dcc65c33aad5af54c3a67a40f5eb40e",
+    "images\\characters\\ria_expressions\\serious.png": "1b501c099d89c850a225d1bd4bf5007a1637fb0d48540da71781cdaefe11ad3d",
+    "images\\characters\\ria_expressions\\sheepish.png": "4bfb2e1b5435975322699ac01e991a410a15c8e692fe25d813beaa53b4150691",
+    "images\\characters\\ria_expressions\\smile.png": "7e4943ce5e0e21378edcb7717280d3dba267d5fc0bb82a7af83151a8a228adac",
+    "images\\characters\\ria_expressions\\surprised.png": "56059fced20e306f6259570bf79f7245ed08004aeb46e2944f79519fc8e8e111",
+    "images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "images\\characters\\seoyun_expressions\\face_mask.svg": "a1bd6a809f23dbc21434ca08557c4d888024062c3afee08124470ae6c2faa9d6",
+    "images\\characters\\seoyun_expressions\\serious.png": "05ed09eb3aa07118c3da6acd58d33c5f3bad8343b2588160184413e021b899d8",
+    "images\\characters\\seoyun_expressions\\sheepish.png": "5ebe9f30fd03b737ee18b078d5db80d253e166c7f7b161713e3b6740eec6826c",
+    "images\\characters\\seoyun_expressions\\smile.png": "f52463f0f49a8854aadd80b527729c2f99c9cf4f9bff686c8dd8b27fcb7b2ae8",
+    "images\\characters\\seoyun_expressions\\surprised.png": "8a2151572debbb4e199cc455eed8e9d45e1a3ba02e64b21c47befbbf8128893d",
+    "images\\characters\\yujin_expressions\\face_mask.svg": "ee78ea77232d4d3334e73e455ea4beca23c878ec2b4c4256dca867a6ea0e8709",
+    "images\\characters\\yujin_expressions\\serious.png": "599edc7b764cfe28c60b8aacd0b8fc3e6793130d5a0d7be0e85acfac492d2a19",
+    "images\\characters\\yujin_expressions\\sheepish.png": "d51694ae2a00394e15de63153f0186023b0d8b992672187f9054459f2e397230",
+    "images\\characters\\yujin_expressions\\smile.png": "880f53def7128c09a2fbb45c098abeb62d0c138358db9d1c406356cb5bb35acc",
+    "images\\characters\\yujin_expressions\\surprised.png": "b03b5aea450e3d95d21bcf756de24e8f8b13bbefbda1cab2e01e5c5d1e14b3e1",
+    "images\\characters\\yujin_poses\\casual.png": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+    "images\\characters\\yujin_poses\\work.png": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+    "story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "week_phone.rpy": "e4de23230e33fccb61241ca196c239a75f4bc283c215db0c46e7929b2e66b5a3",
+    "ui_character_poses.rpy": "4a1d852daab9bdd2eb433bf7308533ed8a778b87b87d2ffe096e84b1d10bb723",
+    "ui_character_palette.rpy": "19152c8b235f2f5269e8a1e404f8742140f72302c2df52c2ac3048e3246740fc",
+    "ui_character_expressions.rpy": "146a2b8003d8c74fbe2e0040a428e3c30e3aa3f89954e9a7971b149d95e11be2"
+  },
+  "palette_metrics": {
+    "work": {
+      "before": 3.9364287814249366,
+      "after": 0.8384301441107465
+    },
+    "casual": {
+      "before": 5.900111041863508,
+      "after": 3.297825647170698
+    }
+  },
+  "canonical_master": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_seoyun_MASTER.png",
+  "game_dimensions": [
+    2048,
+    3070
+  ],
+  "earring_final_correction": "Removed the protruding white pearl/stud entirely; smooth natural bare earlobe.",
+  "before_final_ear_items": [
+    {
+      "key": "master",
+      "filename": "한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-b4d30a9b-4026-49c3-ab8d-ab50b7e312d7.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: FULL-BODY transparent Han Seoyun sprite, tiny local correction to visible EAR. The user marked the rounded protruding bulb at the lower earlobe/earring location and says this bulge must be REMOVED. Edit only this small spot near normalized image position x=0.56, y=0.094 (approximately x=570, y=145 on a 1024x1536 canvas). REMOVE the rounded flesh/white bulb-like protrusion and thick swollen-looking ring at the bottom outside edge of her visible ear. Reconstruct a smooth natural continuous EARLOBE OUTLINE without a separate dangling skin knob, extra flap, skin island or blob. Keep the ear contour small and anatomically plausible. Use a TINY almost-flat ivory/silver stud lying on the front surface INSIDE the ear outline, placed a little above the lower rim, with a delicate grey outline and pinpoint glint so it is distinguishable from skin. The stud must NOT protrude beyond the ear contour as a rounded ball. Do NOT enlarge a pearl, add a thick backing or add a dangling earring. Avoid a puffy skin ring or large dark spot. Preserve all other aspects EXACTLY: approved mature face/eyes/jaw and closed berry lips, smoky eyeliner, single tiny beauty mark at mouth corner, brown bun/strands, long-body small-head proportions, slim waist/hips and full clothed upper torso, precise pose and all natural long adult hands/fingers, tablet, blue/ivory/taupe clothes/colors/folds, silver watch, black loafers and full canvas placement. No face restyling, no body changes and no hand redraw. Preserve clean anime VN linework, coherent original skin shading and actual transparent alpha. Return the complete 1024x1536 portrait FULL-BODY IMAGE including all hair and both whole shoes, NOT an ear close-up, crop, collage or comparison. No red marks, circles or annotations, no labels or watermark, no backdrop, halo, gradient, checkerboard or floor shadow. This is removal of a tiny visible protrusion in an approved illustration. Keep the master pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0823ce61-cfc1-4064-8d2a-19e75e52c9d2.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_MASTER_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "e84a0d99c13f3cff43833986fa199d0ee53aa9465c5608d5818b2d184c55df97",
+      "upscaled_sha256": "ea7612b4dd92d908bfe8ca92ad6e1ba08fb5c407d562b858eb6a9b3606bd8e47",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    },
+    {
+      "key": "work",
+      "filename": "한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-aaa64fdc-bc3f-4445-9ab3-19b44faa54c4.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: FULL-BODY transparent Han Seoyun sprite, tiny local correction to visible EAR. The user marked the rounded protruding bulb at the lower earlobe/earring location and says this bulge must be REMOVED. Edit only this small spot near normalized image position x=0.56, y=0.094 (approximately x=570, y=145 on a 1024x1536 canvas). REMOVE the rounded flesh/white bulb-like protrusion and thick swollen-looking ring at the bottom outside edge of her visible ear. Reconstruct a smooth natural continuous EARLOBE OUTLINE without a separate dangling skin knob, extra flap, skin island or blob. Keep the ear contour small and anatomically plausible. Use a TINY almost-flat ivory/silver stud lying on the front surface INSIDE the ear outline, placed a little above the lower rim, with a delicate grey outline and pinpoint glint so it is distinguishable from skin. The stud must NOT protrude beyond the ear contour as a rounded ball. Do NOT enlarge a pearl, add a thick backing or add a dangling earring. Avoid a puffy skin ring or large dark spot. Preserve all other aspects EXACTLY: approved mature face/eyes/jaw and closed berry lips, smoky eyeliner, single tiny beauty mark at mouth corner, brown bun/strands, long-body small-head proportions, slim waist/hips and full clothed upper torso, precise pose and all natural long adult hands/fingers, tablet, blue/ivory/taupe clothes/colors/folds, silver watch, black loafers and full canvas placement. No face restyling, no body changes and no hand redraw. Preserve clean anime VN linework, coherent original skin shading and actual transparent alpha. Return the complete 1024x1536 portrait FULL-BODY IMAGE including all hair and both whole shoes, NOT an ear close-up, crop, collage or comparison. No red marks, circles or annotations, no labels or watermark, no backdrop, halo, gradient, checkerboard or floor shadow. This is removal of a tiny visible protrusion in an approved illustration. Keep the work pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-a70b7d61-d562-4734-9368-3f16e7bbc330.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+      "normalization": {
+        "uniform_scale": 1.002650762094102,
+        "offset": [
+          -2,
+          0
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_업무설명_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "1ccbac79ff34c02822ca7328e379530f9e40e88c7d611efd90fac884083c51fc",
+      "upscaled_sha256": "f20d587f513460d603256cb11d72e5932ed14ac0e6a6acb6c9a34e953da3a031",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    },
+    {
+      "key": "casual",
+      "filename": "한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-12fea6e6-e2c7-4a2d-8fe5-3e77f9cc3af7.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: FULL-BODY transparent Han Seoyun sprite, tiny local correction to visible EAR. The user marked the rounded protruding bulb at the lower earlobe/earring location and says this bulge must be REMOVED. Edit only this small spot near normalized image position x=0.56, y=0.094 (approximately x=570, y=145 on a 1024x1536 canvas). REMOVE the rounded flesh/white bulb-like protrusion and thick swollen-looking ring at the bottom outside edge of her visible ear. Reconstruct a smooth natural continuous EARLOBE OUTLINE without a separate dangling skin knob, extra flap, skin island or blob. Keep the ear contour small and anatomically plausible. Use a TINY almost-flat ivory/silver stud lying on the front surface INSIDE the ear outline, placed a little above the lower rim, with a delicate grey outline and pinpoint glint so it is distinguishable from skin. The stud must NOT protrude beyond the ear contour as a rounded ball. Do NOT enlarge a pearl, add a thick backing or add a dangling earring. Avoid a puffy skin ring or large dark spot. Preserve all other aspects EXACTLY: approved mature face/eyes/jaw and closed berry lips, smoky eyeliner, single tiny beauty mark at mouth corner, brown bun/strands, long-body small-head proportions, slim waist/hips and full clothed upper torso, precise pose and all natural long adult hands/fingers, tablet, blue/ivory/taupe clothes/colors/folds, silver watch, black loafers and full canvas placement. No face restyling, no body changes and no hand redraw. Preserve clean anime VN linework, coherent original skin shading and actual transparent alpha. Return the complete 1024x1536 portrait FULL-BODY IMAGE including all hair and both whole shoes, NOT an ear close-up, crop, collage or comparison. No red marks, circles or annotations, no labels or watermark, no backdrop, halo, gradient, checkerboard or floor shadow. This is removal of a tiny visible protrusion in an approved illustration. Keep the casual pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c3daf60f-58c1-4226-860d-e5f11f02067d.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_편한대화_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "666cdd0d3c566a350a195eecd59cdcdf06901b76ecdb54fcf47b5470fe145775",
+      "upscaled_sha256": "d83526773724458ab220debba7cac27a8ae575991254ef598bbe5c5d3caf43fd",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    }
+  ],
+  "bare_ear_applied": true,
+  "before_bare_ear_items": [
+    {
+      "key": "master",
+      "filename": "한서윤_master_최종_얇은스터드_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0823ce61-cfc1-4064-8d2a-19e75e52c9d2.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit only ONE tiny EAR DETAIL in the supplied full-body illustration. The remaining white ROUND PEARL/BALL at the lower visible earlobe MUST BE ERASED COMPLETELY. It still looks like a white swollen protrusion; do not preserve, enhance or shrink a round pearl. REMOVE THE ROUND WHITE BALL AND ITS BULGING FLESH RING. Draw a smooth normal flat earlobe outline with NO lump at its lower edge. For the jewelry, use only a very small, thin, nearly flat SILVER BAR STUD (a short delicate metallic line), lying INSIDE the front surface of the earlobe a little above the bottom rim. NO circles, spheres, pearls, round white dots, beads, thick metal mounts, dangling ornaments or protruding shapes. This tiny bar should not project outside the ear silhouette. Keep all the rest of the approved sprite faithfully unchanged: exact mature face, eye makeup, beauty mark next to mouth, closed lips, brown bun, head/body/leg proportions, bust/waist/hips, hands and long fingers, tablet pose, clothing and colours, watch and loafers, clean anime VN linework and all shadows. Return the FULL 1024x1536 head-to-shoes image with complete shoes and hair, not a close-up. Actual transparent alpha background, no halo, gradient, backdrop, floor shadow or checkerboard. No red marks, annotations, text or panels. Only erase the small swollen-looking round pearl at roughly x=570/y=145, and add the thin flat bar stud inside the smoothly repaired ear. Keep this master pose and every finger exactly.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-9d3cd1c4-4f29-423a-97ef-bc13885f8d2d.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_master_최종_얇은스터드_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_master_최종_얇은스터드_원화.png",
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_master_최종_얇은스터드_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "7bd5a4321c9c25f4d0aae2b848af1bd02b52231ca23aa0168d5ec8d9ffd997f1",
+      "upscaled_sha256": "18c9d5c47d468a85296f58a69aef763e0a930971039fa71cea9ad807fe35660c",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    },
+    {
+      "key": "work",
+      "filename": "한서윤_work_최종_얇은스터드_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-a70b7d61-d562-4734-9368-3f16e7bbc330.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit only ONE tiny EAR DETAIL in the supplied full-body illustration. The remaining white ROUND PEARL/BALL at the lower visible earlobe MUST BE ERASED COMPLETELY. It still looks like a white swollen protrusion; do not preserve, enhance or shrink a round pearl. REMOVE THE ROUND WHITE BALL AND ITS BULGING FLESH RING. Draw a smooth normal flat earlobe outline with NO lump at its lower edge. For the jewelry, use only a very small, thin, nearly flat SILVER BAR STUD (a short delicate metallic line), lying INSIDE the front surface of the earlobe a little above the bottom rim. NO circles, spheres, pearls, round white dots, beads, thick metal mounts, dangling ornaments or protruding shapes. This tiny bar should not project outside the ear silhouette. Keep all the rest of the approved sprite faithfully unchanged: exact mature face, eye makeup, beauty mark next to mouth, closed lips, brown bun, head/body/leg proportions, bust/waist/hips, hands and long fingers, tablet pose, clothing and colours, watch and loafers, clean anime VN linework and all shadows. Return the FULL 1024x1536 head-to-shoes image with complete shoes and hair, not a close-up. Actual transparent alpha background, no halo, gradient, backdrop, floor shadow or checkerboard. No red marks, annotations, text or panels. Only erase the small swollen-looking round pearl at roughly x=570/y=145, and add the thin flat bar stud inside the smoothly repaired ear. Keep this work pose and every finger exactly.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c03779af-978b-4eef-baf0-ba2a6f4ac81c.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_최종_얇은스터드_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_최종_얇은스터드_원화.png",
+      "normalization": {
+        "uniform_scale": 1.003315649867374,
+        "offset": [
+          -2,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_최종_얇은스터드_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "46ac8c2ae16d94673241805006ecee3123bf0f2866e21b60d1826caaf961492f",
+      "upscaled_sha256": "b240a24f9149dbd0cf001ca6848a7fa63d584423abc686e03fa9d621b69a1276",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    },
+    {
+      "key": "casual",
+      "filename": "한서윤_casual_최종_얇은스터드_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c3daf60f-58c1-4226-860d-e5f11f02067d.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit only ONE tiny EAR DETAIL in the supplied full-body illustration. The remaining white ROUND PEARL/BALL at the lower visible earlobe MUST BE ERASED COMPLETELY. It still looks like a white swollen protrusion; do not preserve, enhance or shrink a round pearl. REMOVE THE ROUND WHITE BALL AND ITS BULGING FLESH RING. Draw a smooth normal flat earlobe outline with NO lump at its lower edge. For the jewelry, use only a very small, thin, nearly flat SILVER BAR STUD (a short delicate metallic line), lying INSIDE the front surface of the earlobe a little above the bottom rim. NO circles, spheres, pearls, round white dots, beads, thick metal mounts, dangling ornaments or protruding shapes. This tiny bar should not project outside the ear silhouette. Keep all the rest of the approved sprite faithfully unchanged: exact mature face, eye makeup, beauty mark next to mouth, closed lips, brown bun, head/body/leg proportions, bust/waist/hips, hands and long fingers, tablet pose, clothing and colours, watch and loafers, clean anime VN linework and all shadows. Return the FULL 1024x1536 head-to-shoes image with complete shoes and hair, not a close-up. Actual transparent alpha background, no halo, gradient, backdrop, floor shadow or checkerboard. No red marks, annotations, text or panels. Only erase the small swollen-looking round pearl at roughly x=570/y=145, and add the thin flat bar stud inside the smoothly repaired ear. Keep this casual pose and every finger exactly.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-533d5301-aedc-4e9c-9337-15fd9c058251.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_최종_얇은스터드_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_최종_얇은스터드_원화.png",
+      "normalization": {
+        "uniform_scale": 1.0039814200398143,
+        "offset": [
+          -2,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_최종_얇은스터드_원화_2x_원화보존.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "source_sha256": "b5e7a31b8e1c4735af4dc696b03192856c48d81ac1f7d0a781abd051b443d803",
+      "upscaled_sha256": "d9530d0f2b079581652f6bb71051d7c743e257f6369d571fec56b400c2639faa",
+      "recipe": "Uniform scale/padding; Lanczos original 60% + Real-ESRGAN general 40%"
+    }
+  ],
+  "restoration_backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_서윤원화복원",
+  "immutable_sources": [
+    {
+      "key": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+      "source_sha256": "eeb1a502bf7b962fa393edd9c2e8b2f7417ea3e6188185c2f2f777db89d4df7b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          0
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\master_정규화.png",
+      "baseline_upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_승인원화_보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+    },
+    {
+      "key": "work",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+      "source_sha256": "f10982b9112d9e2e7e3e98973b024ee84abe0d837a881e1a3e1cc79650030b1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "normalization": {
+        "uniform_scale": 1.0053156146179403,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\work_정규화.png",
+      "baseline_upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_승인원화_보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png"
+    },
+    {
+      "key": "casual",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+      "source_sha256": "f78cd706375289858db9fd38d993057d009dfa634e4f6adfeb00ab63ae6ef24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "normalization": {
+        "uniform_scale": 1.0059840425531914,
+        "offset": [
+          -3,
+          -1
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "note": "Uniform scale/padding only. Accepted head/body/leg proportions remain unchanged."
+      },
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\casual_정규화.png",
+      "baseline_upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_승인원화_보존2x.png",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png"
+    }
+  ],
+  "additional_seoyun_palette_filter": false,
+  "upscale_method": "Original-preserving Lanczos 2x; no new texture synthesis",
+  "local_edit_output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1",
+  "local_ear_patch_applied": true,
+  "local_ear_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-354dbaa5-740d-4ba3-9f0d-445170601532.png",
+  "local_ear_proof": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정_픽셀검증.json",
+  "native_checks_passed": 26,
+  "current_renderer_exactly_matches_sprite_files": true,
+  "visual_review_completed": true,
+  "lint_passed": true
+}

@@ -63,7 +63,7 @@ init python:
                 if msg.get("id") == pending["id"]:
                     msg["delivery"] = "read" if pending["elapsed"] >= 1.2 else ("sent" if pending["elapsed"] >= 0.6 else "sending")
             if pending["elapsed"] >= pending["arrive_at"]:
-                phone_messages.append({"who":pending["who"],"out":False,"text":pending["text"],"time":pending["time"],"id":pending["id"]+":response"})
+                phone_messages.append({"who":pending["who"],"out":False,"text":pending["text"],"time":clock,"day":day,"event":pending.get("event"),"id":pending["id"]+":response"})
                 phone_pending.remove(pending)
                 if viewed != pending["who"] or tab != "messages":
                     phone_unread[pending["who"]] += 1

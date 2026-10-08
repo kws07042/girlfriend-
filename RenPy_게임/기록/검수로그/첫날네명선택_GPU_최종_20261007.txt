@@ -1,0 +1,182 @@
+Early init took 63 ms
+Loading error handling took 36 ms
+Loading script took 437 ms
+Loading save slot metadata took 163 ms
+Loading persistent took 2 ms
+Running init code took 54 ms
+Loading analysis data took 9 ms
+Analyze and compile ATL took 3 ms
+Reloading save slot metadata took 20 ms
+Backing up script files to 'C:\\Users\\user\\AppData\\Local\\Temp\\office-day1-choice-saves/backups\\RenPy_게임':
+Dump and make backups took 103 ms
+Cleaning cache took 3 ms
+Making clean stores took 2 ms
+Initial gc took 40 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 261 ms
+Init translation took 0 ms
+Cleaning stores took 1 ms
+Load screen analysis took 0 ms
+Analyze screens took 11 ms
+Save screen analysis took 14 ms
+Save pyanalysis took 0 ms
+Save bytecode took 38 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_day1_choices_20261007
+[rpytest] [log] - global.office_day1_choices_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 8 ms
+Interface start took 248 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 522.25'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+[rpytest] [exc]   + office_day1_choices_20261007
+[rpytest] [exc]     - seoyun_full
+[rpytest] [exc]     - seoyun_full (23.000 s)
+Cleaning stores took 0 ms
+Load screen analysis took 41 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - ria_full
+[rpytest] [exc]     - ria_full (11.427 s)
+Cleaning stores took 0 ms
+Load screen analysis took 20 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - yujin_full
+[rpytest] [exc]     - yujin_full (18.619 s)
+Cleaning stores took 0 ms
+Load screen analysis took 21 ms
+Analyze screens took 1 ms
+Running _start took 3 ms
+[rpytest] [exc]     - jihyun_full
+[rpytest] [exc]     - jihyun_full (17.410 s)
+Cleaning stores took 0 ms
+Load screen analysis took 21 ms
+Analyze screens took 0 ms
+Running _start took 3 ms
+[rpytest] [exc]     - rest_full
+[rpytest] [exc]     - rest_full (3.441 s)
+Cleaning stores took 0 ms
+Load screen analysis took 28 ms
+Analyze screens took 0 ms
+Running _start took 4 ms
+[rpytest] [exc]     - mixed_contacts_and_save
+[rpytest] [exc]     - mixed_contacts_and_save (11.683 s)
+Cleaning stores took 0 ms
+Load screen analysis took 28 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - decline_invitation
+[rpytest] [exc]     - decline_invitation (9.791 s)
+Cleaning stores took 0 ms
+Load screen analysis took 15 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - interrupt_call
+[rpytest] [exc]     - interrupt_call (9.857 s)
+
+[rpytest] Test outcomes (Detailed)
+[rpytest] PASSED  global               - (109.599 s [01:49])
+[rpytest]   PASSED  office_day1_choices_20261007 - (108.819 s [01:48])
+[rpytest]     PASSED  seoyun_full          - (23.000 s)
+[rpytest]     PASSED  ria_full             - (11.427 s)
+[rpytest]     PASSED  yujin_full           - (18.619 s)
+[rpytest]     PASSED  jihyun_full          - (17.410 s)
+[rpytest]     PASSED  rest_full            - (3.441 s)
+[rpytest]     PASSED  mixed_contacts_and_save - (11.683 s)
+[rpytest]     PASSED  decline_invitation   - (9.791 s)
+[rpytest]     PASSED  interrupt_call       - (9.857 s)
+[rpytest]   NOT RUN office_message_day_boundary
+[rpytest]   NOT RUN office_message_backlog
+[rpytest]   NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_restore_20261007
+[rpytest]     NOT RUN original_faces      
+[rpytest]     NOT RUN office_phone_live   
+[rpytest]     NOT RUN office_phone_scroll 
+[rpytest]     NOT RUN office_reply_marker 
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_scene_motion 
+[rpytest]     NOT RUN office_bc_camera    
+[rpytest]   NOT RUN office_other_expressions
+[rpytest]   NOT RUN office_phone_continuity_20261007
+[rpytest]     NOT RUN late_personality    
+[rpytest]     NOT RUN followup_state      
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_phone_live   
+[rpytest]   NOT RUN office_phone_scroll 
+[rpytest]   NOT RUN office_pose_flow    
+[rpytest]   NOT RUN office_pose_palette_20261007
+[rpytest]     NOT RUN palette_frames      
+[rpytest]     NOT RUN fixed_comparison_frames
+[rpytest]   NOT RUN office_private_week_20261007
+[rpytest]     NOT RUN seoyun_book         
+[rpytest]     NOT RUN yujin_cup           
+[rpytest]     NOT RUN jihyun_movie_save   
+[rpytest]   NOT RUN office_reply_marker 
+[rpytest]   NOT RUN office_ria_animation
+[rpytest]   NOT RUN office_ria_soft_expressions
+[rpytest]   NOT RUN office_scene_ghost_20261007
+[rpytest]     NOT RUN lunch_to_office     
+[rpytest]     NOT RUN empty_scene_save_and_call
+[rpytest]     NOT RUN all_heroine_outgoing_freeze
+[rpytest]   NOT RUN office_scene_motion 
+[rpytest]   NOT RUN office_selected_assets_20261007
+[rpytest]     NOT RUN assets_and_frames   
+[rpytest]   NOT RUN office_seoyun_expressions
+[rpytest]   NOT RUN office_seoyun_local_preservation_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_master_approved_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_rebuild_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_skin_jaw_v2  
+[rpytest]   NOT RUN office_qa           
+[rpytest]     NOT RUN cafe_path           
+[rpytest]     NOT RUN home_path           
+[rpytest]     NOT RUN photo_permissions   
+[rpytest]   NOT RUN office_ui_preview   
+[rpytest]   NOT RUN office_upscaled_assets
+[rpytest]   NOT RUN office_week         
+[rpytest]     NOT RUN continuous_week     
+[rpytest]     NOT RUN adjusted_and_rest   
+[rpytest]   NOT RUN office_week_visual  
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    14 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     1 skipped |    11 not run
+[rpytest] Test cases :    29 |     8 passed |     0 xfailed |     0 failed |     0 xpassed |     5 skipped |    16 not run
+[rpytest] Test hooks :    10 |    10 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    74 |    74 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 109.600 s [01:49]
+[rpytest] Status: PASSED 
+

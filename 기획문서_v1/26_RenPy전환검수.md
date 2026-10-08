@@ -29,4 +29,4 @@ Ren’Py lint와 compile 성공. lint에는 충돌 속성 검사 활성화 권�
 
 ## 배경 생성 기록
 
-Built-in image_gen 사용, 사용자 OFFICE_DAY와 CAFE 이미지를 실제 스타일 참조 입력으로 전달. 프롬프트 공통/장소별 내용은24번 문서에 기록했다. 결과 BG_LOUNGE_DAY_001.png·BG_TERRACE_DAY_001.png·BG_HOME_NIGHT_001.png를 backgrounds와 game/images/bg 양쪽에 복사했고 원본 생성 파일은 보존했다. 캐릭터 사진은 이번에 생성하지 않았다.
+Built-in image_gen 사용, 사용자 OFFICE_DAY와 CAFE 이미지를 실제 스타일 참조 입력으로 전달. 프롬프트 공통/장소별 내용은24번 문서에 기록했다. 결과 BG_LOUNGE_DAY_001.png·BG_TERRACE_DAY_001.png·BG_HOME_NIGHT_001.png를 원본자료/배경/사용자원본와 game/images/bg 양쪽에 복사했고 원본 생성 파일은 보존했다. 캐릭터 사진은 이번에 생성하지 않았다.

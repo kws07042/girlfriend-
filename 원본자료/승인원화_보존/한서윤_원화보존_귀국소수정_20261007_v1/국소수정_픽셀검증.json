@@ -1,0 +1,135 @@
+{
+  "mode": "built-in image_gen cropped-ear edit + lossless PNG pixel composition",
+  "edited_ear_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-354dbaa5-740d-4ba3-9f0d-445170601532.png",
+  "scope": "Only a 34x36 ear rectangle; all RGBA pixels outside it and all alpha values are original.",
+  "items": [
+    {
+      "key": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+      "source_sha256": "eeb1a502bf7b962fa393edd9c2e8b2f7417ea3e6188185c2f2f777db89d4df7b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_master_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 554,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        4,
+        10,
+        8
+      ],
+      "pose_alignment": {
+        "x": 0,
+        "y": 0
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1084,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "1e5aaacda2d8d8a65ad8a7fed9add972714a0c972990cfa21c8bdce3823ad27b"
+    },
+    {
+      "key": "work",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+      "source_sha256": "f10982b9112d9e2e7e3e98973b024ee84abe0d837a881e1a3e1cc79650030b1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_work_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        13,
+        12
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 536.063829787234
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1083,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "f13a3dc0cea2aba6a133c39b69171d7b7a8ce0f32fc6e3ce8c1b9feeb0c83c07"
+    },
+    {
+      "key": "casual",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+      "source_sha256": "f78cd706375289858db9fd38d993057d009dfa634e4f6adfeb00ab63ae6ef24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      },
+      "patched_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_casual_귀만수정_원화.png",
+      "local_bounds": {
+        "x": 555,
+        "y": 130,
+        "width": 34,
+        "height": 36
+      },
+      "ear_color_offset": [
+        6,
+        11,
+        11
+      ],
+      "pose_alignment": {
+        "x": 1,
+        "y": 0,
+        "cost": 626.7936170212766
+      },
+      "edited_alignment": {
+        "x": 0,
+        "y": 0,
+        "cost": 110.80467091295117
+      },
+      "changed_pixels": 1082,
+      "outside_ear_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "patched_sha256": "d2f32c0f25404d0cf6c1a2d3e4153ea73fe49d3a10434a819951c0f93e47fdd6"
+    }
+  ]
+}

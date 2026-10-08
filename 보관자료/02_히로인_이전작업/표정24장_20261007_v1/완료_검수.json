@@ -1,0 +1,199 @@
+{
+  "complete": true,
+  "sprite_count": 24,
+  "characters": 4,
+  "sprites_per_character": 6,
+  "new_expression_edits": 12,
+  "preserved_defaults": 12,
+  "live2d_model": false,
+  "runtime_applied": false,
+  "all_current_game_source_images_unchanged": true,
+  "reviewed_game_story_files_unchanged": {
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\story_day01.rpy": true,
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\story_week01.rpy": true,
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\week_phone.rpy": true,
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\state.rpy": true
+  },
+  "checks": [
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "size": [
+        2048,
+        3070
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 12841,
+      "metadata_preserved": true
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3070
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 12850,
+      "metadata_preserved": true
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3070
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 12676,
+      "metadata_preserved": true
+    },
+    {
+      "who": "ria",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 19225,
+      "metadata_preserved": true
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 19666,
+      "metadata_preserved": true
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 15855,
+      "metadata_preserved": true
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 14673,
+      "metadata_preserved": true
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 14371,
+      "metadata_preserved": true
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 14804,
+      "metadata_preserved": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 15607,
+      "metadata_preserved": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 15401,
+      "metadata_preserved": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "base_source_sha_matches": true,
+      "original_alpha_exact": true,
+      "outside_face_crop_changed": 0,
+      "outside_feature_masks_changed": 0,
+      "body_changed": 0,
+      "changed_pixels": 15596,
+      "metadata_preserved": true
+    }
+  ]
+}

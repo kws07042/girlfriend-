@@ -1,0 +1,23 @@
+{
+  "who": "yujin",
+  "name": "차유진",
+  "key": "work",
+  "label": "시안보여주기",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-95d314bd-1c00-4f15-a4fb-c888f374fc0b.png",
+  "status": "요청에 따라 제작",
+  "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Design explanation pose. Hold her cream portfolio/display board upright in front of her lower torso with one hand. Turn its page face gently toward the viewer, showing only a sparse abstract arrangement of two small neutral color rectangles, no writing. The other hand points naturally with relaxed index finger to one area of this board, remaining low around waist level. Composed reserved professional expression, focused purple almond eyes, slightly parted lips as she explains, no exaggerated grin. Preserve long dark blue hair, gold earrings, burgundy square neckline dress with belt and original matching shoes. No pen or new accessories. Keep exact face identity, mature age/proportions, eye color and iris size, hair silhouette/texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_시안보여주기_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_시안보여주기_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "35120d1560f59bfee7d012d75843d3cca4515294367cacac65af1e2814600e04"
+}

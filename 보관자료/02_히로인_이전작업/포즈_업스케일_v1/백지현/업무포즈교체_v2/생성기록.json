@@ -1,0 +1,28 @@
+{
+  "who": "jihyun",
+  "name": "백지현",
+  "key": "work",
+  "label": "팔교차_업무대화",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8df2a203-ca4a-4d7e-91f6-436be31c3a17.png",
+  "status": "요청에 따라 제작",
+  "prompt": "Edit the approved MASTER into ONE new work-discussion pose of the EXACT adult 36-year-old Baek Jihyun. Replace the original clasped hands with BOTH ARMS RELAXEDLY FOLDED ACROSS THE LOWER CHEST / UPPER WAIST, a composed confident listening stance. One forearm lies gently across the torso while the other hand rests lightly on the opposite upper forearm, fingers anatomically natural; shoulders relaxed, not defensive or angry. NO open-palm explaining gesture and NO coffee cup, so this is clearly distinct from Kang Ria's hand gesture pose. Calm professional expression with a restrained closed-lip smile, mature brown eyes, same face identity, head tilt and short dark bob. Preserve original black blazer, white shirt, black skirt, sheer tights, stud earrings, wristwatch and pumps, outfit textures/cuts/colors and body proportions. Modest natural adult workplace posture, no exaggerated emotion. Keep original fullbody camera, overall body scale, leg placement, head height and shoe margins. One 1024x1536 vertical fullbody sprite, actual transparent background, no text/labels/multiple panels, no redesign or new accessories.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_원화_v2.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_2x_원화보존_v2.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "00843a01ae8950727aa60684b3a3225617c3a61b96166164fff8dd41d475393d",
+  "version": 2,
+  "previous": {
+    "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\원화\\백지현_손짓하며설명_원화.png",
+    "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_손짓하며설명_2x_원화보존.png"
+  }
+}

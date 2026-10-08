@@ -1,0 +1,23 @@
+{
+  "who": "ria",
+  "name": "강리아",
+  "key": "listening",
+  "label": "커피내리고듣기",
+  "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1\\강리아_커피내리고듣기.png",
+  "status": "사용자 채택",
+  "prompt": "이전 생성 채택본: 커피를 든 손을 내리고 진지하게 듣는 포즈.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\원화\\강리아_커피내리고듣기_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_커피내리고듣기_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "a142fd276f53d4b4a5ed0259debe468e507cf36a3c120123d0fc10e974e035c3"
+}

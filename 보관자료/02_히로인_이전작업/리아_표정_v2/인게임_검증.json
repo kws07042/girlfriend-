@@ -1,0 +1,19 @@
+{
+  "smile": {
+    "changed_pixels": 46786,
+    "outside_face": 0,
+    "size": [
+      2048,
+      3072
+    ]
+  },
+  "surprised": {
+    "changed_pixels": 46749,
+    "outside_face": 0,
+    "size": [
+      2048,
+      3072
+    ]
+  },
+  "other_assets_unchanged": 14
+}

@@ -1,0 +1,38 @@
+{
+  "id": "seoyun_date_b",
+  "who": "seoyun",
+  "kind": "date_b",
+  "references": [
+    "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-da5a3f50-5838-47ae-b3c2-dd8aa8a91ebe.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+  ],
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Han Seoyun, an ADULT age 40. Exact mature face, brown eyes, brown low bun and side locks, strong refined eye makeup, closed berry lips, ONE beauty mark at viewer-right mouth corner, no earrings, smooth bare ears, same round wristwatch. Same adult full upper torso, slim waist, long legs and small mature head proportion. New date pose B: her tan handbag is held with both long adult hands at the FRONT of her lower waist, elbows gently bent and wrists not crossed; feet comfortably near parallel with one a small step forward; relaxed shoulders toward viewer. No hand on hip and no handbag hanging at one side. Preserve EXACT berry-wine wrap midi dress, three-quarter sleeves and cuffs, waist tie, flared hem, black gold-bar flat loafers, bag hardware/short handles, wristwatch, bare ears. Same expression and face orientation as image 1. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0f03d6c3-b26f-4a1c-8b6d-9ba58f11ad4e.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_date_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_date_b_2x.png",
+  "source_size": [
+    1024,
+    1535
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "a093d1ce4e5b77e30fa9c5136aa6e1b6602e1fc3118dbd96ae4d678467630e7c",
+  "output_sha256": "95fe76303b9dd6511b0a3c81234323acbfe3cbfbfbd5d6cd261da58ae864b1d0",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 15.92
+}

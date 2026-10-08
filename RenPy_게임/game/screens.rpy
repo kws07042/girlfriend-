@@ -98,6 +98,7 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
     default tab = "calls" if ring_pending else "messages"
     default contact = ring_who if ring_pending else (initial_contact or phone_focus)
     default message_scroll = PhoneChatAdjustment()
+    default selected_reply_key = None
     $ message_scroll.select_contact(contact)
     if ring_pending and tab != "calls":
         timer 0.01 action SetScreenVariable("tab", "calls")
@@ -124,7 +125,7 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
                     text "대화" size 22 color "#28636A" ypos 6
                     textbutton "수신 설정" xpos 260 action SetScreenVariable("tab","settings") style "phone_equal_button" xsize 126 ysize 44 text_size 17
                     if mode:
-                        textbutton "계속" xpos 430 action Return("continue") sensitive (not ring_pending and not phone_pending and (required_reply is None or required_reply in phone_replied)) style "phone_equal_button" xsize 86 ysize 44 text_size 21
+                        textbutton "계속" xpos 430 action Return("continue") sensitive (not ring_pending and not phone_pending and (required_reply is None or required_reply in phone_replied or phone_reply_has_expired(required_reply))) style "phone_equal_button" xsize 86 ysize 44 text_size 21
                     else:
                         textbutton "닫기" xpos 430 action Hide("phone") style "phone_equal_button" xsize 86 ysize 44 text_size 21
                 fixed:
@@ -146,7 +147,7 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
                         for who in names:
                             fixed:
                                 xsize 126 ysize 64
-                                textbutton names[who][1:] action [SetScreenVariable("contact",who), Function(phone_mark_read,who)] selected contact==who style "phone_equal_button" xsize 126 ysize 48 ypos 14 text_size 21
+                                textbutton names[who][1:] action [SetScreenVariable("contact",who), SetScreenVariable("selected_reply_key",None), Function(phone_mark_read,who)] selected contact==who style "phone_equal_button" xsize 126 ysize 48 ypos 14 text_size 21
                                 if tab == "messages":
                                     use phone_contact_marker(who, required_reply)
                 add Solid("#D9DCD7") xpos 0 ypos 267 xsize 516 ysize 1
@@ -160,7 +161,10 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
                             if not any(msg["who"]==contact for msg in phone_messages):
                                 null height 75
                                 text "아직 도착한 메시지가 없어요." size 23 color "#899499" xalign 0.5
-                            for msg in phone_messages:
+                            $ contact_messages = [msg for msg in phone_messages if msg["who"] == contact]
+                            for index, msg in enumerate(contact_messages):
+                                if index == 0 or msg.get("day",1) != contact_messages[index-1].get("day",1):
+                                    text "DAY %02d" % msg.get("day",1) size 16 color "#899499" xalign 0.5
                                 if msg["who"] == contact:
                                     vbox:
                                         xalign (1.0 if msg["out"] else 0.0)
@@ -179,6 +183,8 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
                                                             add Transform(photo_path(msg["photo"]),xysize=(340,172),fit="cover")
                                                     textbutton "사진 열기" action Show("phone_photo",token=msg["photo"]) style "ui_chip_button" text_size 21
                                         text phone_message_status(msg) size 15 color "#929B9B" xalign (1.0 if msg["out"] else 0.0)
+                                        if not msg["out"] and msg.get("event") and phone_reply_has_expired(msg["event"]) and msg["text"] == message_data[msg["event"]]["texts"][-1]:
+                                            text "답장 시간이 지난 약속이에요" size 15 color "#899499"
                             if phone_is_typing(contact):
                                 use phone_typing(contact)
                             null height 14
@@ -186,10 +192,14 @@ screen phone(mode=None, initial_contact=None, required_reply=None):
                         textbutton "최신 메시지" xpos 360 ypos (574 if phone_has_replies(contact) else 744) action Function(message_scroll.latest) style "ui_light_button" text_size 18 padding (12,8)
                     vbox:
                         xpos 0 ypos 620 spacing 6 xsize 516
-                        $ reply_key = current_reply_key(contact)
+                        $ reply_key = phone_selected_reply(contact, selected_reply_key, required_reply)
                         if reply_key:
-                            text "빠른 답장" size 17 color "#899499"
-                            for option in message_data[reply_key]["reply"]:
+                            hbox:
+                                spacing 12
+                                text "DAY %02d 메시지에 답장" % phone_event_day(reply_key) size 17 color "#899499" yalign 0.5
+                                if len(phone_reply_keys(contact)) > 1:
+                                    textbutton "다른 미답장 (%d)" % len(phone_reply_keys(contact)) action SetScreenVariable("selected_reply_key",phone_next_reply(contact,reply_key)) sensitive not phone_pending style "phone_equal_button" xsize 190 ysize 26 text_size 16
+                            for option in phone_reply_options(reply_key):
                                 textbutton option["text"] action Function(reply_message,reply_key,option) sensitive not phone_pending style "ui_light_button" text_size 20 xfill True padding (16,10)
                 elif tab == "calls":
                     viewport:
@@ -307,6 +317,16 @@ screen relationship_panel():
             spacing 24
             text "PEOPLE & MOMENTS" size 22 color "#916641" kerning 2
             text "조금씩 가까워지는 사이" size 45
+            if day <= 5:
+                text "이번 주는 네 사람을 함께 알아가는 시간이에요." size 23 color "#899499"
+            elif route_intent == "team":
+                text "지금은 팀과 나의 일에 집중하고 있어요." size 23 color "#899499"
+            elif route_intent in names:
+                text "다음에 더 깊게 알아갈 사람: " + names[route_intent] size 23 color "#899499"
+            elif focus_interest in names:
+                text "지금 조금 더 알아보고 싶은 사람: " + names[focus_interest] size 23 color "#899499"
+            else:
+                text "아직 마음을 정하지 않고 이야기하는 중이에요." size 23 color "#899499"
             hbox:
                 spacing 22
                 for who in names:
@@ -362,12 +382,23 @@ screen preferences():
             vbox:
                 spacing 25 xsize 1000
                 text "텍스트 속도"
-                bar value Preference("text speed")
+                bar:
+                    value Preference("text speed")
+                    xsize 1000 ysize 24
+                    left_bar Solid("#28616A")
+                    right_bar Solid("#CDD7D2")
+                    thumb Transform(Solid("#D6B18A"),xysize=(18,30))
                 text "자동 진행 대기"
-                bar value Preference("auto-forward time")
+                bar:
+                    value Preference("auto-forward time")
+                    xsize 1000 ysize 24
+                    left_bar Solid("#28616A")
+                    right_bar Solid("#CDD7D2")
+                    thumb Transform(Solid("#D6B18A"),xysize=(18,30))
                 textbutton "전체 화면 / 창 모드" action Preference("display","toggle") style "ui_light_button"
                 textbutton "움직임 줄이기" action ToggleField(persistent,"reduce_motion") style "ui_light_button"
                 text "현재 움직임 줄이기: " + ("켜짐" if persistent.reduce_motion else "꺼짐") size 24 color "#899499"
+                textbutton "캐릭터 움직임: 준비 중" action NullAction() sensitive False style "ui_light_button"
                 text "통화는 대사로 표시됩니다." size 24 color "#899499"
 
 screen history():
@@ -414,7 +445,7 @@ screen day_result():
         vbox:
             spacing 22
             text "DAY %02d / AFTER HOURS" % day size 24 color "#916641" kerning 2
-            text ("첫 주를 마치며" if day == 5 else "내일 이어질 이야기") size 54
+            text ("첫 주를 마치며" if day == 5 else ("다음 이야기의 방향" if day == 11 else "내일 이어질 이야기")) size 54
             grid 2 2:
                 spacing 18 xfill True
                 for who in names:
@@ -423,10 +454,10 @@ screen day_result():
             frame:
                 background ui_panel("incoming") xfill True
                 text "다음 약속: " + next_meeting_text() size 24 xmaximum 990
-            text ("첫 주 플레이는 여기까지입니다. 6일차부터는 제작 예정입니다.\n히로인 루트는 15일차 저녁에 선택합니다." if day == 5 else "오늘의 선택과 연락은 다음 날에도 이어집니다.") size 24 color "#899499"
+            text ("다음 주에는 더 알아보고 싶은 사람을 고릅니다.\n대화하면서 마음이 달라지면 다시 정할 수 있어요." if day == 5 else ("이후 본편은 제작 중입니다. 방향 선택은 교제나 후반 루트 진입을 확정하지 않습니다." if day == 11 else "오늘의 선택과 연락은 다음 날에도 이어집니다.")) size 24 color "#899499"
             hbox:
                 spacing 16
-                if day < 5:
+                if day < 11:
                     textbutton "%d일차로 계속" % (day+1) action Return("continue") style "ui_action_button"
                 textbutton "휴대폰 확인" action Show("phone") style "ui_light_button"
                 textbutton "저장" action ShowMenu("save") style "ui_light_button"

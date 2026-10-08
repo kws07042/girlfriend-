@@ -1,0 +1,65 @@
+{
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\한서윤_태블릿설명_MASTER눈입복원_v4_2x.png",
+  "prompt": "MASTER의 눈/눈썹/입술 픽셀을 기존 손 수정본에 복원. 얼굴 재생성 없음. 손/몸/의상/투명도 유지.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\한서윤_태블릿설명_MASTER눈입복원_v4_2x.png",
+  "source_sha256": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+  "status": "사용자 피드백 반영",
+  "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+  "dimensions": [
+    2048,
+    3070
+  ],
+  "who": "seoyun",
+  "correction": "MASTER 눈매와 입술선 복원",
+  "version": 4,
+  "recipe": "Reuse approved 2x MASTER eyes/brows/lips; approved hand correction retained",
+  "face_regions": [
+    {
+      "center": [
+        1022,
+        230
+      ],
+      "feather": 8,
+      "radii": [
+        78,
+        52
+      ]
+    },
+    {
+      "center": [
+        908,
+        266
+      ],
+      "feather": 8,
+      "radii": [
+        62,
+        48
+      ]
+    },
+    {
+      "center": [
+        1000,
+        348
+      ],
+      "feather": 6,
+      "radii": [
+        58,
+        32
+      ]
+    }
+  ],
+  "generation_tool": "No new generation; approved MASTER pixel restoration",
+  "previous": {
+    "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+    "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\한서윤_태블릿설명_손가락수정_v3.png"
+  },
+  "label": "태블릿보며설명",
+  "alpha_preserved": true,
+  "name": "한서윤",
+  "key": "work",
+  "mode": "RGBA",
+  "pixels_changed_outside_face_region": 0,
+  "alpha_changed_pixels": 0,
+  "master_feature_pixels_exact": true,
+  "hand_pixels_unchanged": true
+}

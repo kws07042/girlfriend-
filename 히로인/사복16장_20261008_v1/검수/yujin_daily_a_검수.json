@@ -1,0 +1,37 @@
+{
+  "id": "yujin_daily_a",
+  "who": "yujin",
+  "kind": "daily_a",
+  "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png",
+  "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. Supplied image is the immutable identity/body/art-style reference for Cha Yujin, a 32-year-old adult Korean woman. Preserve her exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, natural peach skin hue, adult curvy torso, slim waist and long legs; preserve the same delicate gold connector and SINGLE gold teardrop earring on each visible ear, smooth anatomically normal ear lobes, no extra jewelry or flesh bumps. Match exactly the reference's elegant clean anime VN linework, glossy but finely shaded hair, controlled soft skin and fabric rendering. Change only outfit and pose. Outfit: relaxed dusty-mauve fine-knit boat-neck sweater with long sleeves loosely pushed to her forearms, fitted neatly at the waist without childish oversized proportions, charcoal high-waisted wide-leg trousers, burgundy flat ballet shoes. No office burgundy dress or high heels. Pose: thoughtful casual three-quarter stance, one hand naturally tucking a loose hair strand behind her ear without obscuring the face, other arm hanging naturally with hand holding the short handles of a small plain cream canvas tote beside her thigh. Slight gentle tilt of head, reserved closed-mouth smile, comfortable adult poise; this is NOT the office chin-touch / crossed-arm pose. Fingers long enough, individually defined, anatomically correct; earrings remain visible and distinct from skin. One SINGLE sprite, whole crown and both entire shoes in frame with comfortable margins; centered portrait canvas; neutral even lighting. Genuine transparent alpha background; no scenery, floor shadow, glow, dark aura, colored fringing, text, logo or watermark. Lock her face identity, hairstyle, body scale and skin hue. Visual novel illustration, NOT a photorealistic photo.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png"
+  ],
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_daily_a.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_daily_a_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "d82557736e42113c7ba273bec283c738fe4b30da7cfff9870b07ec9471e1e105",
+  "output_sha256": "9c9511fb2137d12e65a086211015f425c7152ec7542c43b582ec076cd863e141",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 20.84
+}

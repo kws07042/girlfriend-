@@ -1,0 +1,185 @@
+Early init took 45 ms
+Loading error handling took 20 ms
+Loading script took 380 ms
+Loading save slot metadata took 93 ms
+Loading persistent took 2 ms
+Running init code took 40 ms
+Loading analysis data took 4 ms
+Analyze and compile ATL took 2 ms
+Reloading save slot metadata took 11 ms
+Backing up script files to 'C:\\Users\\user\\AppData\\Local\\Temp\\office-focus-week-saves/backups\\RenPy_게임':
+Dump and make backups took 10 ms
+Cleaning cache took 1 ms
+Making clean stores took 1 ms
+Initial gc took 31 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 197 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 7 ms
+Save screen analysis took 11 ms
+Save pyanalysis took 0 ms
+Save bytecode took 28 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_focus_week_20261007
+[rpytest] [log] - global.office_focus_week_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 4 ms
+Interface start took 175 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 522.25'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+[rpytest] [exc]   + office_focus_week_20261007
+[rpytest] [exc]     - earned_switch_and_save
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 471, in execute
+    self.node_state = self.node.execute(self.node_state, elapsed)
+                      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1561, in execute
+    raise RenpyTestScreenshotError(
+    ...<3 lines>...
+    )
+renpy.test.types.RenpyTestScreenshotError: C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.png (pixel difference: 1683368 > 200)
+Current image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.new.png
+Difference image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.diff.png
+
+While running game code:
+renpy.test.types.RenpyTestScreenshotError: C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.png (pixel difference: 1683368 > 200)
+Current image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.new.png
+Difference image saved to C:\Users\user\Desktop\건\오피스\RenPy_게임\샘플\첫주공통_20261007\관심변경검수\week2_earned_change_20261007.diff.png
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_week02.rpy", line 88, in script call
+  call week2_reconsider
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_week02.rpy", line 168, in script
+  menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\focus_week_test.rpy", line 8, in testsuite global
+    testsuite office_focus_week_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\focus_week_test.rpy", line 24, in testsuite office_focus_week_20261007
+    testcase earned_switch_and_save:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\focus_week_test.rpy", line 62, in testcase earned_switch_and_save
+    screenshot "week2_earned_change_20261007" max_pixel_difference 200
+
+====================
+[rpytest] [exc]     - earned_switch_and_save (15.755 s)
+[rpytest] [exc]     - earned_switch_and_save (15.755 s)
+Cleaning stores took 0 ms
+Load screen analysis took 41 ms
+Analyze screens took 0 ms
+Running _start took 1 ms
+[rpytest] [exc]     - undecided_and_team
+[rpytest] [exc]     - undecided_and_team (4.235 s)
+Cleaning stores took 1 ms
+Load screen analysis took 16 ms
+Analyze screens took 0 ms
+Running _start took 2 ms
+[rpytest] [exc]     - undecided_to_yujin
+[rpytest] [exc]     - undecided_to_yujin (20.716 s)
+
+[rpytest] Test outcomes (Detailed)
+[rpytest] FAILED  global               - (43.883 s)
+[rpytest]   FAILED  office_focus_week_20261007 - (43.320 s)
+[rpytest]     FAILED  earned_switch_and_save - (15.755 s)
+[rpytest]     PASSED  undecided_and_team   - (4.235 s)
+[rpytest]     PASSED  undecided_to_yujin   - (20.716 s)
+[rpytest]   NOT RUN office_week         
+[rpytest]     NOT RUN shared_and_answers  
+[rpytest]     NOT RUN shared_and_boundaries
+[rpytest]     NOT RUN shared_call_interrupt
+[rpytest]   NOT RUN office_message_day_boundary
+[rpytest]   NOT RUN office_message_backlog
+[rpytest]   NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_restore_20261007
+[rpytest]     NOT RUN original_faces      
+[rpytest]     NOT RUN office_phone_live   
+[rpytest]     NOT RUN office_phone_scroll 
+[rpytest]     NOT RUN office_reply_marker 
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_scene_motion 
+[rpytest]     NOT RUN office_bc_camera    
+[rpytest]   NOT RUN office_other_expressions
+[rpytest]   NOT RUN office_phone_continuity_20261007
+[rpytest]     NOT RUN late_personality    
+[rpytest]     NOT RUN followup_state      
+[rpytest]     NOT RUN office_call_farewells
+[rpytest]     NOT RUN office_call_cleanup 
+[rpytest]     NOT RUN office_active_call  
+[rpytest]     NOT RUN office_message_day_boundary
+[rpytest]     NOT RUN office_message_backlog
+[rpytest]     NOT RUN office_message_legacy_times
+[rpytest]   NOT RUN office_phone_live   
+[rpytest]   NOT RUN office_phone_scroll 
+[rpytest]   NOT RUN office_pose_flow    
+[rpytest]   NOT RUN office_pose_palette_20261007
+[rpytest]     NOT RUN palette_frames      
+[rpytest]     NOT RUN fixed_comparison_frames
+[rpytest]   NOT RUN office_private_week_20261007
+[rpytest]     NOT RUN seoyun_book         
+[rpytest]     NOT RUN yujin_cup           
+[rpytest]     NOT RUN jihyun_movie_save   
+[rpytest]   NOT RUN office_reply_marker 
+[rpytest]   NOT RUN office_ria_animation
+[rpytest]   NOT RUN office_ria_soft_expressions
+[rpytest]   NOT RUN office_scene_ghost_20261007
+[rpytest]     NOT RUN lunch_to_office     
+[rpytest]     NOT RUN empty_scene_save_and_call
+[rpytest]     NOT RUN all_heroine_outgoing_freeze
+[rpytest]   NOT RUN office_scene_motion 
+[rpytest]   NOT RUN office_selected_assets_20261007
+[rpytest]     NOT RUN assets_and_frames   
+[rpytest]   NOT RUN office_seoyun_expressions
+[rpytest]   NOT RUN office_seoyun_local_preservation_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_master_approved_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_seoyun_rebuild_20261007
+[rpytest]     NOT RUN current_art_and_story
+[rpytest]   NOT RUN office_skin_jaw_v2  
+[rpytest]   NOT RUN office_qa           
+[rpytest]     NOT RUN cafe_path           
+[rpytest]     NOT RUN home_path           
+[rpytest]     NOT RUN photo_permissions   
+[rpytest]   NOT RUN office_ui_preview   
+[rpytest]   NOT RUN office_upscaled_assets
+[rpytest]   NOT RUN office_week_visual  
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    14 |     0 passed |     0 xfailed |     2 failed |     0 xpassed |     1 skipped |    11 not run
+[rpytest] Test cases :    24 |     2 passed |     0 xfailed |     1 failed |     0 xpassed |     5 skipped |    16 not run
+[rpytest] Test hooks :     5 |     5 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    23 |    23 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 43.884 s
+[rpytest] Status: FAILED 
+

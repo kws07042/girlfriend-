@@ -60,20 +60,19 @@ init 10 python:
         global day, chapter, slot, clock, place, ring_pending, week_lunch, week_evening
         day, chapter, slot, clock = number, title, "morning", "09:00"
         place, ring_pending, week_lunch, week_evening = "모멘트웍스 / 오픈 오피스", False, "rest", "rest"
-        store.ui_speaker = {2:"seoyun",3:"ria",4:"yujin",5:"jihyun"}[number]
-        if number == 2 and flags.get("lunch_plan") == "talk" and "ria" not in week_lunch_rewards:
-            week_lunch_rewards["ria"] = 1
-        # Unanswered choices remain visible as history, but cease being actionable next day.
-        for key in phone_events:
-            if key not in phone_replied and key not in phone_expired:
-                phone_expired.append(key)
+        store.ui_speaker = {2:"seoyun",3:"ria",4:"yujin",5:"jihyun"}.get(number,"jihyun")
+        if number == 2 and flags.get("lunch_plan") == "talk":
+            first_who = flags.get("first_lunch", "ria")
+            if first_who in names and first_who not in week_lunch_rewards:
+                week_lunch_rewards[first_who] = 1
+        phone_sync_reply_policy()
 
     def week_scene(background, location, time, period, title=None):
         global place, clock, slot, chapter
         place, clock, slot = location, time, period
         if title: chapter = title
-        renpy.scene()
-        renpy.show("background", what=office_bg(background))
+        phone_sync_reply_policy()
+        ui_scene_show(background)
 
     def schedule_meeting(token, who, number, period, time, title, status="예정"):
         if any(p["id"] == token for p in week_schedule): return
@@ -86,7 +85,8 @@ init 10 python:
             if item["id"] == token: item["status"] = status
 
     def current_reply_key(who):
-        return next((key for key in reversed(phone_events) if message_data[key].get("who","ria") == who and key not in phone_replied and key not in phone_expired and message_data[key].get("reply")), None)
+        keys = phone_reply_keys(who)
+        return keys[0] if keys else None
 
     def choose_week_lunch(who):
         global week_lunch
@@ -166,6 +166,9 @@ label week_lunch_scene:
     return
 
 label week_choose_lunch:
+    if day <= 5:
+        call intro_fixed_lunch
+        return
     "점심에는 한 사람과 이야기하거나 혼자 쉴 수 있다. 점심 슬롯 하나를 사용한다."
     menu:
         "[lunch_caption('seoyun')]":

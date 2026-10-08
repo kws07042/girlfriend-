@@ -17,3 +17,6 @@ RenPy_게임/*.txt
 Thumbs.db
 .DS_Store
 RenPy_게임/tests/*.txt
+
+*.pyc
+**/.pytest_cache/

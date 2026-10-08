@@ -2,7 +2,7 @@
 $taskRoot = $PSScriptRoot
 $taskBgDestination = Join-Path $taskRoot 'RenPy_게임\game\images\bg'
 $taskBgCandidates = @()
-foreach ($taskFolder in @('backgrounds','backgrounds_styled')) {
+foreach ($taskFolder in @('원본자료\배경\사용자원본','원본자료\배경\그림체보정')) {
     $taskSource = Join-Path $taskRoot $taskFolder
     if (Test-Path -LiteralPath $taskSource) {
         $taskBgCandidates += @(Get-ChildItem -LiteralPath $taskSource -File | Where-Object Extension -In '.png','.jpg','.jpeg','.webp')

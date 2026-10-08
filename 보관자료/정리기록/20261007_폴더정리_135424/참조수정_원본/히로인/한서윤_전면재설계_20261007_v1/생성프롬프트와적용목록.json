@@ -1,0 +1,293 @@
+{
+  "mode": "built-in image_gen",
+  "design_request": "다른 세 히로인과 같은 그림체, 성숙한 미시 분위기, 상체 볼륨 유지, 다문 입, 허리·허벅지는 슬림하게, 골반만 소폭 보완, 태블릿 포즈만 사용, 화면 비율 맞춤",
+  "origin_master_prompt": {
+    "key": "master",
+    "prompt": "Use case: stylized-concept. Asset type: entirely redesigned Han Seoyun MASTER, ONE full-body transparent sprite for this adult Korean office-romance VN. The user REJECTED her prior art style and explicitly requested a complete rebuild with a mature married-woman/'misi' mood and a genuinely fuller, voluptuous adult figure. INPUTS 1, 2, 3 ARE ART STYLE REFERENCES of the other three heroines, not identities or poses to copy. Match their precise clean anime VN linework, clear cel-like form shadows softened by restrained painterly gradients, polished hair highlight groups, eyelash/iris treatment, fabric shading and unified neutral studio palette. Do NOT use the previous Seoyun picture or its more realistic mottled fabric rendering. Design a DISTINCT Korean adult woman who reads as late-thirties/early-forties in visual maturity: rounded adult cheeks, a softly broad mature jaw instead of a pointed schoolgirl chin, slightly hooded warm brown almond eyes that are smaller and more relaxed than the young blonde reference, modest natural lips, faint lower-eyelid shading and subtle smile lines, warm self-assured knowing closed-mouth smile. No old-age caricature or heavy wrinkles. Chestnut-brown hair in a loose LOW bun near the nape, softly parted fringe, a few curved cheek-framing locks; small pearl studs and a simple silver watch with dark strap. Her body MUST be noticeably fuller than all three style references: naturally substantial bust within clothing, soft waist with real thickness rather than a tiny pinched waist, broad rounded hips, thick thighs, fuller upper arms and soft belly contour. Balanced convincing anatomy and confident mature posture, not just oversized breasts on a skinny body. Attractive adult everyday sensuality, fully clothed, no lingerie. Wardrobe: soft light-blue cotton open-collar blouse with visible simple seams and gentle tension/folds over her fuller torso, ivory scoop-neck inner layer, a neatly draped TAUPE fine-knit cardigan ending around upper thigh with understated rib edges (no noisy hyperreal knit texture), warm-ivory high-waisted tailored straight trousers following her fuller hip/thigh silhouette, BLACK LEATHER LOAFERS with a very low heel, not pumps. Keep cloth crisp and harmonious in the SAME illustration style as the supplied heroines. Neutral baseline pose: comfortable upright standing, torso slightly three-quarter, no crossed legs. A slim dark tablet is held vertically low beside her left hip by her left hand; her right hand rests naturally at the side of her waist, elbow not dramatically flared. Calm adult gaze facing the viewer, confident and approachable, not coy or shy. Anatomically clear adult-size hands and fingers. Vertical 1024x1536 full-body framing, entire hair and both shoes visible, modest margin, approximately eight-head-tall mature figure rather than elongated supermodel legs. Genuine transparent alpha background; no black or white backdrop, no halo, gradient, colored fringe, floor, shadow or checkerboard. One coherent single illustration, no text, panels or watermark. Do not clone any reference heroine's face, hairstyle or outfit. No new wedding ring or family objects; this is a visual design, not a story-status change.",
+    "refs": [
+      "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+      "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+      "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+    ],
+    "filename": "한서윤_MASTER_전면재설계_v3_원화.png"
+  },
+  "items": [
+    {
+      "key": "master",
+      "file": "exec-84cc72c4-671e-413b-ade0-15e6ec48d7ad.png",
+      "filename": "한서윤_MASTER_골반균형_최종_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-84cc72c4-671e-413b-ade0-15e6ec48d7ad.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: final local proportion balancing of approved Han Seoyun full-body transparent game sprite. IMAGE 1 IS THE EDIT TARGET. Images 2-4 are the OTHER THREE GAME HEROINES, used ONLY to check the SAME clean anime VN art style, head/body scale and full-body canvas framing, never to copy their face, clothes or slim body type. The user likes Seoyun's current mature face, full clothed upper torso, slimmer waist and slimmer thighs. Make ONLY a very small pelvis correction: widen the OUTER PELVIC/HIP silhouette about 5-6 percent compared with image 1, mostly the upper-hip region just below the waistband, to improve balance with her substantial bust. Keep the current narrow waist and current thigh thickness, calves, body height and leg length unchanged. Do NOT make all legs heavier or undo the latest waist/thigh slimming. Blend the small upper-hip widening smoothly into the existing slimmer upper thighs; adjust only nearby trouser folds and cardigan outline as necessary. Preserve her exact mature brown-eyed face identity, relaxed eyelids, cheeks and jaw, tiny gently CLOSED-mouth smile (no visible teeth, mouth opening or interior), low brown bun, pearl studs, full upper torso and upper arms, original hands/props and pose. Keep blue blouse/ivory inner/taupe cardigan/ivory trousers, all color values and lighting, silver watch and black loafers with small gold bars. IMPORTANT her drawing must stay precisely in the shared clean-line VN style of the supplied game heroines; no realistic skin or mottled textile rendering. Her standing figure should use the same roughly head-to-shoes scale as the three heroines on the same 1024x1536 vertical canvas, without an oversized head or shortened/chibi legs. Existing Seoyun head/body scale is already close, so use only tiny necessary proportion refinements, do not overhaul her face or stretch legs. Both complete shoes and all hair visible with comparable top/bottom margins to the style references. Preserve her current tablet pose exactly; no cup or new props. Natural adult fingers, no added nubs or merged digits. Genuine transparent alpha background; no gradient, halo, black/white backdrop, floor shadow, checkerboard or colored fringe. One adult woman only; no text, labels, panels, watermark or multiple characters. A restrained pelvic-balance correction to an approved design, not a redesign. Preserve this master pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-9d2de795-b0c4-4387-a029-c9b8c89fa021.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_MASTER_골반균형_최종_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_MASTER_골반균형_최종_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_MASTER_골반균형_최종_원화_2x_원화보존.png",
+      "normalization": {
+        "uniform_scale": 0.987597911227154,
+        "offset": [
+          6,
+          8
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "target_silhouette_height_pixels": 1513,
+        "note": "Uniform scale and padding only; no separate head, leg or body stretching."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "recipe": "Uniform sprite scale/padding, then Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "10f785a87e8d39e7a8bfd820b5def380a20871cb99a39aecb675167dae24e6dd",
+      "upscaled_sha256": "c01da017faeec2d8dad94b9725ce9404604d5209ee163424886616e0bc7c4134",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+    },
+    {
+      "key": "work",
+      "file": "exec-c875032d-c899-4ef7-86f6-f44117939858.png",
+      "filename": "한서윤_설명_골반균형_최종_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c875032d-c899-4ef7-86f6-f44117939858.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: final local proportion balancing of approved Han Seoyun full-body transparent game sprite. IMAGE 1 IS THE EDIT TARGET. Images 2-4 are the OTHER THREE GAME HEROINES, used ONLY to check the SAME clean anime VN art style, head/body scale and full-body canvas framing, never to copy their face, clothes or slim body type. The user likes Seoyun's current mature face, full clothed upper torso, slimmer waist and slimmer thighs. Make ONLY a very small pelvis correction: widen the OUTER PELVIC/HIP silhouette about 5-6 percent compared with image 1, mostly the upper-hip region just below the waistband, to improve balance with her substantial bust. Keep the current narrow waist and current thigh thickness, calves, body height and leg length unchanged. Do NOT make all legs heavier or undo the latest waist/thigh slimming. Blend the small upper-hip widening smoothly into the existing slimmer upper thighs; adjust only nearby trouser folds and cardigan outline as necessary. Preserve her exact mature brown-eyed face identity, relaxed eyelids, cheeks and jaw, tiny gently CLOSED-mouth smile (no visible teeth, mouth opening or interior), low brown bun, pearl studs, full upper torso and upper arms, original hands/props and pose. Keep blue blouse/ivory inner/taupe cardigan/ivory trousers, all color values and lighting, silver watch and black loafers with small gold bars. IMPORTANT her drawing must stay precisely in the shared clean-line VN style of the supplied game heroines; no realistic skin or mottled textile rendering. Her standing figure should use the same roughly head-to-shoes scale as the three heroines on the same 1024x1536 vertical canvas, without an oversized head or shortened/chibi legs. Existing Seoyun head/body scale is already close, so use only tiny necessary proportion refinements, do not overhaul her face or stretch legs. Both complete shoes and all hair visible with comparable top/bottom margins to the style references. Preserve her current tablet pose exactly; no cup or new props. Natural adult fingers, no added nubs or merged digits. Genuine transparent alpha background; no gradient, halo, black/white backdrop, floor shadow, checkerboard or colored fringe. One adult woman only; no text, labels, panels, watermark or multiple characters. A restrained pelvic-balance correction to an approved design, not a redesign. Preserve this work pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-b70eac7f-c0f3-4e76-973f-b44640ed27be.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_설명_골반균형_최종_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_설명_골반균형_최종_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_설명_골반균형_최종_원화_2x_원화보존.png",
+      "normalization": {
+        "uniform_scale": 0.9888888888888889,
+        "offset": [
+          5,
+          7
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "target_silhouette_height_pixels": 1513,
+        "note": "Uniform scale and padding only; no separate head, leg or body stretching."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "recipe": "Uniform sprite scale/padding, then Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "0623c1837c1897b1d7aaf938aa690a48b8f51fb5f200a349e18109580806e529",
+      "upscaled_sha256": "8b6a1b29034eac09c1135bfb3b68b2268c69f96615930aab32bd43da3058476f",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png"
+    },
+    {
+      "key": "casual",
+      "file": "exec-babb6fd3-8713-454a-bba8-e45c47452b2e.png",
+      "filename": "한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+      "refs": [
+        "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-babb6fd3-8713-454a-bba8-e45c47452b2e.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+        "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: final local proportion balancing of approved Han Seoyun full-body transparent game sprite. IMAGE 1 IS THE EDIT TARGET. Images 2-4 are the OTHER THREE GAME HEROINES, used ONLY to check the SAME clean anime VN art style, head/body scale and full-body canvas framing, never to copy their face, clothes or slim body type. The user likes Seoyun's current mature face, full clothed upper torso, slimmer waist and slimmer thighs. Make ONLY a very small pelvis correction: widen the OUTER PELVIC/HIP silhouette about 5-6 percent compared with image 1, mostly the upper-hip region just below the waistband, to improve balance with her substantial bust. Keep the current narrow waist and current thigh thickness, calves, body height and leg length unchanged. Do NOT make all legs heavier or undo the latest waist/thigh slimming. Blend the small upper-hip widening smoothly into the existing slimmer upper thighs; adjust only nearby trouser folds and cardigan outline as necessary. Preserve her exact mature brown-eyed face identity, relaxed eyelids, cheeks and jaw, tiny gently CLOSED-mouth smile (no visible teeth, mouth opening or interior), low brown bun, pearl studs, full upper torso and upper arms, original hands/props and pose. Keep blue blouse/ivory inner/taupe cardigan/ivory trousers, all color values and lighting, silver watch and black loafers with small gold bars. IMPORTANT her drawing must stay precisely in the shared clean-line VN style of the supplied game heroines; no realistic skin or mottled textile rendering. Her standing figure should use the same roughly head-to-shoes scale as the three heroines on the same 1024x1536 vertical canvas, without an oversized head or shortened/chibi legs. Existing Seoyun head/body scale is already close, so use only tiny necessary proportion refinements, do not overhaul her face or stretch legs. Both complete shoes and all hair visible with comparable top/bottom margins to the style references. Preserve her current tablet pose exactly; no cup or new props. Natural adult fingers, no added nubs or merged digits. Genuine transparent alpha background; no gradient, halo, black/white backdrop, floor shadow, checkerboard or colored fringe. One adult woman only; no text, labels, panels, watermark or multiple characters. A restrained pelvic-balance correction to an approved design, not a redesign. Preserve this casual pose.",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8e03ed87-513f-4446-9254-12adc985ec59.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+      "normalized": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_태블릿낮게들기_골반균형_최종_원화_2x_원화보존.png",
+      "normalization": {
+        "uniform_scale": 0.9869536855838226,
+        "offset": [
+          6,
+          8
+        ],
+        "normalized_canvas": [
+          1024,
+          1535
+        ],
+        "target_silhouette_height_pixels": 1513,
+        "note": "Uniform scale and padding only; no separate head, leg or body stretching."
+      },
+      "dimensions": [
+        2048,
+        3070
+      ],
+      "alpha_preserved": true,
+      "recipe": "Uniform sprite scale/padding, then Lanczos original 60% + Real-ESRGAN general 40%",
+      "source_sha256": "36ecba0046aeb54f947c7eec5d74c339a768c5721926bd5a6d349f1b4f05812a",
+      "upscaled_sha256": "5cb290d1991f97fbc566e91ffbe5e0d71be4b9866a01bcb06bdec29589cc99f2",
+      "game_path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png"
+    }
+  ],
+  "status": "최종 원화·업스케일 저장 및 인게임 적용·검수 완료",
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_서윤전면재설계",
+  "palette_metrics": {
+    "work": {
+      "before": 3.148785992887375,
+      "after": 0.75189933564144
+    },
+    "casual": {
+      "before": 5.9991388894742,
+      "after": 1.5987210344604161
+    }
+  },
+  "protected_hashes": {
+    "images\\bg\\BG_BAR_001.png": "ee33474530921631472e25fac0e3477018b5764ce68dd82ecf8380fe04154f54",
+    "images\\bg\\BG_CAFE_001.png": "aea8658671d4974c7d74956de249031c0fc38211dff636d6b404eb8232179c23",
+    "images\\bg\\BG_DESIGN_STUDIO_001.png": "f3de2173544c1fdd01180ff9228aef2cabe6c3a5faab7a1b7abff1970ac25a9e",
+    "images\\bg\\BG_DEVELOPMENT_SPACE_001.png": "d5bb2cb24237792fd4aedba0385de192e985bc9ea701f00af42cf9d4b091acf7",
+    "images\\bg\\BG_ELEVATOR_001.png": "387f4fae67fd2196afeab26e462ca5a2b40ffcc493b7612148a7c65480a91fa9",
+    "images\\bg\\BG_HOME_NIGHT_001.png": "b4980e029ecc513da47040faeda55a077d782c559565e07a8bb08418f5224a1b",
+    "images\\bg\\BG_HOTEL_LOBBY_001.png": "80f11f62e20d27c6513fbbe72213944a693b3aba6c76dfa20991b9cb1b30d7ad",
+    "images\\bg\\BG_LOUNGE_DAY_001.png": "3cc49ab99bc71aa4dfec42cf63ea067767a2ef1d15bece5ba5d7edc45ba5e33f",
+    "images\\bg\\BG_MARKETING_PROJECT_001.png": "1cfc9f6519880fee162e13117d61463569a5b098185b677d9c222084b71fc273",
+    "images\\bg\\BG_MEETING_ROOM_001.png": "2d3f09253dc6202f6c2c9fc3f5852b38afb52528649e30f5f8673c54a95e6534",
+    "images\\bg\\BG_MEETING_ROOM_NIGHT_001.png": "c4249fe4ea0396fff97c7c5ba16a6b530b82bcb77a2b2c50ae9dba5e1e548fa5",
+    "images\\bg\\BG_OFFICE_DAY_001.png": "b10b98d24ae43b7437b3e0c55c7698d0b93162d7a37de520ba6dc301222e51f6",
+    "images\\bg\\BG_OFFICE_NIGHT_001.png": "851e975fa8a87330397ab13ef2ee4c459a6c916062a1db4cc194513bfc37a03a",
+    "images\\bg\\BG_RESTAURANT_001.png": "6774538aa66582888ab54a35913dec89fd13175e194d9768389f417cfe18309f",
+    "images\\bg\\BG_ROOFTOP_NIGHT_001.png": "8c0d0cfb877ed3c05558399460130ea871bde619cc05b212cd922c4f6b81d064",
+    "images\\bg\\BG_STREET_RAIN_001.png": "4a6b97b8e684155e50ad132090806f5db6105d1b5c46fdddb507b65011fda811",
+    "images\\bg\\BG_TERRACE_DAY_001.png": "6490c3abc2deb5af1b186086c210ad82fd9ca3ad8f0345355ab179b72339ee58",
+    "images\\cg\\ria_cafe_cg_v001.png": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189",
+    "images\\cg\\ria_expression_sheet_v001.png": "976742cce0433162de973829ba228f6fb320094fee29c6980d722dcc31b0e980",
+    "images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "images\\phone\\jihyun_profile_v001.png": "6e6a8a28b7303e42a847a6ff79976fec63ebb0afba62a259dd1a26b3a382c6ad",
+    "images\\phone\\ria_profile_v001.png": "c5de5b7ed2b655d82c7aeb603392d0c7857966fdc4d08f74b568457600c6634f",
+    "images\\phone\\seoyun_profile_v001.png": "230c58eb49b67655ea2d46f4313244f10359b06d9a20593ff21f1dd9d9aafe65",
+    "images\\phone\\yujin_profile_v001.png": "17db69506008b73d9ca7dea500ad1338eb34fb4c7e01a2c34b1d86cd2bb84401",
+    "images\\ui_v2\\battery.png": "2bf0f9969c858da1b9a89e39845dbb8358375d7b6e6c2b51d9208e5d6a041080",
+    "images\\ui_v2\\camera.png": "b4e192b2c03f4c8f57e116c3a7cca2f37bd9f76c72ed3178ac73436477e42b95",
+    "images\\ui_v2\\circle.png": "572bc6b6520cfae24639172b39a85f8683ac4c9d90d4278f2ed6aca66fcf2e7d",
+    "images\\ui_v2\\glass.png": "198196c93c77517e60f7c707f426a70a4607c6f579726e6ee6df4b43bff594f4",
+    "images\\ui_v2\\glass_hover.png": "179bc91ac9a5d83193704fa9486c51a9f4b35900d6dfc20b94149644084f7f67",
+    "images\\ui_v2\\gold.png": "5d8aab8b91a9b52e9490fd88d65854954dc48672398772ae00c4e9c77c651fc9",
+    "images\\ui_v2\\gold_hover.png": "04b29407a3b3fd1378098a083941a0d3da17d1bfed12381f6a6274f9e78a7a5a",
+    "images\\ui_v2\\incoming.png": "483436cbbbaa5f19e534570f70fe488028244cc269cecfe763ab9c21ffacaa7c",
+    "images\\ui_v2\\line.png": "91ff0b7a03acfeb341a57baba1489ca6e9807a26faf3ec98931111d1998eae8c",
+    "images\\ui_v2\\outgoing.png": "6a554058a6551bc4b585cd244e49fc3a95948c869d5ceba93c134d54606c8fc1",
+    "images\\ui_v2\\paper.png": "3c78d362b38367f0adbefe69e06d8f82b21fa8ca9bfd0e902f7afb4718362b68",
+    "images\\ui_v2\\paper_hover.png": "c142ecc2664facedda1abef50f8711794f944dcdc3360763fdeea2d7ede9f772",
+    "images\\ui_v2\\phone_graphite.png": "37c3fc33cd5e55aaf97aaca1a161707616e64e4d3430a58bc8f5550aace12063",
+    "images\\ui_v2\\phone_rim.png": "b24f2e29a11e4928b750623635b54f0e889162894be6cecd2f01e47d9c34fd1a",
+    "images\\ui_v2\\phone_screen.png": "8f3a6fd5faaa20ff6a3bb7e2eecdc817cf698dd6230788983a4cab3320550959",
+    "images\\ui_v2\\phone_shell.png": "d86ab3bdf8da0b7520ce5781a9d0ed05084b9b8a50f0d2bb76e4899ece0fbf1a",
+    "images\\ui_v2\\pill.png": "86db39235dcc83979d9fc257eb816f4c30a02295230cc3850c110dd23838a4de",
+    "images\\ui_v2\\subtle.png": "028a08df69eddf21e487d5c7c1ff715280b9c42eeeeb0dcf557cf235c610ba54",
+    "images\\ui_v2\\typing_dot.png": "4d6cdf934aaa592c6fff5c9ee00ecdc63b975363eaf197bdb5a18fe899db2acb",
+    "images\\ui_v6\\album.png": "e1f38c4df286b795bc3366cc3b0b8c08b4b36917c319777d36d2fe03c39196bf",
+    "images\\ui_v6\\album_active.png": "69fcb81c4c5cdfc2e3d3e2c1e80a1f29a4a8ae67d27708b43cebc6171693c7fd",
+    "images\\ui_v6\\attach.png": "83a56d5062a7cb49b6d21a0aceaf576414ed4454304ef56edb39a1b98f1772f0",
+    "images\\ui_v6\\attach_active.png": "c4375753c7631e90a4989744a17493240743db91ade8fab288efd0f6cede8886",
+    "images\\ui_v6\\calendar.png": "cb3fdc1b027f5347c92d7451fe0a9de7066d135fa13bc636de02af49685fe405",
+    "images\\ui_v6\\calendar_active.png": "da243319dd5181afeba8751eb2f9f0e90551415683e4aeed2a067d972b6535cf",
+    "images\\ui_v6\\calls.png": "94011139983b9ef61eb693788335b104956cc8aa738251788856610921859658",
+    "images\\ui_v6\\calls_active.png": "48392a4928743230af90ad08b1d220828c1666bed3055014bd03421603a7fcb3",
+    "images\\ui_v6\\device_frame.png": "5c1ac5391297dde2574d9d7a786b0d4eb71e0cba34b737d45b5b81bcd4f3ec62",
+    "images\\ui_v6\\messages.png": "78813d70222d1c6567b67f662433dece691956722df461a67d22085268e4ff65",
+    "images\\ui_v6\\messages_active.png": "69b0c5979018deb52b23279f7a41906335d159410b0bc206f87d95b622ebba12",
+    "images\\ui_v6\\screen.png": "661f495b1c1032e5480f3140b05f3cab7e95ecac34b0b8f69417a25f1c2f316d",
+    "images\\ui_v6\\send.png": "efe01dcba1608673cee6794c223cda9fa1005ee80d51c0792d4f1b6c94172ff5",
+    "images\\ui_v6\\send_active.png": "f3688613038ba00d0d67e27c3183d6993b182113dc10f699a7ae0510cc3aeaee",
+    "images\\ui_v6\\send_white.png": "036a4f09deb63daca331db7b7f05f9ff3f513cdeb9fa3c3ee6f8e982e1162ef6",
+    "images\\ui_v6\\settings.png": "8b164ed82be992135c7d8e68c271f7fffe66ca45f39cd49f72611d6ab927797c",
+    "images\\ui_v6\\settings_active.png": "9624765d3a44db65294ae11bfa36b4b74a724b814c204d8fbef42c6c4e7acc73",
+    "images\\characters\\jihyun_expressions\\face_mask.svg": "c9b0c0e79792114e296c2e5628d4db5f072691efc79995dafb2f38d561db141b",
+    "images\\characters\\jihyun_expressions\\serious.png": "f3c6a5c6823647693416996524e9f1729fc3c464c7727ac1fd9818564011ff0a",
+    "images\\characters\\jihyun_expressions\\sheepish.png": "553571d0176da2cfe4613de4b23e149fc0650fb5d40b8024339665229a4ee94b",
+    "images\\characters\\jihyun_expressions\\smile.png": "39f140b83febb69837649bce0061839ff8f349e043660a03eea7f95125b4b566",
+    "images\\characters\\jihyun_expressions\\surprised.png": "ace8cf8940a33fa1981a05e08469e4ddbc0e9bf1e20f11f5ead7ee63b80524b1",
+    "images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "images\\characters\\ria_animation\\closed.png": "7abb071bd204f283769ece15337376d7b1e11fe1242754970a05f8ffc22828b1",
+    "images\\characters\\ria_animation\\eyes_mask.svg": "5753968320806b57fd94d6c032a01743254dfcc9cff866315f04751e01b109ca",
+    "images\\characters\\ria_animation\\half.png": "155001b4d0edec3bd3018bafbe3c205351f45bdcc7ec6aa7b1534bcc83785280",
+    "images\\characters\\ria_expressions\\face_mask.svg": "fcb72479106bc19ab317c3f15c3bd17f1dcc65c33aad5af54c3a67a40f5eb40e",
+    "images\\characters\\ria_expressions\\serious.png": "1b501c099d89c850a225d1bd4bf5007a1637fb0d48540da71781cdaefe11ad3d",
+    "images\\characters\\ria_expressions\\sheepish.png": "4bfb2e1b5435975322699ac01e991a410a15c8e692fe25d813beaa53b4150691",
+    "images\\characters\\ria_expressions\\smile.png": "7e4943ce5e0e21378edcb7717280d3dba267d5fc0bb82a7af83151a8a228adac",
+    "images\\characters\\ria_expressions\\surprised.png": "56059fced20e306f6259570bf79f7245ed08004aeb46e2944f79519fc8e8e111",
+    "images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "images\\characters\\seoyun_expressions\\face_mask.svg": "a1bd6a809f23dbc21434ca08557c4d888024062c3afee08124470ae6c2faa9d6",
+    "images\\characters\\seoyun_expressions\\serious.png": "05ed09eb3aa07118c3da6acd58d33c5f3bad8343b2588160184413e021b899d8",
+    "images\\characters\\seoyun_expressions\\sheepish.png": "5ebe9f30fd03b737ee18b078d5db80d253e166c7f7b161713e3b6740eec6826c",
+    "images\\characters\\seoyun_expressions\\smile.png": "f52463f0f49a8854aadd80b527729c2f99c9cf4f9bff686c8dd8b27fcb7b2ae8",
+    "images\\characters\\seoyun_expressions\\surprised.png": "8a2151572debbb4e199cc455eed8e9d45e1a3ba02e64b21c47befbbf8128893d",
+    "images\\characters\\yujin_expressions\\face_mask.svg": "ee78ea77232d4d3334e73e455ea4beca23c878ec2b4c4256dca867a6ea0e8709",
+    "images\\characters\\yujin_expressions\\serious.png": "599edc7b764cfe28c60b8aacd0b8fc3e6793130d5a0d7be0e85acfac492d2a19",
+    "images\\characters\\yujin_expressions\\sheepish.png": "d51694ae2a00394e15de63153f0186023b0d8b992672187f9054459f2e397230",
+    "images\\characters\\yujin_expressions\\smile.png": "880f53def7128c09a2fbb45c098abeb62d0c138358db9d1c406356cb5bb35acc",
+    "images\\characters\\yujin_expressions\\surprised.png": "b03b5aea450e3d95d21bcf756de24e8f8b13bbefbda1cab2e01e5c5d1e14b3e1",
+    "images\\characters\\yujin_poses\\casual.png": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+    "images\\characters\\yujin_poses\\work.png": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+    "story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "week_phone.rpy": "e4de23230e33fccb61241ca196c239a75f4bc283c215db0c46e7929b2e66b5a3",
+    "ui_character_poses.rpy": "4a1d852daab9bdd2eb433bf7308533ed8a778b87b87d2ffe096e84b1d10bb723",
+    "ui_character_palette.rpy": "19152c8b235f2f5269e8a1e404f8742140f72302c2df52c2ac3048e3246740fc",
+    "ui_character_expressions.rpy": "146a2b8003d8c74fbe2e0040a428e3c30e3aa3f89954e9a7971b149d95e11be2"
+  },
+  "previous_game_sha256": {
+    "master": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "work": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369",
+    "casual": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d"
+  },
+  "canonical_master": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_seoyun_MASTER.png",
+  "game_dimensions": [
+    2048,
+    3070
+  ],
+  "native_checks_passed": 26,
+  "native_geometry_checks": [
+    {
+      "pose": "master",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_height_percent": 98.534,
+      "top_pixel": 22,
+      "bottom_pixel": 3046,
+      "native_alpha_exact": true,
+      "max_opaque_channel_palette_shift": 0
+    },
+    {
+      "pose": "work",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_height_percent": 98.599,
+      "top_pixel": 22,
+      "bottom_pixel": 3048,
+      "native_alpha_exact": true,
+      "max_opaque_channel_palette_shift": 6
+    },
+    {
+      "pose": "casual",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_height_percent": 98.567,
+      "top_pixel": 21,
+      "bottom_pixel": 3046,
+      "native_alpha_exact": true,
+      "max_opaque_channel_palette_shift": 10
+    }
+  ],
+  "visual_review_completed": true,
+  "lint_passed": true
+}

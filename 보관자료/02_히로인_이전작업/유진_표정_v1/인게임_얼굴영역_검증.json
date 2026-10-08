@@ -1,0 +1,42 @@
+{
+  "smile": {
+    "changed_pixels": 46728,
+    "bbox": [
+      984,
+      81,
+      1214,
+      291
+    ],
+    "outside_face": 0
+  },
+  "serious": {
+    "changed_pixels": 46624,
+    "bbox": [
+      984,
+      81,
+      1214,
+      291
+    ],
+    "outside_face": 0
+  },
+  "surprised": {
+    "changed_pixels": 46567,
+    "bbox": [
+      984,
+      81,
+      1214,
+      291
+    ],
+    "outside_face": 0
+  },
+  "sheepish": {
+    "changed_pixels": 46780,
+    "bbox": [
+      984,
+      81,
+      1214,
+      291
+    ],
+    "outside_face": 0
+  }
+}

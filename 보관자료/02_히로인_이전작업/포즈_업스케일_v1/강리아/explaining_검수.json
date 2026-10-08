@@ -1,0 +1,23 @@
+{
+  "who": "ria",
+  "name": "강리아",
+  "key": "explaining",
+  "label": "손짓하며설명",
+  "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_손짓하며설명.png",
+  "status": "사용자 채택",
+  "prompt": "이전 생성 채택본: 커피를 내려두고 손바닥을 가볍게 펴 설명하는 포즈.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_손짓하며설명_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_손짓하며설명_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "ea74324008ec7ad6b8d52728e5ebf1b3a5da55b858b4c319bb9866422e34a872"
+}

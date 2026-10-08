@@ -1,0 +1,10 @@
+{
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_첫날네명선택_152518",
+  "edited": [
+    "story_day01.rpy",
+    "story_week01.rpy",
+    "week_phone.rpy",
+    "tests/week_test.rpy"
+  ],
+  "new": "story_day01_choices.rpy"
+}

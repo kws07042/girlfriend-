@@ -10,13 +10,11 @@ label start:
     $ slot = "morning"
     $ clock = "09:00"
     $ place = "모멘트웍스 · 오픈 오피스"
-    $ renpy.scene()
     $ place = "모멘트웍스 · 엘리베이터"
-    $ renpy.show("background", what=office_bg("elevator"))
+    $ ui_scene_show("elevator")
     "엘리베이터 문이 열리자 커피 향과 키보드 소리가 먼저 들어왔다. 유리문 너머로 아직 낯선 회사의 이름이 보인다."
     $ place = "모멘트웍스 · 오픈 오피스"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     "모멘트웍스. 오늘부터 나는 이곳의 통합 기획자다. 책상 위에는 사원증과 새 노트, 그리고 여섯 주짜리 일정표가 놓여 있었다."
     dh "여섯 주 뒤 런칭이라… 첫날부터 여유 있는 일정은 아니네."
     sy "도현 씨? 한서윤이에요. 서비스 기획 쪽은 저한테 물어보시면 돼요. 첫날이니까 오늘은 방향부터 같이 보죠."
@@ -40,32 +38,31 @@ label start:
             jump d1_greeting_formal
 
 label d1_greeting_notice:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     ri "그걸 알아봐 주는 사람은 별로 없는데. 보통은 그냥 아메리카노인지만 보거든요."
     dh "첫날부터 제 취향을 맞히실 필요는 없죠. 제가 알려 드리면 되니까."
     ri "좋아요. 커피 취향은 천천히 알아가는 걸로. 일하는 취향은 오늘 좀 봐야겠고요."
+    call d1_team_round
     jump d1_work_intro
 
 label d1_greeting_joke:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     ri "중요하죠. 나중에 회의가 길어지면 생존에 관련된 정보예요."
     dh "저는 우유 조금 넣는 쪽입니다. 생존 정보 등록해 주세요."
     ri "접수 완료. 대신 제가 커피 들고만 있고 안 마시면, 한 번쯤 알려 주세요."
+    call d1_team_round
     jump d1_work_intro
 
 label d1_greeting_formal:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     ri "네, 잘 부탁해요. 그런데 지금은 입사 면접 아니니까 어깨는 조금 내려도 돼요."
     dh "그렇게 긴장한 티가 났나요?"
     ri "조금요. 괜찮아요. 여기 있는 사람들도 처음엔 다 그랬을걸요."
+    call d1_team_round
     jump d1_work_intro
 
 label d1_work_intro:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     sy "루멘은 조명과 루틴 기록 서비스를 같이 보여 주려는 브랜드예요. 행사와 웹페이지가 동시에 열릴 거고요."
     dh "제가 맡는 건 두 흐름이 서로 어긋나지 않게 연결하는 일인가요?"
     jh "맞아요. 오늘은 고객이 기대하는 경험과 우리가 준비한 경험의 차이를 정리해 주세요."
@@ -86,8 +83,7 @@ label d1_work_intro:
             jump d1_work_focus
 
 label d1_work_together:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     dh "입장 직후보다 설명을 듣고 나서 질문이 많아지네요. 설명이 부족한 걸까요, 관심이 생긴 걸까요?"
     ri "둘 다요. 어떤 질문인지 나누면 달라요. 기능을 묻는 사람은 관심이 있고, 어디부터 해야 하냐고 묻는 사람은 길을 잃은 거예요."
     dh "그럼 첫 화면에서는 기능보다 다음 행동을 먼저 보여 주는 게 좋겠네요."
@@ -99,8 +95,7 @@ label d1_work_together:
     jump d1_lunch_gate
 
 label d1_work_focus:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     dh "먼저 초안을 만들어 볼게요. 현장 기록에서 판단이 어려운 건 따로 표시해 두겠습니다."
     ri "좋아요. 숫자만 보면 오해할 수 있는 부분이 있어서, 거긴 제가 메모 붙여 둘게요."
     "혼자 읽어 보니 설명되지 않은 요구사항이 눈에 들어왔다. 질문과 가정을 다른 칸에 쓰자 문서가 조금 단순해졌다."
@@ -115,25 +110,20 @@ label d1_lunch_gate:
     $ slot = "lunch"
     $ clock = "12:30"
     $ place = "모멘트웍스 · 라운지"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("lounge"))
-    $ send_message("lunch_invite")
-    "회의실이 하나둘 비고 라운지에서 컵 부딪히는 소리가 들린다. 휴대전화 화면에 새로운 연락이 떠 있다."
-    dh "리아 씨네. 점심 이야기인가?"
-    "휴대폰 문자에서 점심 초대에 답해 주세요."
+    $ ui_scene_show("lounge")
+    $ flags["intro_common"] = True
+    $ flags["first_lunch"] = "group"
+    $ send_message("w1_lunch_group")
+    $ phone_focus = "ria"
+    "점심 자리를 맡은 리아에게 연락이 왔다. 오늘은 네 사람과 같은 테이블에서 밥을 먹기로 했다."
     $ renpy.retain_after_load()
-    call screen phone(mode="lunch")
-    if "lunch_plan" not in flags:
-        "아직 답장을 보내지 않았다. 문자 탭에서 답장을 고르자."
-        jump d1_lunch_gate
-    if flags["lunch_plan"] == "talk":
-        jump d1_lunch_talk
-    jump d1_lunch_rest
+    call screen phone(mode="story",initial_contact="ria",required_reply="w1_lunch_group")
+    call intro_group_lunch
+    jump d1_afternoon
 
 label d1_lunch_talk:
     $ place = "모멘트웍스 · 라운지"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("lounge"))
+    $ ui_scene_show("lounge")
     $ apply_effects({'affection': 5, 'stress': -5})
     ri "어, 왔어요? 이 자리 비어 있어요. 첫날이라 혼자 메뉴 고르기 애매할까 봐 물어봤어요."
     dh "잘 물어보셨어요. 회사 주변은 지도만 봤거든요."
@@ -175,13 +165,15 @@ label d1_hobby_rest:
 
 label d1_lunch_rest:
     $ place = "모멘트웍스 · 테라스"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("terrace"))
+    $ ui_scene_show("terrace")
     $ apply_effects({'stress': -15})
-    "리아에게 답장을 보내고 잠깐 바깥으로 나왔다. 첫날에 모든 사람과 친해질 필요는 없다는 생각이 들었다."
+    "점심은 혼자 먹기로 했다. 첫날에 모든 사람과 한꺼번에 친해질 필요는 없다는 생각이 들었다."
     dh "일단 숨 좀 돌리자."
     "난간 너머로 점심을 먹으러 가는 사람들이 보인다. 휴대전화에는 짧은 답장이 도착해 있다."
-    ri "네, 편하게 쉬어요. 급한 자료는 아니니까 오후에 보면 돼요."
+    if flags.get("first_lunch", "ria") != "rest":
+        "문자를 나눈 상대도 편하게 쉬라는 답을 남겼다. 오후에 회사에서 다시 만나면 된다."
+    else:
+        "오전에 나눈 대화를 천천히 떠올렸다. 누구와 시간을 보낼지 오늘 안에 전부 결정할 필요는 없다."
     "거절했다는 이유로 분위기가 어색해지지는 않았다. 오히려 오후에는 조금 더 집중할 수 있을 것 같다."
     jump d1_afternoon
 
@@ -189,8 +181,7 @@ label d1_afternoon:
     $ chapter = "퇴근을 앞두고"
     $ clock = "17:50"
     $ place = "모멘트웍스 · 오픈 오피스"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("office"))
+    $ ui_scene_show("office")
     "오후에는 초안에 표시한 빈칸을 함께 확인했다. 새로운 업무를 추가하기보다 오전 작업을 마무리하는 시간이었다."
     jh "오늘은 여기까지 합시다. 내일 첫 화면 흐름을 보고 방향을 정하죠."
     sy "자료 위치는 메신저에 남겨 둘게요. 첫날에 전부 외우려고 하지 않아도 돼요."
@@ -199,16 +190,17 @@ label d1_afternoon:
     dh "감사합니다. 첫날인데 혼자 헤매는 시간은 많이 줄었네요."
     ri "그럼 성공이네요. 혼자 헤매면 빨리 끝난 것 같아도 나중에 더 오래 걸리거든요."
     "리아는 자기 자리로 돌아갔다. 정리한 문서의 제목 아래에 오늘 함께 작업한 사람들의 이름이 보였다."
-    "컴퓨터를 끄고 나서야 조금 긴장이 풀렸다. 현관을 향해 걸어가는데 휴대전화가 울렸다."
-    jump d1_evening_gate
+    "컴퓨터를 끄고 나서야 조금 긴장이 풀렸다. 현관으로 가기 전에 오늘 나눈 이야기가 떠올랐다."
+    call d1_before_leaving
+    jump intro_evening_gate
 
 label d1_evening_gate:
+    $ flags["first_evening"] = "ria"
     $ chapter = "회사 밖의 연락"
     $ slot = "evening"
     $ clock = "19:00"
     $ place = "모멘트웍스 · 엘리베이터"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("elevator"))
+    $ ui_scene_show("elevator")
     $ send_message("cafe_photo")
     "화면에 강리아라는 이름이 떠 있다. 회사 밖에서 받는 첫 연락이다."
     dh "지금은 통화할 수 있겠다. 아니면 나중에 문자로 이야기해도 되고."
@@ -225,7 +217,7 @@ label d1_evening_gate:
             "다시 전화한다.":
                 jump d1_phone_call
             "오늘은 쉰다고 문자를 보낸다.":
-                $ phone_messages.append({"who":"ria","out":True,"text":"오늘은 집에서 쉬려고 해요. 내일 봐요.","time":clock})
+                $ phone_messages.append({"who":"ria","out":True,"text":"오늘은 집에서 쉬려고 해요. 내일 봐요.","time":clock,"day":day})
                 jump d1_home
     jump d1_phone_call
 
@@ -233,8 +225,7 @@ label d1_cafe:
     $ ui_phone_call_end()
     $ chapter = "창가의 커피"
     $ place = "회사 앞 · 카페"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("cafe"))
+    $ ui_scene_show("cafe")
     $ apply_effects({'sensitivity': 3, 'stress': -8})
     "회사 앞 카페에는 노트북보다 책을 펼친 사람이 많았다. 창가에서 리아가 손을 들어 보였다."
     ri "어, 도현 씨! 여기예요. 사진이랑 같은 자리죠? 제가 약속 장소 설명은 잘해요."
@@ -257,8 +248,7 @@ label d1_cafe:
             jump d1_cafe_light
 
 label d1_cafe_listen:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("cafe"))
+    $ ui_scene_show("cafe")
     ri "그렇게 물어보면 길어지는데. 괜찮아요?"
     dh "지금은 급한 다음 회의가 없잖아요."
     ri "좋아요. 처음에는 제가 좋아하는 걸 사람들이 좋아할 줄 알았어요. 그런데 반응을 보다 보니 반대일 때도 있더라고요."
@@ -269,8 +259,7 @@ label d1_cafe_listen:
     jump d1_cafe_close
 
 label d1_cafe_light:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("cafe"))
+    $ ui_scene_show("cafe")
     ri "그렇게 말해 주니까 좀 편해지네요. 자꾸 설명해야 인정받을 것 같아서."
     dh "오늘 만든 자료는 이미 남아 있잖아요. 지금은 다른 이야기를 해도 괜찮죠."
     ri "그럼 카페 이야기. 여기 창가 빛이 오후에 예쁜데, 주말에는 너무 붐벼요."
@@ -280,8 +269,7 @@ label d1_cafe_light:
     jump d1_cafe_close
 
 label d1_cafe_close:
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("cafe"))
+    $ ui_scene_show("cafe")
     $ flags.update({'nextLunch': True})
     $ promises.append("DAY 02 · 12:30 라운지 원자료 검토")
     ri "내일 점심에 원자료 같이 볼까요? 오늘은 반쯤 쉬면서 이야기했으니까."
@@ -294,22 +282,34 @@ label d1_home:
     $ ui_phone_call_end()
     $ chapter = "오늘은 여기까지"
     $ place = "도현의 집"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("home"))
+    $ ui_scene_show("home")
     $ apply_effects({'stress': -15})
     "오늘은 집으로 돌아왔다. 새로운 이름과 업무를 기억하느라 생각보다 많이 지친 하루였다."
     dh "첫날부터 무리해서 가까워질 필요는 없겠지. 내일도 같은 사무실에서 만나니까."
-    "휴대전화에는 리아가 보낸 카페 사진이 남아 있다. 사진은 저장할 수 있지만, 저장하지 않아도 대화가 사라지는 것은 아니다."
-    ri "오늘은 편하게 쉬어요. 자료 링크만 남겨 둘게요. 내일 필요하면 같이 봐요."
+    if flags.get("first_evening", "ria") == "ria":
+        "휴대전화에는 리아가 보낸 카페 사진이 남아 있다. 사진은 저장할 수 있지만, 저장하지 않아도 대화가 사라지는 것은 아니다."
+        ri "오늘은 편하게 쉬어요. 자료 링크만 남겨 둘게요. 내일 필요하면 같이 봐요."
+    elif flags.get("first_evening") in ("seoyun", "yujin", "jihyun"):
+        "문자를 나눈 상대에게 오늘은 쉬겠다고 알렸다. 내일 회사에서 이어가면 된다는 답이 돌아왔다."
+    else:
+        "휴대폰을 뒤집어 놓고 물을 끓였다. 오전에 들었던 네 사람의 목소리가 조금씩 구분되어 떠올랐다."
+        dh "서윤 씨는 설명할 시간을 줬고, 유진 씨는 제가 어디서 멈추는지 봤지."
+        "지현은 질문을 미루지 않아도 된다고 했다. 리아는 모르는 취향을 맞히는 대신 선택할 여지를 남겼다."
+        dh "내일은 도움받은 만큼 제가 찾은 것도 이야기해 봐야겠다."
+        "노트의 마지막 장에 기억나는 질문을 적었다. 답을 얻어야만 기록할 수 있는 것은 아니었다."
+        "샤워를 마치고 돌아오니 차는 마시기 좋은 온도가 되어 있었다. 하루를 뒤늦게 따라잡는 기분이다."
+        "잘한 말보다 못 한 말이 먼저 떠오르곤 했다. 오늘은 그 사이에 다시 이야기할 사람들의 이름도 있었다."
+        dh "다음에는 어느 자리에서 점심을 먹을지도 조금 더 쉽게 정할 수 있겠지."
+        "알람을 맞추고 회사 메신저를 닫았다. 혼자 보낸 저녁도 오늘의 한 부분으로 남았다."
     "처음 만난 동료에게 내 컨디션을 말해도 괜찮았다. 좋은 시작은 꼭 많은 약속을 만드는 것만은 아닐 것이다."
     jump d1_ending_home
 
 label d1_ending_cafe:
     $ chapter = "첫날의 기록"
     $ place = "DAY 01 · 하루 마무리"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("cafe"))
-    $ send_message("goodnight")
+    $ ui_scene_show("cafe")
+    $ clock = "21:30"
+    $ d1_send_night()
     "낯선 회사가 조금 익숙해졌다. 리아의 웃음 뒤에 있는 생각도 아주 조금 알게 되었다."
     "아직 서로의 모든 것을 아는 사이는 아니다. 다만 다음 이야기를 기다릴 수 있는 동료가 되었다."
     $ queue_photo_rewards()
@@ -322,11 +322,11 @@ label d1_ending_cafe:
 label d1_ending_home:
     $ chapter = "첫날의 기록"
     $ place = "DAY 01 · 하루 마무리"
-    $ renpy.scene()
-    $ renpy.show("background", what=office_bg("home"))
-    $ send_message("goodnight")
+    $ ui_scene_show("home")
+    $ clock = "21:30"
+    $ d1_send_night()
     "새로운 회사에서 해야 할 일과 쉬어도 되는 시간을 조금 알게 되었다."
-    "리아와의 이야기는 내일 이어질 수 있다. 오늘 관계를 서두르지 않았다는 이유로 문이 닫히지는 않았다."
+    "오늘 만난 사람들과의 이야기는 내일도 이어질 수 있다. 오늘 관계를 서두르지 않았다는 이유로 문이 닫히지는 않았다."
     $ queue_photo_rewards()
     $ renpy.retain_after_load()
     call screen day_result

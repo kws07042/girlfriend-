@@ -1,0 +1,60 @@
+Early init took 77 ms
+Loading error handling took 45 ms
+Loading script took 279 ms
+Loading save slot metadata took 122 ms
+Loading persistent took 21 ms
+Running init code took 71 ms
+Loading analysis data took 6 ms
+Analyze and compile ATL took 3 ms
+Reloading save slot metadata took 5 ms
+Backing up script files to 'C:\\Users\\user\\AppData\\Local\\Temp\\office-week-ghost-regression-saves/backups\\RenPy_게임':
+Dump and make backups took 82 ms
+Cleaning cache took 2 ms
+Making clean stores took 2 ms
+Initial gc took 45 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 314 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 11 ms
+Save screen analysis took 15 ms
+Save pyanalysis took 1 ms
+Save bytecode took 41 ms
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_week
+[rpytest] [log] - global.office_week
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+Running _start took 7 ms
+Interface start took 231 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1024, 768)
+swap interval: 1 frames
+Windowed mode.
+Could not get pygame screen: error('OpenGL support is either not configured in SDL or not available in current SDL video driver (dummy) or platform')
+
+Initializing angle2 renderer:
+primary display bounds: (0, 0, 1024, 768)
+swap interval: 1 frames
+Windowed mode.
+Could not get pygame screen: error('OpenGL support is either not configured in SDL or not available in current SDL video driver (dummy) or platform')
+
+Initializing gles2 renderer:
+primary display bounds: (0, 0, 1024, 768)
+swap interval: 1 frames
+Windowed mode.
+Could not get pygame screen: error('OpenGL support is either not configured in SDL or not available in current SDL video driver (dummy) or platform')
+
+Initializing sw renderer:
+[rpytest] [exc]   + office_week
+[rpytest] [exc]     - continuous_week

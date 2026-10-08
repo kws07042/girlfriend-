@@ -12,7 +12,8 @@ testcase office_active_call:
     assert screen "say"
     assert not screen "phone"
     pause 0.5
-    screenshot "active_call_ria_auto_v2"
+    move pos (20, 20)
+    screenshot "active_call_ria_auto_v5"
     run FilePage("active-call-qa")
     run FileSave(1,confirm=False)
     assert eval renpy.get_save_data("active-call-qa-1")["ui_call_contact"] == "ria"
@@ -23,7 +24,8 @@ testcase office_active_call:
     advance until screen "choice"
     assert eval ui_call_contact == "ria"
     pause 0.3
-    screenshot "active_call_choices_auto_v2"
+    move pos (20, 20)
+    screenshot "active_call_choices_auto_v5"
     click "카페에 들른다."
     assert eval ui_call_contact is None
     run Jump("day02")
@@ -44,7 +46,8 @@ testcase office_active_call:
     click "받기"
     assert eval ui_call_contact == "seoyun"
     pause 0.4
-    screenshot "active_call_seoyun_auto_v2"
+    move pos (20, 20)
+    screenshot "active_call_seoyun_auto_v5"
     advance until screen "day_result"
     assert eval ui_call_contact is None and flags["d2_sy_call"] == "answered"
     run Jump("day04")
@@ -63,9 +66,14 @@ testcase office_active_call:
     click "받기"
     assert eval ui_call_contact == "yujin"
     pause 0.4
-    screenshot "active_call_yujin_auto_v2"
-    click "종료"
+    move pos (20, 20)
+    screenshot "active_call_yujin_auto_v5"
+    click "통화 종료"
+    advance
+    advance
+    pause 1.0
     assert eval ui_call_contact is None and flags["d4_yj_call"] == "answered"
     exit
+
 
 

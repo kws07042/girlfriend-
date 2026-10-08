@@ -1,0 +1,42 @@
+[
+  {
+    "expression": "smile",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f11bba95-f891-4d79-84b0-dc5e1f2eccb7.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_미소_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "serious",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-baea8c70-9a3e-4c3b-8d00-11ec516a607c.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_진지_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "surprised",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f9466d61-c154-4e22-8190-059d5d8c907b.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_놀람_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "sheepish",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-0307a0ca-cd01-45b6-95a7-329d08bd2ea1.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_머쓱_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  }
+]

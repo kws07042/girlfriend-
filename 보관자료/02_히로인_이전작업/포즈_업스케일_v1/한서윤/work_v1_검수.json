@@ -1,0 +1,23 @@
+{
+  "who": "seoyun",
+  "name": "한서윤",
+  "key": "work",
+  "label": "태블릿보며설명",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-504017f6-8578-4097-b93b-1f77dd4ee9f9.png",
+  "status": "요청에 따라 제작",
+  "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 34-year-old 한서윤. Work explanation pose. Lower the existing black tablet into the center in front of her waist, supported by her left hand, tilted slightly upward. Her right hand holds the SAME stylus naturally near the tablet surface to indicate one point, not raised beside her face. Shoulders relaxed, head only slightly inclined toward the tablet with her face still clearly visible toward the viewer. Restrained focused adult expression, attentive brown eyes and relaxed lips, not angry. Preserve blue open shirt over white inner top, taupe long cardigan, cream trousers, watch and original pumps, mature low brown bun. No extra accessories. Keep exact face identity, mature age/proportions, eye color and iris size, hair silhouette/texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_태블릿보며설명_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_태블릿보며설명_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3070
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "7ebcb77c4e687a7d58f9d5c9d1f587866add1427d8c05a9b5118e4b9f96ea6dc"
+}

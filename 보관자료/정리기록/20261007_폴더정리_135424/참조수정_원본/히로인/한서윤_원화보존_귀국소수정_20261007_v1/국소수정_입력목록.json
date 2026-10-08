@@ -1,0 +1,56 @@
+{
+  "status": "Approved master and first poses restored as immutable source. Only ear will be locally edited with image_gen.",
+  "items": [
+    {
+      "key": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+      "source_sha256": "eeb1a502bf7b962fa393edd9c2e8b2f7417ea3e6188185c2f2f777db89d4df7b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      }
+    },
+    {
+      "key": "work",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-47c4c2ce-8c7d-4f61-a184-9f04775cd9fd.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+      "source_sha256": "f10982b9112d9e2e7e3e98973b024ee84abe0d837a881e1a3e1cc79650030b1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      }
+    },
+    {
+      "key": "casual",
+      "source": "C:/Users/user/.codex/generated_images/01a0f5b6-5b74-7280-a594-a6011eccf7fb/exec-8b0770e2-25db-4989-8b59-01b73727c505.png",
+      "preserved_raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+      "ear_input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+      "source_sha256": "f78cd706375289858db9fd38d993057d009dfa634e4f6adfeb00ab63ae6ef24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "crop": {
+        "x": 532,
+        "y": 94,
+        "width": 96,
+        "height": 96
+      }
+    }
+  ]
+}

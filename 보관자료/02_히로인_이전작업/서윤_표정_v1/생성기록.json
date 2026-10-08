@@ -1,0 +1,62 @@
+[
+  {
+    "expression": "smile",
+    "label": "미소",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-43a2b929-e9e8-4a81-a5c3-9fa97e6208be.png",
+    "normalized_size": [
+      1024,
+      1535
+    ],
+    "game_size": [
+      2048,
+      3070
+    ],
+    "upscale_recipe": "original 60% + Real-ESRGAN general 40%",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_expressions\\smile.png"
+  },
+  {
+    "expression": "serious",
+    "label": "진지",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-3c0386c5-5c86-4bdf-9c00-0030224fc7cb.png",
+    "normalized_size": [
+      1024,
+      1535
+    ],
+    "game_size": [
+      2048,
+      3070
+    ],
+    "upscale_recipe": "original 60% + Real-ESRGAN general 40%",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_expressions\\serious.png"
+  },
+  {
+    "expression": "surprised",
+    "label": "놀람",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-6a8f73e8-b92c-42e2-8013-efd4cf04e4a6.png",
+    "normalized_size": [
+      1024,
+      1535
+    ],
+    "game_size": [
+      2048,
+      3070
+    ],
+    "upscale_recipe": "original 60% + Real-ESRGAN general 40%",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_expressions\\surprised.png"
+  },
+  {
+    "expression": "sheepish",
+    "label": "머쓱",
+    "raw_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-df581e96-6d78-4921-9541-f61c68fdff50.png",
+    "normalized_size": [
+      1024,
+      1535
+    ],
+    "game_size": [
+      2048,
+      3070
+    ],
+    "upscale_recipe": "original 60% + Real-ESRGAN general 40%",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_expressions\\sheepish.png"
+  }
+]

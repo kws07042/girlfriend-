@@ -1,0 +1,36 @@
+{
+  "who": "seoyun",
+  "name": "한서윤",
+  "key": "work",
+  "label": "태블릿보며설명",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f8fa02cc-baa4-4e12-bdbf-d0a49a39582f.png",
+  "status": "요청에 따라 제작",
+  "prompt": "LOCAL ANATOMY REPAIR on this upper-body crop. Focus on the stylus-holding hand on IMAGE LEFT. There is an erroneous small oval flesh-colored finger-like nub sticking out ABOVE/BEHIND the top index finger, just to the RIGHT of the stylus barrel near the top of the grip. The user circled this exact stray nub: REMOVE IT COMPLETELY. Do not retain a detached rounded flesh bump at that location. Reconstruct a believable relaxed stylus grip: the visible index finger curves naturally over the pen, middle finger supports the barrel underneath, ring and little fingers curl below, and the thumb is mostly naturally OCCLUDED BEHIND the pen and index finger with a convincing visible thumb-base/contact connection. Five fingers total, no bonus fingertip poking above the index. Keep clear short natural fingernail plates, anatomically plausible finger separations and delicate knuckle/joint detail, soft contact shadows. Do not enlarge hand, do not change wrist placement or hand silhouette elsewhere. Keep same pen angle, other hand supporting tablet, tablet and clothing. Match refined anime drawing style, no photoreal wrinkles, no heavy ink lines. Same crop framing, one image, no text, no markings, no panels. The top-of-grip stray flesh bump must be visibly gone in the corrected version.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\한서윤_태블릿설명_손가락수정_v3.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3070
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "AI edited hand crop at 2x, native 60% + Real-ESRGAN 40%; approved body preserved",
+  "source_sha256": "eb31b0388f66ba82cbbf0182eb0833d8a32c0276e5a583ff8a8c5f4983d04338",
+  "version": 3,
+  "correction": "동그라미로 지적된 엄지 돌기와 펜 잡는 구조 수정, 손가락 디테일 보완 후 손 부분만 합성",
+  "previous": {
+    "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\원화\\한서윤_태블릿설명_손수정_v2.png",
+    "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\업스케일\\한서윤_태블릿설명_손수정_v2_2x_원화보존.png"
+  },
+  "generation_tool": "built-in image_gen",
+  "changed_pixels": 38481,
+  "pixels_changed_outside_hand_region": 0,
+  "alpha_changed_pixels": 0,
+  "detail_source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f8fa02cc-baa4-4e12-bdbf-d0a49a39582f.png",
+  "raw_role": "2배 합성 작업본. AI 손 부분 원본은 원화/손부분_상세수정_원본.png에 별도 보관.",
+  "integration_method": "AI hand crop reprojected to x350..710/y310..550 at canonical2x; local feathered hand-and-stylus mask; other pixels preserved"
+}

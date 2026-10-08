@@ -37,43 +37,39 @@ label day02:
     dh "목록에 제 이름도 적어 주세요. 임시로 맡았는지 계속 맡는지도 같이요."
     sy "좋아요. 도현 씨가 해 준 일을 제 체크 표시로만 남기지 않을게요."
     "서윤의 목록에 내 이름이 한 줄 들어갔다. 도움은 커다란 선언보다 필요한 만큼의 일을 남기는 쪽에 가까웠다."
-    $ week_scene("lounge","모멘트웍스 / 라운지","12:20","lunch","어제의 약속")
-    if flags.get("nextLunch"):
-        $ schedule_meeting("d2_ria_review","ria",2,"lunch","12:30","라운지 원자료 검토")
-        $ promises[:] = [p for p in promises if not p.startswith("DAY 02")]
-        $ flags["d2_had_promise"] = True
-        $ d2_reply_key = "d2_ri_plan"
-        "어제 카페에서 잡은 약속 시간이 가까워졌다. 일정에 적힌 12시 30분이 오늘의 시간이 되었다."
-    else:
-        $ d2_reply_key = "d2_ri_free"
-        "어제 집에서 쉬었다고 오늘의 대화가 닫히지는 않았다. 리아에게 점심 초대가 왔다."
-    $ send_message(d2_reply_key)
+    call week_sy_private
+    $ week_scene("lounge","모멘트웍스 / 라운지","12:20","lunch","일하다 남긴 질문")
+    $ promises[:] = [p for p in promises if not p.startswith("DAY 02")]
+    $ schedule_meeting("d2_ria_review","ria",2,"lunch","12:30","공동 원자료 검토")
+    $ send_message("d2_ri_plan")
     $ phone_focus = "ria"
-    call screen phone(mode="story",initial_contact="ria",required_reply=d2_reply_key)
-    if flags.get("d2_lunch") == "ria":
-        $ week_lunch = "ria"
-        if not flags.get("d2_had_promise"):
-            $ schedule_meeting("d2_ria_review","ria",2,"lunch","12:30","라운지 원자료 검토")
-        call week_lunch_scene
-        ri "그럼 약속한 자료는 여기 두 줄만 볼까요? 밥 먹는 시간보다 길게 잡진 않을게요."
-        dh "분류에 없는 질문들이 있네요."
-        ri "억지로 기존 칸에 넣지 않았어요. 새 종류인지 단순한 표현 차이인지는 내일 같이 확인해요."
+    "원자료를 보기 전에 네 사람이 함께 점심을 먹기로 했다. 오늘은 한 사람과의 사적 약속이 아니라 어제 남긴 업무 질문을 함께 확인하는 자리다."
+    call screen phone(mode="story",initial_contact="ria",required_reply="d2_ri_plan")
+    $ week_lunch = "ria"
+    call week_lunch_scene
+    ri "그럼 약속한 자료는 여기 두 줄만 볼까요? 밥 먹는 시간보다 길게 잡진 않을게요."
+    dh "분류에 없는 질문들이 있네요."
+    ri "억지로 기존 칸에 넣지 않았어요. 새 종류인지 단순한 표현 차이인지는 내일 같이 확인해요."
+    sy "사용자 다음 행동과도 붙여 둘게요. 계정 확인만으로 끝나지 않는 부분이네요."
+    yj "그 질문이 나오는 화면도 같은 위치에 놓아 보겠습니다."
+    jh "오늘은 모르는 칸을 찾았으면 충분해요. 답은 내일 확인하고요."
+    if flags.get("d2_lunch") == "rest":
+        "집중해서 검토할 부분은 내일 오전으로 옮겼다. 모두의 일정에서 확인할 시간을 남기고 점심 이야기를 이어갔다."
+        $ finish_meeting("d2_ria_review","조정")
+        $ schedule_meeting("d3_ria_review","ria",3,"morning","09:30","원자료 검토 / 변경한 약속")
+    else:
         dh "오늘은 이상한 칸이 있다는 걸 찾은 것으로 충분하겠네요."
         ri "네. 약속 지켰으니까, 이제는 진짜 점심 끝!"
         $ finish_meeting("d2_ria_review")
         $ flags["d2_review_done"] = True
-    else:
-        $ finish_meeting("d2_ria_review","조정")
-        $ schedule_meeting("d3_ria_review","ria",3,"morning","09:30","원자료 검토 / 변경한 약속")
-        $ week_lunch = "rest"
-        call week_lunch_scene
-        "약속은 내일 오전 자료 시간으로 옮겼다. 서로 시간을 확인하고 바꾼 약속이니 불이행으로 남기지 않았다."
     $ week_scene("office","모멘트웍스 / 오픈 오피스","17:50","lunch","한 칸의 담당자")
     jh "테스트 상태가 남아 있으니 내일 확인할 항목을 좁힐 수 있겠어요."
     sy "담당이 없는 일은 먼저 물어보고 정하려고요. 일단 제 이름을 쓰는 건 잠깐 멈춰 볼게요."
     ri "질문 자료에도 담당 칸 넣어 둬요. 제가 만든 분류는 제가 설명할게요."
     yj "화면 비교 자료는 제 쪽에서 준비할게요. 서윤 씨 목록에는 링크만 남겨 주세요."
     "책임이 사라진 것이 아니라 이름이 나뉘었다. 서윤은 목록을 닫기 전에 네 사람을 한 번씩 바라봤다."
+    sy "퇴근길에 잠깐 차 한 잔 하실래요? 카페에서 책 이야기를 조금 이어가고 싶어요."
+    dh "네. 계정은 내일 보고 오늘은 다른 이야기로요."
     $ week_scene("elevator","모멘트웍스 / 엘리베이터","18:30","evening","퇴근길의 짧은 통화")
     $ ring_who = "seoyun"
     $ phone_focus = "seoyun"
@@ -94,10 +90,12 @@ label day02:
         $ flags["d2_sy_call"] = "answered"
     else:
         $ phone_calls.append("DAY 02 / 18:30 / 한서윤 / 부재중")
-        $ phone_messages.append({"who":"seoyun","out":True,"text":"지금은 통화가 어려워요. 필요한 내용은 문자로 남겨 주세요.","time":clock})
-        $ phone_messages.append({"who":"seoyun","out":False,"text":"계정 알림은 내일 확인하기로 했어요. 오늘 다시 접속하지 않아도 돼요. 편히 쉬세요.","time":clock})
+        $ phone_messages.append({"who":"seoyun","out":True,"text":"지금은 통화가 어려워요. 필요한 내용은 문자로 남겨 주세요.","time":clock,"day":day})
+        $ phone_messages.append({"who":"seoyun","out":False,"text":"계정 알림은 내일 확인하기로 했어요. 오늘 다시 접속하지 않아도 돼요. 편히 쉬세요.","time":clock,"day":day})
         $ flags["d2_sy_call"] = "deferred"
         "필요한 내용은 문자로 받았다. 다시 일할 필요가 없다는 답을 확인하고 휴대폰을 넣었다."
+    call intro_seoyun_evening
+    $ intro_mark_day()
     $ complete_week_event("d2_evening",effects={"stress":-15})
     $ send_message("d2_sy_night")
     call week_close_day
@@ -151,12 +149,20 @@ label day03:
     yj "내일은 같은 문장을 두 화면에 놓고 비교해 볼게요. 문장만 좋아도 순서가 바뀌면 다르게 읽히니까요."
     ri "오늘 정리한 질문은 자료 폴더에 두었어요. 현장에서 또 물어볼 때 같은 방법으로 기록해 볼게요."
     jh "다음 주 발표 전까지 무엇을 검증할지 정합시다. 오늘 안에 전부 답하려고 하진 말고요."
+    ri "오늘은 커피도 다 마셨어요. 표부터 보여 주느라 컵을 잊을 줄 알았는데요."
+    dh "숫자 먼저 보여 준 뒤에는 조금 편해 보이셨습니다."
+    ri "설명할 사람이 있다는 건 좋네요. 제가 만든 건 제가 이야기하고 싶으니까요."
+    call week_jh_private
+    jh "같은 영화를 여러 번 보면 그때마다 놓쳤던 장면이 하나씩 보여요."
+    dh "지난주에 같은 길을 다시 걸으면 다르게 보인다고 하신 것과 비슷하네요."
+    jh "그러네요. 취향에도 기준은 있는데, 꼭 그대로 지킬 필요는 없겠죠."
+    "지현은 영화 제목을 메모해 내 쪽으로 돌렸다. 업무와 무관한 제목이 오늘의 마지막 메모가 되었다."
     $ week_scene("elevator","모멘트웍스 / 엘리베이터","18:30","evening","약속 없는 저녁")
     menu:
         "회사 앞 카페에서 잠깐 혼자 쉰다. (저녁 / 감각 +3 / 스트레스 -8)":
             $ week_scene("cafe","회사 앞 / 카페","19:00","evening")
             $ complete_week_event("d3_evening",effects={"sensitivity":3,"stress":-8})
-            "첫날과 같은 창가에 앉았다. 오늘은 약속 상대 없이, 창밖을 보는 사람들의 다른 속도를 바라봤다."
+            "회사 앞 카페의 창가에 앉았다. 오늘은 약속 상대 없이, 창밖을 보는 사람들의 다른 속도를 바라봤다."
             if flags.get("nextLunch"):
                 "리아가 장소를 설명하며 웃던 모습이 떠올랐다. 같은 자리에 혼자 앉아도 그 대화는 남아 있었다."
             dh "모든 만남을 다음 만남으로 채울 필요는 없겠지."
@@ -164,6 +170,7 @@ label day03:
             $ complete_week_event("d3_evening",effects={"stress":-15})
             $ week_scene("home","도현의 집","19:00","evening")
             "오늘은 지도에서 새 장소를 찾지 않았다. 신발을 벗고 앉으니 오전에 들었던 이야기가 천천히 정리됐다."
+    $ intro_mark_day()
     $ send_message("d3_ri_night")
     call week_close_day
     if _return == "continue":
@@ -205,12 +212,15 @@ label day04:
     dh "설명 없이 시안을 바꾸면 이 메모들은 다 사라지겠네요."
     yj "그래서 함께 남기고 싶었어요. 나중에 제가 봐도 왜 바꿨는지 알 수 있게요."
     "유진이 폴더 가장자리를 정리했다. 회의가 끝나고 나니 그 손의 움직임이 조금 느려졌다."
+    call week_yj_private
     call week_choose_lunch
     $ week_scene("office","모멘트웍스 / 오픈 오피스","17:30","lunch","내일 결정할 것")
     jh "내일 목표 합의에서는 오늘 만든 기준부터 보죠. 행사 방문과 서비스 재방문을 따로 적어 주세요."
     sy "역할표도 같은 순서로 정리해 둘게요. 담당자가 없는 칸은 숨기지 않고 남기겠습니다."
     ri "검증할 질문은 제가 가져갈게요. 아직 모르는 걸 아는 것처럼 쓰지는 않을게요."
     yj "화면은 첫 행동과 후속 경험으로 나눠 설명할 수 있어요."
+    yj "퇴근하면서 잠깐 지도 보여 드릴까요? 파일 제목 말고 골목 이야기로요."
+    dh "네. 카페에서 잠깐 보고 갈게요."
     $ week_scene("elevator","모멘트웍스 / 엘리베이터","18:40","evening","짧게 이어진 설명")
     $ ring_who = "yujin"
     $ phone_focus = "yujin"
@@ -231,11 +241,13 @@ label day04:
         $ flags["d4_yj_call"] = "answered"
     else:
         $ phone_calls.append("DAY 04 / 18:40 / 차유진 / 부재중")
-        $ phone_messages.append({"who":"yujin","out":True,"text":"지금은 통화가 어려워요. 문자로 남겨 주시면 확인할게요.","time":clock})
-        $ phone_messages.append({"who":"yujin","out":False,"text":"자료 제목만 확인하려던 거예요. 내일 만나서 정해도 괜찮아요. 편히 들어가세요.","time":clock})
+        $ phone_messages.append({"who":"yujin","out":True,"text":"지금은 통화가 어려워요. 문자로 남겨 주시면 확인할게요.","time":clock,"day":day})
+        $ phone_messages.append({"who":"yujin","out":False,"text":"자료 제목만 확인하려던 거예요. 내일 만나서 정해도 괜찮아요. 편히 들어가세요.","time":clock,"day":day})
         $ flags["d4_yj_call"] = "deferred"
         "화면에 급하지 않다는 문장이 남았다. 지금 답하지 않아도 내일 이어갈 수 있는 이야기였다."
     $ complete_week_event("d4_evening",effects={"stress":-15})
+    call intro_yujin_evening
+    $ intro_mark_day()
     $ send_message("d4_yj_night")
     call week_close_day
     if _return == "continue":
@@ -289,66 +301,18 @@ label day05:
     jh "오늘의 결정은 여기까지입니다. 첫 주 수고했어요."
     "월요일에는 처음 듣는 이름들이었다. 금요일에는 각자의 질문을 떠올릴 수 있는 이름들이 되었다."
     $ week_scene("elevator","모멘트웍스 / 엘리베이터","18:30","evening","첫 주의 마지막 저녁")
-    "오늘 저녁은 한 번의 행동을 고른다. 아직 교제나 개인 루트가 확정되는 선택은 아니다."
-    menu:
-        "리아와 카페에서 한 주 이야기를 나눈다. (저녁 / 감각 +3 / 스트레스 -8)":
-            $ week_evening = "ria"
-            $ schedule_meeting("d5_evening","ria",5,"evening","19:00","카페 / 첫 주 이야기")
-            $ week_scene("cafe","회사 앞 / 카페","19:00","evening")
-            ri "오늘은 초대하기 전에 먼저 물어볼게요. 일 얘기는 얼마나 해도 괜찮아요?"
-            dh "한 주 끝났다는 이야기까지만요. 다음 주 숙제는 월요일에 하죠."
-            ri "좋아요. 그럼 이번 주 제일 웃겼던 일부터 말할게요."
-            if flags.get("hobby") == "music":
-                ri "좋아하는 공연장 이야기해요. 표를 지금 예매하자는 건 아니고, 서로 취향부터요."
-            elif flags.get("hobby") == "quiet":
-                ri "조용한 곳이 좋다고 했죠? 오늘은 음악 작은 자리로 골랐어요."
-            else:
-                ri "오늘도 꼭 즐겁게 이야기해야 할 의무는 없어요. 커피 마시고 먼저 가도 괜찮고요."
-            dh "같이 있어도 쉬는 시간이 될 수 있겠네요."
-            ri "그거면 금요일 저녁은 성공이죠."
-        "서윤과 테라스에서 퇴근 전 차를 마신다. (저녁 / 감각 +3 / 스트레스 -8)":
-            $ week_evening = "seoyun"
-            $ schedule_meeting("d5_evening","seoyun",5,"evening","18:30","테라스 / 퇴근 전 차")
-            $ week_scene("terrace","모멘트웍스 / 테라스","18:30","evening")
-            sy "오늘은 차가 식기 전에 마셨으면 해요. 둘 다 업무 화면은 안 켜는 걸로요."
-            dh "대신 요즘 읽는 책 이야기해 주세요. 업무에 도움이 되는 책 말고요."
-            sy "도움이 안 되는 책을 고르려니까 더 어려운데요. 그냥 재미있는 걸로 해도 될까요?"
-            dh "그게 제일 좋습니다."
-            sy "그럼 결말을 먼저 말하지 않는다는 약속부터 받아야겠네요."
-            "목록을 설명할 때와 다른 망설임이었다. 서윤에게도 누군가 대신 정해 줄 필요 없는 취향이 있었다."
-        "유진과 작업실 정리를 마치며 취향을 이야기한다. (저녁 / 감각 +3 / 스트레스 -8)":
-            $ week_evening = "yujin"
-            $ schedule_meeting("d5_evening","yujin",5,"evening","18:30","작업실 / 정리 후 대화")
-            $ week_scene("studio","모멘트웍스 / 디자인 작업실","18:30","evening")
-            yj "이 폴더까지만 정리하고 갈게요. 기다려 주실 필요는 없어요."
-            dh "잠깐 같이 정리해도 괜찮나요? 자료는 유진 씨가 말해 주신 자리로만 놓겠습니다."
-            yj "좋아요. 버릴 것까지 대신 판단하지 않는다는 조건으로요."
-            dh "정리된 책상과 마음에 드는 책상은 같지 않을 수도 있겠네요."
-            yj "네. 제가 찾을 수 있으면 되는 자리도 있으니까요."
-            "유진은 오래된 전시 안내지를 따로 챙겼다. 무엇이 적혀 있는지는 묻지 않았다. 보여 주고 싶은 때에 들을 수 있을 것이다."
-        "지현과 엘리베이터에서 짧게 한 주를 돌아본다. (저녁 / 감각 +3 / 스트레스 -8)":
-            $ week_evening = "jihyun"
-            $ schedule_meeting("d5_evening","jihyun",5,"evening","18:30","퇴근길 / 한 주 인사")
-            jh "다섯 번 출근하니 길은 익숙해졌나요?"
-            dh "네. 아직 회의실 이름은 가끔 헷갈리지만요."
-            jh "저도 이름보다 어디 있는지로 기억해요. 그건 오래 다닌다고 다르지 않네요."
-            dh "이번 주에는 정답을 바로 말해야 할 줄 알았는데, 질문을 남겨도 된다는 걸 배웠어요."
-            jh "모르는 것을 숨기면 제가 판단할 정보도 줄어들죠. 앞으로도 분명하게 말해 주세요."
-            "엘리베이터 문이 열렸다. 지현은 오늘 더 할 일을 붙이는 대신 짧게 주말 인사를 건넸다."
-        "집에 돌아가 약속 없는 저녁을 보낸다. (저녁 / 스트레스 -15)":
-            $ week_evening = "rest"
-            $ week_scene("home","도현의 집","19:00","evening")
-            "오늘은 누구와도 추가 약속을 잡지 않았다. 다음 주에도 이어질 대화가 있다는 것만으로 충분했다."
-    $ complete_week_event("d5_evening",effects={"stress":-15} if week_evening == "rest" else {"sensitivity":3,"stress":-8})
-    $ finish_meeting("d5_evening")
+    call intro_friday_group
+    $ intro_mark_day()
     $ send_message("d5_jh_night")
     $ week_finished = True
     $ week_scene("home","도현의 집","21:30","evening","첫 주의 기록")
     "집에 돌아와 첫 주의 기록을 닫았다. 네 사람 모두와 가까워질 길은 열려 있고, 누구와 더 이야기하고 싶은지는 아직 정해 가는 중이다."
-    "다음 주에는 지현의 첫 개인 사건과 네 사람의 취향 이야기가 기다린다. 히로인 루트 선택은 15일차 저녁이다."
+    "다음 주에는 누구를 조금 더 알아보고 싶은지 처음으로 고른다. 그 마음도 함께 보낸 시간에 따라 달라질 수 있다."
     $ queue_photo_rewards()
     $ renpy.retain_after_load()
     call screen day_result
+    if _return == "continue":
+        jump day06
     return
 
 

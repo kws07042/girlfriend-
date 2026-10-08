@@ -1,0 +1,42 @@
+[
+  {
+    "expression": "smile",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-5f2f8ae2-a07a-4773-9ffe-29846ab0e3c0.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_미소_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "serious",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-6d82aa6d-be36-426a-b2c5-8d8ed8165ca7.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_진지_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "surprised",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-65242c6d-cd93-44d4-88c9-698477972bbc.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_놀람_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "sheepish",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8a2aa18a-bd99-4fb4-8cad-54b2246ff1e0.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_머쓱_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  }
+]

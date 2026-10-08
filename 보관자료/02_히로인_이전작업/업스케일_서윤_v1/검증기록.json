@@ -1,0 +1,38 @@
+{
+  "source_sha256": "0dc3911df21760e288919f034d8f22b69f5ccf7d0f62fd681a9b563e46afad69",
+  "source_unchanged": true,
+  "original_size": [
+    1024,
+    1535
+  ],
+  "output_size": [
+    2048,
+    3070
+  ],
+  "cost": "local / no cloud credits",
+  "device": "RTX 3060 Laptop Vulkan device 1",
+  "raw_models": [
+    "realesrgan-x4plus",
+    "realesrgan-x4plus-anime"
+  ],
+  "natural_processing": "general 4x -> Lanczos 2x; original Lanczos RGB 60% + SR RGB 40%; original resized alpha",
+  "sharp_processing": "anime 4x -> Lanczos 2x; original resized alpha",
+  "checks": {
+    "한서윤_MASTER_2x_원화보존.png": {
+      "size": [
+        2048,
+        3070
+      ],
+      "alpha_matches_original_resized": true,
+      "corner_alpha": 0
+    },
+    "한서윤_MASTER_2x_선명형.png": {
+      "size": [
+        2048,
+        3070
+      ],
+      "alpha_matches_original_resized": true,
+      "corner_alpha": 0
+    }
+  }
+}

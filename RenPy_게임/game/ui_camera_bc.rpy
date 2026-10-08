@@ -24,10 +24,15 @@ init python:
         if mode not in (None, "B", "C"):
             raise ValueError("Camera mode must be B, C, or None (automatic).")
         store.ui_camera_override = mode
+        ui_bc_motion_schedule()
 
     def ui_camera_reset(label=None, abnormal=False):
+        # Engine save/load and menu labels must preserve the restored framing.
+        if label and label.startswith('_'):
+            return
         store.ui_camera_mode = "B"
         store.ui_camera_actor = None
+        ui_bc_motion_schedule()
 
     def ui_camera_update(who, what, location):
         if store.ui_camera_place != location:
@@ -40,6 +45,7 @@ init python:
             store.ui_camera_actor = actor
             if what in ui_camera_close_beats:
                 store.ui_camera_mode = "C"
+        ui_bc_motion_schedule()
         # Preserve a close-up through the protagonist's reply and its choices.
 
     def ui_camera_callback(event, **kwargs):
@@ -56,12 +62,9 @@ init python:
 
 screen office_portrait():
     zorder -5
-    if not main_menu and not renpy.get_screen("day_result") and not renpy.get_screen("phone") and not ui_call_contact:
-        if ui_camera_current() == "C":
-            add Solid("#101A2418")
-            add Transform("images/characters/%s_master.png" % ui_speaker, xysize=(1536,2304), fit="contain") xpos 480 ypos 0
-        else:
-            add Transform("images/characters/%s_master.png" % ui_speaker, xysize=(1024,1536), fit="contain") xpos 610 ypos 0
+    if ui_scene_actor and ui_scene_key != "home" and not main_menu and not renpy.get_screen("day_result") and not renpy.get_screen("phone") and not ui_call_contact:
+        add Solid("#101A2418") at ui_bc_tint
+        add ui_bc_frame(Transform(ui_character_present(ui_speaker), xysize=(1024,1536), fit="contain")) id "office_character"
 
 screen say(who, what):
     zorder 20
@@ -109,6 +112,9 @@ screen quick_menu():
         textbutton "불러오기" action ShowMenu("load") style "ui_quick_button" text_size 20
         textbutton "자동" action Preference("auto-forward","toggle") style "ui_quick_button" text_size 20
         textbutton "설정" action ShowMenu("preferences") style "ui_quick_button" text_size 20
+
+
+
 
 
 

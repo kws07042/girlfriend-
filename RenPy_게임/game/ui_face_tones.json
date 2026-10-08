@@ -1,0 +1,335 @@
+{
+  "ria": {
+    "master|normal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|smile": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "master|serious": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|surprised": [
+      0.0,
+      -0.00784,
+      -0.00784
+    ],
+    "master|sheepish": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "listening|normal": [
+      0.0,
+      -0.00392,
+      -0.01176
+    ],
+    "listening|smile": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "listening|serious": [
+      0.0,
+      -0.00392,
+      -0.01176
+    ],
+    "listening|surprised": [
+      0.0,
+      -0.01176,
+      -0.01961
+    ],
+    "listening|sheepish": [
+      0.0,
+      -0.00392,
+      -0.01176
+    ],
+    "explaining|normal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "explaining|smile": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "explaining|serious": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "explaining|surprised": [
+      0.0,
+      -0.00784,
+      -0.00784
+    ],
+    "explaining|sheepish": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "casual|normal": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "casual|smile": [
+      0.0,
+      0.00392,
+      0.00392
+    ],
+    "casual|serious": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "casual|surprised": [
+      0.0,
+      -0.00784,
+      -0.01176
+    ],
+    "casual|sheepish": [
+      0.0,
+      0.0,
+      -0.00392
+    ]
+  },
+  "seoyun": {
+    "master|normal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|smile": [
+      0.0,
+      0.00392,
+      0.0
+    ],
+    "master|serious": [
+      -0.00392,
+      0.0,
+      -0.00392
+    ],
+    "master|surprised": [
+      0.0,
+      0.00392,
+      0.0
+    ],
+    "master|sheepish": [
+      -0.00392,
+      0.0,
+      -0.00392
+    ],
+    "work|normal": [
+      0.00784,
+      0.01569,
+      0.02353
+    ],
+    "work|smile": [
+      0.00784,
+      0.01961,
+      0.02353
+    ],
+    "work|serious": [
+      0.00392,
+      0.01569,
+      0.01961
+    ],
+    "work|surprised": [
+      0.00784,
+      0.01961,
+      0.02353
+    ],
+    "work|sheepish": [
+      0.00392,
+      0.01569,
+      0.01961
+    ],
+    "casual|normal": [
+      0.00392,
+      0.0,
+      0.0
+    ],
+    "casual|smile": [
+      0.00392,
+      0.00392,
+      0.0
+    ],
+    "casual|serious": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "casual|surprised": [
+      0.00392,
+      0.00392,
+      0.0
+    ],
+    "casual|sheepish": [
+      0.0,
+      0.0,
+      -0.00392
+    ]
+  },
+  "yujin": {
+    "master|normal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|smile": [
+      0.0,
+      -0.00392,
+      -0.00784
+    ],
+    "master|serious": [
+      0.0,
+      -0.00392,
+      -0.00784
+    ],
+    "master|surprised": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|sheepish": [
+      0.00392,
+      0.01569,
+      0.01569
+    ],
+    "work|normal": [
+      0.0,
+      0.00392,
+      0.00392
+    ],
+    "work|smile": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "work|serious": [
+      0.0,
+      0.0,
+      -0.00392
+    ],
+    "work|surprised": [
+      0.0,
+      0.00392,
+      0.00392
+    ],
+    "work|sheepish": [
+      0.00392,
+      0.01961,
+      0.01961
+    ],
+    "casual|normal": [
+      0.0,
+      0.00784,
+      0.01569
+    ],
+    "casual|smile": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "casual|serious": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "casual|surprised": [
+      0.0,
+      0.00784,
+      0.01569
+    ],
+    "casual|sheepish": [
+      0.00392,
+      0.02353,
+      0.03137
+    ]
+  },
+  "jihyun": {
+    "master|normal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|smile": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "master|serious": [
+      -0.00392,
+      -0.00784,
+      -0.00784
+    ],
+    "master|surprised": [
+      -0.00392,
+      -0.00392,
+      -0.00392
+    ],
+    "master|sheepish": [
+      0.0,
+      0.01569,
+      0.01176
+    ],
+    "work|normal": [
+      0.00392,
+      0.00784,
+      0.01176
+    ],
+    "work|smile": [
+      0.00392,
+      0.00784,
+      0.01176
+    ],
+    "work|serious": [
+      0.0,
+      0.0,
+      0.00392
+    ],
+    "work|surprised": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "work|sheepish": [
+      0.00392,
+      0.02353,
+      0.02353
+    ],
+    "casual|normal": [
+      0.00392,
+      0.01176,
+      0.01569
+    ],
+    "casual|smile": [
+      0.00392,
+      0.01176,
+      0.01569
+    ],
+    "casual|serious": [
+      0.0,
+      0.00392,
+      0.00784
+    ],
+    "casual|surprised": [
+      0.0,
+      0.00784,
+      0.01176
+    ],
+    "casual|sheepish": [
+      0.00392,
+      0.02745,
+      0.02745
+    ]
+  }
+}

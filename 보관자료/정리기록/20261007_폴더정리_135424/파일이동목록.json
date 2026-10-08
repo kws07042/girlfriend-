@@ -1,0 +1,2427 @@
+[
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\01_타이틀.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\01_타이틀.png",
+    "size": 1076083
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\02_대화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\02_대화.png",
+    "size": 2054137
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\03_선택지.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\03_선택지.png",
+    "size": 2126807
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\04_문자.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\04_문자.png",
+    "size": 1402867
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\05_수신전화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\05_수신전화.png",
+    "size": 1124743
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\06_사진수신설정.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\06_사진수신설정.png",
+    "size": 1419080
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\07_저장.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\07_저장.png",
+    "size": 378330
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\08_하루결과.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\08_하루결과.png",
+    "size": 763620
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v2\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v2\\README.md",
+    "size": 1950
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_시안_v3\\01_아이폰_중앙메시지.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_시안_v3\\01_아이폰_중앙메시지.png",
+    "size": 1697677
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v4\\01_휴대폰.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v4\\01_휴대폰.png",
+    "size": 1571300
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v4\\02_입력중.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v4\\02_입력중.png",
+    "size": 1566354
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v4\\03_답변도착.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v4\\03_답변도착.png",
+    "size": 1576184
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v4\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v4\\README.md",
+    "size": 548
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v5\\01_휴대폰정렬.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v5\\01_휴대폰정렬.png",
+    "size": 1578775
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v5\\02_수신설정정렬.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v5\\02_수신설정정렬.png",
+    "size": 1592518
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v5\\03_퇴근전화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v5\\03_퇴근전화.png",
+    "size": 1156956
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v6\\01_클립없는메신저.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v6\\01_클립없는메신저.png",
+    "size": 1582372
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v6\\02_확대프로필.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v6\\02_확대프로필.png",
+    "size": 1594463
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\UI_실행_v6\\03_통화화면.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\UI_실행_v6\\03_통화화면.png",
+    "size": 1170932
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\예시자산_v1\\ria_cafe_cg_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\예시자산_v1\\ria_cafe_cg_v001.png",
+    "size": 1878794
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\예시자산_v1\\ria_expression_sheet_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\01_예전시안\\예시자산_v1\\ria_expression_sheet_v001.png",
+    "size": 2010658
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\01_서윤_아침메시지.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\01_서윤_아침메시지.png",
+    "size": 1535309
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\02_서윤_입력중.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\02_서윤_입력중.png",
+    "size": 1536092
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\03_서윤_전화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\03_서윤_전화.png",
+    "size": 1179028
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\04_유진_메시지.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\04_유진_메시지.png",
+    "size": 1596215
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\05_유진_개인사건.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\05_유진_개인사건.png",
+    "size": 2331356
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\06_첫주_결과.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\06_첫주_결과.png",
+    "size": 782853
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\07_약속_기록.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\07_약속_기록.png",
+    "size": 589555
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\첫주_실행미리보기\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\03_검수미리보기\\첫주_실행미리보기\\README.md",
+    "size": 1022
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\기획문서_v1.zip",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\04_기획초안\\기획문서_v1.zip",
+    "size": 64508
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds\\.gitkeep",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\사용자원본\\.gitkeep",
+    "size": 1
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_BAR_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_BAR_001.png",
+    "size": 2210302
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_CAFE_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_CAFE_001.png",
+    "size": 2226325
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_DESIGN_STUDIO_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_DESIGN_STUDIO_001.png",
+    "size": 2278884
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_DEVELOPMENT_SPACE_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_DEVELOPMENT_SPACE_001.png",
+    "size": 2211738
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_ELEVATOR_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_ELEVATOR_001.png",
+    "size": 1622881
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_HOME_NIGHT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_HOME_NIGHT_001.png",
+    "size": 2305958
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_HOTEL_LOBBY_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_HOTEL_LOBBY_001.png",
+    "size": 2180852
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_LOUNGE_DAY_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_LOUNGE_DAY_001.png",
+    "size": 2290969
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_MARKETING_PROJECT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_MARKETING_PROJECT_001.png",
+    "size": 2251307
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_MEETING_ROOM_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_MEETING_ROOM_001.png",
+    "size": 2189071
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_MEETING_ROOM_NIGHT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_MEETING_ROOM_NIGHT_001.png",
+    "size": 2076221
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_OFFICE_DAY_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_OFFICE_DAY_001.png",
+    "size": 2207592
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_OFFICE_NIGHT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_OFFICE_NIGHT_001.png",
+    "size": 2197007
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_RESTAURANT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_RESTAURANT_001.png",
+    "size": 2127347
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_ROOFTOP_NIGHT_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_ROOFTOP_NIGHT_001.png",
+    "size": 2060325
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_STREET_RAIN_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_STREET_RAIN_001.png",
+    "size": 2985364
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\backgrounds_styled\\BG_TERRACE_DAY_001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\배경\\그림체보정\\BG_TERRACE_DAY_001.png",
+    "size": 2430418
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\manifest.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\manifest.json",
+    "size": 1214
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\README.md",
+    "size": 1814
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\강리아_ria_PROFILE_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\강리아_ria_PROFILE_v001.png",
+    "size": 2259426
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\백지현_jihyun_PROFILE_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\백지현_jihyun_PROFILE_v001.png",
+    "size": 2251167
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\차유진_yujin_PROFILE_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\차유진_yujin_PROFILE_v001.png",
+    "size": 1880098
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\한서윤_seoyun_PROFILE_v001.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\한서윤_seoyun_PROFILE_v001.png",
+    "size": 2110029
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\실행미리보기\\강리아_프로필적용.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\실행미리보기\\강리아_프로필적용.png",
+    "size": 1583330
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\실행미리보기\\백지현_프로필적용.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\실행미리보기\\백지현_프로필적용.png",
+    "size": 1552741
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\실행미리보기\\차유진_프로필적용.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\실행미리보기\\차유진_프로필적용.png",
+    "size": 1553114
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\메신저프로필_v1\\실행미리보기\\한서윤_프로필적용.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\메신저프로필\\메신저프로필_v1\\실행미리보기\\한서윤_프로필적용.png",
+    "size": 1553796
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\approved-base-2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\approved-base-2x.png",
+    "size": 1753131
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\base-1024.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\base-1024.png",
+    "size": 807924
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\body.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\body.png",
+    "size": 643878
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\closed-eyes-reference.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\closed-eyes-reference.png",
+    "size": 1570612
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\eye-left-closed-draft.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\eye-left-closed-draft.png",
+    "size": 12866
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\eye-right-closed-draft.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\eye-right-closed-draft.png",
+    "size": 14025
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\head.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\head.png",
+    "size": 173971
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\neck-backing-draft.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\neck-backing-draft.png",
+    "size": 21862
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\neck-backing-reference.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\neck-backing-reference.png",
+    "size": 1267994
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\Ria_FREE_layers_v1.psd",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\Ria_FREE_layers_v1.psd",
+    "size": 9527012
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\Ria_FREE_layers_v2.psd",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\Ria_FREE_layers_v2.psd",
+    "size": 9527640
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_Live2D_FREE_v1\\검수와다음단계.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\Live2D_준비\\리아_Live2D_FREE_v1\\검수와다음단계.json",
+    "size": 1620
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1\\생성프롬프트.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1\\생성프롬프트.json",
+    "size": 2214
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1\\눈프레임\\closed.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1\\눈프레임\\closed.png",
+    "size": 508558
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1\\눈프레임\\half.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1\\눈프레임\\half.png",
+    "size": 505289
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1\\원화\\closed.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1\\원화\\closed.png",
+    "size": 2111621
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_애니메이션_v1\\원화\\half.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_애니메이션_v1\\원화\\half.png",
+    "size": 2061609
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1\\강리아_두손커피_편한대화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_두손커피_편한대화.png",
+    "size": 1381139
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1\\강리아_손짓하며설명.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_손짓하며설명.png",
+    "size": 1429281
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1\\강리아_커피내리고듣기.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_포즈_후보_v1\\강리아_커피내리고듣기.png",
+    "size": 1439487
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\리아_표정_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\리아_표정_비교.png",
+    "size": 1065467
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\생성기록.json",
+    "size": 1728
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\인게임_얼굴영역_검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\인게임_얼굴영역_검증.json",
+    "size": 584
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_놀람_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\업스케일\\강리아_놀람_2x.png",
+    "size": 3875697
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_머쓱_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\업스케일\\강리아_머쓱_2x.png",
+    "size": 3868845
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_미소_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\업스케일\\강리아_미소_2x.png",
+    "size": 3864940
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\업스케일\\강리아_진지_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\업스케일\\강리아_진지_2x.png",
+    "size": 3880175
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\원화\\강리아_놀람_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\원화\\강리아_놀람_원화.png",
+    "size": 1422347
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\원화\\강리아_머쓱_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\원화\\강리아_머쓱_원화.png",
+    "size": 1419144
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\원화\\강리아_미소_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\원화\\강리아_미소_원화.png",
+    "size": 1425366
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v1\\원화\\강리아_진지_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v1\\원화\\강리아_진지_원화.png",
+    "size": 1423856
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\리아_미소놀람_수정비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\리아_미소놀람_수정비교.png",
+    "size": 854780
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\리아_현재표정_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\리아_현재표정_비교.png",
+    "size": 1062728
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\생성기록.json",
+    "size": 1115
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\인게임_검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\인게임_검증.json",
+    "size": 282
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\적용기록.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\적용기록.md",
+    "size": 620
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\업스케일\\강리아_놀람_2x_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\업스케일\\강리아_놀람_2x_v2.png",
+    "size": 3863095
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\업스케일\\강리아_미소_2x_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\업스케일\\강리아_미소_2x_v2.png",
+    "size": 3882708
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\원화\\강리아_놀람_원화_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\원화\\강리아_놀람_원화_v2.png",
+    "size": 1417805
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_표정_v2\\원화\\강리아_미소_원화_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\리아_표정_v2\\원화\\강리아_미소_원화_v2.png",
+    "size": 1424175
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\리아_A_창가셀카.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\리아_A_창가셀카.png",
+    "size": 2138567
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\리아_B_커피셀카.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\리아_B_커피셀카.png",
+    "size": 2189251
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\생성프롬프트와목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\생성프롬프트와목록.json",
+    "size": 10188
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\지현_A_한손허리.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\지현_A_한손허리.png",
+    "size": 1251432
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\지현_B_소매정리.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\지현_B_소매정리.png",
+    "size": 1196501
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\후보보기.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\후보보기.md",
+    "size": 1113
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\생성프롬프트와목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\생성프롬프트와목록.json",
+    "size": 5532
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+    "size": 1357495
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+    "size": 1327515
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\후보보기.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\후보보기.md",
+    "size": 437
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_A_폴더내려들기_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_A_폴더내려들기_2x_원화보존.png",
+    "size": 3521025
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_B_생각하며대화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_B_생각하며대화_2x_원화보존.png",
+    "size": 3440421
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\생성기록.json",
+    "size": 2105
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\서윤_표정_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\서윤_표정_비교.png",
+    "size": 848780
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\인게임_얼굴영역_검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\인게임_얼굴영역_검증.json",
+    "size": 537
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\업스케일\\한서윤_놀람_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\업스케일\\한서윤_놀람_2x.png",
+    "size": 2351740
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\업스케일\\한서윤_머쓱_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\업스케일\\한서윤_머쓱_2x.png",
+    "size": 2366244
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\업스케일\\한서윤_미소_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\업스케일\\한서윤_미소_2x.png",
+    "size": 2347017
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\업스케일\\한서윤_진지_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\업스케일\\한서윤_진지_2x.png",
+    "size": 2345426
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\원화\\한서윤_놀람_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\원화\\한서윤_놀람_원화.png",
+    "size": 735019
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\원화\\한서윤_머쓱_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\원화\\한서윤_머쓱_원화.png",
+    "size": 739462
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\원화\\한서윤_미소_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\원화\\한서윤_미소_원화.png",
+    "size": 733350
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\서윤_표정_v1\\원화\\한서윤_진지_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\서윤_표정_v1\\원화\\한서윤_진지_원화.png",
+    "size": 730924
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\README.md",
+    "size": 813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\강리아_MASTER_2x_선명형.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\강리아_MASTER_2x_선명형.png",
+    "size": 3284649
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\강리아_MASTER_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\강리아_MASTER_2x_원화보존.png",
+    "size": 3863879
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\강리아_MASTER_4x_작업본.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\강리아_MASTER_4x_작업본.png",
+    "size": 19492968
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\강리아_MASTER_업스케일전.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\강리아_MASTER_업스케일전.png",
+    "size": 1411084
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\검증기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\검증기록.json",
+    "size": 768
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\리아_업스케일_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_리아_v1\\리아_업스케일_비교.png",
+    "size": 2015476
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\README.md",
+    "size": 1367
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\검증기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\검증기록.json",
+    "size": 957
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\비교본_생성기록.py",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\비교본_생성기록.py",
+    "size": 5688
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\서윤_업스케일_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\서윤_업스케일_비교.png",
+    "size": 2061096
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\한서윤_MASTER_2x_선명형.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\한서윤_MASTER_2x_선명형.png",
+    "size": 2159029
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\한서윤_MASTER_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\한서윤_MASTER_2x_원화보존.png",
+    "size": 2381117
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\한서윤_MASTER_4x_작업본.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\한서윤_MASTER_4x_작업본.png",
+    "size": 9200521
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\한서윤_MASTER_업스케일전.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_서윤_v1\\한서윤_MASTER_업스케일전.png",
+    "size": 749141
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\README.md",
+    "size": 813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\검증기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\검증기록.json",
+    "size": 770
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\유진_업스케일_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\유진_업스케일_비교.png",
+    "size": 1970522
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\차유진_MASTER_2x_선명형.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\차유진_MASTER_2x_선명형.png",
+    "size": 2943362
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\차유진_MASTER_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\차유진_MASTER_2x_원화보존.png",
+    "size": 3553117
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\차유진_MASTER_4x_작업본.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\차유진_MASTER_4x_작업본.png",
+    "size": 17459171
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\차유진_MASTER_업스케일전.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_유진_v1\\차유진_MASTER_업스케일전.png",
+    "size": 1360846
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\README.md",
+    "size": 813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\검증기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\검증기록.json",
+    "size": 771
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\백지현_MASTER_2x_선명형.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\백지현_MASTER_2x_선명형.png",
+    "size": 2271296
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\백지현_MASTER_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\백지현_MASTER_2x_원화보존.png",
+    "size": 2730326
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\백지현_MASTER_4x_작업본.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\백지현_MASTER_4x_작업본.png",
+    "size": 13393006
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\백지현_MASTER_업스케일전.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\백지현_MASTER_업스케일전.png",
+    "size": 1232720
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\지현_업스케일_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\업스케일_지현_v1\\지현_업스케일_비교.png",
+    "size": 1878150
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\생성기록.json",
+    "size": 1728
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\유진_표정_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\유진_표정_비교.png",
+    "size": 956303
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\인게임_얼굴영역_검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\인게임_얼굴영역_검증.json",
+    "size": 584
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_놀람_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\업스케일\\차유진_놀람_2x.png",
+    "size": 3555401
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_머쓱_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\업스케일\\차유진_머쓱_2x.png",
+    "size": 3547616
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_미소_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\업스케일\\차유진_미소_2x.png",
+    "size": 3553965
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\업스케일\\차유진_진지_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\업스케일\\차유진_진지_2x.png",
+    "size": 3553064
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\원화\\차유진_놀람_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\원화\\차유진_놀람_원화.png",
+    "size": 1370955
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\원화\\차유진_머쓱_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\원화\\차유진_머쓱_원화.png",
+    "size": 1390102
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\원화\\차유진_미소_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\원화\\차유진_미소_원화.png",
+    "size": 1371058
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\유진_표정_v1\\원화\\차유진_진지_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\유진_표정_v1\\원화\\차유진_진지_원화.png",
+    "size": 1375209
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\생성기록.json",
+    "size": 1728
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\인게임_얼굴영역_검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\인게임_얼굴영역_검증.json",
+    "size": 584
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\지현_표정_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\지현_표정_비교.png",
+    "size": 952803
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_놀람_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\업스케일\\백지현_놀람_2x.png",
+    "size": 2740450
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_머쓱_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\업스케일\\백지현_머쓱_2x.png",
+    "size": 2728196
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_미소_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\업스케일\\백지현_미소_2x.png",
+    "size": 2747531
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_진지_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\업스케일\\백지현_진지_2x.png",
+    "size": 2712661
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\원화\\백지현_놀람_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\원화\\백지현_놀람_원화.png",
+    "size": 1226824
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\원화\\백지현_머쓱_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\원화\\백지현_머쓱_원화.png",
+    "size": 1250296
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\원화\\백지현_미소_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\원화\\백지현_미소_원화.png",
+    "size": 1246130
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\원화\\백지현_진지_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\지현_표정_v1\\원화\\백지현_진지_원화.png",
+    "size": 1220928
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\README.md",
+    "size": 7116
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\다른히로인_새포즈_6종.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\다른히로인_새포즈_6종.png",
+    "size": 687806
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\포즈_목록과생성프롬프트.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\포즈_목록과생성프롬프트.json",
+    "size": 91915
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\casual_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\casual_검수.json",
+    "size": 994
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\explaining_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\explaining_검수.json",
+    "size": 979
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\listening_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\listening_검수.json",
+    "size": 978
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\강리아_포즈_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\강리아_포즈_비교.png",
+    "size": 480080
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\casual_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\casual_검수.json",
+    "size": 2141
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\work_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\work_검수.json",
+    "size": 2409
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\백지현_포즈_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\백지현_포즈_비교.png",
+    "size": 305044
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\casual_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\casual_검수.json",
+    "size": 2233
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\work_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\work_검수.json",
+    "size": 2267
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\차유진_포즈_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\차유진_포즈_비교.png",
+    "size": 349991
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\casual_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\casual_검수.json",
+    "size": 2175
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\work_v1_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\work_v1_검수.json",
+    "size": 2261
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\work_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\work_검수.json",
+    "size": 2225
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\한서윤_포즈_비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\한서윤_포즈_비교.png",
+    "size": 357607
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_두손커피_편한대화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_두손커피_편한대화_2x_원화보존.png",
+    "size": 3684236
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_손짓하며설명_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_손짓하며설명_2x_원화보존.png",
+    "size": 3902276
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_커피내리고듣기_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_커피내리고듣기_2x_원화보존.png",
+    "size": 3952296
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\원화\\강리아_두손커피_편한대화_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_두손커피_편한대화_원화.png",
+    "size": 1381139
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\원화\\강리아_손짓하며설명_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_손짓하며설명_원화.png",
+    "size": 1429281
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\원화\\강리아_커피내리고듣기_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\강리아\\원화\\강리아_커피내리고듣기_원화.png",
+    "size": 1439487
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_2x_원화보존_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_2x_원화보존_v2.png",
+    "size": 2697957
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_원화_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\백지현_팔교차_원화_v2.png",
+    "size": 1202186
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\생성기록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업무포즈교체_v2\\생성기록.json",
+    "size": 2409
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_손짓하며설명_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_손짓하며설명_2x_원화보존.png",
+    "size": 3091539
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_편한퇴근인사_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\업스케일\\백지현_편한퇴근인사_2x_원화보존.png",
+    "size": 3079265
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\원화\\백지현_손짓하며설명_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\원화\\백지현_손짓하며설명_원화.png",
+    "size": 1269335
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\백지현\\원화\\백지현_편한퇴근인사_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\백지현\\원화\\백지현_편한퇴근인사_원화.png",
+    "size": 1271736
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_머리만지며대화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_머리만지며대화_2x_원화보존.png",
+    "size": 3556256
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_시안보여주기_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_시안보여주기_2x_원화보존.png",
+    "size": 3552832
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\원화\\차유진_머리만지며대화_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_머리만지며대화_원화.png",
+    "size": 1351270
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\차유진\\원화\\차유진_시안보여주기_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_시안보여주기_원화.png",
+    "size": 1362222
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\생성과검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\생성과검수.json",
+    "size": 3440
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\서윤_손가락디테일_전후.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\서윤_손가락디테일_전후.png",
+    "size": 349370
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\생성과검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\생성과검수.json",
+    "size": 2859
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\서윤_손수정_전후.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\서윤_손수정_전후.png",
+    "size": 488501
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\README.md",
+    "size": 636
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\복원과검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\복원과검수.json",
+    "size": 2225
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\서윤_MASTER눈입_복원비교.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\서윤_MASTER눈입_복원비교.png",
+    "size": 400030
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\한서윤_태블릿설명_MASTER눈입복원_v4_2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\얼굴MASTER복원_v4\\한서윤_태블릿설명_MASTER눈입복원_v4_2x.png",
+    "size": 3606345
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_태블릿보며설명_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_태블릿보며설명_2x_원화보존.png",
+    "size": 2383890
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_편한대화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\업스케일\\한서윤_편한대화_2x_원화보존.png",
+    "size": 2223667
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_태블릿보며설명_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_태블릿보며설명_원화.png",
+    "size": 1426762
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_편한대화_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\원화\\한서윤_편한대화_원화.png",
+    "size": 1368717
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\업스케일\\한서윤_태블릿설명_손가락수정_v3_2x_원화보존.png",
+    "size": 3603306
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\손부분_상세수정_원본.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\손부분_상세수정_원본.png",
+    "size": 1876640
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\한서윤_태블릿설명_손가락수정_v3.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손가락디테일수정_v3\\원화\\한서윤_태블릿설명_손가락수정_v3.png",
+    "size": 3603306
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\업스케일\\한서윤_태블릿설명_손수정_v2_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\업스케일\\한서윤_태블릿설명_손수정_v2_2x_원화보존.png",
+    "size": 2411607
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\원화\\한서윤_태블릿설명_손수정_v2.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\한서윤\\손비율수정_v2\\원화\\한서윤_태블릿설명_손수정_v2.png",
+    "size": 1440139
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\1주차_리아친밀감_검토.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\1주차_리아친밀감_검토.md",
+    "size": 4581
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\1주차_소스검토.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\1주차_소스검토.json",
+    "size": 919
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\4히로인_기본진지_비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\4히로인_기본진지_비교.jpg",
+    "size": 632348
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun_표정비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun_표정비교.jpg",
+    "size": 566174
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\manifest.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\manifest.json",
+    "size": 24505
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\README.md",
+    "size": 3027
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria_표정비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria_표정비교.jpg",
+    "size": 695154
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun_표정비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun_표정비교.jpg",
+    "size": 569866
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin_표정비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin_표정비교.jpg",
+    "size": 591526
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_프롬프트.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_프롬프트.json",
+    "size": 16148
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\서윤_국소표정_시범검수.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\서윤_국소표정_시범검수.jpg",
+    "size": 273397
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\완료_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\완료_검수.json",
+    "size": 5135
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_상체비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_상체비교.jpg",
+    "size": 151798
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴비교.jpg",
+    "size": 588191
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\전체24장_전신비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\전체24장_전신비교.jpg",
+    "size": 571018
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\표정_픽셀검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\표정_픽셀검증.json",
+    "size": 5680
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\히로인_표정24장.zip",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\히로인_표정24장.zip",
+    "size": 75181963
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_casual_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_casual_default.png",
+    "size": 3079265
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_casual_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_casual_serious.png",
+    "size": 3094742
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_master_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_master_default.png",
+    "size": 2730326
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_master_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_master_serious.png",
+    "size": 2714171
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_work_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_work_default.png",
+    "size": 2697957
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\jihyun\\jihyun_work_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_work_serious.png",
+    "size": 2688394
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_casual_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_casual_default.png",
+    "size": 3684236
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_casual_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_casual_serious.png",
+    "size": 3710079
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_explaining_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_explaining_default.png",
+    "size": 3902276
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_explaining_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_explaining_serious.png",
+    "size": 3952962
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_master_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_master_default.png",
+    "size": 3863879
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\ria\\ria_master_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_master_serious.png",
+    "size": 3908044
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_casual_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_casual_default.png",
+    "size": 2027004
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_casual_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_casual_serious.png",
+    "size": 2023814
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_master_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_master_default.png",
+    "size": 2097574
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_master_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_master_serious.png",
+    "size": 2095567
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_work_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_work_default.png",
+    "size": 2113638
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\seoyun\\seoyun_work_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_work_serious.png",
+    "size": 2115942
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_casual_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_casual_default.png",
+    "size": 3521025
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_casual_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_casual_serious.png",
+    "size": 3494849
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_master_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_master_default.png",
+    "size": 3553117
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_master_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_master_serious.png",
+    "size": 3547335
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_work_default.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_work_default.png",
+    "size": 3440421
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\yujin\\yujin_work_serious.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_work_serious.png",
+    "size": 3422805
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\生成_顔\\seoyun_master_generated.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\生成_顔\\seoyun_master_generated.png",
+    "size": 1277914
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_casual_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_casual_ear_before.png",
+    "size": 116161
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_master_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_master_ear_before.png",
+    "size": 117800
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_work_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\jihyun_work_ear_before.png",
+    "size": 116557
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_casual_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_casual_ear_before.png",
+    "size": 107414
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_explaining_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_explaining_ear_before.png",
+    "size": 110015
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_master_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\ria_master_ear_before.png",
+    "size": 107655
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_casual_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_casual_ear_before.png",
+    "size": 108544
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_master_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_master_ear_before.png",
+    "size": 112180
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_work_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\seoyun_work_ear_before.png",
+    "size": 108581
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_casual_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_casual_ear_before.png",
+    "size": 92297
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_master_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_master_ear_before.png",
+    "size": 96883
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_work_ear_before.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\yujin_work_ear_before.png",
+    "size": 93120
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\귀걸이_국소통일\\귀걸이_현재12장.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\귀걸이_국소통일\\귀걸이_현재12장.jpg",
+    "size": 399945
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_casual.png",
+    "size": 1805180
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_master.png",
+    "size": 1764111
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\jihyun_work.png",
+    "size": 1769537
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\ria_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\ria_casual.png",
+    "size": 1982466
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\ria_explaining.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\ria_explaining.png",
+    "size": 1947588
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\ria_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\ria_master.png",
+    "size": 2018663
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_casual.png",
+    "size": 1764722
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_master.png",
+    "size": 1822155
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\seoyun_work.png",
+    "size": 1813866
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_casual.png",
+    "size": 1810963
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_master.png",
+    "size": 1813298
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴원본\\yujin_work.png",
+    "size": 1822892
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_casual.png",
+    "size": 1237029
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_master.png",
+    "size": 1214068
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\jihyun_work.png",
+    "size": 1218599
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_casual.png",
+    "size": 1400726
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_explaining.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_explaining.png",
+    "size": 1376496
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\ria_master.png",
+    "size": 1436750
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_casual.png",
+    "size": 1233926
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_master.png",
+    "size": 1277914
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\seoyun_work.png",
+    "size": 1278562
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_casual.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_casual.png",
+    "size": 1234813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_master.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_master.png",
+    "size": 1248327
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_work.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\생성_얼굴정렬\\yujin_work.png",
+    "size": 1261847
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_casual_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_casual_face.png",
+    "size": 929092
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_master_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_master_face.png",
+    "size": 965625
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_work_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_work_face.png",
+    "size": 944684
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\ria_casual_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_casual_face.png",
+    "size": 1133401
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\ria_explaining_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_explaining_face.png",
+    "size": 1131415
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\ria_master_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_master_face.png",
+    "size": 1155626
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_casual_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_casual_face.png",
+    "size": 1004213
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_master_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_master_face.png",
+    "size": 994404
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_work_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_work_face.png",
+    "size": 992419
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_casual_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_casual_face.png",
+    "size": 931669
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_master_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_master_face.png",
+    "size": 976560
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_work_face.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_work_face.png",
+    "size": 942759
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\MASTER와2포즈_비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\MASTER와2포즈_비교.jpg",
+    "size": 190454
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\생성프롬프트와적용목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\생성프롬프트와적용목록.json",
+    "size": 58269
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "size": 2538001
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_최종_얇은스터드_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_casual_최종_얇은스터드_원화_2x_원화보존.png",
+    "size": 2484074
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_master_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_master_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "size": 2632218
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_MASTER_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_MASTER_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "size": 2553529
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_master_최종_얇은스터드_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_master_최종_얇은스터드_원화_2x_원화보존.png",
+    "size": 2585417
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_귀돌기완전제거_최종원화_2x_원화보존.png",
+    "size": 2647345
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_최종_얇은스터드_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_work_최종_얇은스터드_원화_2x_원화보존.png",
+    "size": 2621474
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_업무설명_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_업무설명_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "size": 2584456
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_편한대화_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\업스케일\\한서윤_편한대화_비율화장_귓불돌기제거_원화_2x_원화보존.png",
+    "size": 2438432
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+    "size": 1448426
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_casual_최종_얇은스터드_원화.png",
+    "size": 1435330
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_master_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_master_귀돌기완전제거_최종원화.png",
+    "size": 1479393
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+    "size": 1456277
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_master_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_master_최종_얇은스터드_원화.png",
+    "size": 1464163
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_귀돌기완전제거_최종원화.png",
+    "size": 1471828
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_work_최종_얇은스터드_원화.png",
+    "size": 1467749
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+    "size": 1451306
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\원화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+    "size": 1422393
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_귀돌기완전제거_최종원화.png",
+    "size": 776846
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_casual_최종_얇은스터드_원화.png",
+    "size": 759614
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_master_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_master_귀돌기완전제거_최종원화.png",
+    "size": 816885
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_MASTER_비율화장_귓불돌기제거_원화.png",
+    "size": 790415
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_master_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_master_최종_얇은스터드_원화.png",
+    "size": 802242
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_귀돌기완전제거_최종원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_귀돌기완전제거_최종원화.png",
+    "size": 810834
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_최종_얇은스터드_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_work_최종_얇은스터드_원화.png",
+    "size": 800630
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_업무설명_비율화장_귓불돌기제거_원화.png",
+    "size": 787269
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_MASTER포즈_화장비율_20261007_v1\\크기정규화\\한서윤_편한대화_비율화장_귓불돌기제거_원화.png",
+    "size": 749873
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\기존서윤과다른히로인_비율비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\기존서윤과다른히로인_비율비교.jpg",
+    "size": 168990
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\생성프롬프트와목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\생성프롬프트와목록.json",
+    "size": 4689
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\얼굴_화장과매력점_확대.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\얼굴_화장과매력점_확대.jpg",
+    "size": 32508
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\한서윤_비율수정_진한화장_매력점_예시.png",
+    "size": 1427954
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_비율화장_예시_20261007_v1\\후보보기.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_비율화장_예시_20261007_v1\\후보보기.md",
+    "size": 1129
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\README.md",
+    "size": 204
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정_입력목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정_입력목록.json",
+    "size": 2492
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정_픽셀검증.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정_픽셀검증.json",
+    "size": 4962
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀국소수정_생성프롬프트.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀국소수정_생성프롬프트.json",
+    "size": 1625
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\복원MASTER와포즈_전신비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\복원MASTER와포즈_전신비교.jpg",
+    "size": 180236
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\복원과국소수정_목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\복원과국소수정_목록.json",
+    "size": 62458
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\casual_귀국소수정_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\casual_귀국소수정_정규화.png",
+    "size": 730082
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\master_귀국소수정_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\master_귀국소수정_정규화.png",
+    "size": 763173
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\work_귀국소수정_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\work_귀국소수정_정규화.png",
+    "size": 763763
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_casual_귀만수정_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_casual_귀만수정_원화.png",
+    "size": 1460669
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_master_귀만수정_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_master_귀만수정_원화.png",
+    "size": 1496217
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_work_귀만수정_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\국소수정\\한서윤_work_귀만수정_원화.png",
+    "size": 1494691
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_casual_귀확대입력.png",
+    "size": 34605
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_master_귀확대입력.png",
+    "size": 34587
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\귀입력\\한서윤_work_귀확대입력.png",
+    "size": 34197
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\casual_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\casual_정규화.png",
+    "size": 730175
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\master_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\master_정규화.png",
+    "size": 763231
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\work_정규화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\work_정규화.png",
+    "size": 763813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_casual_승인원화.png",
+    "size": 1397072
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_master_승인원화.png",
+    "size": 1427954
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\보존원화\\한서윤_work_승인원화.png",
+    "size": 1426744
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_귀국소수정_원화보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_귀국소수정_원화보존2x.png",
+    "size": 2027004
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_승인원화_보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\casual_승인원화_보존2x.png",
+    "size": 2027342
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_귀국소수정_원화보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_귀국소수정_원화보존2x.png",
+    "size": 2097574
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_승인원화_보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\master_승인원화_보존2x.png",
+    "size": 2097964
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_귀국소수정_원화보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_귀국소수정_원화보존2x.png",
+    "size": 2113638
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_승인원화_보존2x.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\원본자료\\승인원화_보존\\한서윤_원화보존_귀국소수정_20261007_v1\\업스케일\\work_승인원화_보존2x.png",
+    "size": 2113850
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\README.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\README.md",
+    "size": 264
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\생성프롬프트와적용목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\생성프롬프트와적용목록.json",
+    "size": 30880
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\서윤_최종3종_비교.jpg",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\서윤_최종3종_비교.jpg",
+    "size": 183484
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_MASTER_골반균형_최종_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_MASTER_골반균형_최종_원화_2x_원화보존.png",
+    "size": 2586868
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_설명_골반균형_최종_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_설명_골반균형_최종_원화_2x_원화보존.png",
+    "size": 2634020
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_태블릿낮게들기_골반균형_최종_원화_2x_원화보존.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\업스케일\\한서윤_태블릿낮게들기_골반균형_최종_원화_2x_원화보존.png",
+    "size": 2466856
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_MASTER_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_MASTER_골반균형_최종_원화.png",
+    "size": 1472028
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_설명_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_설명_골반균형_최종_원화.png",
+    "size": 1486720
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\원화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+    "size": 1436716
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_MASTER_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_MASTER_골반균형_최종_원화.png",
+    "size": 794813
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_설명_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_설명_골반균형_최종_원화.png",
+    "size": 802540
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\한서윤_전면재설계_20261007_v1\\크기정규화\\한서윤_태블릿낮게들기_골반균형_최종_원화.png",
+    "size": 756385
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\jihyun_ear_130.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\jihyun_ear_130.png",
+    "size": 33716
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\jihyun_ear_generated.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\jihyun_ear_generated.png",
+    "size": 2123016
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\ria_ear_130.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\ria_ear_130.png",
+    "size": 37677
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\ria_ear_generated.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\ria_ear_generated.png",
+    "size": 2142216
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\yujin_ear_130.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\yujin_ear_130.png",
+    "size": 26648
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_생성\\yujin_ear_generated.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_생성\\yujin_ear_generated.png",
+    "size": 1663303
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\jihyun_casual_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\jihyun_casual_ear.png",
+    "size": 599380
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\jihyun_master_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\jihyun_master_ear.png",
+    "size": 608117
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\jihyun_work_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\jihyun_work_ear.png",
+    "size": 603165
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\ria_casual_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\ria_casual_ear.png",
+    "size": 519387
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\ria_explaining_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\ria_explaining_ear.png",
+    "size": 530748
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\ria_master_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\ria_master_ear.png",
+    "size": 525456
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\yujin_casual_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\yujin_casual_ear.png",
+    "size": 418687
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\yujin_master_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\yujin_master_ear.png",
+    "size": 465959
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\yujin_work_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\귀_입력\\yujin_work_ear.png",
+    "size": 432374
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\apply_jobs.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\apply_jobs.json",
+    "size": 8085
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\jihyun_canonical_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_ear.png",
+    "size": 1084
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\jihyun_canonical_MASTER.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_MASTER.png",
+    "size": 1267290
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\jobs.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jobs.json",
+    "size": 1544
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\ria_canonical_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_ear.png",
+    "size": 1874
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\ria_canonical_MASTER.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_MASTER.png",
+    "size": 1470307
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\ria_listening.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_listening.png",
+    "size": 4005425
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\yujin_canonical_ear.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_ear.png",
+    "size": 2220
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\MASTER_수정준비\\yujin_canonical_MASTER.png",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_MASTER.png",
+    "size": 1407902
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\active_call_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\active_call_test.txt",
+    "size": 1039
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\active_call_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\active_call_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_preview_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_preview_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_preview_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_preview_output.txt",
+    "size": 1030
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_qa_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_qa_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\alignment_qa_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\alignment_qa_output.txt",
+    "size": 1199
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_camera_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_camera_test.txt",
+    "size": 1031
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_camera_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_camera_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_lint.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_lint.txt",
+    "size": 512
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_lint_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_lint_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_preview.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_preview.txt",
+    "size": 2868
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\bc_preview_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\bc_preview_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\BC_구도_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\BC_구도_적용.md",
+    "size": 5283
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\call_layout_lint.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\call_layout_lint.txt",
+    "size": 512
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\call_layout_lint_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\call_layout_lint_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_call_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_call_test.txt",
+    "size": 1039
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_call_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_call_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_marker_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_marker_test.txt",
+    "size": 1041
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\notify_marker_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\notify_marker_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_live_regression_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_live_regression_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_live_regression_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_live_regression_output.txt",
+    "size": 1035
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_scroll_regression_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_scroll_regression_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_phone_scroll_regression_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_phone_scroll_regression_output.txt",
+    "size": 1042
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_qa_regression_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_qa_regression_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\office_qa_regression_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\office_qa_regression_output.txt",
+    "size": 1204
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_lint.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_lint.txt",
+    "size": 512
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_lint_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_lint_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_test.txt",
+    "size": 1029
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_clean_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_clean_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_design_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_design_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_design_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_design_output.txt",
+    "size": 1030
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_live_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_live_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_live_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_live_output.txt",
+    "size": 1030
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_lint.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_lint.txt",
+    "size": 512
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_lint_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_lint_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_tests.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_tests.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_notify_tests_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_notify_tests_error.txt",
+    "size": 599
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_qa_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_qa_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_qa_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_qa_output.txt",
+    "size": 1199
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_scroll_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_scroll_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\phone_scroll_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\phone_scroll_output.txt",
+    "size": 1038
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_lint.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_lint.txt",
+    "size": 512
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_lint_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_lint_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_test.txt",
+    "size": 2474
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\private_week_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\private_week_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\profile_preview_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\profile_preview_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\profile_preview_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\profile_preview_output.txt",
+    "size": 1030
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\reply_marker_test.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\reply_marker_test.txt",
+    "size": 1041
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\reply_marker_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\reply_marker_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_test_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_test_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_test_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_test_output.txt",
+    "size": 1155
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_visual_error.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_visual_error.txt",
+    "size": 0
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\week_visual_output.txt",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\검수로그\\week_visual_output.txt",
+    "size": 1037
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\다른히로인표정_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\다른히로인표정_적용.md",
+    "size": 2430
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\문자시간과답장_정리.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\문자시간과답장_정리.md",
+    "size": 3271
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\사진포즈_적용과색감크기검수_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\사진포즈_적용과색감크기검수_20261007.md",
+    "size": 7523
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤_MASTER확정과원화보존_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤_MASTER확정과원화보존_20261007.md",
+    "size": 4408
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤전면재설계_적용_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤전면재설계_적용_20261007.md",
+    "size": 5083
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\서윤표정_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\서윤표정_적용.md",
+    "size": 2079
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\업스케일_인게임_적용.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\업스케일_인게임_적용.json",
+    "size": 2507
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\업스케일_인게임_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\업스케일_인게임_적용.md",
+    "size": 1651
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\원화얼굴복구와UI검수_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\원화얼굴복구와UI검수_20261007.md",
+    "size": 3164
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\장면전환_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\장면전환_적용.md",
+    "size": 1954
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\전체히로인_피부색재검수_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\전체히로인_피부색재검수_20261007.md",
+    "size": 5338
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\첫주_사적장면_규칙검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\첫주_사적장면_규칙검수.json",
+    "size": 5329
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\첫주_사적장면과포즈_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\첫주_사적장면과포즈_20261007.md",
+    "size": 3707
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\캐릭터애니메이션_도구검토.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\캐릭터애니메이션_도구검토.md",
+    "size": 2914
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\통화표시와종료_검수.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\통화표시와종료_검수.md",
+    "size": 2838
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈_게임에셋목록.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈_게임에셋목록.json",
+    "size": 610
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈연결_검수.json",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈연결_검수.json",
+    "size": 1641
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\포즈와리아움직임_적용.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\포즈와리아움직임_적용.md",
+    "size": 3943
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\휴대폰대화연결_적용_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\휴대폰대화연결_적용_20261007.md",
+    "size": 3138
+  },
+  {
+    "old": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\히로인포즈_색감통일_적용_20261007.md",
+    "new": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\기록\\적용문서\\히로인포즈_색감통일_적용_20261007.md",
+    "size": 5807
+  }
+]

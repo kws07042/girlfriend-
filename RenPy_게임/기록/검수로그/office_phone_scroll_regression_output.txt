@@ -1,0 +1,23 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global::office_phone_scroll
+[rpytest] [log] - global::office_phone_scroll
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   - office_phone_scroll
+[rpytest] [exc]   - office_phone_scroll (9.377 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     3 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     2 not run
+[rpytest] Test cases :     3 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |     1 skipped |     1 not run
+[rpytest] Test hooks :     0 |     0 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    10 |    10 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 10.773 s
+[rpytest] Status: PASSED 
+

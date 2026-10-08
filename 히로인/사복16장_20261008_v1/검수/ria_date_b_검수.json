@@ -1,0 +1,38 @@
+{
+  "id": "ria_date_b",
+  "who": "ria",
+  "kind": "date_b",
+  "references": [
+    "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-bcd3a22f-5e6a-4add-a0fb-e5acb6e1f5ba.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png"
+  ],
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. EDIT ONLY THE POSE of input image 1. Image 1 is the immutable complete DATE OUTFIT, identity, exact color/material, hairstyle, accessory and body-proportion reference. Image 2 is a supporting canonical identity reference only; do NOT bring back the office outfit. Kang Ria, an ADULT age 27. Exact familiar face, turquoise eyes, blonde high ponytail with loose curls, ONE thin open gold oval hoop per visible ear, no fleshy protrusions. Preserve adult torso/waist/long-leg proportions and a friendly modest smile; do not exaggerate mouth or eyes. New date pose B: both hands rest naturally BEHIND her back, shoulders relaxed, torso leans forward only VERY slightly as if listening warmly; grounded adult stance with one knee a little relaxed, no childish inward-knee exaggeration; the SAME ivory crossbody bag remains hanging at her hip from its strap. No raised wave, no hand on hip, no holding strap at shoulder. Keep exact coral dress, wrap waist bow, skirt hem, open cropped ivory cardigan including buttons/cuffs, white flat sandals, all earrings and hair. Preserve friendly adult proportions and restrained original smile. Preserve the same art style and original skin/hair colors, do not recolor or redesign clothing or add/remove accessories. The two date sprites must clearly belong to ONE identical outfit.",
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-2ff39fd8-5d61-4b56-932b-0c8a4d83f9c7.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_date_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_date_b_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "7b12def7524ae2cc8f7f984bda295a4c2e0a1f5f6ad719bf674a89ef27a5a61c",
+  "output_sha256": "0c32d43f96c64afa1bf1b53ef9d91ed94290429f874ad43b2022c86eed9daacb",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 24.54
+}

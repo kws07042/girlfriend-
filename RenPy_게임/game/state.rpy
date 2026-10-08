@@ -37,23 +37,27 @@ init python:
         if key in phone_events: return
         phone_events.append(key)
         item = message_data[key]
+        store.phone_event_days[key] = day
+        if phone_time_minutes(item["time"]) > phone_time_minutes(clock):
+            store.clock = item["time"]
+        phone_sync_reply_policy()
         who = item.get("who", "ria")
         for text in item["texts"]:
             phone_messages.append({"who":who,"out":False,"text":text,"time":item["time"],"event":key,"day":day})
         phone_unread[who] = phone_unread.get(who,0) + len(item["texts"])
         if item.get("photo"):
             if "ria_cafe" not in photo_received: photo_received.append("ria_cafe")
-            phone_messages.append({"who":who,"out":False,"text":"카페 사진을 보냈어요.","time":item["time"],"photo":"ria_cafe"})
+            phone_messages.append({"who":who,"out":False,"text":"카페 사진을 보냈어요.","time":item["time"],"photo":"ria_cafe","day":day})
 
     def reply_message(key, choice):
-        if key in phone_replied or key in phone_expired or phone_pending: return
+        if not phone_reply_available(key) or phone_pending: return
         phone_replied.append(key)
         who = message_data[key].get("who","ria")
         message_id = "reply:" + key
         phone_messages.append({"who":who,"out":True,"text":choice["text"],"time":clock,"delivery":"sending","id":message_id,"day":day})
         delays = {"ria":(1.2,3.8),"seoyun":(1.8,4.5),"yujin":(2.0,4.8),"jihyun":(1.4,3.6)}
         typing_at, arrive_at = delays[who]
-        phone_pending.append({"id":message_id,"who":who,"text":choice["response"],"time":clock,"elapsed":0.0,"typing_at":typing_at,"arrive_at":arrive_at})
+        phone_pending.append({"id":message_id,"who":who,"text":choice["response"],"time":clock,"elapsed":0.0,"typing_at":typing_at,"arrive_at":arrive_at,"day":day,"event":key})
         reward_id = "%s:%s" % (day,who)
         if reward_id not in reply_reward_days:
             reply_reward_days.append(reward_id)

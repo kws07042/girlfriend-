@@ -1,0 +1,23 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global::office_ui_preview
+[rpytest] [log] - global::office_ui_preview
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.2.0-renpy
+
+[rpytest] [exc] + global
+[rpytest] [exc]   - office_ui_preview
+[rpytest] [exc]   - office_ui_preview (22.323 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     2 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |     1 skipped |     0 not run
+[rpytest] Test cases :     5 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |     4 skipped |     0 not run
+[rpytest] Test hooks :     0 |     0 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :     0 |     0 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 24.117 s
+[rpytest] Status: PASSED 
+

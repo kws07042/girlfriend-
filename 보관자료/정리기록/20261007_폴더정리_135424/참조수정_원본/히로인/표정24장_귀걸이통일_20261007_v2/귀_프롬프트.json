@@ -1,0 +1,23 @@
+{
+  "mode": "built-in image_gen localized ear edit",
+  "specs": [
+    {
+      "who": "ria",
+      "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET: an 8x enlarged crop of Kang Ria's earlobe and thin gold hoop. Repair ONLY the lobe and earring mounting area. Remove the protruding curled FLESH-COLORED nodule/mound around the hole; replace it with a smooth natural flat earlobe with a tiny discreet piercing. Preserve one thin elegant CLOSED oval gold hoop, the same overall position, size, thickness and warm gold as the reference. Make it visibly a separate metal hoop hanging from the lobe, not flesh or fused tissue. The hoop must have a continuous loop with hair visible through its center; no extra hook, dangling bead or skin bump. Keep ear angle, ear upper cartilage, adjacent brown/blonde hair strands, surrounding skin gradient, all colors, soft original anime texture and exact crop geometry unchanged. Do not sharpen the rest or beautify the whole ear. No text; same crop, transparent background.",
+      "input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\ria_master_ear.png",
+      "generated_path": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-ba9fda44-294b-4743-872c-f03fbc455320.png"
+    },
+    {
+      "who": "yujin",
+      "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET and approved MASTER earring design reference: an 8x enlarged crop of Cha Yujin's ear and one gold teardrop pendant. Clean ONLY the earring and tiny mounting joint. Retain the exact single slim gold teardrop pendant, same size and silhouette, small gold attachment, warm gold shading, and exact location. Keep the pendant recognizably identical to this MASTER, suitable for reuse across all poses. Make the gold stud and pendant clearly separate metal from the ear skin, no fused fleshy protrusion, NO extra white pearl stud, no second charm, no different earrings. Preserve the surrounding ear cartilage, lobe silhouette, skin tone, dark blue-black hair, softness/texture, lighting and crop layout exactly. No global color changes, no added skin highlights, no text. Transparent background.",
+      "input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\yujin_master_ear.png",
+      "generated_path": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-bb6872e9-e36a-4125-a89e-efc5bb67b771.png"
+    },
+    {
+      "who": "jihyun",
+      "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET and approved MASTER stud design reference: an 8x enlarged crop of Baek Jihyun's earlobe and small white pearl stud. Clean ONLY the pearl stud and tiny attachment. Preserve one small polished ivory-white rounded-triangle pearl stud, same size, placement and softness as the MASTER, with a single coherent silhouette and restrained highlight. It is ONE pearl stud, not two fused white beads; no hanging ornament or metal hoop. Distinguish the stud from the smooth peach earlobe with a fine contact shadow, no flesh-colored lump. Keep ear cartilage, skin colors, lobe outline, charcoal hair strands, lighting, anime painted texture and exact crop unchanged. Do not retouch the rest. No text, transparent background.",
+      "input": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\귀_입력\\jihyun_master_ear.png",
+      "generated_path": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-8fb65869-cfb4-4e7e-8d06-f5659c482204.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "original_cafe": {
+    "blocks": 89,
+    "characters": 3757
+  },
+  "original_rest": {
+    "blocks": 59,
+    "characters": 2674
+  },
+  "method": "원본 지정 경로의 대사·서술문만 집계. 메뉴/문자 제외. 실제 분 단위 시간은 읽는 속도에 따라 다름."
+}

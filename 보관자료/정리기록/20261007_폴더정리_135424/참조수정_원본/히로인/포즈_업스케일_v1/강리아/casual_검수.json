@@ -1,0 +1,23 @@
+{
+  "who": "ria",
+  "name": "강리아",
+  "key": "casual",
+  "label": "두손커피_편한대화",
+  "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\리아_포즈_후보_v1\\강리아_두손커피_편한대화.png",
+  "status": "사용자 채택",
+  "prompt": "이전 생성 채택본: 커피를 두 손으로 잡고 편하게 대화하는 포즈.",
+  "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\원화\\강리아_두손커피_편한대화_원화.png",
+  "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\포즈_업스케일_v1\\강리아\\업스케일\\강리아_두손커피_편한대화_2x_원화보존.png",
+  "dimensions": [
+    2048,
+    3072
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_preserved": true,
+  "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+  "source_sha256": "707d31ce0cfb19146a9baf4506529a4391a647cfb621809a6bc024356955fc26"
+}

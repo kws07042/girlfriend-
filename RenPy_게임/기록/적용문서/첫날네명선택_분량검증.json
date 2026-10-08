@@ -1,0 +1,121 @@
+{
+  "preserved_ria_labels": [
+    "d1_lunch_talk",
+    "d1_hobby_quiet",
+    "d1_hobby_music",
+    "d1_hobby_rest",
+    "d1_cafe",
+    "d1_cafe_listen",
+    "d1_cafe_light",
+    "d1_cafe_close",
+    "d1_phone_call"
+  ],
+  "image_changes": false,
+  "baseline": {
+    "original_cafe": {
+      "blocks": 89,
+      "characters": 3757
+    },
+    "original_rest": {
+      "blocks": 59,
+      "characters": 2674
+    },
+    "method": "원본 지정 경로의 대사·서술문만 집계. 메뉴/문자 제외. 실제 분 단위 시간은 읽는 속도에 따라 다름."
+  },
+  "actual_paths": {
+    "seoyun": {
+      "blocks": 146,
+      "characters": 6048,
+      "heroines": {
+        "sy": 34,
+        "ri": 11,
+        "yj": 11,
+        "jh": 11
+      },
+      "flags": {
+        "firstImpression": "observant",
+        "work": "collaborate",
+        "first_lunch": "seoyun",
+        "lunch_plan": "talk",
+        "first_evening": "seoyun",
+        "d1_private_met": true,
+        "d1_seoyun_tone": 0
+      }
+    },
+    "ria": {
+      "blocks": 140,
+      "characters": 5853,
+      "heroines": {
+        "sy": 11,
+        "ri": 34,
+        "yj": 11,
+        "jh": 11
+      },
+      "flags": {
+        "firstImpression": "observant",
+        "work": "collaborate",
+        "first_lunch": "ria",
+        "lunch_plan": "talk",
+        "hobby": "music",
+        "first_evening": "ria",
+        "cafeTone": "heard",
+        "nextLunch": true
+      }
+    },
+    "yujin": {
+      "blocks": 146,
+      "characters": 6110,
+      "heroines": {
+        "sy": 11,
+        "ri": 11,
+        "yj": 34,
+        "jh": 11
+      },
+      "flags": {
+        "firstImpression": "observant",
+        "work": "collaborate",
+        "first_lunch": "yujin",
+        "lunch_plan": "talk",
+        "first_evening": "yujin",
+        "d1_private_met": true,
+        "d1_yujin_tone": 0
+      }
+    },
+    "jihyun": {
+      "blocks": 145,
+      "characters": 6075,
+      "heroines": {
+        "sy": 12,
+        "ri": 10,
+        "yj": 11,
+        "jh": 34
+      },
+      "flags": {
+        "firstImpression": "observant",
+        "work": "focus",
+        "first_lunch": "jihyun",
+        "lunch_plan": "talk",
+        "first_evening": "jihyun",
+        "d1_private_met": true,
+        "d1_jihyun_tone": 0
+      }
+    },
+    "rest": {
+      "blocks": 113,
+      "characters": 4966,
+      "heroines": {
+        "sy": 12,
+        "ri": 10,
+        "yj": 11,
+        "jh": 11
+      },
+      "flags": {
+        "firstImpression": "observant",
+        "work": "focus",
+        "first_lunch": "rest",
+        "lunch_plan": "rest",
+        "first_evening": "rest"
+      }
+    }
+  }
+}

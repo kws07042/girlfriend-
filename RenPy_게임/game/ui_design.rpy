@@ -6,15 +6,23 @@ init -5 python:
     def ui_speaker_callback(who):
         def callback(event, **kwargs):
             if event == "begin":
+                store.ui_scene_presence_version = 1
                 store.ui_speaker = who
+                if not getattr(store, "ui_call_contact", None) and getattr(store, "ui_scene_key", None) != "home":
+                    store.ui_scene_actor = who
         return callback
     phone_profile_boxes = {'yujin': (269, 15, 759, 759), 'jihyun': (234, 0, 759, 759), 'ria': (249, 15, 759, 759), 'seoyun': (219, 30, 759, 759)}
+    def ui_master_avatar_box(who):
+        width, height = renpy.image_size("images/characters/%s_master.png" % who)
+        return (int(round(385 * width / 1024.0)), int(round(45 * height / 1536.0)),
+                int(round(250 * width / 1024.0)), int(round(250 * height / 1536.0)))
+
     def ui_avatar(who, size=56, profile=False):
         path = "images/phone/%s_profile_v001.png" % who
         if profile and renpy.loadable(path):
             portrait = Crop(phone_profile_boxes[who],path)
         else:
-            portrait = Crop((385,45,250,250),"images/characters/%s_master.png" % who)
+            portrait = Crop(ui_master_avatar_box(who),"images/characters/%s_master.png" % who)
         return AlphaMask(Transform(portrait,xysize=(size,size)),
                          Transform("images/ui_v2/circle.png",xysize=(size,size)))
     def ui_phone_avatar(who, size=56):

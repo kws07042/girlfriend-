@@ -1,0 +1,228 @@
+[
+  {
+    "who": "ria",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\강리아_ria_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_ear.png",
+    "bounds": [
+      532,
+      140,
+      23,
+      30
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_MASTER.png",
+    "changed_pixels": 687,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "canonical",
+    "original_sha256": "5318f541b52e44588cb23f4407735a617ea43b2ac986aa16099ce5b31c14e368"
+  },
+  {
+    "who": "yujin",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\차유진_yujin_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_ear.png",
+    "bounds": [
+      557,
+      137,
+      20,
+      42
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_MASTER.png",
+    "changed_pixels": 836,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "canonical",
+    "original_sha256": "dd7a7d5285d5aaac4b8f206f72131d6319506192ddafa18017b790c1cc3cff13"
+  },
+  {
+    "who": "jihyun",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\백지현_jihyun_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_ear.png",
+    "bounds": [
+      552,
+      133,
+      20,
+      19
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_MASTER.png",
+    "changed_pixels": 380,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "canonical",
+    "original_sha256": "9f097a59d0d777cdc25186ab6d487b983ec69be49ba8b2a138d9d32cee3d063a"
+  },
+  {
+    "who": "ria",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_master_default.png",
+    "bounds": [
+      1065,
+      280,
+      44,
+      60
+    ],
+    "changed_pixels": 1901,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e"
+  },
+  {
+    "who": "ria",
+    "pose": "explaining",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_explaining_default.png",
+    "bounds": [
+      1066,
+      279,
+      44,
+      60
+    ],
+    "changed_pixels": 1915,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c"
+  },
+  {
+    "who": "ria",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_casual_default.png",
+    "bounds": [
+      1066,
+      279,
+      44,
+      60
+    ],
+    "changed_pixels": 1916,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b"
+  },
+  {
+    "who": "yujin",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_master_default.png",
+    "bounds": [
+      1115,
+      275,
+      39,
+      83
+    ],
+    "changed_pixels": 2982,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550"
+  },
+  {
+    "who": "yujin",
+    "pose": "work",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_work_default.png",
+    "bounds": [
+      1116,
+      274,
+      39,
+      83
+    ],
+    "changed_pixels": 2991,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498"
+  },
+  {
+    "who": "yujin",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_casual_default.png",
+    "bounds": [
+      1125,
+      273,
+      39,
+      83
+    ],
+    "changed_pixels": 2991,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b"
+  },
+  {
+    "who": "jihyun",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_master_default.png",
+    "bounds": [
+      1105,
+      266,
+      38,
+      38
+    ],
+    "changed_pixels": 1270,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292"
+  },
+  {
+    "who": "jihyun",
+    "pose": "work",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_work_default.png",
+    "bounds": [
+      1105,
+      265,
+      38,
+      38
+    ],
+    "changed_pixels": 1274,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7"
+  },
+  {
+    "who": "jihyun",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_casual_default.png",
+    "bounds": [
+      1105,
+      266,
+      38,
+      38
+    ],
+    "changed_pixels": 1275,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "original_sha256": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952"
+  },
+  {
+    "who": "ria",
+    "pose": "listening",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\listening.png",
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_listening.png",
+    "bounds": [
+      1066,
+      279,
+      44,
+      60
+    ],
+    "changed_pixels": 2640,
+    "outside_ear_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "kind": "game",
+    "alignment": {
+      "dx": 1,
+      "dy": -1,
+      "cost": 725.0602409638554
+    },
+    "original_sha256": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e"
+  }
+]

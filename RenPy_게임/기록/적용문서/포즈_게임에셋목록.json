@@ -1,0 +1,19 @@
+{
+  "ria": {
+    "listening": "images/characters/ria_poses/listening.png",
+    "explaining": "images/characters/ria_poses/explaining.png",
+    "casual": "images/characters/ria_poses/casual.png"
+  },
+  "seoyun": {
+    "work": "images/characters/seoyun_poses/work.png",
+    "casual": "images/characters/seoyun_poses/casual.png"
+  },
+  "yujin": {
+    "work": "images/characters/yujin_poses/work.png",
+    "casual": "images/characters/yujin_poses/casual.png"
+  },
+  "jihyun": {
+    "work": "images/characters/jihyun_poses/work.png",
+    "casual": "images/characters/jihyun_poses/casual.png"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "who": "ria",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\강리아_ria_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_ear.png",
+    "bounds": [
+      532,
+      140,
+      23,
+      30
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\ria_canonical_MASTER.png"
+  },
+  {
+    "who": "yujin",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\차유진_yujin_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_ear.png",
+    "bounds": [
+      557,
+      137,
+      20,
+      42
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\yujin_canonical_MASTER.png"
+  },
+  {
+    "who": "jihyun",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\백지현_jihyun_MASTER.png",
+    "patch": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_ear.png",
+    "bounds": [
+      552,
+      133,
+      20,
+      19
+    ],
+    "staged": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\24장_v2_중간자료\\MASTER_수정준비\\jihyun_canonical_MASTER.png"
+  }
+]

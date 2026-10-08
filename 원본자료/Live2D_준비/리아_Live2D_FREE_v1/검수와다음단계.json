@@ -1,0 +1,46 @@
+{
+  "status": "parts_draft_not_rigged",
+  "canvas": [
+    1024,
+    1536
+  ],
+  "layers": 5,
+  "visible_layers": [
+    "Head_and_Hair",
+    "Body"
+  ],
+  "hidden_drafts": [
+    "Eye_R_closed_DRAFT",
+    "Eye_L_closed_DRAFT",
+    "Neck_backing_DRAFT"
+  ],
+  "pixel_preservation": "head + body equals normalized approved base exactly",
+  "psd_merged_rgba": "exact match verified with Pillow",
+  "psd_sha256": "90a1d52c2938b79ea2ebfb4dc6cdc90411abdbbc993f6aa56fe103f2f47a6ce4",
+  "next": [
+    "Approve official stable Cubism Editor installation and EULA",
+    "Import PSD and inspect head/hair cut edges",
+    "Align/skin-match closed lid draft parts before any runtime use",
+    "Create head rotation deformer around collar; tiny rotation -1,0,+1 degrees",
+    "Rig blink key forms in real Cubism, keeping eyes parented to head",
+    "Export .cmo3/.moc3/.model3.json; install approved Native SDK; validate in RenPy"
+  ],
+  "free_limits": {
+    "texture_count": 1,
+    "texture_max_dimension": 2048,
+    "artmesh": 100,
+    "parameters": 30,
+    "deformers": 50
+  },
+  "target_parameters": [
+    "ParamAngleZ",
+    "ParamEyeLOpen",
+    "ParamEyeROpen"
+  ],
+  "sources": [
+    "https://www.live2d.com/en/cubism/comparison/",
+    "https://www.renpy.org/doc/html/live2d.html"
+  ],
+  "current_status_20261007": "초안 보관. 기존 approved-base-2x는 이전 얼굴 합성 결과이므로 확정 원화로 간주하지 않음. 포즈 원화를 기준으로 파츠 재준비 필요.",
+  "original_face_reference": "../../RenPy_게임/game/images/characters/ria_poses/casual.png"
+}

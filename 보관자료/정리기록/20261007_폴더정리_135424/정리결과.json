@@ -1,0 +1,23 @@
+{
+  "complete": true,
+  "deleted_files": 0,
+  "moved_groups": 107,
+  "moved_files": 485,
+  "media_files_verified_unchanged": 1111,
+  "reference_files_updated": 78,
+  "record": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\정리기록\\20261007_폴더정리_135424",
+  "game_image_paths_preserved": true,
+  "protected": [
+    "RenPy_게임/game/images",
+    "RenPy_게임/game/saves",
+    "RenPy_게임/game/tests",
+    "RenPy_게임/tests",
+    "RenPy_게임/샘플",
+    "도구",
+    "히로인/*_MASTER.png",
+    "변경백업"
+  ],
+  "markdown_links_verified": 182,
+  "new_broken_links": 0,
+  "renpy_lint_exit": 0
+}

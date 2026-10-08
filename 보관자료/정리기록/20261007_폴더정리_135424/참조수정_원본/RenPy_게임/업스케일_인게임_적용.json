@@ -1,0 +1,38 @@
+[
+  {
+    "character": "한서윤",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_서윤_v1\\한서윤_MASTER_2x_원화보존.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+    "old_sha256": "6d401b67f1a6f257f4b61996056ecbd910ea4ec035a3f7d07865a350a5671602",
+    "new_sha256": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "variant": "원화보존",
+    "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261006_업스케일_인게임_v1\\seoyun_master.png"
+  },
+  {
+    "character": "강리아",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_리아_v1\\강리아_MASTER_2x_원화보존.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+    "old_sha256": "5318f541b52e44588cb23f4407735a617ea43b2ac986aa16099ce5b31c14e368",
+    "new_sha256": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "variant": "원화보존",
+    "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261006_업스케일_인게임_v1\\ria_master.png"
+  },
+  {
+    "character": "차유진",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_유진_v1\\차유진_MASTER_2x_원화보존.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+    "old_sha256": "dd7a7d5285d5aaac4b8f206f72131d6319506192ddafa18017b790c1cc3cff13",
+    "new_sha256": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "variant": "원화보존",
+    "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261006_업스케일_인게임_v1\\yujin_master.png"
+  },
+  {
+    "character": "백지현",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\업스케일_지현_v1\\백지현_MASTER_2x_원화보존.png",
+    "game_file": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+    "old_sha256": "9f097a59d0d777cdc25186ab6d487b983ec69be49ba8b2a138d9d32cee3d063a",
+    "new_sha256": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "variant": "원화보존",
+    "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261006_업스케일_인게임_v1\\jihyun_master.png"
+  }
+]

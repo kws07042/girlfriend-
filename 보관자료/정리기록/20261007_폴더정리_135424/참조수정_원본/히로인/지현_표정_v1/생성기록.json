@@ -1,0 +1,42 @@
+[
+  {
+    "expression": "smile",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-fd59adfa-d304-4457-ae3e-cb64c89c14c8.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_미소_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "serious",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-87d8f75b-d3ce-4e62-b7ae-08f322a22e5c.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_진지_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "surprised",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-78c22097-af51-4e0e-a112-c3688e98b67c.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_놀람_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  },
+  {
+    "expression": "sheepish",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-1f40b1cf-e565-427a-bfee-f0f9b99ed74f.png",
+    "output": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\지현_표정_v1\\업스케일\\백지현_머쓱_2x.png",
+    "dimensions": [
+      2048,
+      3072
+    ],
+    "recipe": "original Lanczos 60% + Real-ESRGAN general 40%"
+  }
+]

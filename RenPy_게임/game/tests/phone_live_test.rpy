@@ -8,7 +8,7 @@ testcase office_phone_live:
     click "리아와 자료를 함께 읽고 고객 흐름을 정리한다."
     advance until screen "phone"
     pause 0.6
-    screenshot "phone_v4_idle"
+    screenshot "phone_v4_idle_message_policy_v1" max_pixel_difference 200
     $ _phone_before = len(phone_messages)
     $ _affection_before = people["ria"]["affection"]
     click "좋아요. 같이 먹으면서 이야기해요."
@@ -20,7 +20,7 @@ testcase office_phone_live:
     pause 0.7
     assert eval phone_is_typing("ria")
     assert eval phone_messages[-1]["delivery"] == "read"
-    screenshot "phone_v4_typing"
+    screenshot "phone_v4_typing_message_policy_v1" max_pixel_difference 200
     run FilePage("phoneqa")
     $ renpy.retain_after_load()
     run FileSave(1,confirm=False)
@@ -48,5 +48,5 @@ testcase office_phone_live:
     run FilePage(1)
     run Show("phone")
     pause 0.6
-    screenshot "phone_v4_received"
+    screenshot "phone_v4_received_message_policy_v1" max_pixel_difference 200
     exit

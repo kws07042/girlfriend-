@@ -1,0 +1,38 @@
+{
+  "id": "yujin_daily_b",
+  "who": "yujin",
+  "kind": "daily_b",
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Cha Yujin, an ADULT age 32. Exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, gold connector with ONE small gold teardrop pendant per visible ear, smooth ears. Same adult body, long legs and subtle closed-lip smile. Change ONLY pose. Exact dusty-mauve boat-neck long-sleeve fine-knit sweater with sleeves pushed to forearms, charcoal wide-leg high-waisted trousers, burgundy ballet flats, plain cream canvas tote. New pose B: both arms lowered naturally in front, hands gently holding the tote handles together below her waist; shoulders at a slight three-quarter angle, feet naturally parallel, quietly attentive expression. Do not tuck hair or raise a hand to her face. Preserve all clothing colors, material grain, bag proportions, earrings and long hair.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png"
+  ],
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-f71e1caf-1e54-4fc5-85e9-f31d119232b4.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_daily_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_daily_b_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "0ed5e78ea5adf8cf7769e82a1387b8af92bcd8b0cb4bb7a202cbd18116273a0e",
+  "output_sha256": "2b62240678d4fc8e5691c74f7d3c956cf47b3fc7757b7ba9a9234ab3a49223ea",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 19.88
+}
