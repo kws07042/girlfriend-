@@ -115,15 +115,43 @@
     "path": "히로인/백지현/표정/캐주얼_default.png",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 26046,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 26824,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 492,
+        "top": 1106,
+        "width": 389,
+        "height": 707
+      },
+      {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      }
+    ]
   },
   {
     "path": "히로인/백지현/표정/캐주얼_serious.png",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 26046,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 26824,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 492,
+        "top": 1106,
+        "width": 389,
+        "height": 707
+      },
+      {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      }
+    ]
   },
   {
     "path": "히로인/한서윤/사복/업스케일/외출_A_2x.png",

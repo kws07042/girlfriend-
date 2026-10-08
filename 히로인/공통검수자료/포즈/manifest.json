@@ -138,12 +138,23 @@
     "runtimePath": "RenPy_게임/game/images/characters/jihyun_poses/work.png",
     "width": 2048,
     "height": 3072,
-    "bytes": 2687909,
-    "sha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e",
+    "bytes": 3694777,
+    "sha256": "a19ba969cd03d1a4b0084704c9c5993f34fbd27551cb86c86575ed38ad611643",
     "changedPixels": 0,
     "outsideRegionChangedPixels": 0,
     "repairRegions": [],
-    "result": "팔짱의 손가락 관절·겹침 정상. 반대 손은 팔 아래 가려진 상태."
+    "result": "팔짱의 손가락 관절·겹침 정상. 반대 손은 팔 아래 가려진 상태.",
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "changedPixels": 768,
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    }
   },
   {
     "character": "jihyun",
@@ -152,8 +163,8 @@
     "runtimePath": "RenPy_게임/game/images/characters/jihyun_poses/casual.png",
     "width": 2048,
     "height": 3072,
-    "bytes": 4215066,
-    "sha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+    "bytes": 4215048,
+    "sha256": "a4eb0f39c7bf8e47abe88ff1791e59d25a8ab470a8fcf4c7525c056a495d6a05",
     "changedPixels": 26046,
     "outsideRegionChangedPixels": 0,
     "repairRegions": [
@@ -164,6 +175,17 @@
         "height": 707
       }
     ],
-    "result": "늘어뜨린 오른손(화면 왼쪽)의 손끝 수정. 시계 쪽 손은 유지."
+    "result": "늘어뜨린 오른손(화면 왼쪽)의 손끝 수정. 시계 쪽 손은 유지.",
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "changedPixels": 778,
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    }
   }
 ]

@@ -1,10 +1,14 @@
 # 백지현
 
-[전체 히로인](../README.md) · **이미지 22개**
+[전체 히로인](../README.md) · **이미지 23개**
 
 ## MASTER
 
 <a href="MASTER.png"><img src="MASTER.png" width="200"></a>
+
+## 듣는 자세
+
+<a href="포즈/듣는자세.png"><img src="포즈/듣는자세.png" width="160"></a>
 
 ## 포즈
 

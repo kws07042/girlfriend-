@@ -1,0 +1,35 @@
+[
+  {
+    "character": "한서윤",
+    "path": "히로인/한서윤/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1535,
+    "width": 2048,
+    "height": 3070,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "handFollowup": true
+  },
+  {
+    "character": "차유진",
+    "path": "히로인/차유진/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1536,
+    "width": 2048,
+    "height": 3072,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "handFollowup": false
+  },
+  {
+    "character": "백지현",
+    "path": "히로인/백지현/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1536,
+    "width": 2048,
+    "height": 3072,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "handFollowup": false
+  }
+]

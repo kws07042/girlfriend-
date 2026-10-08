@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1267290,
-      "sha256": "8dc316fd361abaf308094b488bb7c3a9db9f74feadae621613f62f4b804fce7e"
+      "bytes": 1660467,
+      "sha256": "255a0cc71c1a047ff06090d0e7444081c5b901872e65f471d57c5f28005291eb"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

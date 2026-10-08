@@ -152,22 +152,70 @@
   {
     "path": "히로인/백지현/표정/캐주얼_default.png",
     "pose": "jihyun_casual",
-    "bytes": 4215066,
-    "sha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+    "bytes": 4215048,
+    "sha256": "a4eb0f39c7bf8e47abe88ff1791e59d25a8ab470a8fcf4c7525c056a495d6a05",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 26046,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 26824,
+    "outsideRegionChangedPixels": 0,
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    },
+    "repairRegions": [
+      {
+        "left": 492,
+        "top": 1106,
+        "width": 389,
+        "height": 707
+      },
+      {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      }
+    ]
   },
   {
     "path": "히로인/백지현/표정/캐주얼_serious.png",
     "pose": "jihyun_casual",
-    "bytes": 4214803,
-    "sha256": "d5e17d6d842739e7e1226921a9f5df092bde3e62e636bf8f66adf9e4d45d5b21",
+    "bytes": 4214672,
+    "sha256": "a949c98a8f9564d250892bfbc6f051d33159f5da8d508f08e8e7a006821ca6da",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 26046,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 26824,
+    "outsideRegionChangedPixels": 0,
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    },
+    "repairRegions": [
+      {
+        "left": 492,
+        "top": 1106,
+        "width": 389,
+        "height": 707
+      },
+      {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      }
+    ]
   },
   {
     "path": "히로인/한서윤/사복/업스케일/외출_A_2x.png",
