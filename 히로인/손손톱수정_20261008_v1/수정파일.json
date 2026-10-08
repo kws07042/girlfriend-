@@ -1,0 +1,202 @@
+[
+  {
+    "path": "히로인/사복16장_20261008_v1/업스케일/seoyun_daily_b_2x.png",
+    "pose": "seoyun_daily_b",
+    "bytes": 5094039,
+    "sha256": "98e5fee4d5aa5ed25208d351d0f6b6b8476fca231c57ef48943cfd0e3acce91f",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 29987,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/원화/seoyun_daily_b.png",
+    "pose": "seoyun_daily_b",
+    "bytes": 2023864,
+    "sha256": "71270c8ebeea67a309f26d97e14e171bbf66c4a0f9283544afb898b8118e8648",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 7755,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_work_default.png",
+    "pose": "seoyun_work",
+    "bytes": 3008600,
+    "sha256": "502f222c709750c13e2b741610f86621783e3f3db9017be0806f8d08f1d955d3",
+    "width": 2048,
+    "height": 3070,
+    "changedPixels": 26277,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_work_serious.png",
+    "pose": "seoyun_work",
+    "bytes": 3007804,
+    "sha256": "aaebbc4e45af56c7d20297091f406d44c4f0c5c00f71b1521c6a47e9ac333103",
+    "width": 2048,
+    "height": 3070,
+    "changedPixels": 26277,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아_ria_MASTER.png",
+    "pose": "ria_master",
+    "bytes": 2167361,
+    "sha256": "27466bfb2808c32140269b3b503f69c3c11cc09ee9392d61b5008798aaeb9703",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 8457,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_수정본/강리아_ria_MASTER.png",
+    "pose": "ria_master",
+    "bytes": 2167361,
+    "sha256": "27466bfb2808c32140269b3b503f69c3c11cc09ee9392d61b5008798aaeb9703",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 8457,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_master_default.png",
+    "pose": "ria_master",
+    "bytes": 5190234,
+    "sha256": "23f19ffb8fbb759a24b71f75e6efce69b2cbb143f225e5b09cd9a5686b868b77",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 32776,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_master_serious.png",
+    "pose": "ria_master",
+    "bytes": 5188208,
+    "sha256": "dce3c803be9865fd4f70ff751f6ad671a9dac32bc345d636e79299d0ca7ef2f2",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 32776,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/업스케일/yujin_date_a_2x.png",
+    "pose": "yujin_date_a",
+    "bytes": 5189873,
+    "sha256": "6ddbdf6340244c92fee3c32ebae850d0b7b24edc0b9abd7ed05f1c9882afe6f9",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 27510,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/원화/yujin_date_a.png",
+    "pose": "yujin_date_a",
+    "bytes": 2090105,
+    "sha256": "25d2497159e0dd9f4160079a9511886bae05da2890d41d2bb8e79d488fa8ef41",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 7103,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_default.png",
+    "pose": "yujin_work",
+    "bytes": 4647289,
+    "sha256": "e51f33d3714391303e52a5dcb54c1bec9aa05f21e8416c7df3267a2622b86a2f",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 14299,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_serious.png",
+    "pose": "yujin_work",
+    "bytes": 4646285,
+    "sha256": "4e766e64821718fb0407bba0124d3fcb49a27f762b5c56794bfc695a76635890",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 14299,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_default.png",
+    "pose": "jihyun_casual",
+    "bytes": 4215066,
+    "sha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 26046,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_serious.png",
+    "pose": "jihyun_casual",
+    "bytes": 4214803,
+    "sha256": "d5e17d6d842739e7e1226921a9f5df092bde3e62e636bf8f66adf9e4d45d5b21",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 26046,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/업스케일/seoyun_date_a_2x.png",
+    "pose": "seoyun_date_a",
+    "bytes": 3851608,
+    "sha256": "0eb11aa001b6f42dad62424f81afbda7c1d560e41591404cee3f82fbfddec826",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 28597,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/원화/seoyun_date_a.png",
+    "pose": "seoyun_date_a",
+    "bytes": 1072152,
+    "sha256": "f4cacd59126e110005b364ab671ea9f34a81802418a1451f3e466d23b87bffbb",
+    "width": 1024,
+    "height": 1535,
+    "changedPixels": 7357,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/업스케일/jihyun_date_b_2x.png",
+    "pose": "jihyun_date_b",
+    "bytes": 5228608,
+    "sha256": "d202d740ad0e92c816d0eb392895199d35760cdf1b6daa2f9393cf341cb3909d",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 62722,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/사복16장_20261008_v1/원화/jihyun_date_b.png",
+    "pose": "jihyun_date_b",
+    "bytes": 2062265,
+    "sha256": "fa1f653bac74c04105658ef3c4abe66070875f8d50418ba1da689fb318e1ae39",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 15970,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_explaining_default.png",
+    "pose": "ria_explaining",
+    "bytes": 5190239,
+    "sha256": "3543de68460057fdf30fb6919ef57317ad197b91e980fe72cf5f61e0706c1003",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 25448,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_explaining_serious.png",
+    "pose": "ria_explaining",
+    "bytes": 5191377,
+    "sha256": "312df7614b77246024b76f32da8e8bf43f0ad0b7659f86dd23f7424c7c90ce76",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 25448,
+    "outsideRegionChangedPixels": 0
+  }
+]

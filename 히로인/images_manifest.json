@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "scope": "Current approved heroine masters, active pose PNGs, phone profile photos, and Ria cafe selfie.",
   "runtime_images": 18,
   "canonical_masters": 4,
@@ -65,8 +65,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1470307,
-      "sha256": "2731f7978de8905d5af64a84f4483e60e1702b87bb764ff2f4c4abd1eda0c19e"
+      "bytes": 2167361,
+      "sha256": "27466bfb2808c32140269b3b503f69c3c11cc09ee9392d61b5008798aaeb9703"
     },
     {
       "path": "RenPy_게임/game/images/characters/ria_master.png",
@@ -239,5 +239,6 @@
       "bytes": 2138567,
       "sha256": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189"
     }
-  ]
+  ],
+  "hand_repair_manifest": "히로인/손손톱수정_20261008_v1/수정파일.json"
 }
