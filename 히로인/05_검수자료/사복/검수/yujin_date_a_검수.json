@@ -1,0 +1,38 @@
+{
+  "id": "yujin_date_a",
+  "who": "yujin",
+  "kind": "date_a",
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Cha Yujin, an ADULT age 32. Exact familiar mature face, gray-violet eyes, very long dark navy-black hair and bangs, gold connector with ONE small gold teardrop pendant per visible ear, smooth ears. Same adult body, long legs and subtle closed-lip smile. One dressed-up off-duty date outfit: DEEP TEAL opaque square-neck sleeveless MIDI dress with a softly flowing A-line skirt, fitted at waist; light IVORY cropped cardigan worn OPEN; BURGUNDY FLAT ballet shoes, a small plain BEIGE leather crossbody bag with narrow strap. Preserve exact gold teardrop earrings and very long dark navy hair. Elegant gallery/date look, no office burgundy dress, no new hairstyle. Date pose A: body slightly turned three-quarter away while face gently looks back toward viewer (do not turn head so far that identity changes); one hand loosely rests on crossbody bag at outer hip, other arm relaxed beside skirt; one foot set slightly behind, calm grounded stance. Do not raise hand to hair or face.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\yujin_casual_outfit_pose_v001.png"
+  ],
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-70fafbe4-8f74-499e-a3f4-45e0d92459f0.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\yujin_date_a.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\yujin_date_a_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "b3bda24458958aa968817366c703cfd29697f9d2afda3ed9a76e1a4cce64fbac",
+  "output_sha256": "a0e0a23be1b64718520871726cd4ddfe869d499578c6b4f1675361faedf527f8",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 16.99
+}

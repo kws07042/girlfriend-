@@ -1,0 +1,37 @@
+{
+  "id": "jihyun_daily_a",
+  "who": "jihyun",
+  "kind": "daily_a",
+  "source_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\jihyun_casual_outfit_pose_v001.png",
+  "prompt": "Use case: identity-preserve. Asset type: one new casual-clothes full-body Korean romance visual-novel heroine sprite, portrait framing. Supplied image is the immutable identity/body/art-style reference for Baek Jihyun, a 36-year-old adult Korean woman. Preserve her exact familiar mature face, brown eyes, short black side-parted bob with the same shape, natural peach skin hue, adult body proportions, long legs, small adult head relative to height, SINGLE small ivory rounded-triangle pearl stud earring at each visible ear with no fused skin bump, and silver wristwatch. Match the reference's polished anime VN linework, silky subtle hair highlights, soft carefully controlled skin and cloth shading. Change only clothing and pose. Outfit: simple fitted black fine-knit mock-neck long-sleeve top, medium-light stone-gray straight-leg jeans, clean white low-top sneakers. Off-duty casual look, clearly different from the black office suit and pencil skirt. A lightweight muted slate-blue casual jacket is folded naturally over one forearm, not worn as an office blazer. Pose: relaxed slight three-quarter walking pause, one hand resting naturally in the front jeans pocket, the opposite forearm holding the folded jacket by her side; one foot half a step ahead; shoulders relaxed, chin level, restrained small closed-mouth smile. No crossed arms, no paper pointing, no hands clasped at the waist. Hands and visible fingers adult-sized, long, cleanly defined and anatomically correct. SINGLE heroine full body, crown and both entire shoes visible with comfortable margins in a centered portrait canvas, neutral even lighting. Genuine transparent alpha background, no scenery, no floor shadow, no glow, no dark aura, no colored fringe, no text/logo/watermark. Do not alter identity, haircut, skin hue or body proportions. Visual novel illustration, NOT a photorealistic photo.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+  ],
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\jihyun_daily_a.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\jihyun_daily_a_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "e483580b77c644e1b87662f9bb91b8017c072407b05d7dcc001ba57963859f80",
+  "output_sha256": "8433812b195babbcff2049ccce2a879c437dcd21a121d6707fa8f5e78eb9e876",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 14.89
+}

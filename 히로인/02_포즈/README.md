@@ -1,0 +1,29 @@
+# 포즈 9장
+
+검수한 포즈 이미지입니다. 서윤 2장, 리아 3장, 유진 2장, 지현 2장입니다.
+
+## 한서윤
+
+|캐주얼|업무|
+|:---:|:---:|
+|<a href="한서윤_seoyun/캐주얼.png"><img src="한서윤_seoyun/캐주얼.png" width="150"></a>|<a href="한서윤_seoyun/업무.png"><img src="한서윤_seoyun/업무.png" width="150"></a>|
+
+## 강리아
+
+|캐주얼|설명|듣는 자세|
+|:---:|:---:|:---:|
+|<a href="강리아_ria/캐주얼.png"><img src="강리아_ria/캐주얼.png" width="150"></a>|<a href="강리아_ria/설명.png"><img src="강리아_ria/설명.png" width="150"></a>|<a href="강리아_ria/듣는자세.png"><img src="강리아_ria/듣는자세.png" width="150"></a>|
+
+## 차유진
+
+|캐주얼|업무|
+|:---:|:---:|
+|<a href="차유진_yujin/캐주얼.png"><img src="차유진_yujin/캐주얼.png" width="150"></a>|<a href="차유진_yujin/업무.png"><img src="차유진_yujin/업무.png" width="150"></a>|
+
+## 백지현
+
+|캐주얼|업무|
+|:---:|:---:|
+|<a href="백지현_jihyun/캐주얼.png"><img src="백지현_jihyun/캐주얼.png" width="150"></a>|<a href="백지현_jihyun/업무.png"><img src="백지현_jihyun/업무.png" width="150"></a>|
+
+[손 검수 기록](../05_검수자료/포즈/README.md) · [전체 폴더 안내](../README.md)

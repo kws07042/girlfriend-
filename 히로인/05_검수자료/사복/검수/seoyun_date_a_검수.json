@@ -1,0 +1,38 @@
+{
+  "id": "seoyun_date_a",
+  "who": "seoyun",
+  "kind": "date_a",
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is her immutable canonical MASTER identity/body/art-style reference. Image 2 is her completed casual sprite, a supporting identity/color/style reference. Create a new date outfit and pose, not a new person. Han Seoyun, an ADULT age 40. Exact mature face, brown eyes, brown low bun and side locks, strong refined eye makeup, closed berry lips, ONE beauty mark at viewer-right mouth corner, no earrings, smooth bare ears, same round wristwatch. Same adult full upper torso, slim waist, long legs and small mature head proportion. One distinctly dressed-up off-duty outfit: deep berry-wine soft woven WRAP MIDI DRESS with three-quarter sleeves, tasteful V neckline, side waist tie, gently flared calf-length hem; BLACK FLAT loafers with subtle GOLD BAR decoration, matching her approved flat-shoe taste. Small structured TAN leather handbag with short handles. Preserve watch, NO earrings. Fine woven folds, not glossy plastic or office clothes. Date pose A: mature relaxed three-quarter stance; handbag hangs by one thigh from a naturally lowered hand, other hand rests lightly near the waist without gripping cloth; one foot modestly forward. Closed-lip confident subtle smile; adult poise, not childish shyness.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\seoyun_casual_outfit_pose_v001.png"
+  ],
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-da5a3f50-5838-47ae-b3c2-dd8aa8a91ebe.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\seoyun_date_a.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\seoyun_date_a_2x.png",
+  "source_size": [
+    1024,
+    1535
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "d2751242ca19025baad930fc357b797f0b217c9eabb44833b6c1b388ae74c947",
+  "output_sha256": "f7796d01cde0209c0c84386714c9c8eb4623745941d4a821a9ba4c1c83c28a86",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 14.44
+}

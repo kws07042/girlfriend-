@@ -1,0 +1,1382 @@
+{
+  "mode": "built-in image_gen, localized face expression edits",
+  "records": [
+    {
+      "who": "seoyun",
+      "name": "한서윤",
+      "pose": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_master_default.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "sha256": "6d9b8baa76578dc77eaaa8db4887c809ae6bca813add0fae206c6fe97de4177f",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_master_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_master_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          430,
+          80,
+          23,
+          -15
+        ],
+        [
+          550,
+          340,
+          100,
+          25,
+          -23
+        ],
+        [
+          389,
+          492,
+          101,
+          45,
+          -18
+        ],
+        [
+          618,
+          401,
+          111,
+          48,
+          -20
+        ],
+        [
+          559,
+          620,
+          89,
+          45,
+          -19
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 213.20174482006544
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -2,
+          -2
+        ],
+        [
+          0,
+          -1,
+          -1
+        ]
+      ],
+      "changed_pixels": 12841,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "a4ef005522134463d74b326c1c8c9dbcc99b129f9332ee72e185c98b121eeb0e",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_master_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_master_serious.png",
+      "ear_status": "Existing smooth bare earlobe preserved",
+      "active_source_sha256": "6d9b8baa76578dc77eaaa8db4887c809ae6bca813add0fae206c6fe97de4177f"
+    },
+    {
+      "who": "seoyun",
+      "name": "한서윤",
+      "pose": "work",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_work_default.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_work_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_work_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          430,
+          80,
+          23,
+          -15
+        ],
+        [
+          550,
+          340,
+          100,
+          25,
+          -23
+        ],
+        [
+          389,
+          492,
+          101,
+          45,
+          -18
+        ],
+        [
+          618,
+          401,
+          111,
+          48,
+          -20
+        ],
+        [
+          559,
+          620,
+          89,
+          45,
+          -19
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 155.49156232988568
+      },
+      "local_skin_offset": [
+        [
+          0,
+          -1,
+          -2
+        ],
+        [
+          -1,
+          -1,
+          -3
+        ],
+        [
+          -1,
+          -3,
+          -3
+        ],
+        [
+          -1,
+          -3,
+          -4
+        ],
+        [
+          -1,
+          -3,
+          -3
+        ]
+      ],
+      "changed_pixels": 12850,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "f0c5e379128ca1e34b6df8ce6da809f5b17d944cc8c24892ea37e04764371754",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_work_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_work_serious.png",
+      "ear_status": "Existing smooth bare earlobe preserved",
+      "active_source_sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990"
+    },
+    {
+      "who": "seoyun",
+      "name": "한서윤",
+      "pose": "casual",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_casual_default.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\seoyun_casual_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\seoyun\\seoyun_casual_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          430,
+          80,
+          23,
+          -15
+        ],
+        [
+          550,
+          340,
+          100,
+          25,
+          -23
+        ],
+        [
+          389,
+          492,
+          101,
+          45,
+          -18
+        ],
+        [
+          618,
+          401,
+          111,
+          48,
+          -20
+        ],
+        [
+          559,
+          620,
+          89,
+          45,
+          -19
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 88.43572984749456
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -2
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -2
+        ]
+      ],
+      "changed_pixels": 12676,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "1e61679a129ae26d47dbeedc8145622a5a4d9a34efb0712a9b3effbf107a811e",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_casual_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\seoyun\\seoyun_casual_serious.png",
+      "ear_status": "Existing smooth bare earlobe preserved",
+      "active_source_sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1"
+    },
+    {
+      "who": "ria",
+      "name": "강리아",
+      "pose": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_master_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_master_face.png",
+      "crop_box": [
+        700,
+        40,
+        1212,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_master_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          347,
+          451,
+          95,
+          25,
+          -19
+        ],
+        [
+          535,
+          362,
+          107,
+          27,
+          -24
+        ],
+        [
+          355,
+          523,
+          107,
+          51,
+          -19
+        ],
+        [
+          578,
+          421,
+          119,
+          56,
+          -22
+        ],
+        [
+          531,
+          647,
+          117,
+          90,
+          -20
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 186.05696559503667
+      },
+      "local_skin_offset": [
+        [
+          1,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          -3
+        ],
+        [
+          1,
+          -1,
+          -2
+        ],
+        [
+          1,
+          -1,
+          -3
+        ],
+        [
+          1,
+          -1,
+          -3
+        ]
+      ],
+      "changed_pixels": 19225,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "6afe89a596d9dc5bd37b616b34b1bfb8831bd317e6fc1b27063ebc77ae587da6",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_master_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_master_serious.png",
+      "ear_input_box": [
+        1030,
+        244,
+        1160,
+        374
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1065,
+        280,
+        44,
+        60
+      ],
+      "ear_pose_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 0
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 336.6666666666667
+      },
+      "active_source_sha256": "9248b73e5ac1e9b0bf0a8830ef3ab740bafc11d053fe7af849ae46cc75f2dea2"
+    },
+    {
+      "who": "ria",
+      "name": "강리아",
+      "pose": "explaining",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_explaining_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_explaining_face.png",
+      "crop_box": [
+        700,
+        40,
+        1212,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_explaining_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          347,
+          451,
+          95,
+          25,
+          -19
+        ],
+        [
+          535,
+          362,
+          107,
+          27,
+          -24
+        ],
+        [
+          355,
+          523,
+          107,
+          51,
+          -19
+        ],
+        [
+          578,
+          421,
+          119,
+          56,
+          -22
+        ],
+        [
+          531,
+          647,
+          117,
+          90,
+          -20
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 199.85294117647058
+      },
+      "local_skin_offset": [
+        [
+          1,
+          0,
+          -2
+        ],
+        [
+          1,
+          1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          -3
+        ],
+        [
+          0,
+          -1,
+          -2
+        ],
+        [
+          0,
+          -1,
+          -2
+        ]
+      ],
+      "changed_pixels": 19666,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "4d059238e4948c35a8933d97e928f704e98cfa1f828e7b6a91af93d4dd7d41b2",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_explaining_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_explaining_serious.png",
+      "ear_input_box": [
+        1030,
+        244,
+        1160,
+        374
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1066,
+        279,
+        44,
+        60
+      ],
+      "ear_pose_alignment": {
+        "dx": 1,
+        "dy": -1,
+        "cost": 708.5321285140562
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 336.6666666666667
+      },
+      "active_source_sha256": "6036ae220b4d59ff6ce4b4c4a322a627944dcb909772ffa1883baadf8e7fec55"
+    },
+    {
+      "who": "ria",
+      "name": "강리아",
+      "pose": "casual",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_casual_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\ria_casual_face.png",
+      "crop_box": [
+        700,
+        40,
+        1212,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\ria\\ria_casual_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          347,
+          451,
+          95,
+          25,
+          -19
+        ],
+        [
+          535,
+          362,
+          107,
+          27,
+          -24
+        ],
+        [
+          355,
+          523,
+          107,
+          51,
+          -19
+        ],
+        [
+          578,
+          421,
+          119,
+          56,
+          -22
+        ],
+        [
+          525,
+          638,
+          98,
+          57,
+          -18
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 190.74848984074686
+      },
+      "local_skin_offset": [
+        [
+          1,
+          -1,
+          -2
+        ],
+        [
+          1,
+          -1,
+          -3
+        ],
+        [
+          1,
+          -2,
+          -4
+        ],
+        [
+          1,
+          -2,
+          -4
+        ],
+        [
+          1,
+          -1,
+          -4
+        ]
+      ],
+      "changed_pixels": 15855,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "633665de64079d212eda78e2f466dc6f3ef275fa0707419d10a404e6c89a044f",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_casual_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\ria\\ria_casual_serious.png",
+      "ear_input_box": [
+        1030,
+        244,
+        1160,
+        374
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1066,
+        279,
+        44,
+        60
+      ],
+      "ear_pose_alignment": {
+        "dx": 1,
+        "dy": -1,
+        "cost": 666.4759036144578
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 336.6666666666667
+      },
+      "active_source_sha256": "1789c27c476d60da457ea2c3449a10eefbd8a58501da700f4b0fdc4e0b4205a0"
+    },
+    {
+      "who": "yujin",
+      "name": "차유진",
+      "pose": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_master_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_master_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_master_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          421,
+          88,
+          25,
+          -16
+        ],
+        [
+          588,
+          347,
+          110,
+          28,
+          -24
+        ],
+        [
+          374,
+          496,
+          106,
+          46,
+          -13
+        ],
+        [
+          620,
+          405,
+          121,
+          50,
+          -21
+        ],
+        [
+          553,
+          633,
+          101,
+          49,
+          -20
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 135.61784675072744
+      },
+      "local_skin_offset": [
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "changed_pixels": 14673,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "c95292c3a691f0a15b829ce82610c342f816d5546e89c52d55d4c95b7f21528e",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_master_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_master_serious.png",
+      "ear_input_box": [
+        1078,
+        266,
+        1208,
+        396
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1115,
+        275,
+        39,
+        83
+      ],
+      "ear_pose_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 0
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 695.4775413711584
+      },
+      "active_source_sha256": "0f5328cbbcbe2926d89fbb6e2754d68e068a3c827ece319c097ec596fa903a49"
+    },
+    {
+      "who": "yujin",
+      "name": "차유진",
+      "pose": "work",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_work_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_work_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_work_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          421,
+          88,
+          25,
+          -16
+        ],
+        [
+          588,
+          347,
+          110,
+          28,
+          -24
+        ],
+        [
+          374,
+          496,
+          106,
+          46,
+          -13
+        ],
+        [
+          620,
+          405,
+          121,
+          50,
+          -21
+        ],
+        [
+          553,
+          633,
+          101,
+          49,
+          -20
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 152.57328207592505
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          -1
+        ]
+      ],
+      "changed_pixels": 14371,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "2c4907f433a144ce6d8ee718e4c122e9d4f78988bd098e6c1ae730fa9fe899ac",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_work_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_work_serious.png",
+      "ear_input_box": [
+        1078,
+        266,
+        1208,
+        396
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1116,
+        274,
+        39,
+        83
+      ],
+      "ear_pose_alignment": {
+        "dx": 1,
+        "dy": -1,
+        "cost": 320.171974522293
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 695.4775413711584
+      },
+      "active_source_sha256": "f11cbb7ab56398ee10f89432993efb7b7927e488f0aad82b8e5295591db4cac0"
+    },
+    {
+      "who": "yujin",
+      "name": "차유진",
+      "pose": "casual",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_casual_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\yujin_casual_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\yujin\\yujin_casual_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          382,
+          421,
+          88,
+          25,
+          -16
+        ],
+        [
+          605,
+          347,
+          110,
+          28,
+          -24
+        ],
+        [
+          391,
+          496,
+          106,
+          46,
+          -13
+        ],
+        [
+          637,
+          405,
+          121,
+          50,
+          -21
+        ],
+        [
+          570,
+          633,
+          101,
+          49,
+          -20
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 148.9856719367589
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          -1,
+          -3
+        ],
+        [
+          0,
+          -1,
+          -2
+        ],
+        [
+          0,
+          -2,
+          -3
+        ]
+      ],
+      "changed_pixels": 14804,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "960de26a2feba74c559fdaf8c0b0260772c2bbfd605b3c40edb210f02a6498b9",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_casual_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\yujin\\yujin_casual_serious.png",
+      "ear_input_box": [
+        1078,
+        266,
+        1208,
+        396
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1125,
+        273,
+        39,
+        83
+      ],
+      "ear_pose_alignment": {
+        "dx": 10,
+        "dy": -2,
+        "cost": 478.3503184713376
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 695.4775413711584
+      },
+      "active_source_sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c"
+    },
+    {
+      "who": "jihyun",
+      "name": "백지현",
+      "pose": "master",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_master_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_master_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_master_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          416,
+          86,
+          24,
+          -13
+        ],
+        [
+          582,
+          341,
+          106,
+          29,
+          -23
+        ],
+        [
+          376,
+          486,
+          107,
+          53,
+          -15
+        ],
+        [
+          602,
+          398,
+          118,
+          57,
+          -22
+        ],
+        [
+          548,
+          621,
+          98,
+          56,
+          -21
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 118.66468682505399
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          -3
+        ],
+        [
+          0,
+          -2,
+          -4
+        ],
+        [
+          0,
+          0,
+          -3
+        ],
+        [
+          0,
+          -1,
+          -3
+        ]
+      ],
+      "changed_pixels": 15607,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "89aede3c487d40e51bdb430ec5dc5c5066a89945d0c71c299d5c196418ed95a7",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_master_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_master_serious.png",
+      "ear_input_box": [
+        1070,
+        230,
+        1200,
+        360
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1105,
+        266,
+        38,
+        38
+      ],
+      "ear_pose_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 0
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 406.056338028169
+      },
+      "active_source_sha256": "266a25a186bfb1cd738bbba79d145117ce8d5e76350852d02074be07c59823fe"
+    },
+    {
+      "who": "jihyun",
+      "name": "백지현",
+      "pose": "work",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_work_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_work_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_work_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          416,
+          86,
+          24,
+          -13
+        ],
+        [
+          582,
+          341,
+          106,
+          29,
+          -23
+        ],
+        [
+          376,
+          486,
+          107,
+          53,
+          -15
+        ],
+        [
+          602,
+          398,
+          118,
+          57,
+          -22
+        ],
+        [
+          548,
+          621,
+          98,
+          56,
+          -21
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 140.248654467169
+      },
+      "local_skin_offset": [
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1
+        ]
+      ],
+      "changed_pixels": 15401,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "eb3aae4976748dadd325dc7cc078da401a9f02ce94e9790ce9665d1c09eadd43",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_work_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_work_serious.png",
+      "ear_input_box": [
+        1070,
+        230,
+        1200,
+        360
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1105,
+        265,
+        38,
+        38
+      ],
+      "ear_pose_alignment": {
+        "dx": 0,
+        "dy": -1,
+        "cost": 705.5709401709402
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 406.056338028169
+      },
+      "active_source_sha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e"
+    },
+    {
+      "who": "jihyun",
+      "name": "백지현",
+      "pose": "casual",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png",
+      "default": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_casual_default.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "sha256": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+      "status": "complete",
+      "input_face": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\입력_얼굴확대\\jihyun_casual_face.png",
+      "crop_box": [
+        740,
+        40,
+        1252,
+        552
+      ],
+      "serious": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\표정24장_귀걸이통일_20261007_v2\\jihyun\\jihyun_casual_serious.png",
+      "expression_regions_in_crop_1024": [
+        [
+          365,
+          416,
+          86,
+          24,
+          -13
+        ],
+        [
+          582,
+          341,
+          106,
+          29,
+          -23
+        ],
+        [
+          376,
+          486,
+          107,
+          53,
+          -15
+        ],
+        [
+          602,
+          398,
+          118,
+          57,
+          -22
+        ],
+        [
+          548,
+          621,
+          98,
+          56,
+          -21
+        ]
+      ],
+      "alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 177.47204301075269
+      },
+      "local_skin_offset": [
+        [
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          -1,
+          -3
+        ],
+        [
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          -3
+        ]
+      ],
+      "changed_pixels": 15596,
+      "outside_expression_changed_pixels": 0,
+      "alpha_changed_pixels": 0,
+      "serious_sha256": "b5729ad6731cf4bde6bb25d6277b139054f5c7849870d332a216740452d9f72f",
+      "previous_default": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_casual_default.png",
+      "previous_serious": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1\\jihyun\\jihyun_casual_serious.png",
+      "ear_input_box": [
+        1070,
+        230,
+        1200,
+        360
+      ],
+      "ear_status": "Unified from the same repaired MASTER ear tile",
+      "ear_local_box": [
+        1105,
+        266,
+        38,
+        38
+      ],
+      "ear_pose_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 752.8681506849315
+      },
+      "ear_generation_alignment": {
+        "dx": 0,
+        "dy": 0,
+        "cost": 406.056338028169
+      },
+      "active_source_sha256": "a2dca7d9e50e6a155fd81b5a8f086bf2b44317b66d2b839f4dce5a094ad31a8b"
+    }
+  ],
+  "extra_ria_listening_preserved_in_game": true,
+  "scope": "24 static expression sprites plus ear-only updates of canonical MASTERs and existing game pose sprites. New serious expression variants are not enabled in runtime.",
+  "prior_version": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\표정24장_20261007_v1"
+}

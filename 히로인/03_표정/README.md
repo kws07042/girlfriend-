@@ -1,0 +1,37 @@
+# 표정 24장
+
+default는 기본 표정, serious는 진지 표정입니다. 캐주얼은 편한 대화 자세를 뜻합니다. 각 이미지를 누르면 원본을 열 수 있습니다.
+
+## 한서윤
+
+|포즈|default · 기본|serious · 진지|
+|---|:---:|:---:|
+|MASTER|<a href="한서윤_seoyun/MASTER_default.png"><img src="한서윤_seoyun/MASTER_default.png" width="130"></a>|<a href="한서윤_seoyun/MASTER_serious.png"><img src="한서윤_seoyun/MASTER_serious.png" width="130"></a>|
+|업무|<a href="한서윤_seoyun/업무_default.png"><img src="한서윤_seoyun/업무_default.png" width="130"></a>|<a href="한서윤_seoyun/업무_serious.png"><img src="한서윤_seoyun/업무_serious.png" width="130"></a>|
+|캐주얼|<a href="한서윤_seoyun/캐주얼_default.png"><img src="한서윤_seoyun/캐주얼_default.png" width="130"></a>|<a href="한서윤_seoyun/캐주얼_serious.png"><img src="한서윤_seoyun/캐주얼_serious.png" width="130"></a>|
+
+## 강리아
+
+|포즈|default · 기본|serious · 진지|
+|---|:---:|:---:|
+|MASTER|<a href="강리아_ria/MASTER_default.png"><img src="강리아_ria/MASTER_default.png" width="130"></a>|<a href="강리아_ria/MASTER_serious.png"><img src="강리아_ria/MASTER_serious.png" width="130"></a>|
+|설명|<a href="강리아_ria/설명_default.png"><img src="강리아_ria/설명_default.png" width="130"></a>|<a href="강리아_ria/설명_serious.png"><img src="강리아_ria/설명_serious.png" width="130"></a>|
+|캐주얼|<a href="강리아_ria/캐주얼_default.png"><img src="강리아_ria/캐주얼_default.png" width="130"></a>|<a href="강리아_ria/캐주얼_serious.png"><img src="강리아_ria/캐주얼_serious.png" width="130"></a>|
+
+## 차유진
+
+|포즈|default · 기본|serious · 진지|
+|---|:---:|:---:|
+|MASTER|<a href="차유진_yujin/MASTER_default.png"><img src="차유진_yujin/MASTER_default.png" width="130"></a>|<a href="차유진_yujin/MASTER_serious.png"><img src="차유진_yujin/MASTER_serious.png" width="130"></a>|
+|업무|<a href="차유진_yujin/업무_default.png"><img src="차유진_yujin/업무_default.png" width="130"></a>|<a href="차유진_yujin/업무_serious.png"><img src="차유진_yujin/업무_serious.png" width="130"></a>|
+|캐주얼|<a href="차유진_yujin/캐주얼_default.png"><img src="차유진_yujin/캐주얼_default.png" width="130"></a>|<a href="차유진_yujin/캐주얼_serious.png"><img src="차유진_yujin/캐주얼_serious.png" width="130"></a>|
+
+## 백지현
+
+|포즈|default · 기본|serious · 진지|
+|---|:---:|:---:|
+|MASTER|<a href="백지현_jihyun/MASTER_default.png"><img src="백지현_jihyun/MASTER_default.png" width="130"></a>|<a href="백지현_jihyun/MASTER_serious.png"><img src="백지현_jihyun/MASTER_serious.png" width="130"></a>|
+|업무|<a href="백지현_jihyun/업무_default.png"><img src="백지현_jihyun/업무_default.png" width="130"></a>|<a href="백지현_jihyun/업무_serious.png"><img src="백지현_jihyun/업무_serious.png" width="130"></a>|
+|캐주얼|<a href="백지현_jihyun/캐주얼_default.png"><img src="백지현_jihyun/캐주얼_default.png" width="130"></a>|<a href="백지현_jihyun/캐주얼_serious.png"><img src="백지현_jihyun/캐주얼_serious.png" width="130"></a>|
+
+[캐주얼 8장 손 검수](../05_검수자료/포즈/캐주얼_검수.md) · [전체 폴더 안내](../README.md)

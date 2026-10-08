@@ -1,0 +1,58 @@
+[
+  {
+    "character": "seoyun",
+    "files": [
+      "히로인/03_표정/한서윤_seoyun/캐주얼_default.png",
+      "히로인/03_표정/한서윤_seoyun/캐주얼_serious.png"
+    ],
+    "bodyComparisonTop": 737,
+    "bodyRgbaByteDifferences": 0,
+    "result": "양쪽 표정 손은 동일. 손가락 수·관절·소품 접촉에 뚜렷한 오류 없음.",
+    "sha256": [
+      "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+      "1e61679a129ae26d47dbeedc8145622a5a4d9a34efb0712a9b3effbf107a811e"
+    ]
+  },
+  {
+    "character": "ria",
+    "files": [
+      "히로인/03_표정/강리아_ria/캐주얼_default.png",
+      "히로인/03_표정/강리아_ria/캐주얼_serious.png"
+    ],
+    "bodyComparisonTop": 738,
+    "bodyRgbaByteDifferences": 0,
+    "result": "양쪽 표정 손은 동일. 손가락 수·관절·소품 접촉에 뚜렷한 오류 없음.",
+    "sha256": [
+      "1789c27c476d60da457ea2c3449a10eefbd8a58501da700f4b0fdc4e0b4205a0",
+      "64760a58f54cd005f55badb23a3df1c9ffd82a819dd0700f9300e7029bc042f5"
+    ]
+  },
+  {
+    "character": "yujin",
+    "files": [
+      "히로인/03_표정/차유진_yujin/캐주얼_default.png",
+      "히로인/03_표정/차유진_yujin/캐주얼_serious.png"
+    ],
+    "bodyComparisonTop": 738,
+    "bodyRgbaByteDifferences": 0,
+    "result": "양쪽 표정 손은 동일. 손가락 수·관절·소품 접촉에 뚜렷한 오류 없음.",
+    "sha256": [
+      "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c",
+      "91bbc8aaa29492019ef27e30712f71eeb61d53cf9091587b4666155aec221437"
+    ]
+  },
+  {
+    "character": "jihyun",
+    "files": [
+      "히로인/03_표정/백지현_jihyun/캐주얼_default.png",
+      "히로인/03_표정/백지현_jihyun/캐주얼_serious.png"
+    ],
+    "bodyComparisonTop": 738,
+    "bodyRgbaByteDifferences": 0,
+    "result": "양쪽 표정에 앞서 검수한 손 수정 동일 적용. 다른 손 유지.",
+    "sha256": [
+      "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+      "d5e17d6d842739e7e1226921a9f5df092bde3e62e636bf8f66adf9e4d45d5b21"
+    ]
+  }
+]
