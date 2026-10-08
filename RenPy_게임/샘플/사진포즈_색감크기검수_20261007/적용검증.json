@@ -1,0 +1,262 @@
+{
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_리아셀카_유진포즈교체",
+  "changed_game_files": [
+    "images\\characters\\yujin_poses\\work.png",
+    "images\\characters\\yujin_poses\\casual.png",
+    "images\\cg\\ria_cafe_cg_v001.png"
+  ],
+  "protected_game_files_unchanged": [
+    "images\\characters\\ria_master.png",
+    "images\\characters\\ria_poses\\listening.png",
+    "images\\characters\\ria_poses\\explaining.png",
+    "images\\characters\\ria_poses\\casual.png",
+    "images\\characters\\seoyun_master.png",
+    "images\\characters\\seoyun_poses\\work.png",
+    "images\\characters\\seoyun_poses\\casual.png",
+    "images\\characters\\yujin_master.png",
+    "images\\characters\\jihyun_master.png",
+    "images\\characters\\jihyun_poses\\work.png",
+    "images\\characters\\jihyun_poses\\casual.png",
+    "story_day01.rpy",
+    "story_week01.rpy",
+    "week_phone.rpy",
+    "ui_character_poses.rpy",
+    "ui_character_expressions.rpy"
+  ],
+  "ria_selfie_A": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\리아_A_창가셀카.png",
+  "yujin_poses": [
+    {
+      "who": "yujin",
+      "key": "work",
+      "label": "유진_B_생각하며대화",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_B_생각하며대화.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_B_생각하며대화_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "status": "사용자 채택, 인게임 적용",
+      "source_sha256": "c13d5f3092ef17f8bfa008223330aeb317940bddc6bd8f287f34ec6c8fe84b95",
+      "sha256": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+      "prompt": "Use case: identity-preserve. Asset type: one full-body pose preview for a Korean office romance visual novel. Input image is the approved MASTER of 차유진, an adult 32-year-old brand design lead; use it as the exact identity, clothing and illustration-style reference. Preserve her mature face shape, violet-grey eyes and eyelid shape, small lips, extremely long dark blue-black hair with bangs, gold teardrop earrings, original adult body proportions, wine-burgundy square-neck short-sleeved fitted dress, matching belt with gold buckle, original side slit and burgundy shoes. Keep original neckline and proportions, no redesign. Refined anime VN linework and softly painted shading. Full body from head to complete shoes, vertical 1024x1536 composition with comfortable margins, same scale as MASTER. Calm reserved adult demeanor, coherent natural skin shading across eyes, cheeks and mouth, restrained expression. Natural adult-size hands, readable fingers and fingernails without exaggerated microdetail. True transparent alpha background; do NOT copy the dark halo or gradient surrounding the reference. No room, floor shadow, fake checkerboard, text, border, watermark or collage. One woman only. Change posture as specified: A quiet thoughtful conversational posture with NO props or paper. Her left forearm lies low across her waist and gently supports her right elbow. Her right hand rises near her chin, with relaxed lightly curved fingers and one fingertip softly touching the SIDE of her chin; do not obscure her mouth, cheek or eyes. Head slightly inclined, eyes meeting the listener, a restrained thoughtful almost-smile rather than an angry skeptical face. Arms remain relaxed and elbows low, no high crossed-arms posture, no exaggerated palm-up or pointing gesture, no touching hair. Weight rests naturally on one leg; both shoes fully visible. Maintain exact facial identity and clean hand/chin boundaries; no skin patches or detached fingertips.",
+      "supersedes": {
+        "who": "yujin",
+        "name": "차유진",
+        "key": "work",
+        "label": "시안보여주기",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-95d314bd-1c00-4f15-a4fb-c888f374fc0b.png",
+        "status": "요청에 따라 제작",
+        "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Design explanation pose. Hold her cream portfolio/display board upright in front of her lower torso with one hand. Turn its page face gently toward the viewer, showing only a sparse abstract arrangement of two small neutral color rectangles, no writing. The other hand points naturally with relaxed index finger to one area of this board, remaining low around waist level. Composed reserved professional expression, focused purple almond eyes, slightly parted lips as she explains, no exaggerated grin. Preserve long dark blue hair, gold earrings, burgundy square neckline dress with belt and original matching shoes. No pen or new accessories. Keep exact face identity, mature age/proportions, eye color and iris size, hair silhouette/texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_시안보여주기_원화.png",
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_시안보여주기_2x_원화보존.png",
+        "dimensions": [
+          2048,
+          3072
+        ],
+        "mode": "RGBA",
+        "alpha_range": [
+          0,
+          255
+        ],
+        "alpha_preserved": true,
+        "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+        "source_sha256": "35120d1560f59bfee7d012d75843d3cca4515294367cacac65af1e2814600e04"
+      }
+    },
+    {
+      "who": "yujin",
+      "key": "casual",
+      "label": "유진_A_폴더내려들기",
+      "source": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+      "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\유진_A_폴더내려들기.png",
+      "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\사진과포즈_후보_20261007_v1\\유진_정정후보\\업스케일\\유진_A_폴더내려들기_2x_원화보존.png",
+      "dimensions": [
+        2048,
+        3072
+      ],
+      "mode": "RGBA",
+      "alpha_preserved": true,
+      "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+      "status": "사용자 채택, 인게임 적용",
+      "source_sha256": "dda6cd8c91d9bd32ebb195da50ccb88862b293f8327f45fe28f47fb41b946e9e",
+      "sha256": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+      "prompt": "Use case: identity-preserve. Asset type: one full-body pose preview for a Korean office romance visual novel. Input image is the approved MASTER of 차유진, an adult 32-year-old brand design lead; use it as the exact identity, clothing and illustration-style reference. Preserve her mature face shape, violet-grey eyes and eyelid shape, small lips, extremely long dark blue-black hair with bangs, gold teardrop earrings, original adult body proportions, wine-burgundy square-neck short-sleeved fitted dress, matching belt with gold buckle, original side slit and burgundy shoes. Keep original neckline and proportions, no redesign. Refined anime VN linework and softly painted shading. Full body from head to complete shoes, vertical 1024x1536 composition with comfortable margins, same scale as MASTER. Calm reserved adult demeanor, coherent natural skin shading across eyes, cheeks and mouth, restrained expression. Natural adult-size hands, readable fingers and fingernails without exaggerated microdetail. True transparent alpha background; do NOT copy the dark halo or gradient surrounding the reference. No room, floor shadow, fake checkerboard, text, border, watermark or collage. One woman only. Change posture as specified: She holds a closed plain ivory folder vertically LOW against the side of her left thigh with her left hand; its top stays below her waist so her torso is unobstructed. Her right arm bends gently at her waist and the right hand lightly rests over her left wrist, not pointing, not folded across her chest. Torso slightly three-quarter turned, shoulders low and relaxed, looks toward the listener with a subtle attentive closed-mouth smile as if waiting for their opinion. Legs stand comfortably with a slight weight shift rather than an exaggerated crossed catwalk stance. This is an everyday quiet listening posture. No loose paper held up, no visible document diagrams, no pointing finger, no tablet or pen, no touching hair, no open-palm lecture gesture.",
+      "supersedes": {
+        "who": "yujin",
+        "name": "차유진",
+        "key": "casual",
+        "label": "머리만지며대화",
+        "source": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-c08e218b-2b32-4633-9f40-51069a4b7401.png",
+        "status": "요청에 따라 제작",
+        "prompt": "Edit the supplied approved MASTER into ONE alternate full-body pose of this exact adult 32-year-old 차유진. Quiet personal conversation pose. The cream portfolio is put aside OFF SCREEN and absent. Her right arm on IMAGE LEFT rests naturally at her side; her left hand lightly touches a strand of her OWN long hair near her shoulder, below her chin, a small understated self-conscious gesture. Elbow low and relaxed, no dramatic hair flip. Face still visible, subtle CLOSED-LIP smile, softened mature purple almond eyes, no exaggerated blush or giggle. Preserve her elegant reserved adult personality, long dark-blue hair silhouette, gold earrings, burgundy square neckline dress with belt and original matching shoes. Keep exact face identity, mature age/proportions, eye color and iris size, hair texture, garment cuts/colors/textures, body proportions and illustration style. Modest natural movement for an adult office romance VN. Preserve full-body camera, overall body scale, leg placement, head height and feet margins so it can switch smoothly with the reference. Anatomically sound hands with five fingers. All body and feet visible, vertical1024x1536 canvas, true transparent alpha background with clean edges, no backdrop, no cast shadow, no labels or multiple panels. Do not redesign or make her younger.",
+        "raw": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\원화\\차유진_머리만지며대화_원화.png",
+        "upscaled": "C:\\Users\\user\\Desktop\\건\\오피스\\보관자료\\02_히로인_이전작업\\포즈_업스케일_v1\\차유진\\업스케일\\차유진_머리만지며대화_2x_원화보존.png",
+        "dimensions": [
+          2048,
+          3072
+        ],
+        "mode": "RGBA",
+        "alpha_range": [
+          0,
+          255
+        ],
+        "alpha_preserved": true,
+        "recipe": "Lanczos original 60% + Real-ESRGAN general 40%",
+        "source_sha256": "206845dc8b25f2622f4e04e914fdbb8d97b46f8b5a6dcbd529671247a47b73d3"
+      }
+    }
+  ],
+  "before": {
+    "images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "images\\characters\\seoyun_master.png": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "images\\characters\\seoyun_poses\\work.png": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369",
+    "images\\characters\\seoyun_poses\\casual.png": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d",
+    "images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "images\\characters\\yujin_poses\\work.png": "f6a5a0e2b86c2ea83acdc97c2caf63c9356c31d7a54617b0902050c8747fb348",
+    "images\\characters\\yujin_poses\\casual.png": "e675f0067a70545974a069d60ab355003d59a2e4b25a38dff6a3603e2fc88245",
+    "images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "images\\cg\\ria_cafe_cg_v001.png": "9204899ad45ecd9875727f370e2f7b85bcaf7abe4e469a83c1e92150d1ec76d3",
+    "story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "week_phone.rpy": "e4de23230e33fccb61241ca196c239a75f4bc283c215db0c46e7929b2e66b5a3",
+    "ui_character_poses.rpy": "4a1d852daab9bdd2eb433bf7308533ed8a778b87b87d2ffe096e84b1d10bb723",
+    "ui_character_expressions.rpy": "0f05a7c7cd6b5264bbc19f7d6f07895f88b9e57b14f2c045f78607c23f42453c"
+  },
+  "after": {
+    "images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "images\\characters\\seoyun_master.png": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "images\\characters\\seoyun_poses\\work.png": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369",
+    "images\\characters\\seoyun_poses\\casual.png": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d",
+    "images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "images\\characters\\yujin_poses\\work.png": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+    "images\\characters\\yujin_poses\\casual.png": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+    "images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "images\\cg\\ria_cafe_cg_v001.png": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189",
+    "story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "week_phone.rpy": "e4de23230e33fccb61241ca196c239a75f4bc283c215db0c46e7929b2e66b5a3",
+    "ui_character_poses.rpy": "4a1d852daab9bdd2eb433bf7308533ed8a778b87b87d2ffe096e84b1d10bb723",
+    "ui_character_expressions.rpy": "0f05a7c7cd6b5264bbc19f7d6f07895f88b9e57b14f2c045f78607c23f42453c"
+  },
+  "status": "적용 및 네이티브 검수 완료",
+  "native_assertions_passed": 73,
+  "native_reference_matches": [
+    {
+      "who": "ria",
+      "pose": "master",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "direct_image_matches_current_renderer": true
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "direct_image_matches_current_renderer": true
+    }
+  ],
+  "frame_screenshots": 26,
+  "photo_screenshots": 3,
+  "measure_ranges": {
+    "ria": {
+      "max_silhouette_height_difference_percentage_points": 0.19,
+      "sample_skin_channel_ranges": [
+        1.0,
+        3.0,
+        3.0
+      ]
+    },
+    "seoyun": {
+      "max_silhouette_height_difference_percentage_points": 0.06,
+      "sample_skin_channel_ranges": [
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    "yujin": {
+      "max_silhouette_height_difference_percentage_points": 0.3,
+      "sample_skin_channel_ranges": [
+        1.0,
+        3.0,
+        3.0
+      ]
+    },
+    "jihyun": {
+      "max_silhouette_height_difference_percentage_points": 0.07,
+      "sample_skin_channel_ranges": [
+        1.0,
+        2.0,
+        3.0
+      ]
+    }
+  },
+  "lint_passed": true,
+  "visual_review_completed": true
+}

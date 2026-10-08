@@ -1,0 +1,571 @@
+{
+  "status": "13장 전체 시각·표본 검수 완료",
+  "scope": "Current game-rendered 4 MASTERs + 9 poses. Same camera and neutral inspection background.",
+  "method_note": "고정 얼굴/목 및 포즈별 팔·손 창에서 피부색 필터로 밝음~중간톤 표본 추출. 피부 영역 분할을 확정한 검사나 지각적 색 차이 표준 측정이 아니며, 자연스러운 명암·노출된 부분·그림의 소재가 통계에 영향을 줄 수 있다. 표본은 보정용 마스크가 아니고 이미지를 변경하지 않는다.",
+  "items": [
+    {
+      "who": "ria",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 34276,
+        "median_RGB": [
+          248.0,
+          198.0,
+          166.0
+        ],
+        "hue_degrees": 23.41
+      },
+      "neck_upper_chest": {
+        "count": 18233,
+        "median_RGB": [
+          248.0,
+          202.0,
+          172.0
+        ],
+        "hue_degrees": 23.68
+      },
+      "exposed_arms_hands": {
+        "count": 58258,
+        "median_RGB": [
+          249.0,
+          202.0,
+          172.0
+        ],
+        "hue_degrees": 23.38
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 31767,
+        "median_RGB": [
+          248.0,
+          199.0,
+          167.0
+        ],
+        "hue_degrees": 23.7
+      },
+      "neck_upper_chest": {
+        "count": 17522,
+        "median_RGB": [
+          249.0,
+          202.0,
+          170.0
+        ],
+        "hue_degrees": 24.3
+      },
+      "exposed_arms_hands": {
+        "count": 54480,
+        "median_RGB": [
+          249.0,
+          202.0,
+          170.0
+        ],
+        "hue_degrees": 24.3
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 31287,
+        "median_RGB": [
+          248.0,
+          199.0,
+          166.0
+        ],
+        "hue_degrees": 24.15
+      },
+      "neck_upper_chest": {
+        "count": 18115,
+        "median_RGB": [
+          249.0,
+          202.0,
+          170.0
+        ],
+        "hue_degrees": 24.3
+      },
+      "exposed_arms_hands": {
+        "count": 29115,
+        "median_RGB": [
+          249.0,
+          202.0,
+          171.0
+        ],
+        "hue_degrees": 23.85
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 31770,
+        "median_RGB": [
+          248.0,
+          199.0,
+          168.0
+        ],
+        "hue_degrees": 23.25
+      },
+      "neck_upper_chest": {
+        "count": 17476,
+        "median_RGB": [
+          248.0,
+          201.0,
+          171.0
+        ],
+        "hue_degrees": 23.38
+      },
+      "exposed_arms_hands": {
+        "count": 52864,
+        "median_RGB": [
+          248.0,
+          201.0,
+          170.0
+        ],
+        "hue_degrees": 23.85
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "size": [
+        2048,
+        3070
+      ],
+      "face": {
+        "count": 26451,
+        "median_RGB": [
+          248.0,
+          210.0,
+          188.0
+        ],
+        "hue_degrees": 22.0
+      },
+      "neck_upper_chest": {
+        "count": 28897,
+        "median_RGB": [
+          248.0,
+          210.0,
+          188.0
+        ],
+        "hue_degrees": 22.0
+      },
+      "exposed_arms_hands": {
+        "count": 32090,
+        "median_RGB": [
+          247.0,
+          209.0,
+          187.0
+        ],
+        "hue_degrees": 22.0
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3070
+      ],
+      "face": {
+        "count": 26111,
+        "median_RGB": [
+          249.0,
+          211.0,
+          188.0
+        ],
+        "hue_degrees": 22.62
+      },
+      "neck_upper_chest": {
+        "count": 28072,
+        "median_RGB": [
+          249.0,
+          210.0,
+          186.0
+        ],
+        "hue_degrees": 22.86
+      },
+      "exposed_arms_hands": {
+        "count": 32793,
+        "median_RGB": [
+          248.0,
+          203.0,
+          179.0
+        ],
+        "hue_degrees": 20.87
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3070
+      ],
+      "face": {
+        "count": 26698,
+        "median_RGB": [
+          248.0,
+          209.0,
+          187.0
+        ],
+        "hue_degrees": 21.64
+      },
+      "neck_upper_chest": {
+        "count": 26248,
+        "median_RGB": [
+          248.0,
+          209.0,
+          188.0
+        ],
+        "hue_degrees": 21.0
+      },
+      "exposed_arms_hands": {
+        "count": 30495,
+        "median_RGB": [
+          248.0,
+          212.0,
+          190.0
+        ],
+        "hue_degrees": 22.76
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 25527,
+        "median_RGB": [
+          249.0,
+          219.0,
+          197.0
+        ],
+        "hue_degrees": 25.38
+      },
+      "neck_upper_chest": {
+        "count": 33807,
+        "median_RGB": [
+          249.0,
+          218.0,
+          197.0
+        ],
+        "hue_degrees": 24.23
+      },
+      "exposed_arms_hands": {
+        "count": 59747,
+        "median_RGB": [
+          248.0,
+          218.0,
+          197.0
+        ],
+        "hue_degrees": 24.71
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 28064,
+        "median_RGB": [
+          248.0,
+          219.0,
+          198.0
+        ],
+        "hue_degrees": 25.2
+      },
+      "neck_upper_chest": {
+        "count": 44236,
+        "median_RGB": [
+          248.0,
+          220.0,
+          199.0
+        ],
+        "hue_degrees": 25.71
+      },
+      "exposed_arms_hands": {
+        "count": 47970,
+        "median_RGB": [
+          248.0,
+          220.0,
+          200.0
+        ],
+        "hue_degrees": 25.0
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 23992,
+        "median_RGB": [
+          248.0,
+          218.0,
+          197.0
+        ],
+        "hue_degrees": 24.71
+      },
+      "neck_upper_chest": {
+        "count": 33773,
+        "median_RGB": [
+          248.0,
+          219.0,
+          198.0
+        ],
+        "hue_degrees": 25.2
+      },
+      "exposed_arms_hands": {
+        "count": 61306,
+        "median_RGB": [
+          248.0,
+          218.0,
+          197.0
+        ],
+        "hue_degrees": 24.71
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 27010,
+        "median_RGB": [
+          248.0,
+          213.0,
+          189.0
+        ],
+        "hue_degrees": 24.41
+      },
+      "neck_upper_chest": {
+        "count": 25112,
+        "median_RGB": [
+          248.0,
+          212.0,
+          188.0
+        ],
+        "hue_degrees": 24.0
+      },
+      "exposed_arms_hands": {
+        "count": 26605,
+        "median_RGB": [
+          248.0,
+          213.0,
+          189.0
+        ],
+        "hue_degrees": 24.41
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 27218,
+        "median_RGB": [
+          248.0,
+          213.0,
+          189.0
+        ],
+        "hue_degrees": 24.41
+      },
+      "neck_upper_chest": {
+        "count": 24195,
+        "median_RGB": [
+          248.0,
+          212.0,
+          188.0
+        ],
+        "hue_degrees": 24.0
+      },
+      "exposed_arms_hands": {
+        "count": 20205,
+        "median_RGB": [
+          248.0,
+          210.0,
+          186.0
+        ],
+        "hue_degrees": 23.23
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "size": [
+        2048,
+        3072
+      ],
+      "face": {
+        "count": 27598,
+        "median_RGB": [
+          248.0,
+          213.5,
+          189.0
+        ],
+        "hue_degrees": 24.92
+      },
+      "neck_upper_chest": {
+        "count": 24615,
+        "median_RGB": [
+          248.0,
+          213.0,
+          188.0
+        ],
+        "hue_degrees": 25.0
+      },
+      "exposed_arms_hands": {
+        "count": 19489,
+        "median_RGB": [
+          247.0,
+          213.0,
+          189.0
+        ],
+        "hue_degrees": 24.83
+      }
+    }
+  ],
+  "summary": {
+    "ria": {
+      "reference_face_RGB": [
+        248.0,
+        198.0,
+        166.0
+      ],
+      "pose_sample_channel_ranges": {
+        "face": [
+          0.0,
+          1.0,
+          2.0
+        ],
+        "neck_upper_chest": [
+          1.0,
+          1.0,
+          2.0
+        ],
+        "exposed_arms_hands": [
+          1.0,
+          1.0,
+          2.0
+        ]
+      }
+    },
+    "seoyun": {
+      "reference_face_RGB": [
+        248.0,
+        210.0,
+        188.0
+      ],
+      "pose_sample_channel_ranges": {
+        "face": [
+          1.0,
+          2.0,
+          1.0
+        ],
+        "neck_upper_chest": [
+          1.0,
+          1.0,
+          2.0
+        ],
+        "exposed_arms_hands": [
+          1.0,
+          9.0,
+          11.0
+        ]
+      }
+    },
+    "yujin": {
+      "reference_face_RGB": [
+        249.0,
+        219.0,
+        197.0
+      ],
+      "pose_sample_channel_ranges": {
+        "face": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "neck_upper_chest": [
+          1.0,
+          2.0,
+          2.0
+        ],
+        "exposed_arms_hands": [
+          0.0,
+          2.0,
+          3.0
+        ]
+      }
+    },
+    "jihyun": {
+      "reference_face_RGB": [
+        248.0,
+        213.0,
+        189.0
+      ],
+      "pose_sample_channel_ranges": {
+        "face": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "neck_upper_chest": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "exposed_arms_hands": [
+          1.0,
+          3.0,
+          3.0
+        ]
+      }
+    }
+  },
+  "native_checks_passed": 41,
+  "visual_review_completed": true,
+  "findings": {
+    "ria": "포즈별 얼굴·목·팔·손 피부색이 안정적. 표본 채널 범위 최대 2/255.",
+    "seoyun": "얼굴·목은 안정적. 설명(work) 포즈의 팔·손은 기준보다 조금 더 진하고 채도가 높게 보임. 좁은 손 표본에서도 차이가 남아 있음.",
+    "yujin": "포즈별 얼굴·목·팔·손 피부색이 안정적. 표본 채널 범위 최대 3/255.",
+    "jihyun": "포즈별 얼굴·목·팔·손 피부색이 안정적. 표본 채널 범위 최대 3/255."
+  },
+  "all_heroines_same_absolute_skin_colour": false,
+  "all_poses_pixel_identical_skin_colour": false,
+  "game_art_changed_during_audit": false
+}

@@ -1,0 +1,23 @@
+{
+  "half": {
+    "changed_pixels": 3980,
+    "outside_eyes": 0,
+    "bbox": [
+      997,
+      152,
+      1139,
+      227
+    ]
+  },
+  "closed": {
+    "changed_pixels": 3980,
+    "outside_eyes": 0,
+    "bbox": [
+      997,
+      152,
+      1139,
+      227
+    ]
+  },
+  "body_fixed_129_frames": true
+}

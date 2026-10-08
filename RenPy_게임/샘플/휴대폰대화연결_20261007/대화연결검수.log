@@ -1,0 +1,89 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_phone_continuity_20261007
+[rpytest] [log] - global.office_phone_continuity_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + office_phone_continuity_20261007
+[rpytest] [exc]     - late_personality
+[rpytest] [exc]     - late_personality (26.343 s)
+[rpytest] [exc]     - followup_state
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 471, in execute
+    self.node_state = self.node.execute(self.node_state, elapsed)
+                      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1453, in execute
+    if (not self.condition.ready()) ^ self.xfail:
+            ~~~~~~~~~~~~~~~~~~~~^^               
+  File "renpy/test/testast.py", line 1053, in ready
+    return bool(scoped_eval(self.expr))
+                ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/test/testast.py", line 1624, in scoped_eval
+    return renpy.test.testexecution.scoped_eval(expr)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "renpy/test/testexecution.py", line 202, in scoped_eval
+    return renpy.python.py_eval(expr, globals=globals, locals=scope)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1308, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1301, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/tests/phone_continuity_test.rpy", line 118, in <module>
+    assert eval len(phone_messages) == _followup_count
+                                       ^^^^^^^^^^^^^^^
+NameError: name '_followup_count' is not defined
+
+While running game code:
+  File "game/tests/phone_continuity_test.rpy", line 118, in <module>
+    assert eval len(phone_messages) == _followup_count
+                                       ^^^^^^^^^^^^^^^
+NameError: name '_followup_count' is not defined
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\message_policy_test.rpy", line 2, in script
+  "휴대폰 기능 검수 중."
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\phone_continuity_test.rpy", line 1, in testsuite global
+    testsuite office_phone_continuity_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\phone_continuity_test.rpy", line 96, in testsuite office_phone_continuity_20261007
+    testcase followup_state:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\phone_continuity_test.rpy", line 118, in testcase followup_state
+    assert eval len(phone_messages) == _followup_count
+
+====================
+[rpytest] [exc]     - followup_state (0.887 s)
+[rpytest] [exc]     - followup_state (0.887 s)
+[rpytest] [exc]     - office_call_farewells
+[rpytest] [exc]     - office_call_farewells (7.683 s)
+[rpytest] [exc]     - office_call_cleanup
+[rpytest] [exc]     - office_call_cleanup (9.765 s)
+[rpytest] [exc]     - office_active_call
+[rpytest] [exc]     - office_active_call (27.139 s)
+[rpytest] [exc]     - office_message_day_boundary
+[rpytest] [exc]     - office_message_day_boundary (6.691 s)
+[rpytest] [exc]     - office_message_backlog
+[rpytest] [exc]     - office_message_backlog (10.592 s)
+[rpytest] [exc]     - office_message_legacy_times
+[rpytest] [exc]     - office_message_legacy_times (0.051 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     5 |     0 passed |     0 xfailed |     2 failed |     0 xpassed |     1 skipped |     2 not run
+[rpytest] Test cases :    40 |     7 passed |     0 xfailed |     1 failed |     0 xpassed |    20 skipped |    12 not run
+[rpytest] Test hooks :    10 |    10 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :   134 |   134 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 91.224 s [01:31]
+[rpytest] Status: FAILED 
+

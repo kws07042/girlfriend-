@@ -1,0 +1,356 @@
+{
+  "note": "실루엣 높이는 알파>200 경계 기준. 얼굴 피부 표본 중앙값은 고정 얼굴 창의 간이 색 필터로 추출한 참고치이며, 조명·면적·표정 영향이 있어 색 일치의 객관 판정이나 색 보정 기준으로 쓰지 않음. 얼굴 실제 크기는 별도 시각 검수 필요.",
+  "items": [
+    {
+      "who": "ria",
+      "pose": "master",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        586,
+        6,
+        1641,
+        3066
+      ],
+      "silhouette_height_percent": 99.61,
+      "face_region_skin_median_RGB": [
+        251.0,
+        203.0,
+        164.0
+      ],
+      "skin_sample_pixels": 165247,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e"
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\listening.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        486,
+        3,
+        1645,
+        3067
+      ],
+      "silhouette_height_percent": 99.74,
+      "face_region_skin_median_RGB": [
+        252.0,
+        203.0,
+        163.0
+      ],
+      "skin_sample_pixels": 158250,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e"
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        532,
+        4,
+        1667,
+        3063
+      ],
+      "silhouette_height_percent": 99.58,
+      "face_region_skin_median_RGB": [
+        252.0,
+        206.0,
+        166.0
+      ],
+      "skin_sample_pixels": 163293,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c"
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        584,
+        3,
+        1647,
+        3068
+      ],
+      "silhouette_height_percent": 99.77,
+      "face_region_skin_median_RGB": [
+        252.0,
+        205.0,
+        166.0
+      ],
+      "skin_sample_pixels": 165689,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b"
+    },
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_bbox": [
+        592,
+        14,
+        1545,
+        3047
+      ],
+      "silhouette_height_percent": 98.79,
+      "face_region_skin_median_RGB": [
+        247.0,
+        207.0,
+        186.0
+      ],
+      "skin_sample_pixels": 141830,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae"
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_bbox": [
+        593,
+        12,
+        1514,
+        3045
+      ],
+      "silhouette_height_percent": 98.79,
+      "face_region_skin_median_RGB": [
+        248.0,
+        207.0,
+        188.0
+      ],
+      "skin_sample_pixels": 138469,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369"
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+      "size": [
+        2048,
+        3070
+      ],
+      "opaque_bbox": [
+        623,
+        12,
+        1473,
+        3043
+      ],
+      "silhouette_height_percent": 98.73,
+      "face_region_skin_median_RGB": [
+        247.0,
+        205.0,
+        185.0
+      ],
+      "skin_sample_pixels": 127529,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d"
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        486,
+        16,
+        1613,
+        3043
+      ],
+      "silhouette_height_percent": 98.54,
+      "face_region_skin_median_RGB": [
+        253.0,
+        223.0,
+        202.0
+      ],
+      "skin_sample_pixels": 112536,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550"
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        483,
+        16,
+        1628,
+        3040
+      ],
+      "silhouette_height_percent": 98.44,
+      "face_region_skin_median_RGB": [
+        253.0,
+        224.0,
+        204.0
+      ],
+      "skin_sample_pixels": 126976,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f6a5a0e2b86c2ea83acdc97c2caf63c9356c31d7a54617b0902050c8747fb348"
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        506,
+        18,
+        1595,
+        3039
+      ],
+      "silhouette_height_percent": 98.34,
+      "face_region_skin_median_RGB": [
+        253.0,
+        225.0,
+        205.0
+      ],
+      "skin_sample_pixels": 125989,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "e675f0067a70545974a069d60ab355003d59a2e4b25a38dff6a3603e2fc88245"
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        674,
+        13,
+        1453,
+        3027
+      ],
+      "silhouette_height_percent": 98.11,
+      "face_region_skin_median_RGB": [
+        252.0,
+        217.0,
+        193.0
+      ],
+      "skin_sample_pixels": 85771,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292"
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        674,
+        13,
+        1419,
+        3029
+      ],
+      "silhouette_height_percent": 98.18,
+      "face_region_skin_median_RGB": [
+        252.0,
+        218.0,
+        195.0
+      ],
+      "skin_sample_pixels": 85089,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7"
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "path": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png",
+      "size": [
+        2048,
+        3072
+      ],
+      "opaque_bbox": [
+        606,
+        13,
+        1461,
+        3028
+      ],
+      "silhouette_height_percent": 98.14,
+      "face_region_skin_median_RGB": [
+        253.0,
+        219.0,
+        196.0
+      ],
+      "skin_sample_pixels": 86301,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952"
+    }
+  ]
+}

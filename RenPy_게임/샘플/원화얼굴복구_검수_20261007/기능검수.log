@@ -1,0 +1,119 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_restore_20261007
+[rpytest] [log] - global.office_restore_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + office_restore_20261007
+[rpytest] [exc]     - original_faces
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 83, in global.office_restore_20261007::original_faces
+AssertionError: assert eval ui_expression_current("seoyun") == "sheepish" and ui_pose_current("seoyun") == "work"
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 471, in execute
+    self.node_state = self.node.execute(self.node_state, elapsed)
+                      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1458, in execute
+    renpy.test.testreporter.reporter.log_assert(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "renpy/test/testreporter.py", line 888, in log_assert
+    raise RenpyTestAssertionError(f"{status.value}: {assert_node}")
+renpy.test.types.RenpyTestAssertionError: failed: <Assert (game/tests/original_face_restore_qa.rpy:83)>
+
+While running game code:
+renpy.test.types.RenpyTestAssertionError: failed: <Assert (game/tests/original_face_restore_qa.rpy:83)>
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 29, in script
+  menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 15, in testsuite global
+    testsuite office_restore_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 32, in testsuite office_restore_20261007
+    testcase original_faces:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 83, in testcase original_faces
+    assert eval ui_expression_current("seoyun") == "sheepish" and ui_pose_current("seoyun") == "work"
+
+====================
+[rpytest] [exc]     - original_faces (29.108 s)
+[rpytest] [exc]     - original_faces (29.108 s)
+[rpytest] [exc]     - office_phone_live
+[rpytest] [exc]     - office_phone_live (12.493 s)
+[rpytest] [exc]     - office_phone_scroll
+[rpytest] [exc]     - office_phone_scroll (9.617 s)
+[rpytest] [exc]     - office_reply_marker
+[rpytest] [exc]     - office_reply_marker (7.813 s)
+[rpytest] [exc]     - office_message_day_boundary
+[rpytest] [exc]     - office_message_day_boundary (6.881 s)
+[rpytest] [exc]     - office_message_backlog
+[rpytest] [exc]     - office_message_backlog (10.817 s)
+[rpytest] [exc]     - office_message_legacy_times
+[rpytest] [exc]     - office_message_legacy_times (0.058 s)
+[rpytest] [exc]     - office_active_call
+[rpytest] [exc]     - office_active_call (27.068 s)
+[rpytest] [exc]     - office_call_cleanup
+[rpytest] [exc]     - office_call_cleanup (9.002 s)
+[rpytest] [exc]     - office_call_farewells
+[rpytest] [exc]     - office_call_farewells (7.492 s)
+[rpytest] [exc]     - office_scene_motion
+[rpytest] [exc]     - office_scene_motion (6.709 s)
+[rpytest] [exc]     - office_bc_camera
+[rpytest] [exc]     - office_bc_camera (11.386 s)
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 471, in execute
+    self.node_state = self.node.execute(self.node_state, elapsed)
+                      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1405, in execute
+    scoped_exec(self.source, self.hide)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/test/testast.py", line 1628, in scoped_exec
+    renpy.test.testexecution.scoped_exec(source, hide)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "renpy/test/testexecution.py", line 217, in scoped_exec
+    renpy.python.py_exec_bytecode(dedent(source), hide, globals=globals, locals=scope)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+NameError: name '_restore_start_timeout' is not defined
+
+While running game code:
+NameError: name '_restore_start_timeout' is not defined
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 270, in script
+    ri "내일 점심에 원자료 같이 볼까요? 오늘은 반쯤 쉬면서 이야기했으니까."
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 15, in testsuite global
+    testsuite office_restore_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 26, in testsuite office_restore_20261007
+    teardown:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 27, in hook teardown(0)
+    $ renpy.test.testsettings._test.timeout = _restore_start_timeout
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     4 |     0 passed |     0 xfailed |     2 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :    37 |    11 passed |     0 xfailed |     1 failed |     0 xpassed |    25 skipped |     0 not run
+[rpytest] Test hooks :    14 |    13 passed |     0 xfailed |     1 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :   166 |   165 passed |     0 xfailed |     1 failed |     0 xpassed | 
+
+[rpytest] Time: 142.096 s [02:22]
+[rpytest] Status: FAILED 
+

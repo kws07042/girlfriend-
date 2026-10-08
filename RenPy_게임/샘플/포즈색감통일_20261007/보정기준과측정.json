@@ -1,0 +1,257 @@
+{
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_포즈색감통일",
+  "method": "Smooth bounded RGB palette calibration at runtime. Same colour receives the same correction anywhere on the entire sprite. No eye/lip patches, geometric changes, or image regeneration.",
+  "metrics": [
+    {
+      "who": "ria",
+      "pose": "listening",
+      "mean_palette_median_distance_before_RGB_units": 3.402,
+      "mean_palette_median_distance_after_RGB_units": 0.238,
+      "reduction_percent": 93.0,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "mean_palette_median_distance_before_RGB_units": 4.044,
+      "mean_palette_median_distance_after_RGB_units": 0.451,
+      "reduction_percent": 88.8,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "mean_palette_median_distance_before_RGB_units": 3.287,
+      "mean_palette_median_distance_after_RGB_units": 0.056,
+      "reduction_percent": 98.3,
+      "maximum_fitted_channel_shift_RGB_units": 8.937
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "mean_palette_median_distance_before_RGB_units": 4.794,
+      "mean_palette_median_distance_after_RGB_units": 0.382,
+      "reduction_percent": 92.0,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "mean_palette_median_distance_before_RGB_units": 3.091,
+      "mean_palette_median_distance_after_RGB_units": 0.471,
+      "reduction_percent": 84.8,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "mean_palette_median_distance_before_RGB_units": 3.883,
+      "mean_palette_median_distance_after_RGB_units": 0.783,
+      "reduction_percent": 79.8,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "mean_palette_median_distance_before_RGB_units": 3.355,
+      "mean_palette_median_distance_after_RGB_units": 0.169,
+      "reduction_percent": 95.0,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "mean_palette_median_distance_before_RGB_units": 4.404,
+      "mean_palette_median_distance_after_RGB_units": 2.761,
+      "reduction_percent": 37.3,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "mean_palette_median_distance_before_RGB_units": 4.476,
+      "mean_palette_median_distance_after_RGB_units": 2.512,
+      "reduction_percent": 43.9,
+      "maximum_fitted_channel_shift_RGB_units": 10.0
+    }
+  ],
+  "protected_hashes": {
+    "images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "images\\characters\\seoyun_master.png": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "images\\characters\\jihyun_expressions\\serious.png": "f3c6a5c6823647693416996524e9f1729fc3c464c7727ac1fd9818564011ff0a",
+    "images\\characters\\jihyun_expressions\\sheepish.png": "553571d0176da2cfe4613de4b23e149fc0650fb5d40b8024339665229a4ee94b",
+    "images\\characters\\jihyun_expressions\\smile.png": "39f140b83febb69837649bce0061839ff8f349e043660a03eea7f95125b4b566",
+    "images\\characters\\jihyun_expressions\\surprised.png": "ace8cf8940a33fa1981a05e08469e4ddbc0e9bf1e20f11f5ead7ee63b80524b1",
+    "images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "images\\characters\\ria_animation\\closed.png": "7abb071bd204f283769ece15337376d7b1e11fe1242754970a05f8ffc22828b1",
+    "images\\characters\\ria_animation\\half.png": "155001b4d0edec3bd3018bafbe3c205351f45bdcc7ec6aa7b1534bcc83785280",
+    "images\\characters\\ria_expressions\\serious.png": "1b501c099d89c850a225d1bd4bf5007a1637fb0d48540da71781cdaefe11ad3d",
+    "images\\characters\\ria_expressions\\sheepish.png": "4bfb2e1b5435975322699ac01e991a410a15c8e692fe25d813beaa53b4150691",
+    "images\\characters\\ria_expressions\\smile.png": "7e4943ce5e0e21378edcb7717280d3dba267d5fc0bb82a7af83151a8a228adac",
+    "images\\characters\\ria_expressions\\surprised.png": "56059fced20e306f6259570bf79f7245ed08004aeb46e2944f79519fc8e8e111",
+    "images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "images\\characters\\seoyun_expressions\\serious.png": "05ed09eb3aa07118c3da6acd58d33c5f3bad8343b2588160184413e021b899d8",
+    "images\\characters\\seoyun_expressions\\sheepish.png": "5ebe9f30fd03b737ee18b078d5db80d253e166c7f7b161713e3b6740eec6826c",
+    "images\\characters\\seoyun_expressions\\smile.png": "f52463f0f49a8854aadd80b527729c2f99c9cf4f9bff686c8dd8b27fcb7b2ae8",
+    "images\\characters\\seoyun_expressions\\surprised.png": "8a2151572debbb4e199cc455eed8e9d45e1a3ba02e64b21c47befbbf8128893d",
+    "images\\characters\\seoyun_poses\\casual.png": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d",
+    "images\\characters\\seoyun_poses\\work.png": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369",
+    "images\\characters\\yujin_expressions\\serious.png": "599edc7b764cfe28c60b8aacd0b8fc3e6793130d5a0d7be0e85acfac492d2a19",
+    "images\\characters\\yujin_expressions\\sheepish.png": "d51694ae2a00394e15de63153f0186023b0d8b992672187f9054459f2e397230",
+    "images\\characters\\yujin_expressions\\smile.png": "880f53def7128c09a2fbb45c098abeb62d0c138358db9d1c406356cb5bb35acc",
+    "images\\characters\\yujin_expressions\\surprised.png": "b03b5aea450e3d95d21bcf756de24e8f8b13bbefbda1cab2e01e5c5d1e14b3e1",
+    "images\\characters\\yujin_poses\\casual.png": "41f9b8b418ddfd7cbb600cc52a2ba115db252a7f5226fe5a155a82ca7afa952b",
+    "images\\characters\\yujin_poses\\work.png": "75a9f5d71e44cfccacf8a77c641291d31368c0210dc39d81cd7a1517efdaa498",
+    "images\\cg\\ria_cafe_cg_v001.png": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189",
+    "story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "week_phone.rpy": "e4de23230e33fccb61241ca196c239a75f4bc283c215db0c46e7929b2e66b5a3",
+    "ui_character_poses.rpy": "4a1d852daab9bdd2eb433bf7308533ed8a778b87b87d2ffe096e84b1d10bb723",
+    "ui_ria_animation.rpy": "c5ef0b93b87834edbfedba42bcf242ff58474638887bc492f5001e1494a0e138"
+  },
+  "status": "게임 적용 및 전후 검수 완료",
+  "native_results": [
+    {
+      "who": "ria",
+      "pose": "master",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 0,
+      "palette_median_distance_before": 1.294,
+      "palette_median_distance_after": 1.294,
+      "improvement_percent": 0.0
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 7,
+      "palette_median_distance_before": 3.11,
+      "palette_median_distance_after": 2.667,
+      "improvement_percent": 14.3
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 8,
+      "palette_median_distance_before": 4.381,
+      "palette_median_distance_after": 2.682,
+      "improvement_percent": 38.8
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 9,
+      "palette_median_distance_before": 3.07,
+      "palette_median_distance_after": 1.174,
+      "improvement_percent": 61.7
+    },
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 0,
+      "palette_median_distance_before": 1.553,
+      "palette_median_distance_after": 1.553,
+      "improvement_percent": 0.0
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 8,
+      "palette_median_distance_before": 5.21,
+      "palette_median_distance_after": 2.005,
+      "improvement_percent": 61.5
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 8,
+      "palette_median_distance_before": 3.985,
+      "palette_median_distance_after": 1.824,
+      "improvement_percent": 54.2
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 0,
+      "palette_median_distance_before": 1.059,
+      "palette_median_distance_after": 1.059,
+      "improvement_percent": 0.0
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 7,
+      "palette_median_distance_before": 5.007,
+      "palette_median_distance_after": 3.667,
+      "improvement_percent": 26.8
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 7,
+      "palette_median_distance_before": 3.642,
+      "palette_median_distance_after": 2.349,
+      "improvement_percent": 35.5
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 0,
+      "palette_median_distance_before": 0.746,
+      "palette_median_distance_after": 0.746,
+      "improvement_percent": 0.0
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 6,
+      "palette_median_distance_before": 4.613,
+      "palette_median_distance_after": 3.492,
+      "improvement_percent": 24.3
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "native_size_unchanged": true,
+      "alpha_exactly_unchanged": true,
+      "max_native_opaque_channel_shift": 5,
+      "palette_median_distance_before": 4.841,
+      "palette_median_distance_after": 3.621,
+      "improvement_percent": 25.2
+    }
+  ],
+  "all_13_alpha_channels_exact": true,
+  "all_source_images_unchanged": true,
+  "lint_passed": true,
+  "visual_review_completed": true,
+  "native_assertions_passed": 48,
+  "fixed_camera_assertions_passed": 19,
+  "reference_master_unchanged": true
+}

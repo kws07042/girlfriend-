@@ -1,0 +1,145 @@
+[
+  {
+    "who": "seoyun",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_master.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "seoyun",
+    "pose": "work",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "seoyun",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "ria",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      700,
+      40
+    ]
+  },
+  {
+    "who": "ria",
+    "pose": "explaining",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      700,
+      40
+    ]
+  },
+  {
+    "who": "ria",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      700,
+      40
+    ]
+  },
+  {
+    "who": "ria",
+    "pose": "listening",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_poses\\listening.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      700,
+      40
+    ]
+  },
+  {
+    "who": "yujin",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_master.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "yujin",
+    "pose": "work",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "yujin",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "jihyun",
+    "pose": "master",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_master.png",
+    "image_info_keys": [],
+    "palette_applied": false,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "jihyun",
+    "pose": "work",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      740,
+      40
+    ]
+  },
+  {
+    "who": "jihyun",
+    "pose": "casual",
+    "source": "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png",
+    "image_info_keys": [],
+    "palette_applied": true,
+    "head_origin": [
+      740,
+      40
+    ]
+  }
+]

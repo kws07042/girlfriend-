@@ -1,0 +1,24 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_selected_assets_20261007
+[rpytest] [log] - global.office_selected_assets_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + office_selected_assets_20261007
+[rpytest] [exc]     - assets_and_frames
+[rpytest] [exc]     - assets_and_frames (63.216 s [01:03])
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     6 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     2 skipped |     2 not run
+[rpytest] Test cases :    41 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |    35 skipped |     5 not run
+[rpytest] Test hooks :     2 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :    73 |    73 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 64.819 s [01:04]
+[rpytest] Status: PASSED 
+

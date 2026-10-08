@@ -1,0 +1,20 @@
+{
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_휴대폰대화연결_084353",
+  "protected_before": {
+    "RenPy_게임\\game\\story_day01.rpy": "9fd62955e12a102bbfd8ef85500aced6d79ae2e9afd2ce3041b83f882d471ce8",
+    "RenPy_게임\\game\\story_week01.rpy": "41a113a5bbc4c69d2913243fabd46ea1b60868dae81f5b198760fc3d7fe48b62",
+    "RenPy_게임\\game\\images\\characters\\jihyun_master.png": "8a96977333dfbdbd07c6966762da0d5fe13ca925f41966711e74ccd00b0cc292",
+    "RenPy_게임\\game\\images\\characters\\ria_master.png": "2ba33cb3f11881f130532e209533d32a07dfcfd275940bb0f8b5f4f37306683e",
+    "RenPy_게임\\game\\images\\characters\\seoyun_master.png": "19bd63c992385f388425e7643fcbfe0d769b7fa3776c7b50abeb4ed24970ceae",
+    "RenPy_게임\\game\\images\\characters\\yujin_master.png": "f362bd3e140078302994893d2c4478dd8250b7bf242bd7cd9df8cbf2151b1550",
+    "RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png": "78827ad452cf18fb7246f13487e0e4cca589db94764b73e418f7da12a2268952",
+    "RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png": "3f489e15e6790d405722442648db5cd9e0269eb363820f1cc3e2018620be5dd7",
+    "RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png": "329688eeb608783680434ad2ede5f3ffc9033269fc56af56d29bd1d41d3dd81b",
+    "RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png": "9893751ce3a38d4b0e33a3159b7f255c18d0b3406271996fe87a969ee3a5ab6c",
+    "RenPy_게임\\game\\images\\characters\\ria_poses\\listening.png": "de36c294a6bde6f47fcf0f5a7d7d1ca956ee249ae086a43dfb195f68800fcd0e",
+    "RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png": "227a3e618f35309607d07fddf5043814438a397e145e188532b02aa7e872991d",
+    "RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png": "0a4efe48ef93d22d4172d973881beba8273fd12102855e823ae48bd1b8734369",
+    "RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png": "e675f0067a70545974a069d60ab355003d59a2e4b25a38dff6a3603e2fc88245",
+    "RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png": "f6a5a0e2b86c2ea83acdc97c2caf63c9356c31d7a54617b0902050c8747fb348"
+  }
+}

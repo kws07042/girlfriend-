@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.048,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 2.464,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 2.431,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 3.109,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "master",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.534,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 4.013,
+          "after_deltaE76": 0.822
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.511,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 4.179,
+          "after_deltaE76": 0.55
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.187,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 3.886,
+          "after_deltaE76": 1.513
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.111,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 2.359,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.037,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 0.841,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 0.0,
+          "after_deltaE76": 0.0
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.179,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 5.083,
+          "after_deltaE76": 2.53
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "alpha_unchanged": true,
+      "measurements": {
+        "skin": {
+          "before_deltaE76": 1.001,
+          "after_deltaE76": 0.0
+        },
+        "hair": {
+          "before_deltaE76": 4.476,
+          "after_deltaE76": 2.01
+        }
+      }
+    }
+  ],
+  "source_png_hashes_unchanged": true,
+  "source_png_count": 31,
+  "method": "Palette RGB formula reproduction; not a live GPU capture."
+}

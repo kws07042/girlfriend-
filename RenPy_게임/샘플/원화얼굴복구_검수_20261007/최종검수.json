@@ -1,0 +1,45 @@
+{
+  "protected_files_unchanged": 15,
+  "story_files_unchanged": [
+    "RenPy_게임\\game\\story_day01.rpy",
+    "RenPy_게임\\game\\story_week01.rpy"
+  ],
+  "native_images_match_original": 13,
+  "images": [
+    "jihyun_casual_restored.png",
+    "jihyun_master_restored.png",
+    "jihyun_work_restored.png",
+    "ria_casual_restored.png",
+    "ria_explaining_restored.png",
+    "ria_listening_restored.png",
+    "ria_master_restored.png",
+    "seoyun_casual_restored.png",
+    "seoyun_master_restored.png",
+    "seoyun_work_restored.png",
+    "yujin_casual_restored.png",
+    "yujin_master_restored.png",
+    "yujin_work_restored.png"
+  ],
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_원화얼굴복구_082551",
+  "phone_choice_scene_cases_passed": [
+    "office_phone_live",
+    "office_phone_scroll",
+    "office_reply_marker",
+    "office_message_day_boundary",
+    "office_message_backlog",
+    "office_message_legacy_times",
+    "office_active_call",
+    "office_call_cleanup",
+    "office_call_farewells",
+    "office_scene_motion",
+    "office_bc_camera"
+  ],
+  "phone_choice_scene_assertions_passed": 151,
+  "face_restore_assertions_passed": 16,
+  "total_assertions_passed": 167,
+  "verification_note": "기능 11개 시나리오가 첫 전체 실행에서 통과. 새 원화 검수의 시간 제한·저장 시점·검수 설정 복원 오류를 고친 뒤 해당 얼굴 시나리오와 후처리만 재실행하여 통과. 전체 실행의 첫 FAILED 기록은 보관.",
+  "visual_review": "다음 날 답장 UI, 통화 중 선택지, B/C 선택지와 얼굴 비교를 실제 렌더링으로 확인. 스크린샷은 새 증거로 저장했으며 이전 골든 이미지 일치 검사는 수행하지 않음.",
+  "expression_policy": "표정 상태와 기존 표정 PNG는 보관. 현재 화면에서는 각 채택 포즈의 원래 얼굴만 표시.",
+  "live2d_status": "현재 실제 Live2D 모델은 제작·적용되지 않음. 기존 PSD/눈 파츠는 초안이며 복구한 원화를 기준으로 재준비 필요.",
+  "lint_passed": true
+}

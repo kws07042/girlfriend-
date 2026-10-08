@@ -1,0 +1,26 @@
+{
+  "complete": true,
+  "renderer": "NVIDIA GPU / gl2 hidden window",
+  "test_paths": 8,
+  "assertions_passed": 82,
+  "results": [
+    {
+      "scope": "장면·저장·통화",
+      "assertions_passed": 19,
+      "log": "장면잔상_GPU_test_20261007.txt"
+    },
+    {
+      "scope": "첫 주 진행·약속 조정",
+      "assertions_passed": 40,
+      "log": "장면잔상_GPU_첫주회귀_20261007.txt"
+    },
+    {
+      "scope": "사적 장면·포즈·저장",
+      "assertions_passed": 23,
+      "log": "장면잔상_GPU_사적대화_20261007.txt"
+    }
+  ],
+  "source_character_pngs_unchanged": true,
+  "story_dialogue_unchanged": true,
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_장면잔상수정_143141"
+}

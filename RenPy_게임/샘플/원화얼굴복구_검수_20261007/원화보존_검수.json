@@ -1,0 +1,24 @@
+{
+  "protected_files_unchanged": 15,
+  "story_files_unchanged": [
+    "RenPy_게임\\game\\story_day01.rpy",
+    "RenPy_게임\\game\\story_week01.rpy"
+  ],
+  "native_images_match_original": 13,
+  "images": [
+    "jihyun_casual_restored.png",
+    "jihyun_master_restored.png",
+    "jihyun_work_restored.png",
+    "ria_casual_restored.png",
+    "ria_explaining_restored.png",
+    "ria_listening_restored.png",
+    "ria_master_restored.png",
+    "seoyun_casual_restored.png",
+    "seoyun_master_restored.png",
+    "seoyun_work_restored.png",
+    "yujin_casual_restored.png",
+    "yujin_master_restored.png",
+    "yujin_work_restored.png"
+  ],
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_원화얼굴복구_082551"
+}

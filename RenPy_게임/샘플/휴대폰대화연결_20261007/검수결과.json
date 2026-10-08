@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-07",
+  "protected_files_unchanged": 15,
+  "story_unchanged": true,
+  "pose_and_master_unchanged": true,
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_휴대폰대화연결_084353",
+  "passed_scenarios": [
+    "late_personality",
+    "office_call_farewells",
+    "office_call_cleanup",
+    "office_active_call",
+    "office_message_day_boundary",
+    "office_message_backlog",
+    "office_message_legacy_times",
+    "followup_state"
+  ],
+  "functional_assertions_passed": 140,
+  "verification_note": "첫 전체 실행의 저장 복원 검수에서 테스트용 지역 변수가 사라지는 오류가 났음. 테스트 스냅샷을 세션에 보관하고 실제 2일차에서 해당 항목만 재실행해 11개 검증 통과. 나머지 7개 시나리오는 첫 실행에서 통과. 첫 FAILED 로그도 보관.",
+  "late_reply_penalty": false,
+  "new_schedule_or_reward_for_followup": false,
+  "arrival_greetings_reviewed": [
+    "1일차 리아 문자 뒤 라운지 및 통화 뒤 카페 인사",
+    "2일차 서윤 문자 뒤 업무 인사",
+    "3일차 리아 문자 뒤 자료 대화 인사",
+    "4일차 유진 문자 뒤 시안 대화 인사",
+    "5일차 지현 문자 뒤 회의 인사",
+    "공통 점심의 히로인별 인사"
+  ],
+  "arrival_greeting_action": "현재 장면에 이미 인사가 있어 중복 추가하지 않음. 다른 대화의 작업 영역인 story*.rpy와 week_phone.rpy를 수정하지 않음.",
+  "face_animation_change": false
+}

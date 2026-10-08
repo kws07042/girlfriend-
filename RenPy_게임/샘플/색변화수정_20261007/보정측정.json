@@ -1,0 +1,77 @@
+{
+  "backup": "C:\\Users\\user\\Desktop\\건\\오피스\\변경백업\\20261007_전체히로인색전환_141512",
+  "items": [
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "sample_rgb_error_before": 1.5699908574532757,
+      "sample_rgb_error_after": 0.10905583456289594,
+      "reduction_percent": 93.1,
+      "samples": 7
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "sample_rgb_error_before": 2.56818056252435,
+      "sample_rgb_error_after": 0.07839387229676459,
+      "reduction_percent": 96.9,
+      "samples": 7
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "sample_rgb_error_before": 2.2792847416870137,
+      "sample_rgb_error_after": 0.46684731493512605,
+      "reduction_percent": 79.5,
+      "samples": 6
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "sample_rgb_error_before": 2.063916577066623,
+      "sample_rgb_error_after": 0.24710662268253372,
+      "reduction_percent": 88.0,
+      "samples": 6
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "sample_rgb_error_before": 2.0447564529081013,
+      "sample_rgb_error_after": 0.5263297643763691,
+      "reduction_percent": 74.3,
+      "samples": 6
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "sample_rgb_error_before": 1.6405887891753401,
+      "sample_rgb_error_after": 0.057412030093518876,
+      "reduction_percent": 96.5,
+      "samples": 7
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "sample_rgb_error_before": 0.7816337473852075,
+      "sample_rgb_error_after": 0.17802956996698527,
+      "reduction_percent": 77.2,
+      "samples": 7
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "sample_rgb_error_before": 2.879900449242403,
+      "sample_rgb_error_after": 0.9481892649935086,
+      "reduction_percent": 67.1,
+      "samples": 7
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "sample_rgb_error_before": 2.451179654893792,
+      "sample_rgb_error_after": 0.6920785404212023,
+      "reduction_percent": 71.8,
+      "samples": 7
+    }
+  ]
+}

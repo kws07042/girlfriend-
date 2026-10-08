@@ -1,0 +1,542 @@
+{
+  "poses": [
+    {
+      "who": "seoyun",
+      "pose": "master",
+      "palette_applied": false,
+      "source_sha256": "6d9b8baa76578dc77eaaa8db4887c809ae6bca813add0fae206c6fe97de4177f",
+      "samples": {
+        "skin": {
+          "raw": [
+            252.0,
+            214.0,
+            190.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            252.0,
+            214.0,
+            190.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        },
+        "hair": {
+          "raw": [
+            162.0,
+            113.0,
+            93.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            162.0,
+            113.0,
+            93.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        }
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "work",
+      "palette_applied": false,
+      "source_sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990",
+      "samples": {
+        "skin": {
+          "raw": [
+            252.0,
+            216.0,
+            191.0
+          ],
+          "raw_deltaE76_to_master": 1.048,
+          "palette_formula": [
+            252.0,
+            216.0,
+            191.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.048
+        },
+        "hair": {
+          "raw": [
+            169.0,
+            119.0,
+            98.0
+          ],
+          "raw_deltaE76_to_master": 2.464,
+          "palette_formula": [
+            169.0,
+            119.0,
+            98.0
+          ],
+          "palette_formula_deltaE76_to_master": 2.464
+        }
+      }
+    },
+    {
+      "who": "seoyun",
+      "pose": "casual",
+      "palette_applied": false,
+      "source_sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+      "samples": {
+        "skin": {
+          "raw": [
+            252.0,
+            219.0,
+            195.0
+          ],
+          "raw_deltaE76_to_master": 2.431,
+          "palette_formula": [
+            252.0,
+            219.0,
+            195.0
+          ],
+          "palette_formula_deltaE76_to_master": 2.431
+        },
+        "hair": {
+          "raw": [
+            170.0,
+            121.0,
+            101.0
+          ],
+          "raw_deltaE76_to_master": 3.109,
+          "palette_formula": [
+            170.0,
+            121.0,
+            101.0
+          ],
+          "palette_formula_deltaE76_to_master": 3.109
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "master",
+      "palette_applied": false,
+      "source_sha256": "9248b73e5ac1e9b0bf0a8830ef3ab740bafc11d053fe7af849ae46cc75f2dea2",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            209.0,
+            178.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            253.0,
+            209.0,
+            178.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        },
+        "hair": {
+          "raw": [
+            223.0,
+            170.0,
+            121.5
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            223.0,
+            170.0,
+            121.5
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "explaining",
+      "palette_applied": true,
+      "source_sha256": "6036ae220b4d59ff6ce4b4c4a322a627944dcb909772ffa1883baadf8e7fec55",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            209.0,
+            177.0
+          ],
+          "raw_deltaE76_to_master": 0.514,
+          "palette_formula": [
+            253.0,
+            207.0,
+            174.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.534
+        },
+        "hair": {
+          "raw": [
+            231.0,
+            181.0,
+            130.0
+          ],
+          "raw_deltaE76_to_master": 4.068,
+          "palette_formula": [
+            226.0,
+            179.0,
+            131.0
+          ],
+          "palette_formula_deltaE76_to_master": 4.013
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "casual",
+      "palette_applied": true,
+      "source_sha256": "1789c27c476d60da457ea2c3449a10eefbd8a58501da700f4b0fdc4e0b4205a0",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            207.0,
+            176.0
+          ],
+          "raw_deltaE76_to_master": 0.998,
+          "palette_formula": [
+            253.0,
+            206.0,
+            176.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.511
+        },
+        "hair": {
+          "raw": [
+            230.0,
+            179.0,
+            129.0
+          ],
+          "raw_deltaE76_to_master": 3.27,
+          "palette_formula": [
+            225.0,
+            179.0,
+            130.0
+          ],
+          "palette_formula_deltaE76_to_master": 4.179
+        }
+      }
+    },
+    {
+      "who": "ria",
+      "pose": "listening",
+      "palette_applied": true,
+      "source_sha256": "1425dc1fbe86f023fb20434a924bb8225a72b7284ff996b5d9b23dc8d3bd1205",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            207.0,
+            174.0
+          ],
+          "raw_deltaE76_to_master": 1.534,
+          "palette_formula": [
+            253.0,
+            207.0,
+            175.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.187
+        },
+        "hair": {
+          "raw": [
+            231.0,
+            180.0,
+            128.0
+          ],
+          "raw_deltaE76_to_master": 3.822,
+          "palette_formula": [
+            226.0,
+            179.0,
+            129.0
+          ],
+          "palette_formula_deltaE76_to_master": 3.886
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "master",
+      "palette_applied": false,
+      "source_sha256": "0f5328cbbcbe2926d89fbb6e2754d68e068a3c827ece319c097ec596fa903a49",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            229.0,
+            208.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            253.0,
+            229.0,
+            208.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        },
+        "hair": {
+          "raw": [
+            87.0,
+            91.0,
+            114.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            87.0,
+            91.0,
+            114.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "work",
+      "palette_applied": true,
+      "source_sha256": "f11cbb7ab56398ee10f89432993efb7b7927e488f0aad82b8e5295591db4cac0",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            229.0,
+            210.0
+          ],
+          "raw_deltaE76_to_master": 1.023,
+          "palette_formula": [
+            253.0,
+            231.0,
+            211.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.111
+        },
+        "hair": {
+          "raw": [
+            92.0,
+            96.0,
+            118.5
+          ],
+          "raw_deltaE76_to_master": 2.089,
+          "palette_formula": [
+            94.0,
+            96.0,
+            118.5
+          ],
+          "palette_formula_deltaE76_to_master": 2.359
+        }
+      }
+    },
+    {
+      "who": "yujin",
+      "pose": "casual",
+      "palette_applied": true,
+      "source_sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            225.0,
+            205.0
+          ],
+          "raw_deltaE76_to_master": 1.923,
+          "palette_formula": [
+            253.0,
+            227.0,
+            207.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.037
+        },
+        "hair": {
+          "raw": [
+            83.0,
+            86.0,
+            109.0
+          ],
+          "raw_deltaE76_to_master": 2.042,
+          "palette_formula": [
+            86.0,
+            89.0,
+            112.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.841
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "master",
+      "palette_applied": false,
+      "source_sha256": "266a25a186bfb1cd738bbba79d145117ce8d5e76350852d02074be07c59823fe",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            220.0,
+            195.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            253.0,
+            220.0,
+            195.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        },
+        "hair": {
+          "raw": [
+            91.0,
+            84.0,
+            88.0
+          ],
+          "raw_deltaE76_to_master": 0.0,
+          "palette_formula": [
+            91.0,
+            84.0,
+            88.0
+          ],
+          "palette_formula_deltaE76_to_master": 0.0
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "work",
+      "palette_applied": true,
+      "source_sha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            222.0,
+            200.0
+          ],
+          "raw_deltaE76_to_master": 1.9,
+          "palette_formula": [
+            253.0,
+            221.0,
+            198.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.179
+        },
+        "hair": {
+          "raw": [
+            102.0,
+            94.0,
+            99.0
+          ],
+          "raw_deltaE76_to_master": 4.339,
+          "palette_formula": [
+            106.0,
+            94.0,
+            98.0
+          ],
+          "palette_formula_deltaE76_to_master": 5.083
+        }
+      }
+    },
+    {
+      "who": "jihyun",
+      "pose": "casual",
+      "palette_applied": true,
+      "source_sha256": "a2dca7d9e50e6a155fd81b5a8f086bf2b44317b66d2b839f4dce5a094ad31a8b",
+      "samples": {
+        "skin": {
+          "raw": [
+            253.0,
+            223.0,
+            201.0
+          ],
+          "raw_deltaE76_to_master": 2.217,
+          "palette_formula": [
+            252.0,
+            221.0,
+            197.0
+          ],
+          "palette_formula_deltaE76_to_master": 1.001
+        },
+        "hair": {
+          "raw": [
+            101.0,
+            93.0,
+            97.0
+          ],
+          "raw_deltaE76_to_master": 3.863,
+          "palette_formula": [
+            104.0,
+            93.0,
+            96.0
+          ],
+          "palette_formula_deltaE76_to_master": 4.476
+        }
+      }
+    }
+  ],
+  "roi": {
+    "seoyun": {
+      "skin": [
+        220,
+        130,
+        246,
+        150
+      ],
+      "hair": [
+        300,
+        45,
+        335,
+        70
+      ]
+    },
+    "ria": {
+      "skin": [
+        200,
+        145,
+        227,
+        170
+      ],
+      "hair": [
+        345,
+        85,
+        372,
+        109
+      ]
+    },
+    "yujin": {
+      "skin": [
+        245,
+        126,
+        268,
+        146
+      ],
+      "hair": [
+        302,
+        45,
+        330,
+        69
+      ]
+    },
+    "jihyun": {
+      "skin": [
+        210,
+        129,
+        235,
+        150
+      ],
+      "hair": [
+        297,
+        44,
+        327,
+        68
+      ]
+    }
+  },
+  "palette_reference": "All MASTERs bypass calibration; Seoyun all poses bypass calibration. Other heroine poses use per-pose calibration.",
+  "expression_renderer": "ui_character_static_sprite ignores expression and returns ui_character_palette_sprite. Old face overlays remain disabled.",
+  "transition": {
+    "source": "ui_character_poses.rpy:ui_pose_render",
+    "duration_seconds": 0.18,
+    "halfway_old_alpha": 0.5,
+    "halfway_new_alpha": 0.5,
+    "overlapping_opaque_region_alpha": 0.75,
+    "background_fraction_at_midpoint": 0.25,
+    "method": "Actual render-function branch exercised using stand-ins for display objects; standard source-over compositing reproduced. Not a live GPU screen capture."
+  },
+  "note": "ROI medians are fixed small head regions; changes in shading, linework, geometry and makeup can affect these measurements. Shader calculation images reproduce RGB math and are not native GPU captures. No source image, palette data or runtime code modified."
+}

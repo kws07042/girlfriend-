@@ -1,0 +1,37 @@
+{
+  "routes": {
+    "1": {
+      "counts": {
+        "서윤": 31,
+        "리아": 61,
+        "유진": 26,
+        "지현": 22
+      },
+      "day1": {
+        "서윤": 3,
+        "리아": 34,
+        "유진": 3,
+        "지현": 3
+      },
+      "ria_percent": 43.6,
+      "total": 140
+    },
+    "2": {
+      "counts": {
+        "서윤": 21,
+        "리아": 20,
+        "유진": 22,
+        "지현": 15
+      },
+      "day1": {
+        "서윤": 0,
+        "리아": 0,
+        "유진": 0,
+        "지현": 0
+      },
+      "ria_percent": 25.6,
+      "total": 78
+    }
+  },
+  "metric": "Actual character dialogue begin callbacks from two native engine regression paths. Protagonist, narration and phone-message body text excluded. Selected routes, not all possible playthroughs."
+}

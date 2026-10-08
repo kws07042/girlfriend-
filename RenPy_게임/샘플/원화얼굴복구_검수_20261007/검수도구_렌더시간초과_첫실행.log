@@ -1,0 +1,111 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_restore_20261007
+[rpytest] [log] - global.office_restore_20261007
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.3.0-first-week
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + office_restore_20261007
+[rpytest] [exc]     - original_faces
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 487, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 508, in check_for_timeout
+    raise RenpyTestTimeoutError(f"TestCase timed out after {_test.timeout} seconds.")
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 5.0 seconds.
+
+While running game code:
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 5.0 seconds.
+File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 29, in script
+  menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 15, in testsuite global
+    testsuite office_restore_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 29, in testsuite office_restore_20261007
+    testcase original_faces:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 38, in testcase original_faces
+    assert eval _office_native_face_same("ria","casual")
+
+====================
+[rpytest] [exc]     - original_faces (11.251 s)
+[rpytest] [exc]     - original_faces (11.251 s)
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 487, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 507, in check_for_timeout
+    if (now - self.last_state_change) > _test.timeout:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
+
+While running game code:
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 29, in script
+    menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 15, in testsuite global
+    testsuite office_restore_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 20, in testsuite office_restore_20261007
+    before testcase:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 21, in hook before_testcase(1)
+    if not screen "main_menu":
+
+====================
+
+Full traceback:
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 487, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 507, in check_for_timeout
+    if (now - self.last_state_change) > _test.timeout:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
+
+While running game code:
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\story_day01.rpy", line 29, in script
+    menu:
+
+During testcase execution:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\.", line 0, in None
+    
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 15, in testsuite global
+    testsuite office_restore_20261007:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 24, in testsuite office_restore_20261007
+    teardown:
+  File "C:\Users\user\Desktop\건\오피스\RenPy_게임\game\tests\original_face_restore_qa.rpy", line 25, in hook teardown(0)
+    run Preference("text speed",_restore_start_cps)
+
+====================
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     4 |     0 passed |     0 xfailed |     2 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :    37 |     0 passed |     0 xfailed |     1 failed |     0 xpassed |    25 skipped |    11 not run
+[rpytest] Test hooks :     4 |     2 passed |     0 xfailed |     2 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :     4 |     4 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 13.767 s
+[rpytest] Status: FAILED 
+
