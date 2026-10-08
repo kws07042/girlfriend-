@@ -1,4 +1,4 @@
-testsuite office_week:
+testsuite office_week_legacy:
     setup:
         pause until screen "main_menu"
         run Preference("text speed",0)

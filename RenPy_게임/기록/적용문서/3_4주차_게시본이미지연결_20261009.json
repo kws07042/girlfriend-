@@ -1,0 +1,118 @@
+[
+  {
+    "source": "히로인\\한서윤\\MASTER.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_master.png"
+  },
+  {
+    "source": "히로인\\한서윤\\포즈\\업무.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_poses\\work.png"
+  },
+  {
+    "source": "히로인\\한서윤\\포즈\\캐주얼.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_poses\\casual.png"
+  },
+  {
+    "source": "히로인\\한서윤\\사복\\업스케일\\일상_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_outfits\\daily_a.png"
+  },
+  {
+    "source": "히로인\\한서윤\\사복\\업스케일\\일상_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_outfits\\daily_b.png"
+  },
+  {
+    "source": "히로인\\한서윤\\사복\\업스케일\\외출_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_outfits\\date_a.png"
+  },
+  {
+    "source": "히로인\\한서윤\\사복\\업스케일\\외출_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\seoyun_outfits\\date_b.png"
+  },
+  {
+    "source": "히로인\\강리아\\MASTER.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_master.png"
+  },
+  {
+    "source": "히로인\\강리아\\포즈\\듣는자세.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_poses\\listening.png"
+  },
+  {
+    "source": "히로인\\강리아\\포즈\\설명.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_poses\\explaining.png"
+  },
+  {
+    "source": "히로인\\강리아\\포즈\\캐주얼.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_poses\\casual.png"
+  },
+  {
+    "source": "히로인\\강리아\\사복\\업스케일\\일상_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_outfits\\daily_a.png"
+  },
+  {
+    "source": "히로인\\강리아\\사복\\업스케일\\일상_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_outfits\\daily_b.png"
+  },
+  {
+    "source": "히로인\\강리아\\사복\\업스케일\\외출_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_outfits\\date_a.png"
+  },
+  {
+    "source": "히로인\\강리아\\사복\\업스케일\\외출_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\ria_outfits\\date_b.png"
+  },
+  {
+    "source": "히로인\\차유진\\MASTER.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_master.png"
+  },
+  {
+    "source": "히로인\\차유진\\포즈\\업무.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_poses\\work.png"
+  },
+  {
+    "source": "히로인\\차유진\\포즈\\캐주얼.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_poses\\casual.png"
+  },
+  {
+    "source": "히로인\\차유진\\사복\\업스케일\\일상_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_outfits\\daily_a.png"
+  },
+  {
+    "source": "히로인\\차유진\\사복\\업스케일\\일상_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_outfits\\daily_b.png"
+  },
+  {
+    "source": "히로인\\차유진\\사복\\업스케일\\외출_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_outfits\\date_a.png"
+  },
+  {
+    "source": "히로인\\차유진\\사복\\업스케일\\외출_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\yujin_outfits\\date_b.png"
+  },
+  {
+    "source": "히로인\\백지현\\MASTER.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_master.png"
+  },
+  {
+    "source": "히로인\\백지현\\포즈\\업무.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_poses\\work.png"
+  },
+  {
+    "source": "히로인\\백지현\\포즈\\캐주얼.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_poses\\casual.png"
+  },
+  {
+    "source": "히로인\\백지현\\사복\\업스케일\\일상_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_outfits\\daily_a.png"
+  },
+  {
+    "source": "히로인\\백지현\\사복\\업스케일\\일상_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_outfits\\daily_b.png"
+  },
+  {
+    "source": "히로인\\백지현\\사복\\업스케일\\외출_A_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_outfits\\date_a.png"
+  },
+  {
+    "source": "히로인\\백지현\\사복\\업스케일\\외출_B_2x.png",
+    "runtime": "RenPy_게임\\game\\images\\characters\\jihyun_outfits\\date_b.png"
+  }
+]

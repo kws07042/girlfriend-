@@ -1,0 +1,132 @@
+[
+  {
+    "path": "히로인/백지현/검수자료/귀걸이_MASTER_기록.png",
+    "rect": {
+      "left": 538,
+      "top": 85,
+      "width": 92,
+      "height": 154
+    },
+    "changedPixels": 200,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "8dc316fd361abaf308094b488bb7c3a9db9f74feadae621613f62f4b804fce7e",
+    "afterSha256": "255a0cc71c1a047ff06090d0e7444081c5b901872e65f471d57c5f28005291eb"
+  },
+  {
+    "path": "히로인/백지현/포즈/업무.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 768,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e",
+    "afterSha256": "a19ba969cd03d1a4b0084704c9c5993f34fbd27551cb86c86575ed38ad611643"
+  },
+  {
+    "path": "히로인/백지현/포즈/캐주얼.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 778,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+    "afterSha256": "a4eb0f39c7bf8e47abe88ff1791e59d25a8ab470a8fcf4c7525c056a495d6a05"
+  },
+  {
+    "path": "히로인/백지현/표정/업무_default.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 768,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "402f1dade1e772bcf9eff85dc32884495fa74da7437061e385c3b980e3ba455e",
+    "afterSha256": "a19ba969cd03d1a4b0084704c9c5993f34fbd27551cb86c86575ed38ad611643"
+  },
+  {
+    "path": "히로인/백지현/표정/업무_serious.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 768,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "5d534d0025db19f7af4eb427a7d62d5406a7fa01d97e8af3305e6cf98e5e97bd",
+    "afterSha256": "d183bf66fdc7b71a73a6db1eec92299786acd671fd35c71bd60ec623fc4cfa00"
+  },
+  {
+    "path": "히로인/백지현/표정/캐주얼_default.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 778,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7",
+    "afterSha256": "a4eb0f39c7bf8e47abe88ff1791e59d25a8ab470a8fcf4c7525c056a495d6a05"
+  },
+  {
+    "path": "히로인/백지현/표정/캐주얼_serious.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 778,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "d5e17d6d842739e7e1226921a9f5df092bde3e62e636bf8f66adf9e4d45d5b21",
+    "afterSha256": "a949c98a8f9564d250892bfbc6f051d33159f5da8d508f08e8e7a006821ca6da"
+  },
+  {
+    "path": "히로인/백지현/표정/MASTER_default.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 784,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "266a25a186bfb1cd738bbba79d145117ce8d5e76350852d02074be07c59823fe",
+    "afterSha256": "a9e0712605af0e970a201c8b7305e946139b3e900859913546068d4056e7b2c4"
+  },
+  {
+    "path": "히로인/백지현/표정/MASTER_serious.png",
+    "rect": {
+      "left": 1075,
+      "top": 169,
+      "width": 184,
+      "height": 307
+    },
+    "changedPixels": 784,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "fc965a638e808b060f2d9823d05edf9f3a92212dddab8b0bdfa78b51bc442d38",
+    "afterSha256": "58911d2862afb4240f342ec11301c9becaa378eefb1d52ac27d3fa8b7b8cef12"
+  },
+  {
+    "path": "히로인/백지현/MASTER.png",
+    "rect": {
+      "left": 538,
+      "top": 85,
+      "width": 92,
+      "height": 154
+    },
+    "changedPixels": 200,
+    "outsideRegionChangedPixels": 0,
+    "beforeSha256": "8dc316fd361abaf308094b488bb7c3a9db9f74feadae621613f62f4b804fce7e",
+    "afterSha256": "255a0cc71c1a047ff06090d0e7444081c5b901872e65f471d57c5f28005291eb"
+  }
+]

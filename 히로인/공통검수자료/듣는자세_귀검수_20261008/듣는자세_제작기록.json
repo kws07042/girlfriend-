@@ -1,0 +1,38 @@
+[
+  {
+    "character": "한서윤",
+    "path": "히로인/한서윤/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1536,
+    "width": 2048,
+    "height": 3072,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "revision": 2,
+    "design": "몸 방향 전환, 태블릿 옆구리, 구부린 팔"
+  },
+  {
+    "character": "차유진",
+    "path": "히로인/차유진/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1536,
+    "width": 2048,
+    "height": 3072,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "revision": 2,
+    "design": "폴더를 옆으로 내림, 다른 손을 가슴 위에 얹음"
+  },
+  {
+    "character": "백지현",
+    "path": "히로인/백지현/포즈/듣는자세.png",
+    "nativeWidth": 1024,
+    "nativeHeight": 1536,
+    "width": 2048,
+    "height": 3072,
+    "resizing": "uniform 2x Lanczos3",
+    "mode": "built-in image_gen",
+    "revision": 2,
+    "design": "팔을 등 뒤로, 손은 몸 뒤에 가림"
+  }
+]

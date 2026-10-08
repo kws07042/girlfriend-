@@ -19,9 +19,9 @@ transform ria_still:
     zoom 0.93
 
 # Equal panels remain a draft. Crop and ATL use existing images, no paid rig.
-image ria open = Crop((0,0,682,768), "images/cg/ria_expression_sheet_v001.png")
-image ria blink = Crop((683,0,682,768), "images/cg/ria_expression_sheet_v001.png")
-image ria quiet = Crop((1366,0,682,768), "images/cg/ria_expression_sheet_v001.png")
+image ria open = ui_optional_legacy_frame(0)
+image ria blink = ui_optional_legacy_frame(683)
+image ria quiet = ui_optional_legacy_frame(1366)
 image ria animated:
     "ria open"
     3.6
@@ -32,3 +32,8 @@ image ria animated:
     "ria blink"
     0.12
     repeat
+
+init -1 python:
+    def ui_optional_legacy_frame(x):
+        path = "images/cg/ria_expression_sheet_v001.png"
+        return Crop((x,0,682,768),path) if renpy.loadable(path) else Solid("#00000000")

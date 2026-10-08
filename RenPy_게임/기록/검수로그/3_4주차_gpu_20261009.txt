@@ -11,30 +11,30 @@
 [rpytest] [exc] + global
 [rpytest] [exc]   + office_week34
 [rpytest] [exc]     - seoyun_full_week34
-[rpytest] [exc]     - seoyun_full_week34 (5.414 s)
+[rpytest] [exc]     - seoyun_full_week34 (5.344 s)
 [rpytest] [exc]     - ria_full_week34
-[rpytest] [exc]     - ria_full_week34 (4.816 s)
+[rpytest] [exc]     - ria_full_week34 (4.899 s)
 [rpytest] [exc]     - yujin_full_week34
-[rpytest] [exc]     - yujin_full_week34 (4.755 s)
+[rpytest] [exc]     - yujin_full_week34 (5.048 s)
 [rpytest] [exc]     - jihyun_full_week34
-[rpytest] [exc]     - jihyun_full_week34 (4.894 s)
+[rpytest] [exc]     - jihyun_full_week34 (5.002 s)
 [rpytest] [exc]     - defer_without_gap
-[rpytest] [exc]     - defer_without_gap (1.132 s)
+[rpytest] [exc]     - defer_without_gap (1.146 s)
 [rpytest] [exc]     - friends_without_gap
-[rpytest] [exc]     - friends_without_gap (0.847 s)
+[rpytest] [exc]     - friends_without_gap (0.745 s)
 [rpytest] [exc]     - slow_without_gap
-[rpytest] [exc]     - slow_without_gap (0.756 s)
+[rpytest] [exc]     - slow_without_gap (0.749 s)
 [rpytest] [exc]     - team_and_unresolved_core
-[rpytest] [exc]     - team_and_unresolved_core (3.316 s)
+[rpytest] [exc]     - team_and_unresolved_core (3.078 s)
 [rpytest] [exc]     - day11_existing_checkpoint_continues
-[rpytest] [exc]     - day11_existing_checkpoint_continues (0.202 s)
+[rpytest] [exc]     - day11_existing_checkpoint_continues (0.228 s)
 
 [rpytest] Test outcomes (Summary)
-[rpytest] Test suites:    15 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |    13 skipped |     0 not run
+[rpytest] Test suites:    16 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |    13 skipped |     1 not run
 [rpytest] Test cases :    71 |     9 passed |     0 xfailed |     0 failed |     0 xpassed |    61 skipped |     1 not run
 [rpytest] Test hooks :    11 |    11 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
 [rpytest] Assertions :   106 |   106 passed |     0 xfailed |     0 failed |     0 xpassed | 
 
-[rpytest] Time: 33.451 s
+[rpytest] Time: 31.200 s
 [rpytest] Status: PASSED 
 

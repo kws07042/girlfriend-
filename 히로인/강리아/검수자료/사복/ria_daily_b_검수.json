@@ -1,0 +1,38 @@
+{
+  "id": "ria_daily_b",
+  "who": "ria",
+  "kind": "daily_b",
+  "prompt": "Use case: identity-preserve. Single full-body polished Korean anime romance visual-novel sprite. Match the reference's EXACT face identity, original natural peach skin hue, hair hue/highlight strength, adult body scale, elegant fine linework and soft controlled painting. No age regression, no head enlargement, no skin whitening, no new makeup or jewelry, no mirrored face. Adult hands with long anatomically plausible separately defined fingers. Crown and BOTH entire shoes visible with comfortable top/bottom margins in centered portrait framing. Neutral even light. Genuine transparent alpha background; no scenery, text, watermark, floor, shadow, gradient, glow or colored fringe. Do not copy stray alpha fringe or old background haze. One heroine only, no contact sheet. Input image 1 is the immutable completed DAILY OUTFIT and identity reference. Input image 2 is her canonical MASTER, supporting identity/body proportions only; do NOT use its office outfit. Kang Ria, an ADULT age 27. Exact familiar face, turquoise eyes, blonde high ponytail with loose curls, ONE thin open gold oval hoop per visible ear, no fleshy protrusions. Preserve adult torso/waist/long-leg proportions and a friendly modest smile; do not exaggerate mouth or eyes. Change ONLY pose. Exact cream open zip hoodie, muted mint opaque tee, same medium-blue jeans including pockets, buttons and seams, white low-top sneakers, same hoop earrings and ponytail. New pose B: both elbows low, hands lightly holding the two lower open hoodie edges near her waist with relaxed long fingers; both feet on the ground, comfortable stance with a slight torso turn and small head tilt. No raised wave, no lifted leg, no bag, cup or new accessory. Keep her existing friendly face and mouth shape close to reference.",
+  "references": [
+    "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복포즈_예시_20261008_v1\\ria_casual_outfit_pose_v001.png",
+    "C:\\Users\\user\\Desktop\\건\\오피스\\RenPy_게임\\game\\images\\characters\\ria_master.png"
+  ],
+  "source_image": "C:\\Users\\user\\.codex\\generated_images\\01a0f5b6-5b74-7280-a594-a6011eccf7fb\\exec-439bc4ff-a084-4dd8-b4fd-b790d3d18dc6.png",
+  "raw_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\원화\\ria_daily_b.png",
+  "output_image": "C:\\Users\\user\\Desktop\\건\\오피스\\히로인\\사복16장_20261008_v1\\업스케일\\ria_daily_b_2x.png",
+  "source_size": [
+    1024,
+    1536
+  ],
+  "normalized_size": [
+    1024,
+    1536
+  ],
+  "normalized_offset": [
+    0,
+    0
+  ],
+  "output_size": [
+    2048,
+    3072
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_matches_normalized_source_2x": true,
+  "source_sha256": "2809ad25f52c0bfb823567f074b7b671b6dd11d510f66780087778f742f3ffa0",
+  "output_sha256": "e9e1776bfd286b8d71da2fadc2c1ccdd9d485efe8fbed1a010da1b2eb2665e95",
+  "recipe": "Real-ESRGAN general 4x -> Lanczos 2x; original RGB 60% + SR 40%; original normalized alpha",
+  "seconds": 20.74
+}

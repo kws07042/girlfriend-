@@ -68,7 +68,7 @@ testsuite office_week34:
         click "서윤과 점심을 먹는다."
         advance until eval ui_pose_current("seoyun") == "daily_a" and ui_scene_actor == "seoyun"
         pause 0.4
-        screenshot "week34_seoyun_daily"
+        screenshot "week34_seoyun_latest_daily"
         advance until screen "day_result"
         assert eval w34_route == "seoyun" and people["seoyun"]["relationship"] == "none"
         assert eval ui_pose_overrides.get("seoyun") is None
@@ -170,7 +170,7 @@ testsuite office_week34:
         click "리아와 점심을 먹는다."
         advance until eval ui_pose_current("ria") == "daily_a" and ui_scene_actor == "ria"
         pause 0.4
-        screenshot "week34_ria_daily"
+        screenshot "week34_ria_latest_daily"
         advance until screen "day_result"
         assert eval w34_route == "ria" and people["ria"]["relationship"] == "none"
         assert eval ui_pose_overrides.get("ria") is None
@@ -263,7 +263,7 @@ testsuite office_week34:
         click "유진과 점심을 먹는다."
         advance until eval ui_pose_current("yujin") == "daily_a" and ui_scene_actor == "yujin"
         pause 0.4
-        screenshot "week34_yujin_daily"
+        screenshot "week34_yujin_latest_daily"
         advance until screen "day_result"
         assert eval w34_route == "yujin" and people["yujin"]["relationship"] == "none"
         assert eval ui_pose_overrides.get("yujin") is None
@@ -356,7 +356,7 @@ testsuite office_week34:
         click "지현과 점심을 먹는다."
         advance until eval ui_pose_current("jihyun") == "daily_a" and ui_scene_actor == "jihyun"
         pause 0.4
-        screenshot "week34_jihyun_daily"
+        screenshot "week34_jihyun_latest_daily"
         advance until screen "day_result"
         assert eval w34_route == "jihyun" and people["jihyun"]["relationship"] == "none"
         assert eval ui_pose_overrides.get("jihyun") is None

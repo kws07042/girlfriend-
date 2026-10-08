@@ -1,0 +1,1158 @@
+[
+  {
+    "old": "히로인/강리아_ria_MASTER.png",
+    "new": "히로인/강리아/MASTER.png"
+  },
+  {
+    "old": "히로인/나머지_MASTER_업스케일_검수.json",
+    "new": "히로인/공통검수자료/MASTER/나머지_MASTER_업스케일_검수.json"
+  },
+  {
+    "old": "히로인/백지현_jihyun_MASTER.png",
+    "new": "히로인/백지현/MASTER.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/README.md",
+    "new": "히로인/공통검수자료/사복/README.md"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_daily_a_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_daily_a_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_daily_b_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_daily_b_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_date_a_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_date_a_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/jihyun_date_b_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_daily_a_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_daily_a_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_daily_b_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_daily_b_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_date_a_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_date_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_date_a_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_date_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_date_b_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_date_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_date_b_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/ria_사복4장_비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_사복4장_비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_daily_a_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_daily_a_확대비교.jpg",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_daily_b_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_date_a_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_date_b_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/seoyun_date_b_확대비교.jpg",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_daily_a_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_daily_a_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_daily_b_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_daily_b_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_date_a_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_a_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_date_b_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_b_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/검수/yujin_date_b_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/jihyun_daily_a_2x.png",
+    "new": "히로인/백지현/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/jihyun_daily_b_2x.png",
+    "new": "히로인/백지현/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/jihyun_date_a_2x.png",
+    "new": "히로인/백지현/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/jihyun_date_b_2x.png",
+    "new": "히로인/백지현/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/ria_daily_a_2x.png",
+    "new": "히로인/강리아/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/ria_daily_b_2x.png",
+    "new": "히로인/강리아/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/ria_date_a_2x.png",
+    "new": "히로인/강리아/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/ria_date_b_2x.png",
+    "new": "히로인/강리아/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/seoyun_daily_a_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/seoyun_daily_b_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/seoyun_date_a_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/seoyun_date_b_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/yujin_daily_a_2x.png",
+    "new": "히로인/차유진/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/yujin_daily_b_2x.png",
+    "new": "히로인/차유진/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/yujin_date_a_2x.png",
+    "new": "히로인/차유진/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/업스케일/yujin_date_b_2x.png",
+    "new": "히로인/차유진/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/완료_검수.json",
+    "new": "히로인/공통검수자료/사복/완료_검수.json"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/jihyun_daily_a.png",
+    "new": "히로인/백지현/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/jihyun_daily_b.png",
+    "new": "히로인/백지현/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/jihyun_date_a.png",
+    "new": "히로인/백지현/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/jihyun_date_b.png",
+    "new": "히로인/백지현/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/ria_daily_a.png",
+    "new": "히로인/강리아/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/ria_daily_b.png",
+    "new": "히로인/강리아/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/ria_date_a.png",
+    "new": "히로인/강리아/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/ria_date_b.png",
+    "new": "히로인/강리아/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/seoyun_daily_a.png",
+    "new": "히로인/한서윤/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/seoyun_daily_b.png",
+    "new": "히로인/한서윤/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/seoyun_date_a.png",
+    "new": "히로인/한서윤/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/seoyun_date_b.png",
+    "new": "히로인/한서윤/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/yujin_daily_a.png",
+    "new": "히로인/차유진/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/yujin_daily_b.png",
+    "new": "히로인/차유진/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/yujin_date_a.png",
+    "new": "히로인/차유진/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/원화/yujin_date_b.png",
+    "new": "히로인/차유진/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/사복16장_20261008_v1/제작기록.json",
+    "new": "히로인/공통검수자료/사복/제작기록.json"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/jihyun_casual_outfit_pose_v001.png",
+    "new": "히로인/백지현/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/README.md",
+    "new": "히로인/공통검수자료/사복포즈예시/README.md"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/ria_casual_outfit_pose_v001.png",
+    "new": "히로인/강리아/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/seoyun_casual_outfit_pose_v001.png",
+    "new": "히로인/한서윤/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/yujin_casual_outfit_pose_v001.png",
+    "new": "히로인/차유진/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/사복포즈_예시_20261008_v1/제작기록.json",
+    "new": "히로인/공통검수자료/사복포즈예시/제작기록.json"
+  },
+  {
+    "old": "히로인/손손톱수정_20261008_v1/README.md",
+    "new": "히로인/공통검수자료/손손톱/README.md"
+  },
+  {
+    "old": "히로인/손손톱수정_20261008_v1/수정파일.json",
+    "new": "히로인/공통검수자료/손손톱/수정파일.json"
+  },
+  {
+    "old": "히로인/손손톱수정_20261008_v1/수정후_전신9포즈.jpg",
+    "new": "히로인/공통검수자료/손손톱/수정후_전신9포즈.jpg"
+  },
+  {
+    "old": "히로인/손손톱수정_20261008_v1/프롬프트.md",
+    "new": "히로인/공통검수자료/손손톱/프롬프트.md"
+  },
+  {
+    "old": "히로인/손손톱수정_20261008_v1/픽셀검증.json",
+    "new": "히로인/공통검수자료/손손톱/픽셀검증.json"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/jihyun_casual.png",
+    "new": "히로인/백지현/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/jihyun_work.png",
+    "new": "히로인/백지현/포즈/업무.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/manifest.json",
+    "new": "히로인/공통검수자료/포즈/manifest.json"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/README.md",
+    "new": "히로인/공통검수자료/포즈/README.md"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/ria_casual.png",
+    "new": "히로인/강리아/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/ria_explaining.png",
+    "new": "히로인/강리아/포즈/설명.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/ria_listening.png",
+    "new": "히로인/강리아/포즈/듣는자세.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/seoyun_casual.png",
+    "new": "히로인/한서윤/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/seoyun_work.png",
+    "new": "히로인/한서윤/포즈/업무.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/yujin_casual.png",
+    "new": "히로인/차유진/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/yujin_work.png",
+    "new": "히로인/차유진/포즈/업무.png"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/최종_손확대_1.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_1.jpg"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/최종_손확대_2.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_2.jpg"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/최종_손확대_3.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_3.jpg"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/최종_전신9장.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_전신9장.jpg"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/캐주얼_default_serious_손검수.jpg",
+    "new": "히로인/공통검수자료/포즈/캐주얼_default_serious_손검수.jpg"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/캐주얼_검수.json",
+    "new": "히로인/공통검수자료/포즈/캐주얼_검수.json"
+  },
+  {
+    "old": "히로인/인게임포즈_20261008_v1/캐주얼_검수.md",
+    "new": "히로인/공통검수자료/포즈/캐주얼_검수.md"
+  },
+  {
+    "old": "히로인/차유진_yujin_MASTER.png",
+    "new": "히로인/차유진/MASTER.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/1주차_리아친밀감_검토.md",
+    "new": "히로인/공통검수자료/귀걸이표정/1주차_리아친밀감_검토.md"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/1주차_소스검토.json",
+    "new": "히로인/공통검수자료/귀걸이표정/1주차_소스검토.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/4히로인_귀수정_표정비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/4히로인_귀수정_표정비교.jpg"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_default.png",
+    "new": "히로인/백지현/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_serious.png",
+    "new": "히로인/백지현/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_master_default.png",
+    "new": "히로인/백지현/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_master_serious.png",
+    "new": "히로인/백지현/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_work_default.png",
+    "new": "히로인/백지현/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_work_serious.png",
+    "new": "히로인/백지현/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/manifest.json",
+    "new": "히로인/공통검수자료/귀걸이표정/manifest.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_귀걸이_완료비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_귀걸이_완료비교.jpg"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_귀수정_전후.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_귀수정_전후.jpg"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_수정본/강리아_ria_MASTER.png",
+    "new": "히로인/강리아/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_수정본/백지현_jihyun_MASTER.png",
+    "new": "히로인/백지현/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_수정본/차유진_yujin_MASTER.png",
+    "new": "히로인/차유진/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_수정본/한서윤_seoyun_MASTER.png",
+    "new": "히로인/한서윤/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_입력경로.json",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_입력경로.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/MASTER_적용검수.json",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_적용검수.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/README.md",
+    "new": "히로인/공통검수자료/귀걸이표정/README.md"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_casual_default.png",
+    "new": "히로인/강리아/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_casual_serious.png",
+    "new": "히로인/강리아/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_explaining_default.png",
+    "new": "히로인/강리아/표정/설명_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_explaining_serious.png",
+    "new": "히로인/강리아/표정/설명_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_master_default.png",
+    "new": "히로인/강리아/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/ria/ria_master_serious.png",
+    "new": "히로인/강리아/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_casual_default.png",
+    "new": "히로인/한서윤/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_casual_serious.png",
+    "new": "히로인/한서윤/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_master_default.png",
+    "new": "히로인/한서윤/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_master_serious.png",
+    "new": "히로인/한서윤/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_work_default.png",
+    "new": "히로인/한서윤/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/seoyun/seoyun_work_serious.png",
+    "new": "히로인/한서윤/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_casual_default.png",
+    "new": "히로인/차유진/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_casual_serious.png",
+    "new": "히로인/차유진/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_master_default.png",
+    "new": "히로인/차유진/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_master_serious.png",
+    "new": "히로인/차유진/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_default.png",
+    "new": "히로인/차유진/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_serious.png",
+    "new": "히로인/차유진/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/귀_프롬프트.json",
+    "new": "히로인/공통검수자료/귀걸이표정/귀_프롬프트.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/귀_픽셀검증.json",
+    "new": "히로인/공통검수자료/귀걸이표정/귀_픽셀검증.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/귀걸이_통일12장_확대.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/귀걸이_통일12장_확대.jpg"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/리아_귓불돌기_수정전후.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/리아_귓불돌기_수정전후.jpg"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/생성_프롬프트.json",
+    "new": "히로인/공통검수자료/귀걸이표정/생성_프롬프트.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/완료_검수.json",
+    "new": "히로인/공통검수자료/귀걸이표정/완료_검수.json"
+  },
+  {
+    "old": "히로인/표정24장_귀걸이통일_20261007_v2/원본MASTER_귀비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/원본MASTER_귀비교.jpg"
+  },
+  {
+    "old": "히로인/한서윤_seoyun_MASTER.png",
+    "new": "히로인/한서윤/MASTER.png"
+  },
+  {
+    "old": "히로인/01_MASTER/README.md",
+    "new": "히로인/공통검수자료/이전분류안내/01_MASTER.md"
+  },
+  {
+    "old": "히로인/01_MASTER/강리아_ria_MASTER.png",
+    "new": "히로인/강리아/MASTER.png"
+  },
+  {
+    "old": "히로인/01_MASTER/백지현_jihyun_MASTER.png",
+    "new": "히로인/백지현/MASTER.png"
+  },
+  {
+    "old": "히로인/01_MASTER/차유진_yujin_MASTER.png",
+    "new": "히로인/차유진/MASTER.png"
+  },
+  {
+    "old": "히로인/01_MASTER/한서윤_seoyun_MASTER.png",
+    "new": "히로인/한서윤/MASTER.png"
+  },
+  {
+    "old": "히로인/02_포즈/README.md",
+    "new": "히로인/공통검수자료/이전분류안내/02_포즈.md"
+  },
+  {
+    "old": "히로인/02_포즈/강리아_ria/듣는자세.png",
+    "new": "히로인/강리아/포즈/듣는자세.png"
+  },
+  {
+    "old": "히로인/02_포즈/강리아_ria/설명.png",
+    "new": "히로인/강리아/포즈/설명.png"
+  },
+  {
+    "old": "히로인/02_포즈/강리아_ria/캐주얼.png",
+    "new": "히로인/강리아/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/02_포즈/백지현_jihyun/업무.png",
+    "new": "히로인/백지현/포즈/업무.png"
+  },
+  {
+    "old": "히로인/02_포즈/백지현_jihyun/캐주얼.png",
+    "new": "히로인/백지현/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/02_포즈/차유진_yujin/업무.png",
+    "new": "히로인/차유진/포즈/업무.png"
+  },
+  {
+    "old": "히로인/02_포즈/차유진_yujin/캐주얼.png",
+    "new": "히로인/차유진/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/02_포즈/한서윤_seoyun/업무.png",
+    "new": "히로인/한서윤/포즈/업무.png"
+  },
+  {
+    "old": "히로인/02_포즈/한서윤_seoyun/캐주얼.png",
+    "new": "히로인/한서윤/포즈/캐주얼.png"
+  },
+  {
+    "old": "히로인/03_표정/README.md",
+    "new": "히로인/공통검수자료/이전분류안내/03_표정.md"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/MASTER_default.png",
+    "new": "히로인/강리아/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/MASTER_serious.png",
+    "new": "히로인/강리아/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/설명_default.png",
+    "new": "히로인/강리아/표정/설명_default.png"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/설명_serious.png",
+    "new": "히로인/강리아/표정/설명_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/캐주얼_default.png",
+    "new": "히로인/강리아/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/03_표정/강리아_ria/캐주얼_serious.png",
+    "new": "히로인/강리아/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/MASTER_default.png",
+    "new": "히로인/백지현/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/MASTER_serious.png",
+    "new": "히로인/백지현/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/업무_default.png",
+    "new": "히로인/백지현/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/업무_serious.png",
+    "new": "히로인/백지현/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/캐주얼_default.png",
+    "new": "히로인/백지현/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/03_표정/백지현_jihyun/캐주얼_serious.png",
+    "new": "히로인/백지현/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/MASTER_default.png",
+    "new": "히로인/차유진/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/MASTER_serious.png",
+    "new": "히로인/차유진/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/업무_default.png",
+    "new": "히로인/차유진/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/업무_serious.png",
+    "new": "히로인/차유진/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/캐주얼_default.png",
+    "new": "히로인/차유진/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/03_표정/차유진_yujin/캐주얼_serious.png",
+    "new": "히로인/차유진/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/MASTER_default.png",
+    "new": "히로인/한서윤/표정/MASTER_default.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/MASTER_serious.png",
+    "new": "히로인/한서윤/표정/MASTER_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/업무_default.png",
+    "new": "히로인/한서윤/표정/업무_default.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/업무_serious.png",
+    "new": "히로인/한서윤/표정/업무_serious.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/캐주얼_default.png",
+    "new": "히로인/한서윤/표정/캐주얼_default.png"
+  },
+  {
+    "old": "히로인/03_표정/한서윤_seoyun/캐주얼_serious.png",
+    "new": "히로인/한서윤/표정/캐주얼_serious.png"
+  },
+  {
+    "old": "히로인/04_사복/README.md",
+    "new": "히로인/공통검수자료/이전분류안내/04_사복.md"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/강리아_ria/외출_A_2x.png",
+    "new": "히로인/강리아/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/강리아_ria/외출_B_2x.png",
+    "new": "히로인/강리아/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/강리아_ria/일상_A_2x.png",
+    "new": "히로인/강리아/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/강리아_ria/일상_B_2x.png",
+    "new": "히로인/강리아/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/백지현_jihyun/외출_A_2x.png",
+    "new": "히로인/백지현/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/백지현_jihyun/외출_B_2x.png",
+    "new": "히로인/백지현/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/백지현_jihyun/일상_A_2x.png",
+    "new": "히로인/백지현/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/백지현_jihyun/일상_B_2x.png",
+    "new": "히로인/백지현/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/차유진_yujin/외출_A_2x.png",
+    "new": "히로인/차유진/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/차유진_yujin/외출_B_2x.png",
+    "new": "히로인/차유진/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/차유진_yujin/일상_A_2x.png",
+    "new": "히로인/차유진/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/차유진_yujin/일상_B_2x.png",
+    "new": "히로인/차유진/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/한서윤_seoyun/외출_A_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/외출_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/한서윤_seoyun/외출_B_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/외출_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/한서윤_seoyun/일상_A_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/일상_A_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/업스케일/한서윤_seoyun/일상_B_2x.png",
+    "new": "히로인/한서윤/사복/업스케일/일상_B_2x.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/강리아_ria/외출_A.png",
+    "new": "히로인/강리아/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/강리아_ria/외출_B.png",
+    "new": "히로인/강리아/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/강리아_ria/일상_A.png",
+    "new": "히로인/강리아/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/강리아_ria/일상_B.png",
+    "new": "히로인/강리아/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/백지현_jihyun/외출_A.png",
+    "new": "히로인/백지현/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/백지현_jihyun/외출_B.png",
+    "new": "히로인/백지현/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/백지현_jihyun/일상_A.png",
+    "new": "히로인/백지현/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/백지현_jihyun/일상_B.png",
+    "new": "히로인/백지현/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/차유진_yujin/외출_A.png",
+    "new": "히로인/차유진/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/차유진_yujin/외출_B.png",
+    "new": "히로인/차유진/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/차유진_yujin/일상_A.png",
+    "new": "히로인/차유진/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/차유진_yujin/일상_B.png",
+    "new": "히로인/차유진/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/한서윤_seoyun/외출_A.png",
+    "new": "히로인/한서윤/사복/원화/외출_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/한서윤_seoyun/외출_B.png",
+    "new": "히로인/한서윤/사복/원화/외출_B.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/한서윤_seoyun/일상_A.png",
+    "new": "히로인/한서윤/사복/원화/일상_A.png"
+  },
+  {
+    "old": "히로인/04_사복/원화/한서윤_seoyun/일상_B.png",
+    "new": "히로인/한서윤/사복/원화/일상_B.png"
+  },
+  {
+    "old": "히로인/04_사복/포즈예시/강리아_ria.png",
+    "new": "히로인/강리아/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/04_사복/포즈예시/백지현_jihyun.png",
+    "new": "히로인/백지현/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/04_사복/포즈예시/차유진_yujin.png",
+    "new": "히로인/차유진/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/04_사복/포즈예시/한서윤_seoyun.png",
+    "new": "히로인/한서윤/사복/포즈예시.png"
+  },
+  {
+    "old": "히로인/05_검수자료/MASTER/나머지_MASTER_업스케일_검수.json",
+    "new": "히로인/공통검수자료/MASTER/나머지_MASTER_업스케일_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/README.md",
+    "new": "히로인/공통검수자료/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/1주차_리아친밀감_검토.md",
+    "new": "히로인/공통검수자료/귀걸이표정/1주차_리아친밀감_검토.md"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/1주차_소스검토.json",
+    "new": "히로인/공통검수자료/귀걸이표정/1주차_소스검토.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/4히로인_귀수정_표정비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/4히로인_귀수정_표정비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/manifest.json",
+    "new": "히로인/공통검수자료/귀걸이표정/manifest.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_귀걸이_완료비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_귀걸이_완료비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_귀수정_전후.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_귀수정_전후.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_수정본/강리아_ria_MASTER.png",
+    "new": "히로인/강리아/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_수정본/백지현_jihyun_MASTER.png",
+    "new": "히로인/백지현/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_수정본/차유진_yujin_MASTER.png",
+    "new": "히로인/차유진/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_수정본/한서윤_seoyun_MASTER.png",
+    "new": "히로인/한서윤/검수자료/귀걸이_MASTER_기록.png"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_입력경로.json",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_입력경로.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/MASTER_적용검수.json",
+    "new": "히로인/공통검수자료/귀걸이표정/MASTER_적용검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/README.md",
+    "new": "히로인/공통검수자료/귀걸이표정/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/귀_프롬프트.json",
+    "new": "히로인/공통검수자료/귀걸이표정/귀_프롬프트.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/귀_픽셀검증.json",
+    "new": "히로인/공통검수자료/귀걸이표정/귀_픽셀검증.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/귀걸이_통일12장_확대.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/귀걸이_통일12장_확대.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/리아_귓불돌기_수정전후.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/리아_귓불돌기_수정전후.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/생성_프롬프트.json",
+    "new": "히로인/공통검수자료/귀걸이표정/생성_프롬프트.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/완료_검수.json",
+    "new": "히로인/공통검수자료/귀걸이표정/완료_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/귀걸이표정/원본MASTER_귀비교.jpg",
+    "new": "히로인/공통검수자료/귀걸이표정/원본MASTER_귀비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/README.md",
+    "new": "히로인/공통검수자료/사복/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_daily_a_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_daily_a_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_daily_b_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_daily_b_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_date_a_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_date_a_확대비교.jpg",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/jihyun_date_b_검수.json",
+    "new": "히로인/백지현/검수자료/사복/jihyun_date_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_daily_a_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_daily_a_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_daily_b_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_daily_b_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_date_a_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_date_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_date_a_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_date_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_date_b_검수.json",
+    "new": "히로인/강리아/검수자료/사복/ria_date_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_date_b_확대비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/ria_사복4장_비교.jpg",
+    "new": "히로인/강리아/검수자료/사복/ria_사복4장_비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_daily_a_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_daily_a_확대비교.jpg",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_daily_b_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_date_a_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_date_b_검수.json",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/seoyun_date_b_확대비교.jpg",
+    "new": "히로인/한서윤/검수자료/사복/seoyun_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_daily_a_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_daily_a_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_a_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_daily_b_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_daily_b_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_daily_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_date_a_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_a_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_date_b_검수.json",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_b_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/검수/yujin_date_b_확대비교.jpg",
+    "new": "히로인/차유진/검수자료/사복/yujin_date_b_확대비교.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/완료_검수.json",
+    "new": "히로인/공통검수자료/사복/완료_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복/제작기록.json",
+    "new": "히로인/공통검수자료/사복/제작기록.json"
+  },
+  {
+    "old": "히로인/05_검수자료/사복포즈예시/README.md",
+    "new": "히로인/공통검수자료/사복포즈예시/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/사복포즈예시/제작기록.json",
+    "new": "히로인/공통검수자료/사복포즈예시/제작기록.json"
+  },
+  {
+    "old": "히로인/05_검수자료/손손톱/README.md",
+    "new": "히로인/공통검수자료/손손톱/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/손손톱/수정파일.json",
+    "new": "히로인/공통검수자료/손손톱/수정파일.json"
+  },
+  {
+    "old": "히로인/05_검수자료/손손톱/수정후_전신9포즈.jpg",
+    "new": "히로인/공통검수자료/손손톱/수정후_전신9포즈.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/손손톱/프롬프트.md",
+    "new": "히로인/공통검수자료/손손톱/프롬프트.md"
+  },
+  {
+    "old": "히로인/05_검수자료/손손톱/픽셀검증.json",
+    "new": "히로인/공통검수자료/손손톱/픽셀검증.json"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/manifest.json",
+    "new": "히로인/공통검수자료/포즈/manifest.json"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/README.md",
+    "new": "히로인/공통검수자료/포즈/README.md"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/최종_손확대_1.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_1.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/최종_손확대_2.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_2.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/최종_손확대_3.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_손확대_3.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/최종_전신9장.jpg",
+    "new": "히로인/공통검수자료/포즈/최종_전신9장.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/캐주얼_default_serious_손검수.jpg",
+    "new": "히로인/공통검수자료/포즈/캐주얼_default_serious_손검수.jpg"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/캐주얼_검수.json",
+    "new": "히로인/공통검수자료/포즈/캐주얼_검수.json"
+  },
+  {
+    "old": "히로인/05_검수자료/포즈/캐주얼_검수.md",
+    "new": "히로인/공통검수자료/포즈/캐주얼_검수.md"
+  }
+]

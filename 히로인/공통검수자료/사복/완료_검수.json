@@ -1,0 +1,15 @@
+{
+  "complete": true,
+  "originals": 16,
+  "upscaled": 16,
+  "size": [
+    2048,
+    3072
+  ],
+  "alpha_verified": true,
+  "sources_unchanged": true,
+  "zip_bytes": 57578729,
+  "zip_integrity_verified": true,
+  "outputs_hash_verified": true,
+  "visual_reviewed": true
+}

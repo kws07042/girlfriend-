@@ -1,0 +1,191 @@
+[
+  {
+    "character": "seoyun",
+    "pose": "work",
+    "heroinePath": "히로인/한서윤/포즈/업무.png",
+    "runtimePath": "RenPy_게임/game/images/characters/seoyun_poses/work.png",
+    "width": 2048,
+    "height": 3070,
+    "bytes": 3008600,
+    "sha256": "502f222c709750c13e2b741610f86621783e3f3db9017be0806f8d08f1d955d3",
+    "changedPixels": 26277,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 430,
+        "top": 737,
+        "width": 451,
+        "height": 461
+      }
+    ],
+    "result": "펼친 손의 갈고리형 손가락 수정. 태블릿을 잡은 손은 유지."
+  },
+  {
+    "character": "seoyun",
+    "pose": "casual",
+    "heroinePath": "히로인/한서윤/포즈/캐주얼.png",
+    "runtimePath": "RenPy_게임/game/images/characters/seoyun_poses/casual.png",
+    "width": 2048,
+    "height": 3070,
+    "bytes": 2027004,
+    "sha256": "2863e4354e90ebffd20caf3ee5e647bfcae45ac0dcb911ae9bcdf49c7b6c68e1",
+    "changedPixels": 0,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [],
+    "result": "태블릿을 잡은 양손의 관절·겹침 정상."
+  },
+  {
+    "character": "ria",
+    "pose": "explaining",
+    "heroinePath": "히로인/강리아/포즈/설명.png",
+    "runtimePath": "RenPy_게임/game/images/characters/ria_poses/explaining.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 5190239,
+    "sha256": "3543de68460057fdf30fb6919ef57317ad197b91e980fe72cf5f61e0706c1003",
+    "changedPixels": 25448,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 430,
+        "top": 1229,
+        "width": 389,
+        "height": 584
+      }
+    ],
+    "result": "늘어뜨린 손의 뾰족한 손끝 수정. 설명하는 손은 굽힘에 따른 손톱 노출로 판단."
+  },
+  {
+    "character": "ria",
+    "pose": "casual",
+    "heroinePath": "히로인/강리아/포즈/캐주얼.png",
+    "runtimePath": "RenPy_게임/game/images/characters/ria_poses/casual.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 3708292,
+    "sha256": "1789c27c476d60da457ea2c3449a10eefbd8a58501da700f4b0fdc4e0b4205a0",
+    "changedPixels": 0,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [],
+    "result": "컵을 잡고 받치는 양손의 손가락 개수·접촉 정상."
+  },
+  {
+    "character": "ria",
+    "pose": "listening",
+    "heroinePath": "히로인/강리아/포즈/듣는자세.png",
+    "runtimePath": "RenPy_게임/game/images/characters/ria_poses/listening.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 5354880,
+    "sha256": "ba0f36e7491e6ab9136ae07c62a4031a4ae0568f9625928db1b372984fd29647",
+    "changedPixels": 42411,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 1249,
+        "top": 1321,
+        "width": 389,
+        "height": 522
+      }
+    ],
+    "result": "늘어뜨린 손의 부채꼴 손끝과 긴 손톱 수정. 컵을 잡은 손은 유지."
+  },
+  {
+    "character": "yujin",
+    "pose": "work",
+    "heroinePath": "히로인/차유진/포즈/업무.png",
+    "runtimePath": "RenPy_게임/game/images/characters/yujin_poses/work.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 4651400,
+    "sha256": "5e7a422063b720f3cc4e3891c52b4b9498a3bf19ff3bb5697365ace62bc2a106",
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ],
+    "result": "팔꿈치를 받치는 손 수정본 적용. 턱 근처 갈고리형 손가락 추가 수정."
+  },
+  {
+    "character": "yujin",
+    "pose": "casual",
+    "heroinePath": "히로인/차유진/포즈/캐주얼.png",
+    "runtimePath": "RenPy_게임/game/images/characters/yujin_poses/casual.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 3495436,
+    "sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c",
+    "changedPixels": 0,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [],
+    "result": "팔 위에 얹은 손과 책을 잡은 손의 연결 정상. 길고 가는 손톱은 기존 스타일."
+  },
+  {
+    "character": "jihyun",
+    "pose": "work",
+    "heroinePath": "히로인/백지현/포즈/업무.png",
+    "runtimePath": "RenPy_게임/game/images/characters/jihyun_poses/work.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 3694777,
+    "sha256": "a19ba969cd03d1a4b0084704c9c5993f34fbd27551cb86c86575ed38ad611643",
+    "changedPixels": 0,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [],
+    "result": "팔짱의 손가락 관절·겹침 정상. 반대 손은 팔 아래 가려진 상태.",
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "changedPixels": 768,
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    }
+  },
+  {
+    "character": "jihyun",
+    "pose": "casual",
+    "heroinePath": "히로인/백지현/포즈/캐주얼.png",
+    "runtimePath": "RenPy_게임/game/images/characters/jihyun_poses/casual.png",
+    "width": 2048,
+    "height": 3072,
+    "bytes": 4215048,
+    "sha256": "a4eb0f39c7bf8e47abe88ff1791e59d25a8ab470a8fcf4c7525c056a495d6a05",
+    "changedPixels": 26046,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 492,
+        "top": 1106,
+        "width": 389,
+        "height": 707
+      }
+    ],
+    "result": "늘어뜨린 오른손(화면 왼쪽)의 손끝 수정. 시계 쪽 손은 유지.",
+    "additionalEarRepair": {
+      "date": "2026-10-08",
+      "rect": {
+        "left": 1075,
+        "top": 169,
+        "width": 184,
+        "height": 307
+      },
+      "changedPixels": 778,
+      "record": "히로인/공통검수자료/듣는자세_귀검수_20261008/귀_픽셀검증.json"
+    }
+  }
+]
