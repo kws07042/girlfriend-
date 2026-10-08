@@ -1,8 +1,8 @@
 {
   "updated": "2026-10-08",
-  "total": 108,
+  "total": 109,
   "png": 80,
-  "jpg": 28,
+  "jpg": 29,
   "images": [
     {
       "path": "히로인/강리아/검수자료/귀걸이_MASTER_기록.png",
@@ -331,8 +331,8 @@
       "filename": "듣는자세_3인.jpg",
       "width": 1350,
       "height": 780,
-      "bytes": 162305,
-      "sha256": "476fb7cd2b1e2eb946b4bd43acf610c104b42b87010d5b6cf904bde9f9421510"
+      "bytes": 151962,
+      "sha256": "24736999b93813fe189a58ddfb4f7d2220b7fda79dda5ee83ad0bad27433b0d2"
     },
     {
       "path": "히로인/공통검수자료/듣는자세_귀검수_20261008/얼굴_귀_손_확대.jpg",
@@ -341,8 +341,18 @@
       "filename": "얼굴_귀_손_확대.jpg",
       "width": 1300,
       "height": 1800,
-      "bytes": 415419,
-      "sha256": "43c0cff0913c0f7af9f4031049e9936c6232fd13ae2b72e630e219a94fc34439"
+      "bytes": 473188,
+      "sha256": "1b7cfa7a1a3ee7921de2c19367939c7df68dfa1048cea9b24761930e8f0ebe49"
+    },
+    {
+      "path": "히로인/공통검수자료/듣는자세_귀검수_20261008/포즈_구분비교.jpg",
+      "character": null,
+      "category": "듣는자세_귀검수_20261008",
+      "filename": "포즈_구분비교.jpg",
+      "width": 1200,
+      "height": 1950,
+      "bytes": 395519,
+      "sha256": "62700122f981d8a8ed2e92f72f4babe2dac9db617efcbcdb3725021510b468a0"
     },
     {
       "path": "히로인/공통검수자료/손손톱/수정후_전신9포즈.jpg",
@@ -541,8 +551,8 @@
       "filename": "듣는자세.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2560074,
-      "sha256": "a278ab8ad6d9471dcf9fe43dddc40cf23bcc83a61698d3de6a9639af52f98db6"
+      "bytes": 2331271,
+      "sha256": "aa5fc5f97f45bdd5b9d32f785f65230d2f75f742bb00543269f2c80ed3f47afc"
     },
     {
       "path": "히로인/백지현/포즈/업무.png",
@@ -771,8 +781,8 @@
       "filename": "듣는자세.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 3104599,
-      "sha256": "cc5f5387279325f6ad7c90c465bdf40a114df5378ac7338e550529cbcf078d54"
+      "bytes": 3256099,
+      "sha256": "140168ca6a9792e683c5e1304487543a7dd59ae29e6ba8889a135a2bff036863"
     },
     {
       "path": "히로인/차유진/포즈/업무.png",
@@ -990,9 +1000,9 @@
       "category": "포즈",
       "filename": "듣는자세.png",
       "width": 2048,
-      "height": 3070,
-      "bytes": 3141896,
-      "sha256": "a7b37103d3b1823b4d9ae850321d537e0cea105193873b9d2dee1b7132f50f7a"
+      "height": 3072,
+      "bytes": 2852093,
+      "sha256": "05d59e3e90a333c2fda4bd7bbebef124251c314bb5a6270d4b47131644e674f0"
     },
     {
       "path": "히로인/한서윤/포즈/업무.png",
