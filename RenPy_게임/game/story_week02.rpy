@@ -207,6 +207,8 @@ label week3_direction_start:
     $ chapter = "다음 이야기의 방향"
     $ renpy.retain_after_load()
     call screen day_result
+    if _return == "continue":
+        jump week34_start
     return
 
 label w2_morning_6:

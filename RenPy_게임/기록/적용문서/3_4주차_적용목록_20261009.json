@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-09",
+  "runtime_days": "01–20",
+  "gap_sites": 5,
+  "gaps_per_individual_path_max": 2,
+  "outfits": [
+    {
+      "who": "seoyun",
+      "pose": "daily_a",
+      "path": "images\\characters\\seoyun_outfits\\daily_a.png",
+      "sha256": "b9235a246077975f67e93c89b57ad703fcfeac832af7bdca726e35bc706d26d5"
+    },
+    {
+      "who": "seoyun",
+      "pose": "daily_b",
+      "path": "images\\characters\\seoyun_outfits\\daily_b.png",
+      "sha256": "25e964c12dea12baf147a44c3e767209588bfd070f8580557ef262dfa2b07196"
+    },
+    {
+      "who": "seoyun",
+      "pose": "date_a",
+      "path": "images\\characters\\seoyun_outfits\\date_a.png",
+      "sha256": "f7796d01cde0209c0c84386714c9c8eb4623745941d4a821a9ba4c1c83c28a86"
+    },
+    {
+      "who": "seoyun",
+      "pose": "date_b",
+      "path": "images\\characters\\seoyun_outfits\\date_b.png",
+      "sha256": "95fe76303b9dd6511b0a3c81234323acbfe3cbfbfbd5d6cd261da58ae864b1d0"
+    },
+    {
+      "who": "ria",
+      "pose": "daily_a",
+      "path": "images\\characters\\ria_outfits\\daily_a.png",
+      "sha256": "309683bb50f173b80d90382b16090def11b5713cd46f2f682ab47212db6de1d8"
+    },
+    {
+      "who": "ria",
+      "pose": "daily_b",
+      "path": "images\\characters\\ria_outfits\\daily_b.png",
+      "sha256": "e9e1776bfd286b8d71da2fadc2c1ccdd9d485efe8fbed1a010da1b2eb2665e95"
+    },
+    {
+      "who": "ria",
+      "pose": "date_a",
+      "path": "images\\characters\\ria_outfits\\date_a.png",
+      "sha256": "7ba19a4a2ccc3b2f871a466697b43ccf0f00dd76a2f8637cf96ae6ff03d3b5d5"
+    },
+    {
+      "who": "ria",
+      "pose": "date_b",
+      "path": "images\\characters\\ria_outfits\\date_b.png",
+      "sha256": "0c32d43f96c64afa1bf1b53ef9d91ed94290429f874ad43b2022c86eed9daacb"
+    },
+    {
+      "who": "yujin",
+      "pose": "daily_a",
+      "path": "images\\characters\\yujin_outfits\\daily_a.png",
+      "sha256": "9c9511fb2137d12e65a086211015f425c7152ec7542c43b582ec076cd863e141"
+    },
+    {
+      "who": "yujin",
+      "pose": "daily_b",
+      "path": "images\\characters\\yujin_outfits\\daily_b.png",
+      "sha256": "2b62240678d4fc8e5691c74f7d3c956cf47b3fc7757b7ba9a9234ab3a49223ea"
+    },
+    {
+      "who": "yujin",
+      "pose": "date_a",
+      "path": "images\\characters\\yujin_outfits\\date_a.png",
+      "sha256": "a0e0a23be1b64718520871726cd4ddfe869d499578c6b4f1675361faedf527f8"
+    },
+    {
+      "who": "yujin",
+      "pose": "date_b",
+      "path": "images\\characters\\yujin_outfits\\date_b.png",
+      "sha256": "d4203ec3a1c5ae2b8a490961830be014183ff24d17f74b01da10e0a771388cf9"
+    },
+    {
+      "who": "jihyun",
+      "pose": "daily_a",
+      "path": "images\\characters\\jihyun_outfits\\daily_a.png",
+      "sha256": "8433812b195babbcff2049ccce2a879c437dcd21a121d6707fa8f5e78eb9e876"
+    },
+    {
+      "who": "jihyun",
+      "pose": "daily_b",
+      "path": "images\\characters\\jihyun_outfits\\daily_b.png",
+      "sha256": "6d1417a4e458fd12d448e817b9bffd36cffdd5a911450a9f6ad60eefb8a45724"
+    },
+    {
+      "who": "jihyun",
+      "pose": "date_a",
+      "path": "images\\characters\\jihyun_outfits\\date_a.png",
+      "sha256": "6281ef2c68ec5270ce402845183d650e9d233e70fe66db7b00fdd356c9411c25"
+    },
+    {
+      "who": "jihyun",
+      "pose": "date_b",
+      "path": "images\\characters\\jihyun_outfits\\date_b.png",
+      "sha256": "ff6fae577a903caff8d72d575a69ae0f00468ebcb1f63fa7f4db64153d685ece"
+    }
+  ],
+  "existing_week2_dialogue_unchanged": true,
+  "week34_authored_say_blocks": 654
+}
