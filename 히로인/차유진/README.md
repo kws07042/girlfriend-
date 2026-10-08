@@ -6,15 +6,12 @@
 
 <a href="MASTER.png"><img src="MASTER.png" width="200"></a>
 
-## 듣는 자세
-
-<a href="포즈/듣는자세.png"><img src="포즈/듣는자세.png" width="160"></a>
 
 ## 포즈
 
-|업무|캐주얼|
+|업무|캐주얼|듣는 자세|
 |:---:|:---:|
-|<a href="포즈/업무.png"><img src="포즈/업무.png" width="140"></a>|<a href="포즈/캐주얼.png"><img src="포즈/캐주얼.png" width="140"></a>|
+|<a href="포즈/업무.png"><img src="포즈/업무.png" width="140"></a>|<a href="포즈/캐주얼.png"><img src="포즈/캐주얼.png" width="140"></a>|<a href="포즈/듣는자세.png"><img src="포즈/듣는자세.png" width="160"></a>
 
 ## 표정
 
