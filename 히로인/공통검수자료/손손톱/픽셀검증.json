@@ -1,0 +1,170 @@
+[
+  {
+    "path": "히로인/한서윤/사복/업스케일/일상_B_2x.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 29987,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/한서윤/사복/원화/일상_B.png",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 7755,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/한서윤/표정/업무_default.png",
+    "width": 2048,
+    "height": 3070,
+    "changedPixels": 26277,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/한서윤/표정/업무_serious.png",
+    "width": 2048,
+    "height": 3070,
+    "changedPixels": 26277,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/MASTER.png",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 8457,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/검수자료/귀걸이_MASTER_기록.png",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 8457,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/표정/MASTER_default.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 32776,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/표정/MASTER_serious.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 32776,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/차유진/사복/업스케일/외출_A_2x.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 27510,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/차유진/사복/원화/외출_A.png",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 7103,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/차유진/표정/업무_default.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ]
+  },
+  {
+    "path": "히로인/차유진/표정/업무_serious.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ]
+  },
+  {
+    "path": "히로인/백지현/표정/캐주얼_default.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 26046,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/백지현/표정/캐주얼_serious.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 26046,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/한서윤/사복/업스케일/외출_A_2x.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 28597,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/한서윤/사복/원화/외출_A.png",
+    "width": 1024,
+    "height": 1535,
+    "changedPixels": 7357,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/백지현/사복/업스케일/외출_B_2x.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 62722,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/백지현/사복/원화/외출_B.png",
+    "width": 1024,
+    "height": 1536,
+    "changedPixels": 15970,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/표정/설명_default.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 25448,
+    "outsideRegionChangedPixels": 0
+  },
+  {
+    "path": "히로인/강리아/표정/설명_serious.png",
+    "width": 2048,
+    "height": 3072,
+    "changedPixels": 25448,
+    "outsideRegionChangedPixels": 0
+  }
+]

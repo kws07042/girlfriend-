@@ -6,7 +6,7 @@
   "comparison_previews": 0,
   "files": [
     {
-      "path": "히로인/01_MASTER/한서윤_seoyun_MASTER.png",
+      "path": "히로인/한서윤/MASTER.png",
       "character": "seoyun",
       "role": "canonical_master",
       "width": 1024,
@@ -15,7 +15,7 @@
       "sha256": "223ffcaa6fb874511f696115d601b8cffc59a1afc90783063fabb197b8964b22"
     },
     {
-      "path": "히로인/01_MASTER/강리아_ria_MASTER.png",
+      "path": "히로인/강리아/MASTER.png",
       "character": "ria",
       "role": "canonical_master",
       "width": 1024,
@@ -24,7 +24,7 @@
       "sha256": "27466bfb2808c32140269b3b503f69c3c11cc09ee9392d61b5008798aaeb9703"
     },
     {
-      "path": "히로인/01_MASTER/차유진_yujin_MASTER.png",
+      "path": "히로인/차유진/MASTER.png",
       "character": "yujin",
       "role": "canonical_master",
       "width": 1024,
@@ -33,7 +33,7 @@
       "sha256": "d28846081fa0b578a4b3d9cf7d3d18947486909c8e5a0a3a02c680d60e04701f"
     },
     {
-      "path": "히로인/01_MASTER/백지현_jihyun_MASTER.png",
+      "path": "히로인/백지현/MASTER.png",
       "character": "jihyun",
       "role": "canonical_master",
       "width": 1024,
@@ -42,7 +42,7 @@
       "sha256": "8dc316fd361abaf308094b488bb7c3a9db9f74feadae621613f62f4b804fce7e"
     }
   ],
-  "hand_repair_manifest": "히로인/05_검수자료/손손톱/수정파일.json",
-  "pose_audit_manifest": "히로인/05_검수자료/포즈/manifest.json",
+  "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
+  "pose_audit_manifest": "히로인/공통검수자료/포즈/manifest.json",
   "external_character_images_removed": true
 }
