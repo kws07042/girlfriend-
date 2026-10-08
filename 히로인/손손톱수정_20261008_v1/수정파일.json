@@ -102,22 +102,52 @@
   {
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_default.png",
     "pose": "yujin_work",
-    "bytes": 4647289,
-    "sha256": "e51f33d3714391303e52a5dcb54c1bec9aa05f21e8416c7df3267a2622b86a2f",
+    "bytes": 4651400,
+    "sha256": "5e7a422063b720f3cc4e3891c52b4b9498a3bf19ff3bb5697365ace62bc2a106",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 14299,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ],
+    "additionalRepair": "인게임포즈_20261008_v1: 턱 근처 손가락"
   },
   {
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_serious.png",
     "pose": "yujin_work",
-    "bytes": 4646285,
-    "sha256": "4e766e64821718fb0407bba0124d3fcb49a27f762b5c56794bfc695a76635890",
+    "bytes": 4650384,
+    "sha256": "9568a1bacd950c462acb40c13db72520b27e1c6e4be5f0a64b8ba600eb391741",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 14299,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ],
+    "additionalRepair": "인게임포즈_20261008_v1: 턱 근처 손가락"
   },
   {
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_default.png",

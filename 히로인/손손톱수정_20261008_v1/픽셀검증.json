@@ -73,15 +73,43 @@
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_default.png",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 14299,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ]
   },
   {
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/yujin/yujin_work_serious.png",
     "width": 2048,
     "height": 3072,
-    "changedPixels": 14299,
-    "outsideRegionChangedPixels": 0
+    "changedPixels": 31480,
+    "outsideRegionChangedPixels": 0,
+    "repairRegions": [
+      {
+        "left": 655,
+        "top": 829,
+        "width": 451,
+        "height": 492
+      },
+      {
+        "left": 860,
+        "top": 369,
+        "width": 348,
+        "height": 399
+      }
+    ]
   },
   {
     "path": "히로인/표정24장_귀걸이통일_20261007_v2/jihyun/jihyun_casual_default.png",

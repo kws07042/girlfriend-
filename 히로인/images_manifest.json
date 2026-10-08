@@ -29,8 +29,8 @@
       "role": "업무",
       "width": 2048,
       "height": 3070,
-      "bytes": 2113638,
-      "sha256": "ca4e056bc0a3261f08d3f837d6a1edcf7a679636d64bdce44c77602b21307990"
+      "bytes": 3008600,
+      "sha256": "502f222c709750c13e2b741610f86621783e3f3db9017be0806f8d08f1d955d3"
     },
     {
       "path": "RenPy_게임/game/images/characters/seoyun_poses/casual.png",
@@ -74,8 +74,8 @@
       "role": "설명",
       "width": 2048,
       "height": 3072,
-      "bytes": 3951561,
-      "sha256": "6036ae220b4d59ff6ce4b4c4a322a627944dcb909772ffa1883baadf8e7fec55"
+      "bytes": 5190239,
+      "sha256": "3543de68460057fdf30fb6919ef57317ad197b91e980fe72cf5f61e0706c1003"
     },
     {
       "path": "RenPy_게임/game/images/characters/ria_poses/casual.png",
@@ -92,8 +92,8 @@
       "role": "듣는 자세",
       "width": 2048,
       "height": 3072,
-      "bytes": 4005425,
-      "sha256": "1425dc1fbe86f023fb20434a924bb8225a72b7284ff996b5d9b23dc8d3bd1205"
+      "bytes": 5354880,
+      "sha256": "ba0f36e7491e6ab9136ae07c62a4031a4ae0568f9625928db1b372984fd29647"
     },
     {
       "path": "RenPy_게임/game/images/phone/ria_profile_v001.png",
@@ -128,8 +128,8 @@
       "role": "업무",
       "width": 2048,
       "height": 3072,
-      "bytes": 3423342,
-      "sha256": "f11cbb7ab56398ee10f89432993efb7b7927e488f0aad82b8e5295591db4cac0"
+      "bytes": 4651400,
+      "sha256": "5e7a422063b720f3cc4e3891c52b4b9498a3bf19ff3bb5697365ace62bc2a106"
     },
     {
       "path": "RenPy_게임/game/images/characters/yujin_poses/casual.png",
@@ -182,8 +182,8 @@
       "role": "편한 대화",
       "width": 2048,
       "height": 3072,
-      "bytes": 3093390,
-      "sha256": "a2dca7d9e50e6a155fd81b5a8f086bf2b44317b66d2b839f4dce5a094ad31a8b"
+      "bytes": 4215066,
+      "sha256": "ed17bfe2252ca31e650b7f7cf0dbdf1447eea78f3f7fbd13643ea3a525d6d0e7"
     },
     {
       "path": "RenPy_게임/game/images/phone/jihyun_profile_v001.png",
@@ -204,5 +204,6 @@
       "sha256": "9453853a7e671bdd0f473c332a81ee935368c06aa908bd3d822973dc9061b189"
     }
   ],
-  "hand_repair_manifest": "히로인/손손톱수정_20261008_v1/수정파일.json"
+  "hand_repair_manifest": "히로인/손손톱수정_20261008_v1/수정파일.json",
+  "pose_audit_manifest": "히로인/인게임포즈_20261008_v1/manifest.json"
 }
