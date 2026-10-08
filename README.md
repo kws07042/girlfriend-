@@ -24,3 +24,5 @@
 Ren’Py SDK·개인 세이브·캐시·변경 전 백업은 저장소에 포함하지 않습니다. 공식 [Ren’Py 다운로드](https://www.renpy.org/download.html)에서 SDK를 받고, 프로젝트에서 검수한 8.5.3 SDK 폴더를 `도구/renpy-8.5.3-sdk`에 두면 Windows 실행 버튼을 사용할 수 있습니다. 다른 환경에서는 Ren’Py Launcher에서 `RenPy_게임` 프로젝트를 열면 됩니다.
 
 이후 본편은 제작 중이며 DAY 11의 방향 선택은 교제나 후반 사건 완료를 자동으로 확정하지 않습니다. 사복 16장과 새 진지 표정은 저장한 후보 세트입니다.
+
+[휴대폰용 이미지 모음](gallery/README.md)
