@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-09",
+  "runtime_days": "01–30",
+  "personal_endings": 12,
+  "team_endings": 1,
+  "group_route_implemented": false,
+  "prior_dialogue_unchanged": true,
+  "final_placeholder_pages_per_heroine": 5,
+  "new_say_blocks": 614,
+  "full_story_tests": {
+    "paths": 20,
+    "assertions": 364
+  },
+  "phone_time_tests": {
+    "paths": 2,
+    "assertions": 6
+  }
+}

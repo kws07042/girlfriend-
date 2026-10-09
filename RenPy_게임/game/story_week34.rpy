@@ -126,8 +126,10 @@ label week34_workday:
     if day == 20:
         $ w34_finished = True
     call week_close_day
-    if _return != "continue" or day >= 20:
+    if _return != "continue":
         return
+    if day == 20:
+        jump week56_start
     $ start_week_day(day+1,"같은 편이라는 말" if day < 15 else "약속이 되는 마음")
     jump week34_workday
 

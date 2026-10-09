@@ -1,9 +1,9 @@
 define config.name = "퇴근 후, 우리"
-define config.version = "0.5.0-week34"
+define config.version = "0.6.0-week56"
 define config.screen_width = 1920
 define config.screen_height = 1080
 define config.save_directory = "MomentWorksOffice-20261001"
-define config.window_title = "퇴근 후, 우리 · Ren'Py 4주차"
+define config.window_title = "퇴근 후, 우리 · Ren'Py 여섯 주"
 define config.rollback_enabled = True
 define config.history_length = 400
 define config.default_text_cps = 35

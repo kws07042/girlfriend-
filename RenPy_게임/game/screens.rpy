@@ -454,10 +454,10 @@ screen day_result():
             frame:
                 background ui_panel("incoming") xfill True
                 text "다음 약속: " + next_meeting_text() size 24 xmaximum 990
-            text ("다음 주에는 더 알아보고 싶은 사람을 고릅니다.\n대화하면서 마음이 달라지면 다시 정할 수 있어요." if day == 5 else ("3주차의 업무와 사적인 대화가 이어집니다. 방향 선택만으로 교제가 확정되지는 않습니다." if day == 11 else ("4주차까지 완료했습니다. 5·6주차 본편은 제작 중입니다." if day == 20 else "오늘의 선택과 연락은 다음 날에도 이어집니다."))) size 24 color "#899499"
+            text ("다음 주에는 더 알아보고 싶은 사람을 고릅니다.\n대화하면서 마음이 달라지면 다시 정할 수 있어요." if day == 5 else ("3주차의 업무와 사적인 대화가 이어집니다. 방향 선택만으로 교제가 확정되지는 않습니다." if day == 11 else ("다음 주에는 약속과 일정이 부딪힙니다. 함께 정한 관계는 별도의 선택으로 이어집니다." if day == 20 else "오늘의 선택과 연락은 다음 날에도 이어집니다."))) size 24 color "#899499"
             hbox:
                 spacing 16
-                if day < 20:
+                if day < 30:
                     textbutton ("11일차 이야기 계속" if day == 11 and not w34_started else "%d일차로 계속" % (day+1)) action Return("continue") style "ui_action_button"
                 textbutton "휴대폰 확인" action Show("phone") style "ui_light_button"
                 textbutton "저장" action ShowMenu("save") style "ui_light_button"

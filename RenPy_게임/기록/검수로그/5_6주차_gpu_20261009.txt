@@ -1,0 +1,62 @@
+[rpytest] [log] Running 2 test(s) marked with 'only' flag.
+[rpytest] [log] - global.office_week56
+[rpytest] [log] - global.office_week56
+
+[rpytest] Starting test run
+[rpytest] Platform:      Windows-11-10.0.26200-SP0
+[rpytest] Python:        3.12.7
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.6.0-week56
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + office_week56
+[rpytest] [exc]     - seoyun_good
+[rpytest] [exc]     - seoyun_good (4.904 s)
+[rpytest] [exc]     - seoyun_open
+[rpytest] [exc]     - seoyun_open (3.819 s)
+[rpytest] [exc]     - seoyun_distance
+[rpytest] [exc]     - seoyun_distance (3.939 s)
+[rpytest] [exc]     - ria_good
+[rpytest] [exc]     - ria_good (3.883 s)
+[rpytest] [exc]     - ria_open
+[rpytest] [exc]     - ria_open (3.928 s)
+[rpytest] [exc]     - ria_distance
+[rpytest] [exc]     - ria_distance (3.966 s)
+[rpytest] [exc]     - yujin_good
+[rpytest] [exc]     - yujin_good (4.186 s)
+[rpytest] [exc]     - yujin_open
+[rpytest] [exc]     - yujin_open (3.939 s)
+[rpytest] [exc]     - yujin_distance
+[rpytest] [exc]     - yujin_distance (4.235 s)
+[rpytest] [exc]     - jihyun_good
+[rpytest] [exc]     - jihyun_good (4.332 s)
+[rpytest] [exc]     - jihyun_open
+[rpytest] [exc]     - jihyun_open (4.380 s)
+[rpytest] [exc]     - jihyun_distance
+[rpytest] [exc]     - jihyun_distance (4.597 s)
+[rpytest] [exc]     - quality_open
+[rpytest] [exc]     - quality_open (4.506 s)
+[rpytest] [exc]     - repaired_return
+[rpytest] [exc]     - repaired_return (4.574 s)
+[rpytest] [exc]     - friend_stays_friend
+[rpytest] [exc]     - friend_stays_friend (3.859 s)
+[rpytest] [exc]     - old_breach_preserved
+[rpytest] [exc]     - old_breach_preserved (5.620 s)
+[rpytest] [exc]     - team_40
+[rpytest] [exc]     - team_40 (3.544 s)
+[rpytest] [exc]     - team_10
+[rpytest] [exc]     - team_10 (2.461 s)
+[rpytest] [exc]     - team_0
+[rpytest] [exc]     - team_0 (2.294 s)
+[rpytest] [exc]     - existing_day20_checkpoint
+[rpytest] [exc]     - existing_day20_checkpoint (0.466 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:    16 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |    14 skipped |     0 not run
+[rpytest] Test cases :    91 |    20 passed |     0 xfailed |     0 failed |     0 xpassed |    70 skipped |     1 not run
+[rpytest] Test hooks :    22 |    22 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :   364 |   364 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 91.398 s [01:31]
+[rpytest] Status: PASSED 
+
