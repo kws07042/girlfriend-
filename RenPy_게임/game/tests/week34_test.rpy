@@ -93,7 +93,7 @@ testsuite office_week34:
         assert eval not w34_seen_gaps and people["seoyun"]["photo_cap"] == 0
         assert eval w34_gap_page == 1 and w34_gap_token == "seoyun_first"
         assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
-        screenshot "week34_seoyun_five_page_gap" max_pixel_difference 200
+        screenshot "week34_seoyun_five_click_gap" max_pixel_difference 200
         assert eval w34_gap_page == 1 and not w34_seen_gaps
         assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
@@ -220,7 +220,7 @@ testsuite office_week34:
         assert eval not w34_seen_gaps and people["ria"]["photo_cap"] == 0
         assert eval w34_gap_page == 1 and w34_gap_token == "ria_first"
         assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
-        screenshot "week34_ria_five_page_gap" max_pixel_difference 200
+        screenshot "week34_ria_five_click_gap" max_pixel_difference 200
         assert eval w34_gap_page == 1 and not w34_seen_gaps
         assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
@@ -336,7 +336,7 @@ testsuite office_week34:
         assert eval not w34_seen_gaps and people["yujin"]["photo_cap"] == 0
         assert eval w34_gap_page == 1 and w34_gap_token == "yujin_first"
         assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
-        screenshot "week34_yujin_five_page_gap" max_pixel_difference 200
+        screenshot "week34_yujin_five_click_gap" max_pixel_difference 200
         assert eval w34_gap_page == 1 and not w34_seen_gaps
         assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
@@ -452,7 +452,7 @@ testsuite office_week34:
         assert eval not w34_seen_gaps and people["jihyun"]["photo_cap"] == 0
         assert eval w34_gap_page == 1 and w34_gap_token == "jihyun_first"
         assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
-        screenshot "week34_jihyun_five_page_gap" max_pixel_difference 200
+        screenshot "week34_jihyun_five_click_gap" max_pixel_difference 200
         assert eval w34_gap_page == 1 and not w34_seen_gaps
         assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"

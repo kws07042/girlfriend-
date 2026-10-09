@@ -102,5 +102,8 @@
     }
   ],
   "existing_week2_dialogue_unchanged": true,
-  "week34_authored_say_blocks": 654
+  "week34_authored_say_blocks": 654,
+  "midpoint_pages_per_heroine": 5,
+  "total_midpoint_pages": 20,
+  "placeholder_pages_per_individual_path_max": 6
 }

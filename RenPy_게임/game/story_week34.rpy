@@ -76,7 +76,7 @@ screen w34_placeholder(token, page=1, total=1):
         xpos 80 ypos 850 xsize 1760 ysize 220 padding (36,20)
         vbox:
             spacing 8
-            text ("AFTER HOURS · %d / %d" % (page,total) if total > 1 else "AFTER HOURS") size 20 color "#9CACB4" kerning 2
+            text ("AFTER HOURS / %d / %d" % (page,total) if total > 1 else "AFTER HOURS") size 20 color "#9CACB4" kerning 2
             text "(거사중)" id "what" size 31 color "#F8F4EE"
     add Solid("#D6B18A") xpos 116 ypos 850 xsize 72 ysize 3
     use quick_menu
