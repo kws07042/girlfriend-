@@ -7,6 +7,8 @@ default w34_answer = "pending"
 default w34_private = []
 default w34_seen_gaps = []
 default w34_outfit = None
+default w34_gap_page = 0
+default w34_gap_token = None
 
 init 47 python:
     w34_codes = {"seoyun":"SY", "ria":"RI", "yujin":"YJ", "jihyun":"JH"}
@@ -59,7 +61,7 @@ init 47 python:
     for _d,_who,_text in [(12,"ria","메시지가 삭제되었습니다. 만나서 이야기할게요."),(15,"seoyun","오늘은 식사만 하고 각자 돌아가요. 개인적인 약속은 다음에 시간을 확인하고요."),(17,"yujin","퇴근 뒤에는 다른 곳에서 이야기할 수 있어요. 회사 자료는 놓고 와 주세요.")]:
         message_data["w34_%d" % _d] = {"who":_who,"time":"17:50","texts":[_text]}
 
-screen w34_placeholder(token):
+screen w34_placeholder(token, page=1, total=1):
     modal True
     zorder 250
     add Solid("#000000")
@@ -74,7 +76,7 @@ screen w34_placeholder(token):
         xpos 80 ypos 850 xsize 1760 ysize 220 padding (36,20)
         vbox:
             spacing 8
-            text "AFTER HOURS" size 20 color "#9CACB4" kerning 2
+            text ("AFTER HOURS · %d / %d" % (page,total) if total > 1 else "AFTER HOURS") size 20 color "#9CACB4" kerning 2
             text "(거사중)" id "what" size 31 color "#F8F4EE"
     add Solid("#D6B18A") xpos 116 ypos 850 xsize 72 ysize 3
     use quick_menu
@@ -1011,8 +1013,7 @@ label w34_gap_seoyun:
     $ w34_clear_outfit()
     $ ui_scene_actor = None
     $ ui_pose_transitions = {}
-    $ narrator.add_history("adv", None, "(거사중)")
-    call screen w34_placeholder("seoyun_first")
+    call w34_gap_sequence("seoyun_first", 5)
     $ w34_record_gap("seoyun_first")
     $ week_scene("home","도현의 집","21:10","evening","함께한 시간 뒤에")
     "돌아갈 시간과 다음에 연락할 시간을 함께 정했다. 오늘의 선택이 다음 만남의 답을 대신하지는 않았다."
@@ -1026,8 +1027,7 @@ label w34_gap_ria:
     $ w34_clear_outfit()
     $ ui_scene_actor = None
     $ ui_pose_transitions = {}
-    $ narrator.add_history("adv", None, "(거사중)")
-    call screen w34_placeholder("ria_first")
+    call w34_gap_sequence("ria_first", 5)
     $ w34_record_gap("ria_first")
     $ week_scene("home","도현의 집","21:10","evening","함께한 시간 뒤에")
     "돌아갈 시간과 다음에 연락할 시간을 함께 정했다. 오늘의 선택이 다음 만남의 답을 대신하지는 않았다."
@@ -1041,8 +1041,7 @@ label w34_gap_yujin:
     $ w34_clear_outfit()
     $ ui_scene_actor = None
     $ ui_pose_transitions = {}
-    $ narrator.add_history("adv", None, "(거사중)")
-    call screen w34_placeholder("yujin_first")
+    call w34_gap_sequence("yujin_first", 5)
     $ w34_record_gap("yujin_first")
     $ week_scene("home","도현의 집","21:10","evening","함께한 시간 뒤에")
     "돌아갈 시간과 다음에 연락할 시간을 함께 정했다. 오늘의 선택이 다음 만남의 답을 대신하지는 않았다."
@@ -1056,8 +1055,7 @@ label w34_gap_jihyun:
     $ w34_clear_outfit()
     $ ui_scene_actor = None
     $ ui_pose_transitions = {}
-    $ narrator.add_history("adv", None, "(거사중)")
-    call screen w34_placeholder("jihyun_first")
+    call w34_gap_sequence("jihyun_first", 5)
     $ w34_record_gap("jihyun_first")
     $ week_scene("home","도현의 집","21:10","evening","함께한 시간 뒤에")
     "돌아갈 시간과 다음에 연락할 시간을 함께 정했다. 오늘의 선택이 다음 만남의 답을 대신하지는 않았다."
@@ -1094,4 +1092,16 @@ label w34_unexpected_meeting:
             dh "같이 이야기하고 있었어요. 아직 서로 답해야 할 말도 남아 있고요."
             "나는 업무 회의였다고 둘러대지 않았다. 옆에 있는 사람의 답도 먼저 정하지 않았다."
     "문이 닫힌 뒤에는 공개할 범위와 다른 사람 앞에서 쓸 호칭을 이야기했다. 누군가에게 들킨 것이 교제의 대답을 대신하지는 않았다."
+    return
+
+# Each advance completes one neutral production page. No images or graphic dialogue.
+label w34_gap_sequence(_gap_token, _gap_total=5):
+    $ w34_gap_token = _gap_token
+    $ w34_gap_page = 1
+    while w34_gap_page <= _gap_total:
+        $ narrator.add_history("adv", None, "(거사중)", gap_token=_gap_token, gap_page=w34_gap_page)
+        call screen w34_placeholder(_gap_token, page=w34_gap_page, total=_gap_total)
+        $ w34_gap_page += 1
+    $ w34_gap_page = 0
+    $ w34_gap_token = None
     return

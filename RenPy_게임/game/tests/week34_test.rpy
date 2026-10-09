@@ -91,17 +91,42 @@ testsuite office_week34:
         assert eval ui_scene_actor is None and ui_camera_override is None and w34_outfit is None
         assert eval any(h.what == "(거사중)" for h in _history_list)
         assert eval not w34_seen_gaps and people["seoyun"]["photo_cap"] == 0
-        screenshot "week34_seoyun_dialogue_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and w34_gap_token == "seoyun_first"
+        assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
+        screenshot "week34_seoyun_five_page_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 2 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 2
+        click "(거사중)"
+        pause 0.1
         run FilePage("week34-qa")
         run Function(renpy.retain_after_load)
         run FileSave(1,confirm=False)
+        run SetVariable("w34_gap_page",99)
         run SetVariable("w34_answer","friends")
         run OfficeFileLoad(1,confirm=False)
         pause until screen "w34_placeholder"
-        assert eval w34_answer == "dating" and not w34_seen_gaps
+        assert eval w34_gap_page == 3 and w34_answer == "dating" and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 3
         run FileDelete(1,confirm=False)
         run FilePage(1)
+        assert eval w34_gap_page == 3 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 3
         click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 4 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 4
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 5 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 5
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 0 and w34_gap_token is None
+        assert eval [getattr(h,"gap_page",None) for h in _history_list if getattr(h,"gap_token",None) == "seoyun_first"] == [1,2,3,4,5]
         advance until screen "day_result"
         assert eval w34_seen_gaps == ["seoyun_first"]
         assert eval day == 18
@@ -193,8 +218,31 @@ testsuite office_week34:
         assert eval ui_scene_actor is None and ui_camera_override is None and w34_outfit is None
         assert eval any(h.what == "(거사중)" for h in _history_list)
         assert eval not w34_seen_gaps and people["ria"]["photo_cap"] == 0
-        screenshot "week34_ria_dialogue_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and w34_gap_token == "ria_first"
+        assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
+        screenshot "week34_ria_five_page_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 2 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 2
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 3 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 3
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 4 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 4
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 5 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 5
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 0 and w34_gap_token is None
+        assert eval [getattr(h,"gap_page",None) for h in _history_list if getattr(h,"gap_token",None) == "ria_first"] == [1,2,3,4,5]
         advance until screen "day_result"
         assert eval w34_seen_gaps == ["ria_first"]
         assert eval day == 18
@@ -286,8 +334,31 @@ testsuite office_week34:
         assert eval ui_scene_actor is None and ui_camera_override is None and w34_outfit is None
         assert eval any(h.what == "(거사중)" for h in _history_list)
         assert eval not w34_seen_gaps and people["yujin"]["photo_cap"] == 0
-        screenshot "week34_yujin_dialogue_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and w34_gap_token == "yujin_first"
+        assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
+        screenshot "week34_yujin_five_page_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 2 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 2
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 3 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 3
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 4 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 4
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 5 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 5
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 0 and w34_gap_token is None
+        assert eval [getattr(h,"gap_page",None) for h in _history_list if getattr(h,"gap_token",None) == "yujin_first"] == [1,2,3,4,5]
         advance until screen "day_result"
         assert eval w34_seen_gaps == ["yujin_first"]
         assert eval day == 18
@@ -379,8 +450,31 @@ testsuite office_week34:
         assert eval ui_scene_actor is None and ui_camera_override is None and w34_outfit is None
         assert eval any(h.what == "(거사중)" for h in _history_list)
         assert eval not w34_seen_gaps and people["jihyun"]["photo_cap"] == 0
-        screenshot "week34_jihyun_dialogue_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and w34_gap_token == "jihyun_first"
+        assert eval renpy.get_screen("w34_placeholder").scope["total"] == 5
+        screenshot "week34_jihyun_five_page_gap" max_pixel_difference 200
+        assert eval w34_gap_page == 1 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 1
         click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 2 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 2
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 3 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 3
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 4 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 4
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 5 and not w34_seen_gaps
+        assert eval renpy.get_screen("w34_placeholder").scope["page"] == 5
+        click "(거사중)"
+        pause 0.1
+        assert eval w34_gap_page == 0 and w34_gap_token is None
+        assert eval [getattr(h,"gap_page",None) for h in _history_list if getattr(h,"gap_token",None) == "jihyun_first"] == [1,2,3,4,5]
         advance until screen "day_result"
         assert eval w34_seen_gaps == ["jihyun_first"]
         assert eval day == 18
