@@ -1,0 +1,91 @@
+{
+  "copied_images": 14,
+  "all_folder_photos": 23,
+  "zip_bytes": 60503261,
+  "images": [
+    {
+      "label": "마스터",
+      "source": "MASTER.png",
+      "download": "master.png",
+      "sha256": "d28846081fa0b578a4b3d9cf7d3d18947486909c8e5a0a3a02c680d60e04701f"
+    },
+    {
+      "label": "업무 포즈",
+      "source": "포즈/업무.png",
+      "download": "work.png",
+      "sha256": "5e7a422063b720f3cc4e3891c52b4b9498a3bf19ff3bb5697365ace62bc2a106"
+    },
+    {
+      "label": "편한 대화 포즈",
+      "source": "포즈/캐주얼.png",
+      "download": "casual.png",
+      "sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c"
+    },
+    {
+      "label": "듣는 포즈",
+      "source": "포즈/듣는자세.png",
+      "download": "listening.png",
+      "sha256": "140168ca6a9792e683c5e1304487543a7dd59ae29e6ba8889a135a2bff036863"
+    },
+    {
+      "label": "사복 일상 A",
+      "source": "사복/업스케일/일상_A_2x.png",
+      "download": "daily_a.png",
+      "sha256": "9c9511fb2137d12e65a086211015f425c7152ec7542c43b582ec076cd863e141"
+    },
+    {
+      "label": "사복 일상 B",
+      "source": "사복/업스케일/일상_B_2x.png",
+      "download": "daily_b.png",
+      "sha256": "2b62240678d4fc8e5691c74f7d3c956cf47b3fc7757b7ba9a9234ab3a49223ea"
+    },
+    {
+      "label": "사복 외출 A",
+      "source": "사복/업스케일/외출_A_2x.png",
+      "download": "date_a.png",
+      "sha256": "6ddbdf6340244c92fee3c32ebae850d0b7b24edc0b9abd7ed05f1c9882afe6f9"
+    },
+    {
+      "label": "사복 외출 B",
+      "source": "사복/업스케일/외출_B_2x.png",
+      "download": "date_b.png",
+      "sha256": "d4203ec3a1c5ae2b8a490961830be014183ff24d17f74b01da10e0a771388cf9"
+    },
+    {
+      "label": "MASTER 기본 표정",
+      "source": "표정/MASTER_default.png",
+      "download": "master_default.png",
+      "sha256": "0f5328cbbcbe2926d89fbb6e2754d68e068a3c827ece319c097ec596fa903a49"
+    },
+    {
+      "label": "MASTER 진지 표정",
+      "source": "표정/MASTER_serious.png",
+      "download": "master_serious.png",
+      "sha256": "4bd03f70c31bead98a9298f42f5c5317c8ddfd4f40010ebc302a793d2dbb3f82"
+    },
+    {
+      "label": "업무 기본 표정",
+      "source": "표정/업무_default.png",
+      "download": "work_default.png",
+      "sha256": "5e7a422063b720f3cc4e3891c52b4b9498a3bf19ff3bb5697365ace62bc2a106"
+    },
+    {
+      "label": "업무 진지 표정",
+      "source": "표정/업무_serious.png",
+      "download": "work_serious.png",
+      "sha256": "9568a1bacd950c462acb40c13db72520b27e1c6e4be5f0a64b8ba600eb391741"
+    },
+    {
+      "label": "캐주얼 기본 표정",
+      "source": "표정/캐주얼_default.png",
+      "download": "casual_default.png",
+      "sha256": "ca0469edb4b3dc94badd021015a8b3a734d72d72d7e95a1f0ba91e0ec4d9006c"
+    },
+    {
+      "label": "캐주얼 진지 표정",
+      "source": "표정/캐주얼_serious.png",
+      "download": "casual_serious.png",
+      "sha256": "91bbc8aaa29492019ef27e30712f71eeb61d53cf9091587b4666155aec221437"
+    }
+  ]
+}
