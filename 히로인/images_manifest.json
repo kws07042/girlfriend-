@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-10",
-  "scope": "All four heroines rebuilt with front-facing approved masters, unified full-body poses/expressions and 2x sprites. Previous character/outfit images removed; Ria greeting and honest poses connected to dialogue.",
+  "scope": "Four differentiated heroine designs with individualized makeup, preserved poses/expressions and transparent 2x sprites; 42 game assets synchronized.",
   "runtime_images": 42,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -11,8 +11,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1879904,
-      "sha256": "fa00326cd2694ec32dc28ce86981d0523a93cd43abdf0a17ffc4ca3b0daca96c"
+      "bytes": 1880536,
+      "sha256": "12e88d918db07f0528962bb35284f46f8afc6d161fcb30aa4e101513dcef37cf"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -20,8 +20,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 2010308,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81"
+      "bytes": 2010610,
+      "sha256": "b39b504de23da571787c320fdf04dd04db37ce005a864a0595656709c1f271f9"
     },
     {
       "path": "히로인/차유진/MASTER.png",
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1915440,
-      "sha256": "36d2d73d7e5eae9e5b2a2ff238f7463e12a35c4549f4cc1af109079d7aa21573"
+      "bytes": 1916261,
+      "sha256": "3db9267c14ec54d88cebe356a731ba819320e6744d81ca07e0dd4425701624fb"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1761958,
-      "sha256": "4ad6a2a7803613cce99513abd8578d9cbc01723333898dbc8378437188feade6"
+      "bytes": 1762880,
+      "sha256": "867150e0738519bb59b26e87d1e25c772b59d9fee59bbd2a44466a98c82ad29c"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

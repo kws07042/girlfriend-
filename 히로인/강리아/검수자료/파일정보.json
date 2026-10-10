@@ -7,84 +7,84 @@
       "file": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81",
+      "sha256": "b39b504de23da571787c320fdf04dd04db37ce005a864a0595656709c1f271f9",
       "upscale": "업스케일/MASTER.png"
     },
     {
       "file": "포즈/듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "2900a35c6bba8e1aa3ea53b65c67f23c38ab7fa5150ca4098b99a06cb4521b12",
+      "sha256": "ef3a2030bde5b1ddea6c2866bb4b43252c3f6f0128b063f4b2bec6a4f6709593",
       "upscale": "업스케일/포즈/듣는자세.png"
     },
     {
       "file": "포즈/설명.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16",
+      "sha256": "4b9239bb3866ed31238601c2311a43b4120af7a80e9f3c800bc209b2ea64a3c7",
       "upscale": "업스케일/포즈/설명.png"
     },
     {
       "file": "포즈/캐주얼.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "73bc51132015d619b79694e1380aaf8bc6727aa846f04827fee9af12510a79ac",
+      "sha256": "57d417b3fd08717006b7105f94f740f208cb2021bc867f87939c108b9e13afd6",
       "upscale": "업스케일/포즈/캐주얼.png"
     },
     {
       "file": "표정/MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81",
+      "sha256": "b39b504de23da571787c320fdf04dd04db37ce005a864a0595656709c1f271f9",
       "upscale": "업스케일/표정/MASTER_default.png"
     },
     {
       "file": "표정/MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "db9da912d43f44027f9fd371212d96f5d23e3d9f5dc64ac6bc4aef3ecdeff243",
+      "sha256": "0a0f3252ba0a13ca0e07dba8487a6c7e280a08857c319516e6f5abdfd3008f91",
       "upscale": "업스케일/표정/MASTER_serious.png"
     },
     {
       "file": "표정/설명_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16",
+      "sha256": "4b9239bb3866ed31238601c2311a43b4120af7a80e9f3c800bc209b2ea64a3c7",
       "upscale": "업스케일/표정/설명_default.png"
     },
     {
       "file": "표정/설명_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "bbe08cb33af756138b7a63073daf55d365c5c6388ea1fd8cf3ee723cc36271b3",
+      "sha256": "f3a7f3c5d62181886b79efa70255f03ba607bccd33d0eefbf00f16f9ad9531f1",
       "upscale": "업스케일/표정/설명_serious.png"
     },
     {
       "file": "표정/캐주얼_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "73bc51132015d619b79694e1380aaf8bc6727aa846f04827fee9af12510a79ac",
+      "sha256": "57d417b3fd08717006b7105f94f740f208cb2021bc867f87939c108b9e13afd6",
       "upscale": "업스케일/표정/캐주얼_default.png"
     },
     {
       "file": "표정/캐주얼_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "8670152ed9f2903a5ba16a25751ed1082306d447b3238f111248a913a82488d5",
+      "sha256": "2b1e9ad5cfc61eb020d82325e39d2ce4bb686e4c5feb4bf4630e2ace98615ab0",
       "upscale": "업스케일/표정/캐주얼_serious.png"
     },
     {
       "file": "포즈/인사.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "1b54417453e1a4f7a79ec4b8fab94f6045131643da8fe9b18f59a4f7ce26bc41",
+      "sha256": "5bc74c09488a6f5ca050fb30d7e5214d24d24d74d27cf409ed8532c0c7c37cb6",
       "upscale": "업스케일/포즈/인사.png"
     },
     {
       "file": "포즈/솔직한대화.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "140a7ffe7277991aa2b253d36d6db597683e9971b6025098b216c40c0f42b58c",
+      "sha256": "505df80ee72a8a4aafa8e9825c26840e5e3ab31705740ce67bbad73ca4477bbc",
       "upscale": "업스케일/포즈/솔직한대화.png"
     }
   ]

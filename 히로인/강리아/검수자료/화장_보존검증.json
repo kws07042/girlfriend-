@@ -1,0 +1,86 @@
+[
+  {
+    "name": "강리아",
+    "file": "MASTER.png",
+    "changed": 2647,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "포즈/듣는자세.png",
+    "changed": 2824,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "포즈/설명.png",
+    "changed": 2838,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "포즈/캐주얼.png",
+    "changed": 2881,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/MASTER_default.png",
+    "changed": 2647,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/MASTER_serious.png",
+    "changed": 2777,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/설명_default.png",
+    "changed": 2838,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/설명_serious.png",
+    "changed": 2871,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/캐주얼_default.png",
+    "changed": 2881,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "표정/캐주얼_serious.png",
+    "changed": 2890,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "포즈/인사.png",
+    "changed": 2646,
+    "alphaEqual": true,
+    "outsideEqual": true
+  },
+  {
+    "name": "강리아",
+    "file": "포즈/솔직한대화.png",
+    "changed": 2647,
+    "alphaEqual": true,
+    "outsideEqual": true
+  }
+]
