@@ -1,34 +1,34 @@
 # 한서윤
 
-[전체 히로인](../README.md) · **이미지 22개**
+[전체 히로인](../README.md) · **새 작화 이미지 24개**: 원화 10장 · 2배 확대본 10장 · 검수 이미지 4장.
 
-## MASTER
+## 정면 MASTER
 
-<a href="MASTER.png"><img src="MASTER.png" width="200"></a>
+<a href="업스케일/MASTER.png"><img src="MASTER.png" width="250"></a>
+
+[원화](MASTER.png) · [2048×3072 확대본](업스케일/MASTER.png)
+
+리아와 같은 전신 작화 방향으로 얼굴·머리·피부·손·옷·신발의 선화와 명암을 맞췄습니다. 인물별 머리색·눈색·복장·귀걸이 디자인은 유지했습니다.
 
 ## 포즈
 
-|업무|캐주얼|듣는 자세|
+|듣는 자세|업무|캐주얼|
 |:---:|:---:|:---:|
-|<a href="포즈/업무.png"><img src="포즈/업무.png" width="140"></a>|<a href="포즈/캐주얼.png"><img src="포즈/캐주얼.png" width="140"></a>|<a href="포즈/듣는자세.png"><img src="포즈/듣는자세.png" width="140"></a>|
+|<a href="포즈/듣는자세.png"><img src="포즈/듣는자세.png" width="160"></a>|<a href="포즈/업무.png"><img src="포즈/업무.png" width="160"></a>|<a href="포즈/캐주얼.png"><img src="포즈/캐주얼.png" width="160"></a>|
+|[2배 확대](업스케일/포즈/듣는자세.png)|[2배 확대](업스케일/포즈/업무.png)|[2배 확대](업스케일/포즈/캐주얼.png)|
 
 ## 표정
 
-default는 기본 표정, serious는 진지 표정입니다.
-
-|포즈|default · 기본|serious · 진지|
+|자세|기본|진지|
 |---|:---:|:---:|
-|업무|<a href="표정/업무_default.png"><img src="표정/업무_default.png" width="120"></a>|<a href="표정/업무_serious.png"><img src="표정/업무_serious.png" width="120"></a>|
-|캐주얼|<a href="표정/캐주얼_default.png"><img src="표정/캐주얼_default.png" width="120"></a>|<a href="표정/캐주얼_serious.png"><img src="표정/캐주얼_serious.png" width="120"></a>|
-|MASTER|<a href="표정/MASTER_default.png"><img src="표정/MASTER_default.png" width="120"></a>|<a href="표정/MASTER_serious.png"><img src="표정/MASTER_serious.png" width="120"></a>|
+|MASTER|<a href="표정/MASTER_default.png"><img src="표정/MASTER_default.png" width="140"></a>|<a href="표정/MASTER_serious.png"><img src="표정/MASTER_serious.png" width="140"></a>|
+|업무|<a href="표정/업무_default.png"><img src="표정/업무_default.png" width="140"></a>|<a href="표정/업무_serious.png"><img src="표정/업무_serious.png" width="140"></a>|
+|캐주얼|<a href="표정/캐주얼_default.png"><img src="표정/캐주얼_default.png" width="140"></a>|<a href="표정/캐주얼_serious.png"><img src="표정/캐주얼_serious.png" width="140"></a>|
 
-## 사복
+[표정 2배 확대본](업스케일/표정/)
 
-|의상·포즈|원화 · 약 1024×1536|업스케일 · 2048×3072|
-|---|---|:---:|
-|일상 A|[원화](사복/원화/일상_A.png)|<a href="사복/업스케일/일상_A_2x.png"><img src="사복/업스케일/일상_A_2x.png" width="110"></a>|
-|일상 B|[원화](사복/원화/일상_B.png)|<a href="사복/업스케일/일상_B_2x.png"><img src="사복/업스케일/일상_B_2x.png" width="110"></a>|
-|외출 A|[원화](사복/원화/외출_A.png)|<a href="사복/업스케일/외출_A_2x.png"><img src="사복/업스케일/외출_A_2x.png" width="110"></a>|
-|외출 B|[원화](사복/원화/외출_B.png)|<a href="사복/업스케일/외출_B_2x.png"><img src="사복/업스케일/외출_B_2x.png" width="110"></a>|
+## 검수
 
-[사복 포즈 예시](사복/포즈예시.png) · [이 인물의 검수 자료](검수자료/)
+[전신](검수자료/전신10장.jpg) · [얼굴](검수자료/얼굴10장.jpg) · [귀·귀걸이](검수자료/귀걸이확대.png) · [손](검수자료/손확대.png) · [검수 기록](검수자료/README.md)
+
+기본 표정은 같은 MASTER/포즈 파일을 사용합니다. 눈·귀·귀걸이·손과 전신 작화를 확대 확인했습니다. 2배 확대는 작화를 유지하는 Lanczos3 리샘플링이며 새 디테일을 임의로 생성하지 않았습니다. 생성형 편집으로 미세한 형태 차이가 있습니다. 이전 사복·작업본 이미지는 제거했고, 해당 장면은 새 MASTER를 사용합니다. 게임에서는 새 확대본과 표정 파일을 사용하며 이전 색상 보정은 적용하지 않습니다.

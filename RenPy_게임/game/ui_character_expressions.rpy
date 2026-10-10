@@ -164,11 +164,11 @@ init 25 python:
             store.ui_seoyun_expression = "surprised"
 
     def ui_character_static_sprite(who, pose=None, expression=None):
-        if who == "ria":
+        if who in ("ria", "seoyun", "yujin", "jihyun"):
             pose = pose or ui_pose_current(who)
             expression = expression or ui_expression_current(who)
             state = "serious" if expression == "serious" else "default"
-            path = "images/characters/ria_expressions/%s_%s.png" % (pose, state)
+            path = "images/characters/%s_expressions/%s_%s.png" % (who, pose, state)
             if renpy.loadable(path):
                 return Image(path)
             return Image(ui_character_pose_file(who, pose))

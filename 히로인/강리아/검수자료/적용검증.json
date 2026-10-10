@@ -1,53 +1,10 @@
 {
   "date": "2026-10-10",
-  "canonicalOriginals": 10,
-  "transparentUpscales": 10,
-  "runtimeCopies": 10,
+  "originals": 12,
+  "upscales": 12,
   "runtimeShaMatches": true,
-  "defaultReuseShaMatches": true,
-  "earRepairPreservation": [
-    {
-      "file": "MASTER.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "표정/MASTER_serious.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "포즈/듣는자세.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "포즈/설명.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "표정/설명_serious.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "포즈/캐주얼.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    },
-    {
-      "file": "표정/캐주얼_serious.png",
-      "alphaChangesOutsideEar": 0,
-      "maxPremultipliedRgbDeltaOutsideEar": 0.9843137254902103,
-      "roundingTolerance": 1.01
-    }
-  ],
-  "integration": "9 expression routes, listening fallback, other heroines unchanged, removed outfit fallback, palette bypass passed; RenPy runtime playtest not performed"
+  "allRgbaDimensionsAndTransparentCorners": true,
+  "originalDimensions": "1024x1536",
+  "upscaleDimensions": "2048x3072",
+  "tests": "36 expression routes, 4 listening and 2 new Ria pose fallbacks, 16 old outfit aliases, 6 dialogue callback cases pass; RenPy playtest not performed"
 }

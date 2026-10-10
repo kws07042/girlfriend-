@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-10",
-  "scope": "Ria rebuilt with one approved master, neutral pose, matching poses/expressions and 2x sprites. Old Ria images removed. Other heroines unchanged.",
-  "runtime_images": 10,
+  "scope": "All four heroines rebuilt with front-facing approved masters, unified full-body poses/expressions and 2x sprites. Previous character/outfit images removed; Ria greeting and honest poses connected to dialogue.",
+  "runtime_images": 42,
   "canonical_masters": 4,
   "comparison_previews": 0,
   "files": [
@@ -10,9 +10,9 @@
       "character": "seoyun",
       "role": "canonical_master",
       "width": 1024,
-      "height": 1535,
-      "bytes": 763173,
-      "sha256": "223ffcaa6fb874511f696115d601b8cffc59a1afc90783063fabb197b8964b22"
+      "height": 1536,
+      "bytes": 1371941,
+      "sha256": "b276f6cd945c79f645fadb00a22b7999158d6b23d6eabf07e59ea31e38ce46b8"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1407902,
-      "sha256": "d28846081fa0b578a4b3d9cf7d3d18947486909c8e5a0a3a02c680d60e04701f"
+      "bytes": 1913127,
+      "sha256": "e62832ed280bbf3cd01e7965e0214182d7796fa6295532525f425726666550fc"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1660467,
-      "sha256": "255a0cc71c1a047ff06090d0e7444081c5b901872e65f471d57c5f28005291eb"
+      "bytes": 1234488,
+      "sha256": "510f4934eb6a97d9d991f2ef82d4049cbc8d59d3e1cb569ef9ad3255503878d5"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

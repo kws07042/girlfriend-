@@ -157,8 +157,8 @@ init 31 python:
     def ui_character_palette_sprite(who,pose=None):
         pose = pose or ui_pose_current(who)
         original = Image(ui_character_pose_file(who,pose))
-        # Ria's new sprites already share the MASTER palette and rendering.
-        if who == "ria":
+        # Rebuilt sprites already share each heroine's approved MASTER palette.
+        if who in ("ria", "seoyun", "yujin", "jihyun"):
             return original
         if not ui_pose_palette.get("enabled",True):
             return original
