@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
-  "originals": 12,
-  "upscales": 12,
+  "originals": 13,
+  "upscales": 13,
   "runtimeShaMatches": true,
   "allRgbaDimensionsAndTransparentCorners": true,
   "originalDimensions": "1024x1536",
   "upscaleDimensions": "2048x3072",
-  "tests": "36 expression routes, 4 listening and 2 new Ria pose fallbacks, 16 old outfit aliases, 6 dialogue callback cases pass; RenPy playtest not performed"
+  "tests": "48 expression/pose resolutions, 8 signature beats with reply hold/next-line reset and phone exclusion; RenPy playtest not performed"
 }

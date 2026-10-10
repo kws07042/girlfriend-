@@ -1,0 +1,6 @@
+{
+  "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-8c8ed307-d569-4db0-ab96-35dc7b32b98b.png",
+  "prompt": "Use case: precise-object-edit, anatomy cleanup. Edit ONLY this cropped ADULT woman's upturned welcoming hand. The current fingers are unnaturally folded back and overlap like pads. Redraw the hand with a clearly anatomical relaxed inviting open palm: exactly FOUR fingers extending together in a soft gently curved relaxed group with a small amount of natural overlap and readable separate fingertip contours, plus ONE distinct thumb extending naturally to the side. No backwards bent fingers, curled detached pads, extra digit, fused knuckles, second thumbnail or decorative nails. Keep the hand's overall position, wrist rotation, wrist location and overall size, forearm/sleeve position, the exact existing black strap silver round watch, skin color, original thin-line simple CEL anime rendering, no photoreal shading. Fingers should follow the same outward-down direction but look naturally relaxed, not stiff parallel sticks or claw. Output same cropped framing and arm edge alignment, genuinely transparent background, no glow, no shadow, no text or new objects.",
+  "mode": "built-in image_gen",
+  "changedOutsideHandCrop": 0
+}

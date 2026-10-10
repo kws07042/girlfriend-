@@ -1,8 +1,8 @@
 {
   "updated": "2026-10-10",
-  "total": 100,
-  "png": 92,
-  "jpg": 8,
+  "total": 112,
+  "png": 100,
+  "jpg": 12,
   "images": [
     {
       "path": "히로인/강리아/MASTER.png",
@@ -23,6 +23,16 @@
       "height": 300,
       "bytes": 965741,
       "sha256": "b584b196df4dbabc8681f16337a808ed12b17b9f339dfd2fee5e955e4f09fb09"
+    },
+    {
+      "path": "히로인/강리아/검수자료/대표포즈확대.jpg",
+      "character": "강리아",
+      "category": "검수자료",
+      "filename": "대표포즈확대.jpg",
+      "width": 1360,
+      "height": 500,
+      "bytes": 164193,
+      "sha256": "2fe0a3cb812fb724338074efe8524c1981e4f964338713818ed8271e2531101e"
     },
     {
       "path": "히로인/강리아/검수자료/손확대.png",
@@ -63,6 +73,16 @@
       "height": 3072,
       "bytes": 2562732,
       "sha256": "b89ffab29643d9e8492f10de2b6f4194ff3210bef462569ddc767bda7e26899d"
+    },
+    {
+      "path": "히로인/강리아/업스케일/포즈/대표.png",
+      "character": "강리아",
+      "category": "업스케일",
+      "filename": "대표.png",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2558335,
+      "sha256": "52df8b750481f1ad5841a6c1cc3d3894133aa34554cd89586616cc7f7e7c37f4"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/듣는자세.png",
@@ -173,6 +193,16 @@
       "height": 3072,
       "bytes": 2654719,
       "sha256": "4768752120525fb1a9dd19263eec95d251735b552893c95be75cfb58a4e0739e"
+    },
+    {
+      "path": "히로인/강리아/포즈/대표.png",
+      "character": "강리아",
+      "category": "포즈",
+      "filename": "대표.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 752278,
+      "sha256": "99661706479851fbf8b3294083238e3940b208288377eb398b3cffa2e3862e44"
     },
     {
       "path": "히로인/강리아/포즈/듣는자세.png",
@@ -305,6 +335,16 @@
       "sha256": "ac1ad0cb160dbbfdd39b7738afe70d96c20ae419c2453cfc801655b3d5838489"
     },
     {
+      "path": "히로인/백지현/검수자료/대표포즈확대.jpg",
+      "character": "백지현",
+      "category": "검수자료",
+      "filename": "대표포즈확대.jpg",
+      "width": 1360,
+      "height": 500,
+      "bytes": 158421,
+      "sha256": "b60e2d417c08f8fea873c00461a3c06b28a6dbfa4c58a8d05dd88a6263ca7392"
+    },
+    {
       "path": "히로인/백지현/검수자료/손확대.png",
       "character": "백지현",
       "category": "검수자료",
@@ -343,6 +383,16 @@
       "height": 3072,
       "bytes": 2317974,
       "sha256": "2ec4fbb4f344b2189256619729f187690e8677494441cb8de789438ffebfd38d"
+    },
+    {
+      "path": "히로인/백지현/업스케일/포즈/대표.png",
+      "character": "백지현",
+      "category": "업스케일",
+      "filename": "대표.png",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2254135,
+      "sha256": "cb37068e3ab2f2ba11be22e466520925a5a840f935d615477c8663b37984caf5"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/듣는자세.png",
@@ -433,6 +483,16 @@
       "height": 3072,
       "bytes": 2319341,
       "sha256": "c76d14945acfa65e6a6bef184a0fb153be3591b9fa3b4907782cba63cd361a97"
+    },
+    {
+      "path": "히로인/백지현/포즈/대표.png",
+      "character": "백지현",
+      "category": "포즈",
+      "filename": "대표.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 673815,
+      "sha256": "0f9a89861c127fdeb15dc142268a1424e0f80f1b2ad5c0d403e12d7fb4caf9eb"
     },
     {
       "path": "히로인/백지현/포즈/듣는자세.png",
@@ -545,6 +605,16 @@
       "sha256": "14c13f90109ac337cbb14cbc83483391ba0ebef05cf8588092581c075a18ae7d"
     },
     {
+      "path": "히로인/차유진/검수자료/대표포즈확대.jpg",
+      "character": "차유진",
+      "category": "검수자료",
+      "filename": "대표포즈확대.jpg",
+      "width": 960,
+      "height": 500,
+      "bytes": 123023,
+      "sha256": "32d44f899e4954d371694e98e64680b9314c74d4815d91ea0f59c16d6a298ee4"
+    },
+    {
       "path": "히로인/차유진/검수자료/손확대.png",
       "character": "차유진",
       "category": "검수자료",
@@ -583,6 +653,16 @@
       "height": 3072,
       "bytes": 2516009,
       "sha256": "7ecd87e685757347d855f1e465d720937f824cdbb51772c687e7afed6597c2ce"
+    },
+    {
+      "path": "히로인/차유진/업스케일/포즈/대표.png",
+      "character": "차유진",
+      "category": "업스케일",
+      "filename": "대표.png",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2584215,
+      "sha256": "5ffa726131a5afd8a99136754cc8256947b133f59991a08ef2df7d6fc1a45ef8"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/듣는자세.png",
@@ -673,6 +753,16 @@
       "height": 3072,
       "bytes": 2559758,
       "sha256": "56a11beb919ad4067f9dea94cf200f38d1d8117571be893ef59b69e96bc2c4eb"
+    },
+    {
+      "path": "히로인/차유진/포즈/대표.png",
+      "character": "차유진",
+      "category": "포즈",
+      "filename": "대표.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 783794,
+      "sha256": "3130078cd8a18d93b94564683d67165f3385768bfe0e9aee30baa42524cad863"
     },
     {
       "path": "히로인/차유진/포즈/듣는자세.png",
@@ -785,6 +875,16 @@
       "sha256": "a1cb989ff269cd0b635cc53ae96fefc4b7fc124f356fd5983ff6eb8dec70f0b1"
     },
     {
+      "path": "히로인/한서윤/검수자료/대표포즈확대.jpg",
+      "character": "한서윤",
+      "category": "검수자료",
+      "filename": "대표포즈확대.jpg",
+      "width": 1360,
+      "height": 500,
+      "bytes": 152096,
+      "sha256": "b84978d0b841c505e9d787968055473d6acc41bff315e7d95f8f769e51a9cdfc"
+    },
+    {
       "path": "히로인/한서윤/검수자료/손확대.png",
       "character": "한서윤",
       "category": "검수자료",
@@ -823,6 +923,16 @@
       "height": 3072,
       "bytes": 2781669,
       "sha256": "6aaa01017734ac9f0a7e948d405bf7f5491e33f4ecd3d576867650dff9f9199f"
+    },
+    {
+      "path": "히로인/한서윤/업스케일/포즈/대표.png",
+      "character": "한서윤",
+      "category": "업스케일",
+      "filename": "대표.png",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2841723,
+      "sha256": "ffd9c179964a906ef84fd519bba5ba6e7157f59a705d443602c5d8b607006954"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/듣는자세.png",
@@ -913,6 +1023,16 @@
       "height": 3072,
       "bytes": 2695223,
       "sha256": "714e9b53c9eeea880424a01131fbadbcfba6de5c3fa33a1c439ed61b7344e04d"
+    },
+    {
+      "path": "히로인/한서윤/포즈/대표.png",
+      "character": "한서윤",
+      "category": "포즈",
+      "filename": "대표.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 848483,
+      "sha256": "cb08c513d1830b450dbb34b56f78a10dc690547465b915f970a554971e1fd81b"
     },
     {
       "path": "히로인/한서윤/포즈/듣는자세.png",

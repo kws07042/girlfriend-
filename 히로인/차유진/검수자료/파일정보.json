@@ -72,6 +72,13 @@
       "height": 1536,
       "sha256": "8d95eec673745a8f03fcf28b7d30cc80420a6d62d5bafe69e414090b354d1b1d",
       "upscale": "업스케일/표정/캐주얼_serious.png"
+    },
+    {
+      "file": "포즈/대표.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3130078cd8a18d93b94564683d67165f3385768bfe0e9aee30baa42524cad863",
+      "upscale": "업스케일/포즈/대표.png"
     }
   ]
 }

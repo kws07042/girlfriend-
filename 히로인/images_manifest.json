@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-10",
-  "scope": "Four makeup-free heroine sets. Jihyun refined, Yujin facial angularity softened while preserving purple eyes and calm identity; original bodies retained and 42 runtime sprites synchronized.",
-  "runtime_images": 42,
+  "scope": "Four makeup-free differentiated heroines with four additional personality-specific signature gestures/expressions, 2x sprites and eight authored dialogue beats. Existing master assets retained.",
+  "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
   "files": [
@@ -40,6 +40,78 @@
       "height": 1536,
       "bytes": 1762460,
       "sha256": "0447cf1e01f4ba16f096c3d89278a7efa4c7826432a11ecda92de3846b9e901f"
+    },
+    {
+      "path": "히로인/강리아/포즈/대표.png",
+      "character": "ria",
+      "role": "signature_pose",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 752278,
+      "sha256": "99661706479851fbf8b3294083238e3940b208288377eb398b3cffa2e3862e44"
+    },
+    {
+      "path": "히로인/강리아/업스케일/포즈/대표.png",
+      "character": "ria",
+      "role": "signature_pose_2x",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2558335,
+      "sha256": "52df8b750481f1ad5841a6c1cc3d3894133aa34554cd89586616cc7f7e7c37f4"
+    },
+    {
+      "path": "히로인/한서윤/포즈/대표.png",
+      "character": "seoyun",
+      "role": "signature_pose",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 848483,
+      "sha256": "cb08c513d1830b450dbb34b56f78a10dc690547465b915f970a554971e1fd81b"
+    },
+    {
+      "path": "히로인/한서윤/업스케일/포즈/대표.png",
+      "character": "seoyun",
+      "role": "signature_pose_2x",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2841723,
+      "sha256": "ffd9c179964a906ef84fd519bba5ba6e7157f59a705d443602c5d8b607006954"
+    },
+    {
+      "path": "히로인/차유진/포즈/대표.png",
+      "character": "yujin",
+      "role": "signature_pose",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 783794,
+      "sha256": "3130078cd8a18d93b94564683d67165f3385768bfe0e9aee30baa42524cad863"
+    },
+    {
+      "path": "히로인/차유진/업스케일/포즈/대표.png",
+      "character": "yujin",
+      "role": "signature_pose_2x",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2584215,
+      "sha256": "5ffa726131a5afd8a99136754cc8256947b133f59991a08ef2df7d6fc1a45ef8"
+    },
+    {
+      "path": "히로인/백지현/포즈/대표.png",
+      "character": "jihyun",
+      "role": "signature_pose",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 673815,
+      "sha256": "0f9a89861c127fdeb15dc142268a1424e0f80f1b2ad5c0d403e12d7fb4caf9eb"
+    },
+    {
+      "path": "히로인/백지현/업스케일/포즈/대표.png",
+      "character": "jihyun",
+      "role": "signature_pose_2x",
+      "width": 2048,
+      "height": 3072,
+      "bytes": 2254135,
+      "sha256": "cb37068e3ab2f2ba11be22e466520925a5a840f935d615477c8663b37984caf5"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

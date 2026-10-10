@@ -90,6 +90,8 @@ init 30 python:
             pose = ui_pose_beats.get(who,{}).get(what)
             if pose:
                 ui_pose_change(who,pose)
+            elif store.ui_poses.get(who) == "signature":
+                ui_pose_change(who,ui_pose_default(who))
             store.ui_pose_last_actor = who
             store.ui_pose_version = 1
 
