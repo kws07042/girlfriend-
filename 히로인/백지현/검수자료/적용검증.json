@@ -2,11 +2,9 @@
   "date": "2026-10-11",
   "originals": 11,
   "upscales": 11,
-  "runtime": 11,
   "runtimeShaMatches": true,
   "allRgbaDimensionsAndTransparentCorners": true,
-  "alphaAndRgbOutsideFacePreserved": true,
   "originalDimensions": "1024x1536",
   "upscaleDimensions": "2048x3072",
-  "playtest": "not performed; existing dialogue bindings unchanged"
+  "tests": "48 expression/pose resolutions, 8 signature beats with reply hold/next-line reset and phone exclusion; RenPy playtest not performed"
 }

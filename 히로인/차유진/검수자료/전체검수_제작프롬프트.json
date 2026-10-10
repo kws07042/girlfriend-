@@ -1,0 +1,39 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-11",
+  "acceptedHands": [
+    {
+      "id": "차유진-left",
+      "name": "차유진",
+      "side": "left",
+      "prompt": "Use case: precise-object-edit. This is a TRANSPARENT crop of an ADULT female anime heroine's right hand hanging at her side. REDESIGN THE FINGER POSE completely to fix impossible pointed folded fingers. Keep wrist position, total wrist-to-tip length, palm size, skin tone, forearm, clothing and surroundings fixed. The finger articulation/spacing MAY change.\nShow the BACK of a relaxed hand with FOUR CLEAR SEPARATE LONG FINGERS extending mostly DOWN from the palm with only a mild natural bend: index and ring near-equal length, middle longest, pinky shortest. Every finger has one continuous root, plausible two joints and a rounded fingertip. Place fingers side by side in a loose narrow group with tiny visible gaps, NOT folded sideways or stacked behind the thumb. All four fingertips should be readable. The single thumb rests loosely along the side near index, bending naturally and ending above the four fingertips. FIVE DIGITS TOTAL. Small subtly drawn natural nails oriented along the fingertips, no fake extra nail/palm lines. REMOVE ALL triangular overlapping fins and crossed web lines from the old fingers. Do not preserve their old curl. No clenched fist or palm-forward greeting, no wide finger fan. Make a simple graceful anatomically legible hanging hand suitable for an adult visual novel sprite.\nMatch original thin smooth clean anime contour and restrained peach two-tone CEL shading, not photoreal/3D. Body/garment edges must remain exactly same. Keep exact 480x615 crop framing and forearm alignment, genuine transparent background with clean narrow finger gaps. One corrected crop only.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-9ae25bb6-3ca7-4711-a8f2-89a642b216c9.png"
+    },
+    {
+      "id": "차유진-right",
+      "name": "차유진",
+      "side": "right",
+      "prompt": "Use case: precise-object-edit. This is a TRANSPARENT crop of an ADULT female anime heroine's left hand hanging at her side. REDESIGN THE FINGER POSE completely to fix impossible pointed folded fingers. Keep wrist position, total wrist-to-tip length, palm size, skin tone, forearm, clothing and surroundings fixed. The finger articulation/spacing MAY change.\nShow the BACK of a relaxed hand with FOUR CLEAR SEPARATE LONG FINGERS extending mostly DOWN from the palm with only a mild natural bend: index and ring near-equal length, middle longest, pinky shortest. Every finger has one continuous root, plausible two joints and a rounded fingertip. Place fingers side by side in a loose narrow group with tiny visible gaps, NOT folded sideways or stacked behind the thumb. All four fingertips should be readable. The single thumb rests loosely along the side near index, bending naturally and ending above the four fingertips. FIVE DIGITS TOTAL. Small subtly drawn natural nails oriented along the fingertips, no fake extra nail/palm lines. REMOVE ALL triangular overlapping fins and crossed web lines from the old fingers. Do not preserve their old curl. No clenched fist or palm-forward greeting, no wide finger fan. Make a simple graceful anatomically legible hanging hand suitable for an adult visual novel sprite.\nMatch original thin smooth clean anime contour and restrained peach two-tone CEL shading, not photoreal/3D. Body/garment edges must remain exactly same. Keep exact 480x615 crop framing and forearm alignment, genuine transparent background with clean narrow finger gaps. One corrected crop only.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-530e298e-031c-4dfe-a178-bda8e2dcaf6c.png"
+    }
+  ],
+  "details": [
+    {
+      "id": "차유진-ear-base",
+      "name": "차유진",
+      "key": "base",
+      "kind": "ear",
+      "prompt": "Use case: precise-object-edit. This close crop is an adult anime heroine's single GOLD TEARDROP EARRING beneath her ear. Its gold teardrop is visually split into two disjoint lobes by a dark diagonal strand. Fix ONLY this tiny jewelry region: one clean continuous smooth gold teardrop pendant, attached by one neat fine gold connector to the original lobe, anatomically plausible and the same overall size/location. Remove the dark interruption across the pendant; keep surrounding navy hair behind the pendant. The same earring style as her other side: a simple small single teardrop, not a spiral or double leaf, no extra studs/protrusions. Preserve ear skin, cheek/jaw/nose/mouth, neck, hair and background exactly. Match existing thin anime contour and soft cel warm gold shading; keep highlight understated. Same crop dimensions/position, one edited crop only. Do not redesign her face or jewelry type.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-8ab942ac-ce8e-4a62-a8a7-56b98adb310e.png"
+    },
+    {
+      "id": "차유진-ear-signature",
+      "name": "차유진",
+      "key": "signature",
+      "kind": "ear",
+      "prompt": "Use case: precise-object-edit. This close crop is an adult anime heroine's single GOLD TEARDROP EARRING beneath her ear. Its gold teardrop is visually split into two disjoint lobes by a dark diagonal strand. Fix ONLY this tiny jewelry region: one clean continuous smooth gold teardrop pendant, attached by one neat fine gold connector to the original lobe, anatomically plausible and the same overall size/location. Remove the dark interruption across the pendant; keep surrounding navy hair behind the pendant. The same earring style as her other side: a simple small single teardrop, not a spiral or double leaf, no extra studs/protrusions. Preserve ear skin, cheek/jaw/nose/mouth, neck, hair and background exactly. Match existing thin anime contour and soft cel warm gold shading; keep highlight understated. Same crop dimensions/position, one edited crop only. Do not redesign her face or jewelry type.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-08b909cf-f860-4d40-92f0-6e578a35117b.png"
+    }
+  ],
+  "compositing": "Pose-specific cropped edits with feathered rectangle and premultiplied alpha. Edits were inspected after saving. Prior unsuccessful mask/composite drafts were discarded."
+}

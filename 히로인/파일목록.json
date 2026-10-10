@@ -11,8 +11,8 @@
       "filename": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2010308,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81"
+      "bytes": 2008356,
+      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8"
     },
     {
       "path": "히로인/강리아/검수자료/귀걸이확대.png",
@@ -41,8 +41,8 @@
       "filename": "손확대.png",
       "width": 1600,
       "height": 490,
-      "bytes": 652510,
-      "sha256": "8d7b30d7bb3434691749bbd2a20f03eea554e4c5acede638f04215ff16f80185"
+      "bytes": 657315,
+      "sha256": "68b8674263ecf47d9f8fd025d68d46bdc0052d7565cd0ab77beb1a4a092650b6"
     },
     {
       "path": "히로인/강리아/검수자료/얼굴10장.jpg",
@@ -61,8 +61,8 @@
       "filename": "전신10장.jpg",
       "width": 1500,
       "height": 1470,
-      "bytes": 372116,
-      "sha256": "7b07c0a9bd0ec618c6230b1217b481c02faaa316ae23a7a0423919befc94232d"
+      "bytes": 372339,
+      "sha256": "a8b84aa91f3a2e3cf26653d69b53ed2736d08e6817b019cee6b1ab8c608b36cf"
     },
     {
       "path": "히로인/강리아/업스케일/MASTER.png",
@@ -71,8 +71,8 @@
       "filename": "MASTER.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2562732,
-      "sha256": "b89ffab29643d9e8492f10de2b6f4194ff3210bef462569ddc767bda7e26899d"
+      "bytes": 2565868,
+      "sha256": "65934ed06c32e24155e618e0b1342d10875f1d0fb271936df8c1f4f44616cc9a"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/대표.png",
@@ -91,8 +91,8 @@
       "filename": "듣는자세.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2783677,
-      "sha256": "d1ed97b6a936e8f269d2bdac55eb8224ecd52a7fd531d831b79ef5daabda763f"
+      "bytes": 2793009,
+      "sha256": "d9cf27d608ba4b07ab3102bfc51d2e87e391b44f1b0219c1165bcd08b21e4658"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/설명.png",
@@ -101,8 +101,8 @@
       "filename": "설명.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2634375,
-      "sha256": "c426075c1d07e3b05e56b04c5be1ba4abbc06c61297090e7a74d31d36ed74bb5"
+      "bytes": 2649299,
+      "sha256": "6d4184f2357b042d17d96a1e0d4e7cebbc40944fe763f34bbeeadd74618a32e1"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/솔직한대화.png",
@@ -111,8 +111,8 @@
       "filename": "솔직한대화.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2547267,
-      "sha256": "01a468bf7c50b510b4371ffe58979e93dd7a0dcb866a6e9c7cd46d3eb44bfebf"
+      "bytes": 2550852,
+      "sha256": "af79a9bb50fe7edf177671fa01a8e0728c900fd897400f2838f7999bfa011ff7"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/인사.png",
@@ -121,8 +121,8 @@
       "filename": "인사.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2666114,
-      "sha256": "ac02778f9a3e3a7b314856ba6e97746ba03e23d7dcf2c144d58d58ac70723e7f"
+      "bytes": 2665103,
+      "sha256": "01bdbb6d6da5d2c26cc7ed0fb183af441670b88a5f492af1c8eb707af927369a"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/캐주얼.png",
@@ -141,8 +141,8 @@
       "filename": "MASTER_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2562732,
-      "sha256": "b89ffab29643d9e8492f10de2b6f4194ff3210bef462569ddc767bda7e26899d"
+      "bytes": 2565868,
+      "sha256": "65934ed06c32e24155e618e0b1342d10875f1d0fb271936df8c1f4f44616cc9a"
     },
     {
       "path": "히로인/강리아/업스케일/표정/MASTER_serious.png",
@@ -151,8 +151,8 @@
       "filename": "MASTER_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2659076,
-      "sha256": "661c724d69a68b525a67ee9cdaede895059ec8068759cd50eed8d23a5b5c2999"
+      "bytes": 2649665,
+      "sha256": "88b800555a15d156d83fb74964a1e5c3e0e86b40f26858e204385cc8162ba787"
     },
     {
       "path": "히로인/강리아/업스케일/표정/설명_default.png",
@@ -161,8 +161,8 @@
       "filename": "설명_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2634375,
-      "sha256": "c426075c1d07e3b05e56b04c5be1ba4abbc06c61297090e7a74d31d36ed74bb5"
+      "bytes": 2649299,
+      "sha256": "6d4184f2357b042d17d96a1e0d4e7cebbc40944fe763f34bbeeadd74618a32e1"
     },
     {
       "path": "히로인/강리아/업스케일/표정/설명_serious.png",
@@ -171,8 +171,8 @@
       "filename": "설명_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2697447,
-      "sha256": "7b0e8dd3fbbd981c94cc2a2f6583438242acbb6d4ea75a9aec216ca774dd0279"
+      "bytes": 2708552,
+      "sha256": "8afbef07d507a8ae1203404028031ea4e89d8951b72dc90f60cc3667fa996391"
     },
     {
       "path": "히로인/강리아/업스케일/표정/캐주얼_default.png",
@@ -211,8 +211,8 @@
       "filename": "듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2092601,
-      "sha256": "2900a35c6bba8e1aa3ea53b65c67f23c38ab7fa5150ca4098b99a06cb4521b12"
+      "bytes": 2092898,
+      "sha256": "49543d64c34d9dd6ea38cb895cb172a14a1f7d11bc14597a96fb1040f79915a4"
     },
     {
       "path": "히로인/강리아/포즈/설명.png",
@@ -221,8 +221,8 @@
       "filename": "설명.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2067003,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16"
+      "bytes": 2067754,
+      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff"
     },
     {
       "path": "히로인/강리아/포즈/솔직한대화.png",
@@ -231,8 +231,8 @@
       "filename": "솔직한대화.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1313764,
-      "sha256": "140a7ffe7277991aa2b253d36d6db597683e9971b6025098b216c40c0f42b58c"
+      "bytes": 2016707,
+      "sha256": "0fdd2734fd8cecb9c8883c0b25b4046cb0be1165941dde047190ab1988ae86ec"
     },
     {
       "path": "히로인/강리아/포즈/인사.png",
@@ -241,8 +241,8 @@
       "filename": "인사.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1355251,
-      "sha256": "1b54417453e1a4f7a79ec4b8fab94f6045131643da8fe9b18f59a4f7ce26bc41"
+      "bytes": 2077929,
+      "sha256": "d5db6808384201cfce76d90636a30fa49bdc0f7dd7f63f5f4e78a64ebba7ca64"
     },
     {
       "path": "히로인/강리아/포즈/캐주얼.png",
@@ -261,8 +261,8 @@
       "filename": "MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2010308,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81"
+      "bytes": 2008356,
+      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8"
     },
     {
       "path": "히로인/강리아/표정/MASTER_serious.png",
@@ -271,8 +271,8 @@
       "filename": "MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2036744,
-      "sha256": "db9da912d43f44027f9fd371212d96f5d23e3d9f5dc64ac6bc4aef3ecdeff243"
+      "bytes": 2031446,
+      "sha256": "7d92696e056cc17663e85b07e0e96009e976565e81539199f43bea71def902b5"
     },
     {
       "path": "히로인/강리아/표정/설명_default.png",
@@ -281,8 +281,8 @@
       "filename": "설명_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2067003,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16"
+      "bytes": 2067754,
+      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff"
     },
     {
       "path": "히로인/강리아/표정/설명_serious.png",
@@ -291,8 +291,8 @@
       "filename": "설명_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2090264,
-      "sha256": "bbe08cb33af756138b7a63073daf55d365c5c6388ea1fd8cf3ee723cc36271b3"
+      "bytes": 2090065,
+      "sha256": "07876cc2997512c044a73d0b40a20599c5066b8357e133e52ca35bd39cfb3e30"
     },
     {
       "path": "히로인/강리아/표정/캐주얼_default.png",
@@ -321,8 +321,8 @@
       "filename": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1763249,
-      "sha256": "2128f6c92cb4091064e47e764a870f26dda2cc01fb7b35c942c7fe18b053848c"
+      "bytes": 854196,
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6"
     },
     {
       "path": "히로인/백지현/검수자료/귀걸이확대.png",
@@ -331,8 +331,8 @@
       "filename": "귀걸이확대.png",
       "width": 2200,
       "height": 300,
-      "bytes": 440231,
-      "sha256": "bf6dc461d835f2af25d98f0081ff01bd66d464edb1da86195dc0b08bc8760999"
+      "bytes": 472389,
+      "sha256": "5d799ec9144a2503c98862966367cb09ff61993993dfc1f704d8898d89ae3573"
     },
     {
       "path": "히로인/백지현/검수자료/대표포즈확대.jpg",
@@ -341,8 +341,8 @@
       "filename": "대표포즈확대.jpg",
       "width": 1360,
       "height": 500,
-      "bytes": 157763,
-      "sha256": "6ee0f86f43b3396fb1f6280589424ce5e487a443ab5c1e60bc823335b5dc4167"
+      "bytes": 177944,
+      "sha256": "f80eb4577a19b0fe68fdac1f8b0fa982852ea5bf95d8ba401df43c74483e03b7"
     },
     {
       "path": "히로인/백지현/검수자료/손확대.png",
@@ -351,8 +351,8 @@
       "filename": "손확대.png",
       "width": 1600,
       "height": 490,
-      "bytes": 435143,
-      "sha256": "bfc8241b7dd94a4986765fa1288fc4bfcc562c145ce4a33697c30b25cddb77ac"
+      "bytes": 493699,
+      "sha256": "45529d085fcf28a0d794f6d66e2375eb41fec4ee692f8861c5b7d28691e61a45"
     },
     {
       "path": "히로인/백지현/검수자료/얼굴10장.jpg",
@@ -360,9 +360,9 @@
       "category": "검수자료",
       "filename": "얼굴10장.jpg",
       "width": 1500,
-      "height": 855,
-      "bytes": 419173,
-      "sha256": "423e2c07de35c20badaaf81d6b99cf7ad9c28408f426fe8b0787dc49ade451d8"
+      "height": 840,
+      "bytes": 460068,
+      "sha256": "2bad8cccaba28e55a440e232443721f6e0b3ba74018c7b61fccc1fd1dda36802"
     },
     {
       "path": "히로인/백지현/검수자료/전신10장.jpg",
@@ -371,8 +371,8 @@
       "filename": "전신10장.jpg",
       "width": 1500,
       "height": 1470,
-      "bytes": 338218,
-      "sha256": "07f745ccaa5b510f90d2c4cd25f0d551d6d692c0ee974d389a548d50d15c9098"
+      "bytes": 298686,
+      "sha256": "caa6a6f50a56ac5e67a13d99a8acf9014b3a1e034c30c3868cf5069980c5a8f7"
     },
     {
       "path": "히로인/백지현/업스케일/MASTER.png",
@@ -381,8 +381,8 @@
       "filename": "MASTER.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324104,
-      "sha256": "ee33cb70ff04788cf9b19e44f52f61364c02708c20f280511e895cd1ae67c66b"
+      "bytes": 2853648,
+      "sha256": "974e321e04e060c81db639e9a3698f129865d73a471cb917b531ace6134d28d4"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -391,8 +391,8 @@
       "filename": "대표.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2251885,
-      "sha256": "37eda6868a5bd551427230e5ec0291ab000e497ff8414bdb5ed72b0e0c0bbf04"
+      "bytes": 2559456,
+      "sha256": "37e1479cb9410036f7bdcfad3b07f8b746b9d7ef44dcc7216bbd0241c3304860"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/듣는자세.png",
@@ -401,8 +401,8 @@
       "filename": "듣는자세.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2172143,
-      "sha256": "10329c4556b5c9dec27351bb98b13c5ac67765af8bda037093454e06f26e04dc"
+      "bytes": 2624975,
+      "sha256": "4d40b7557da55f01075e0d654bc68c0af3f059c3263533be9c3dee977cc19c1a"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/업무.png",
@@ -411,8 +411,8 @@
       "filename": "업무.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2064495,
-      "sha256": "081ef1a3074ede97d7ca73282e9146008dc742597730db730b19fd37f4faed63"
+      "bytes": 2549805,
+      "sha256": "8eda21c4e930be600426d58f20dc4a28103a6f261506e27b7905c248a0303285"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/캐주얼.png",
@@ -421,8 +421,8 @@
       "filename": "캐주얼.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324104,
-      "sha256": "ee33cb70ff04788cf9b19e44f52f61364c02708c20f280511e895cd1ae67c66b"
+      "bytes": 2853648,
+      "sha256": "974e321e04e060c81db639e9a3698f129865d73a471cb917b531ace6134d28d4"
     },
     {
       "path": "히로인/백지현/업스케일/표정/MASTER_default.png",
@@ -431,8 +431,8 @@
       "filename": "MASTER_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324104,
-      "sha256": "ee33cb70ff04788cf9b19e44f52f61364c02708c20f280511e895cd1ae67c66b"
+      "bytes": 2853648,
+      "sha256": "974e321e04e060c81db639e9a3698f129865d73a471cb917b531ace6134d28d4"
     },
     {
       "path": "히로인/백지현/업스케일/표정/MASTER_serious.png",
@@ -441,8 +441,8 @@
       "filename": "MASTER_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324639,
-      "sha256": "7e319f257f6400035988c8fe0fb10737d7a1e45cc10d7119087456806700db7a"
+      "bytes": 2854736,
+      "sha256": "a6d3519ae8f372481a3d792c60643c7d776fce3df9ed76bfbfd7c94d3788734f"
     },
     {
       "path": "히로인/백지현/업스케일/표정/업무_default.png",
@@ -451,8 +451,8 @@
       "filename": "업무_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2064495,
-      "sha256": "081ef1a3074ede97d7ca73282e9146008dc742597730db730b19fd37f4faed63"
+      "bytes": 2549805,
+      "sha256": "8eda21c4e930be600426d58f20dc4a28103a6f261506e27b7905c248a0303285"
     },
     {
       "path": "히로인/백지현/업스케일/표정/업무_serious.png",
@@ -461,8 +461,8 @@
       "filename": "업무_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2030934,
-      "sha256": "bcd6e853e9ade4b1e9a8c2ddaff2594ad2a456c8a2bcb4a085cb4e5c9d9d1404"
+      "bytes": 2549570,
+      "sha256": "d84b8dee4ec994af997ee302b275ee6091cb5682e316ce78e37fe59bc14f0535"
     },
     {
       "path": "히로인/백지현/업스케일/표정/캐주얼_default.png",
@@ -471,8 +471,8 @@
       "filename": "캐주얼_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324104,
-      "sha256": "ee33cb70ff04788cf9b19e44f52f61364c02708c20f280511e895cd1ae67c66b"
+      "bytes": 2853648,
+      "sha256": "974e321e04e060c81db639e9a3698f129865d73a471cb917b531ace6134d28d4"
     },
     {
       "path": "히로인/백지현/업스케일/표정/캐주얼_serious.png",
@@ -481,8 +481,8 @@
       "filename": "캐주얼_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2324639,
-      "sha256": "7e319f257f6400035988c8fe0fb10737d7a1e45cc10d7119087456806700db7a"
+      "bytes": 2854736,
+      "sha256": "a6d3519ae8f372481a3d792c60643c7d776fce3df9ed76bfbfd7c94d3788734f"
     },
     {
       "path": "히로인/백지현/포즈/대표.png",
@@ -491,8 +491,8 @@
       "filename": "대표.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 672823,
-      "sha256": "87f79b67be7c2f5d95fa4e23472e3a0457b2367734701536f89286da3db89ba7"
+      "bytes": 759032,
+      "sha256": "de94b4255956ed3b00c1a0325299b08d6f5f0cebc3245998ee419b617bb8a991"
     },
     {
       "path": "히로인/백지현/포즈/듣는자세.png",
@@ -501,8 +501,8 @@
       "filename": "듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1622941,
-      "sha256": "76ca3bc2a1a1802356c9fe58e2b5f8a0f00d29550c8913557e6abe10118bbb9f"
+      "bytes": 776276,
+      "sha256": "b4c08fb5c0d6f864847a8d365d1474d32a9fe15a08ff431e0b0d1f9936029324"
     },
     {
       "path": "히로인/백지현/포즈/업무.png",
@@ -511,8 +511,8 @@
       "filename": "업무.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1631547,
-      "sha256": "dfe39150317281370515d8f3dd7986e11785b9d1edf09ddecaef4684647a7768"
+      "bytes": 760955,
+      "sha256": "2cd7b777946570f8e042af91f7043b0d0a5950533eee81bcb81cbb71b9c03f14"
     },
     {
       "path": "히로인/백지현/포즈/캐주얼.png",
@@ -521,8 +521,8 @@
       "filename": "캐주얼.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1763249,
-      "sha256": "2128f6c92cb4091064e47e764a870f26dda2cc01fb7b35c942c7fe18b053848c"
+      "bytes": 854196,
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6"
     },
     {
       "path": "히로인/백지현/표정/MASTER_default.png",
@@ -531,8 +531,8 @@
       "filename": "MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1763249,
-      "sha256": "2128f6c92cb4091064e47e764a870f26dda2cc01fb7b35c942c7fe18b053848c"
+      "bytes": 854196,
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6"
     },
     {
       "path": "히로인/백지현/표정/MASTER_serious.png",
@@ -541,8 +541,8 @@
       "filename": "MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1770041,
-      "sha256": "913fb6f77c8fb6df9aa6c9b64fcc7e50b479aae9c87158a6533bccc0453eef41"
+      "bytes": 854414,
+      "sha256": "2c30360c1315997df7daab37adc413d5f2a22ee199bf95a24037028a8fb8b789"
     },
     {
       "path": "히로인/백지현/표정/업무_default.png",
@@ -551,8 +551,8 @@
       "filename": "업무_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1631547,
-      "sha256": "dfe39150317281370515d8f3dd7986e11785b9d1edf09ddecaef4684647a7768"
+      "bytes": 760955,
+      "sha256": "2cd7b777946570f8e042af91f7043b0d0a5950533eee81bcb81cbb71b9c03f14"
     },
     {
       "path": "히로인/백지현/표정/업무_serious.png",
@@ -561,8 +561,8 @@
       "filename": "업무_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1616000,
-      "sha256": "468ff2f9e0426a90a5d1707219908aceb51af9b54707d67d853c49b3eb054690"
+      "bytes": 760845,
+      "sha256": "4825704756a2fe1ff95a9f906e8d13d5f90292997008c46331c5a6117ecafaed"
     },
     {
       "path": "히로인/백지현/표정/캐주얼_default.png",
@@ -571,8 +571,8 @@
       "filename": "캐주얼_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1763249,
-      "sha256": "2128f6c92cb4091064e47e764a870f26dda2cc01fb7b35c942c7fe18b053848c"
+      "bytes": 854196,
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6"
     },
     {
       "path": "히로인/백지현/표정/캐주얼_serious.png",
@@ -581,8 +581,8 @@
       "filename": "캐주얼_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1770041,
-      "sha256": "913fb6f77c8fb6df9aa6c9b64fcc7e50b479aae9c87158a6533bccc0453eef41"
+      "bytes": 854414,
+      "sha256": "2c30360c1315997df7daab37adc413d5f2a22ee199bf95a24037028a8fb8b789"
     },
     {
       "path": "히로인/차유진/MASTER.png",
@@ -591,8 +591,8 @@
       "filename": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1916827,
-      "sha256": "0e064295652992afc806a302302d294c2b854343d01732f53823e31b2ebbe980"
+      "bytes": 1911611,
+      "sha256": "064abb0650d7c58553b96880785e60684d0a97c400ed0c5ceb39d848b1af4677"
     },
     {
       "path": "히로인/차유진/검수자료/귀걸이확대.png",
@@ -611,8 +611,8 @@
       "filename": "대표포즈확대.jpg",
       "width": 960,
       "height": 500,
-      "bytes": 121699,
-      "sha256": "2d0180b2aabebaff824137d9dad8c15243c7559d7101d05f770d9993fde91792"
+      "bytes": 121737,
+      "sha256": "7b3332d51e6dd66c762e3cc0e7500fd34d5fe416a44ede999772c75800e4b5b4"
     },
     {
       "path": "히로인/차유진/검수자료/손확대.png",
@@ -621,8 +621,8 @@
       "filename": "손확대.png",
       "width": 1600,
       "height": 490,
-      "bytes": 729078,
-      "sha256": "118163f00410cef8002129d930f8cf4df4091d18d5561d72eacbafb5574d788d"
+      "bytes": 730031,
+      "sha256": "8662ff0abba90d1b1c2ff0aa8d90d8bc37a9989c887ea0798b33200cc5c9af96"
     },
     {
       "path": "히로인/차유진/검수자료/얼굴10장.jpg",
@@ -631,8 +631,8 @@
       "filename": "얼굴10장.jpg",
       "width": 1500,
       "height": 840,
-      "bytes": 405006,
-      "sha256": "6e410d32f4b2a004b379c4b3b954a314a520619c0071fbd41b0cf84bc7457072"
+      "bytes": 404570,
+      "sha256": "f9d1f7d82ecb358ee3d214dfe4e3de30ca272be26848bd9c444a1a2885dfa62c"
     },
     {
       "path": "히로인/차유진/검수자료/전신10장.jpg",
@@ -641,8 +641,8 @@
       "filename": "전신10장.jpg",
       "width": 1500,
       "height": 1470,
-      "bytes": 314186,
-      "sha256": "83f2d694c9e61f7b70d24702abcb505b6ef0e274e3d3384513657c66ca3a89e6"
+      "bytes": 314262,
+      "sha256": "6c3264877389e323261571260e422fe720c3116a9bf467cfb4bd1c60b6fd66a5"
     },
     {
       "path": "히로인/차유진/업스케일/MASTER.png",
@@ -651,8 +651,8 @@
       "filename": "MASTER.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2521047,
-      "sha256": "5d68a447bf2cfb50c60368404c5653cb25fb808b4de3f07563489dcbb00fe571"
+      "bytes": 2520408,
+      "sha256": "6edd6d354643ceef215cf8dd26c3c782b0eadcca0e043d62a4a0ebf5a6193ead"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/대표.png",
@@ -661,8 +661,8 @@
       "filename": "대표.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2582487,
-      "sha256": "a5d212035758de0332f57f5864f0d4fa1b06ba71a3ff27b89f2e224ff8c77747"
+      "bytes": 2582176,
+      "sha256": "62bb5196448faa9a78ab80c146a0eead7450b593cc2e37bb9d22e6b6564a0bef"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/듣는자세.png",
@@ -671,8 +671,8 @@
       "filename": "듣는자세.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2486232,
-      "sha256": "92981ef5fd39a1235e872632346c1d8bc78ea26839a5bd04e17c03e7a34b00d2"
+      "bytes": 2486235,
+      "sha256": "b23cbff3db2ca4e307a9a34593e9ab1cd36fa1a3dfa1668aec2eb88569098956"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/업무.png",
@@ -681,8 +681,8 @@
       "filename": "업무.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2390379,
-      "sha256": "436375f91f133052a56c522690b82d7a2ec453c76003e940be9168b098085bbb"
+      "bytes": 2390394,
+      "sha256": "925ded7babb84d1dbee71df6d382705003a4777b588ce8d1d40a0c68e0635e79"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/캐주얼.png",
@@ -691,8 +691,8 @@
       "filename": "캐주얼.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2437649,
-      "sha256": "4e95f94ae60d73de66b0c4f829d43ec1601e81fb4c56d1f8bb58bc366ab66ed5"
+      "bytes": 2437706,
+      "sha256": "6e290a10c092059205a6c169b23b2a944e09e390329b2d274b756681fcd291bb"
     },
     {
       "path": "히로인/차유진/업스케일/표정/MASTER_default.png",
@@ -701,8 +701,8 @@
       "filename": "MASTER_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2521047,
-      "sha256": "5d68a447bf2cfb50c60368404c5653cb25fb808b4de3f07563489dcbb00fe571"
+      "bytes": 2520408,
+      "sha256": "6edd6d354643ceef215cf8dd26c3c782b0eadcca0e043d62a4a0ebf5a6193ead"
     },
     {
       "path": "히로인/차유진/업스케일/표정/MASTER_serious.png",
@@ -711,8 +711,8 @@
       "filename": "MASTER_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2562176,
-      "sha256": "4944394fec5d11839e252bb7252b1d3dd4393431ac85c289b725953cb3d1d1b5"
+      "bytes": 2562314,
+      "sha256": "a79be9d9f515931b499c8a8252c516c3c8696eb530597fe61448ffb2151e4e9b"
     },
     {
       "path": "히로인/차유진/업스케일/표정/업무_default.png",
@@ -721,8 +721,8 @@
       "filename": "업무_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2390379,
-      "sha256": "436375f91f133052a56c522690b82d7a2ec453c76003e940be9168b098085bbb"
+      "bytes": 2390394,
+      "sha256": "925ded7babb84d1dbee71df6d382705003a4777b588ce8d1d40a0c68e0635e79"
     },
     {
       "path": "히로인/차유진/업스케일/표정/업무_serious.png",
@@ -731,8 +731,8 @@
       "filename": "업무_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2437505,
-      "sha256": "1043750cea66205fc3973cfea496d52697069f5b7317fcfcaa4d5ffda4dda5d1"
+      "bytes": 2438206,
+      "sha256": "c20acab4a34db094ede50afcf108f2c721dc74191f15de4cab7c378ef8f3f3a2"
     },
     {
       "path": "히로인/차유진/업스케일/표정/캐주얼_default.png",
@@ -741,8 +741,8 @@
       "filename": "캐주얼_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2437649,
-      "sha256": "4e95f94ae60d73de66b0c4f829d43ec1601e81fb4c56d1f8bb58bc366ab66ed5"
+      "bytes": 2437706,
+      "sha256": "6e290a10c092059205a6c169b23b2a944e09e390329b2d274b756681fcd291bb"
     },
     {
       "path": "히로인/차유진/업스케일/표정/캐주얼_serious.png",
@@ -751,8 +751,8 @@
       "filename": "캐주얼_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2563183,
-      "sha256": "88270c40cf8c67f2d35b8c36b0c66d1ccb3803d5574577ad5295653b344a9cc4"
+      "bytes": 2563506,
+      "sha256": "5c4ff6c72aac1a6b90ce7281eefb7f95da7912d3751c19d661be362cb9aae085"
     },
     {
       "path": "히로인/차유진/포즈/대표.png",
@@ -761,8 +761,8 @@
       "filename": "대표.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 783525,
-      "sha256": "a29184eff56f26374415514ab6a37dedb024770b865194c690a98c115510b115"
+      "bytes": 783602,
+      "sha256": "bd419e9f9572c14578e73e64aac7b27168e778b3aa70f71b33b3a701c70b79eb"
     },
     {
       "path": "히로인/차유진/포즈/듣는자세.png",
@@ -771,8 +771,8 @@
       "filename": "듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1894477,
-      "sha256": "ce7725ed9ceb4c784d42addddebc12bfaf6fd1b63e5278f570678675ed7ca84e"
+      "bytes": 1894576,
+      "sha256": "d03bdb9e461c0a1c1f003989f84ae8900f1b1fad106c39f334fa907573cb6e7a"
     },
     {
       "path": "히로인/차유진/포즈/업무.png",
@@ -781,8 +781,8 @@
       "filename": "업무.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1811780,
-      "sha256": "455200aceba3e51f5039ffc60bb097897b6c14107be6fa87d5bba69c52faa667"
+      "bytes": 1811774,
+      "sha256": "77ba5d76ad184edfaaecd85b990595da67ee52afd83fa455975b0a4e4024faec"
     },
     {
       "path": "히로인/차유진/포즈/캐주얼.png",
@@ -791,8 +791,8 @@
       "filename": "캐주얼.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1836977,
-      "sha256": "6e007c3154e7004677cd89e32178f431b2e1c55f50ff309ba33151bfab59ec67"
+      "bytes": 1837006,
+      "sha256": "778610fcbb85d286e20858a17af3703345b2f731098cf134027ce3f061667d02"
     },
     {
       "path": "히로인/차유진/표정/MASTER_default.png",
@@ -801,8 +801,8 @@
       "filename": "MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1916827,
-      "sha256": "0e064295652992afc806a302302d294c2b854343d01732f53823e31b2ebbe980"
+      "bytes": 1911611,
+      "sha256": "064abb0650d7c58553b96880785e60684d0a97c400ed0c5ceb39d848b1af4677"
     },
     {
       "path": "히로인/차유진/표정/MASTER_serious.png",
@@ -811,8 +811,8 @@
       "filename": "MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1925649,
-      "sha256": "f9f3298cf765c522ba142658fa15d73a5faf0a9d69e19e42ba4907b01b82b974"
+      "bytes": 1920750,
+      "sha256": "314b3084d404a0fe8d9ec2c9feae19f71c74a9793f573f824c55378e978683de"
     },
     {
       "path": "히로인/차유진/표정/업무_default.png",
@@ -821,8 +821,8 @@
       "filename": "업무_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1811780,
-      "sha256": "455200aceba3e51f5039ffc60bb097897b6c14107be6fa87d5bba69c52faa667"
+      "bytes": 1811774,
+      "sha256": "77ba5d76ad184edfaaecd85b990595da67ee52afd83fa455975b0a4e4024faec"
     },
     {
       "path": "히로인/차유진/표정/업무_serious.png",
@@ -831,8 +831,8 @@
       "filename": "업무_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1832601,
-      "sha256": "b0425d77c4ed69ae0fa6f9b77ad854a39bbbbc70bb368728d0034310a7ab631b"
+      "bytes": 1832785,
+      "sha256": "61f8dedf8c447d6bedcf1daa25c0d2a0af744a93a07d3a1253bc860b3aa6c28f"
     },
     {
       "path": "히로인/차유진/표정/캐주얼_default.png",
@@ -841,8 +841,8 @@
       "filename": "캐주얼_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1836977,
-      "sha256": "6e007c3154e7004677cd89e32178f431b2e1c55f50ff309ba33151bfab59ec67"
+      "bytes": 1837006,
+      "sha256": "778610fcbb85d286e20858a17af3703345b2f731098cf134027ce3f061667d02"
     },
     {
       "path": "히로인/차유진/표정/캐주얼_serious.png",
@@ -851,8 +851,8 @@
       "filename": "캐주얼_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1898258,
-      "sha256": "bce2f3392c8dcc6b4d919244f62602ad2c82278d5bf6b3d89f28d577d24eb8d0"
+      "bytes": 1898459,
+      "sha256": "7dee999e796b35a6eee36ab3f24fd46a3104446e39fefe6d864bd9f2307db285"
     },
     {
       "path": "히로인/한서윤/MASTER.png",
@@ -861,8 +861,8 @@
       "filename": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1879156,
-      "sha256": "a6713353c326436a04c5fb237d39788b76489b128b6173e69611fa6b5ab7e9df"
+      "bytes": 1881473,
+      "sha256": "2962798b6b48394e441178714cd101055502e5f325350f5918303a3f06171049"
     },
     {
       "path": "히로인/한서윤/검수자료/귀걸이확대.png",
@@ -891,8 +891,8 @@
       "filename": "손확대.png",
       "width": 1600,
       "height": 490,
-      "bytes": 685634,
-      "sha256": "aec7df09da7fa46c9c5723c05c74b5634ce5b7e987cd20348e557484fce87d63"
+      "bytes": 687843,
+      "sha256": "cb0028de0d2e449444b34203f79175aeb2cb93c037ebc330d5beebd2fec85d9b"
     },
     {
       "path": "히로인/한서윤/검수자료/얼굴10장.jpg",
@@ -911,8 +911,8 @@
       "filename": "전신10장.jpg",
       "width": 1500,
       "height": 1470,
-      "bytes": 322274,
-      "sha256": "370ba32d76b5d505b5d35d26485b5bba11b349f19d8d0964054d922584c32bc3"
+      "bytes": 322210,
+      "sha256": "57428070df6765dd1ffb527e19bfdfc2d9bd2f845cd335c50421d910a6c18250"
     },
     {
       "path": "히로인/한서윤/업스케일/MASTER.png",
@@ -921,8 +921,8 @@
       "filename": "MASTER.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2779076,
-      "sha256": "f6b834550250633a863dc654ee15c8f502894bd9d3bf5f0b365a3bdb15a7c0e5"
+      "bytes": 2798209,
+      "sha256": "c962562f6cfa3f4a0371deaa4d2056c1f71124b693f1003076edb943317addea"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/대표.png",
@@ -971,8 +971,8 @@
       "filename": "MASTER_default.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2779076,
-      "sha256": "f6b834550250633a863dc654ee15c8f502894bd9d3bf5f0b365a3bdb15a7c0e5"
+      "bytes": 2798209,
+      "sha256": "c962562f6cfa3f4a0371deaa4d2056c1f71124b693f1003076edb943317addea"
     },
     {
       "path": "히로인/한서윤/업스케일/표정/MASTER_serious.png",
@@ -981,8 +981,8 @@
       "filename": "MASTER_serious.png",
       "width": 2048,
       "height": 3072,
-      "bytes": 2868877,
-      "sha256": "aa7fd6fd570fb3aff5c5f2d112633e0852f0e88190ae0f3b0532a24f7a0417c4"
+      "bytes": 2880501,
+      "sha256": "e53a0ad5ac1bb14a34a0cf156dc464c2eebeac80d8a2578a615b254f477356cc"
     },
     {
       "path": "히로인/한서윤/업스케일/표정/업무_default.png",
@@ -1071,8 +1071,8 @@
       "filename": "MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1879156,
-      "sha256": "a6713353c326436a04c5fb237d39788b76489b128b6173e69611fa6b5ab7e9df"
+      "bytes": 1881473,
+      "sha256": "2962798b6b48394e441178714cd101055502e5f325350f5918303a3f06171049"
     },
     {
       "path": "히로인/한서윤/표정/MASTER_serious.png",
@@ -1081,8 +1081,8 @@
       "filename": "MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 1896873,
-      "sha256": "a5891c1dd63b2c28ccfe53c9aa91d71502ae01bf7c8d25262ab40f3e4abc314d"
+      "bytes": 1899147,
+      "sha256": "1f521ac9e6fc57dd0f0d2c23911c3b17bc7f64b592e5e6cd55aedd83439f577c"
     },
     {
       "path": "히로인/한서윤/표정/업무_default.png",

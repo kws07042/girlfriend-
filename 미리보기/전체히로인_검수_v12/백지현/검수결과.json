@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-11",
+  "scope": "Current canonical originals and their 2x sprites; historical preview candidates excluded",
+  "originals": 11,
+  "upscales": 11,
+  "findings": "선택된 2번 애쉬베이지 웨이브·보라회색 눈 외형으로 11장 전체를 교체했습니다. MASTER/캐주얼의 양손을 다듬고 듣는 자세·업무·대표 포즈를 같은 외형으로 제작했습니다. 진지 표정은 입 주변만 국소 적용했습니다.",
+  "visualReview": {
+    "faceEyesNoseMouth": "확대 비교: 뚜렷한 중복/누락/접합 오류 없음",
+    "earsJewelry": "머리카락에 가린 부분은 가림으로 판정; 추가 돌기/이중 장식 검토",
+    "handsNails": "보이는 손가락·관절·손톱 방향·소품/신체 접촉을 포즈별 검토; 가려진 손은 추가하지 않음",
+    "bodyRatios": "대략 7~8등신의 성인 미연시 비율; 머리/목/어깨, 팔/허리, 무릎/발목 연결과 발 크기에서 뚜렷한 불균형 없음",
+    "style": "전신에 얇은 선화와 부드러운 셀 명암 유지",
+    "alpha": "밝은 배경에 합성해 수정 경계를 재확인"
+  },
+  "limitations": "Visual assessment, not an anatomical guarantee. 2x is Lanczos3 resampling, no extra detail synthesized. RenPy playtest not performed.",
+  "files": [
+    {
+      "file": "MASTER.png",
+      "upscale": "업스케일/MASTER.png",
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6",
+      "reviewed": true
+    },
+    {
+      "file": "포즈/듣는자세.png",
+      "upscale": "업스케일/포즈/듣는자세.png",
+      "sha256": "b4c08fb5c0d6f864847a8d365d1474d32a9fe15a08ff431e0b0d1f9936029324",
+      "reviewed": true
+    },
+    {
+      "file": "포즈/업무.png",
+      "upscale": "업스케일/포즈/업무.png",
+      "sha256": "2cd7b777946570f8e042af91f7043b0d0a5950533eee81bcb81cbb71b9c03f14",
+      "reviewed": true
+    },
+    {
+      "file": "포즈/캐주얼.png",
+      "upscale": "업스케일/포즈/캐주얼.png",
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6",
+      "reviewed": true
+    },
+    {
+      "file": "표정/MASTER_default.png",
+      "upscale": "업스케일/표정/MASTER_default.png",
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6",
+      "reviewed": true
+    },
+    {
+      "file": "표정/MASTER_serious.png",
+      "upscale": "업스케일/표정/MASTER_serious.png",
+      "sha256": "2c30360c1315997df7daab37adc413d5f2a22ee199bf95a24037028a8fb8b789",
+      "reviewed": true
+    },
+    {
+      "file": "표정/업무_default.png",
+      "upscale": "업스케일/표정/업무_default.png",
+      "sha256": "2cd7b777946570f8e042af91f7043b0d0a5950533eee81bcb81cbb71b9c03f14",
+      "reviewed": true
+    },
+    {
+      "file": "표정/업무_serious.png",
+      "upscale": "업스케일/표정/업무_serious.png",
+      "sha256": "4825704756a2fe1ff95a9f906e8d13d5f90292997008c46331c5a6117ecafaed",
+      "reviewed": true
+    },
+    {
+      "file": "표정/캐주얼_default.png",
+      "upscale": "업스케일/표정/캐주얼_default.png",
+      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6",
+      "reviewed": true
+    },
+    {
+      "file": "표정/캐주얼_serious.png",
+      "upscale": "업스케일/표정/캐주얼_serious.png",
+      "sha256": "2c30360c1315997df7daab37adc413d5f2a22ee199bf95a24037028a8fb8b789",
+      "reviewed": true
+    },
+    {
+      "file": "포즈/대표.png",
+      "upscale": "업스케일/포즈/대표.png",
+      "sha256": "de94b4255956ed3b00c1a0325299b08d6f5f0cebc3245998ee419b617bb8a991",
+      "reviewed": true
+    }
+  ]
+}

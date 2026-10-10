@@ -1,0 +1,22 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-11",
+  "acceptedHands": [
+    {
+      "id": "한서윤-left",
+      "name": "한서윤",
+      "side": "left",
+      "prompt": "Use case: precise-object-edit. This is a TRANSPARENT crop of an ADULT female anime heroine's right hand hanging at her side. REDESIGN THE FINGER POSE completely to fix impossible pointed folded fingers. Keep wrist position, total wrist-to-tip length, palm size, skin tone, forearm, clothing and surroundings fixed. The finger articulation/spacing MAY change.\nShow the BACK of a relaxed hand with FOUR CLEAR SEPARATE LONG FINGERS extending mostly DOWN from the palm with only a mild natural bend: index and ring near-equal length, middle longest, pinky shortest. Every finger has one continuous root, plausible two joints and a rounded fingertip. Place fingers side by side in a loose narrow group with tiny visible gaps, NOT folded sideways or stacked behind the thumb. All four fingertips should be readable. The single thumb rests loosely along the side near index, bending naturally and ending above the four fingertips. FIVE DIGITS TOTAL. Small subtly drawn natural nails oriented along the fingertips, no fake extra nail/palm lines. REMOVE ALL triangular overlapping fins and crossed web lines from the old fingers. Do not preserve their old curl. No clenched fist or palm-forward greeting, no wide finger fan. Make a simple graceful anatomically legible hanging hand suitable for an adult visual novel sprite.\nMatch original thin smooth clean anime contour and restrained peach two-tone CEL shading, not photoreal/3D. Body/garment edges must remain exactly same. Keep exact 480x615 crop framing and forearm alignment, genuine transparent background with clean narrow finger gaps. One corrected crop only.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-2b1d1dc0-6f1c-4771-9a6f-ef46d7ef78a8.png"
+    },
+    {
+      "id": "한서윤-right",
+      "name": "한서윤",
+      "side": "right",
+      "prompt": "Use case: precise-object-edit. This is a TRANSPARENT crop of an ADULT female anime heroine's left hand hanging at her side. REDESIGN THE FINGER POSE completely to fix impossible pointed folded fingers. Keep wrist position, total wrist-to-tip length, palm size, skin tone, forearm, clothing and wristwatch fixed. The finger articulation/spacing MAY change.\nShow the BACK of a relaxed hand with FOUR CLEAR SEPARATE LONG FINGERS extending mostly DOWN from the palm with only a mild natural bend: index and ring near-equal length, middle longest, pinky shortest. Every finger has one continuous root, plausible two joints and a rounded fingertip. Place fingers side by side in a loose narrow group with tiny visible gaps, NOT folded sideways or stacked behind the thumb. All four fingertips should be readable. The single thumb rests loosely along the side near index, bending naturally and ending above the four fingertips. FIVE DIGITS TOTAL. Small subtly drawn natural nails oriented along the fingertips, no fake extra nail/palm lines. REMOVE ALL triangular overlapping fins and crossed web lines from the old fingers. Do not preserve their old curl. No clenched fist or palm-forward greeting, no wide finger fan. Make a simple graceful anatomically legible hanging hand suitable for an adult visual novel sprite.\nMatch original thin smooth clean anime contour and restrained peach two-tone CEL shading, not photoreal/3D. Body/garment edges must remain exactly same. Keep exact 480x615 crop framing and forearm alignment, genuine transparent background with clean narrow finger gaps. One corrected crop only.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-6a4d81e7-37b4-497b-9aba-22551d5b78aa.png"
+    }
+  ],
+  "details": [],
+  "compositing": "Pose-specific cropped edits with feathered rectangle and premultiplied alpha. Edits were inspected after saving. Prior unsuccessful mask/composite drafts were discarded."
+}

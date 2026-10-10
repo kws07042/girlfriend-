@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-11",
+  "selected": "v11 candidate 02",
+  "normalization": "1008x1512 plus transparent safe margins to 1024x1536",
+  "masterRgbaOutsideHandsIdentical": true,
+  "changedChannels": 98398,
+  "scope": "MASTER face/hair/body preservation against selected candidate; other poses were newly generated from this identity"
+}

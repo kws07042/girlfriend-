@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-11",
+  "baselineCommit": "07d73057097d04adf7aea40f37d14f7c63cd8d08",
+  "images": [
+    {
+      "file": "MASTER.png",
+      "changedChannels": 93541,
+      "editedRegions": [
+        {
+          "left": 235,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 640,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "포즈/듣는자세.png",
+      "changedChannels": 2552,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "포즈/업무.png",
+      "changedChannels": 2660,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "포즈/캐주얼.png",
+      "changedChannels": 2552,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/MASTER_default.png",
+      "changedChannels": 93541,
+      "editedRegions": [
+        {
+          "left": 235,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 640,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/MASTER_serious.png",
+      "changedChannels": 91081,
+      "editedRegions": [
+        {
+          "left": 235,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 640,
+          "top": 690,
+          "width": 160,
+          "height": 205
+        },
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/업무_default.png",
+      "changedChannels": 2660,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/업무_serious.png",
+      "changedChannels": 2738,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/캐주얼_default.png",
+      "changedChannels": 2552,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "표정/캐주얼_serious.png",
+      "changedChannels": 2560,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    },
+    {
+      "file": "포즈/대표.png",
+      "changedChannels": 2624,
+      "editedRegions": [
+        {
+          "left": 420,
+          "top": 165,
+          "width": 90,
+          "height": 100
+        }
+      ],
+      "rgbaOutsideEditsIdentical": true
+    }
+  ]
+}

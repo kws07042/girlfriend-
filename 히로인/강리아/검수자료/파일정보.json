@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "tool": "built-in image_gen",
   "upscale": "Lanczos3 2x; unchanged design, no synthesized new detail",
   "images": [
@@ -7,21 +7,21 @@
       "file": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81",
+      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8",
       "upscale": "업스케일/MASTER.png"
     },
     {
       "file": "포즈/듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "2900a35c6bba8e1aa3ea53b65c67f23c38ab7fa5150ca4098b99a06cb4521b12",
+      "sha256": "49543d64c34d9dd6ea38cb895cb172a14a1f7d11bc14597a96fb1040f79915a4",
       "upscale": "업스케일/포즈/듣는자세.png"
     },
     {
       "file": "포즈/설명.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16",
+      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff",
       "upscale": "업스케일/포즈/설명.png"
     },
     {
@@ -35,28 +35,28 @@
       "file": "표정/MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81",
+      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8",
       "upscale": "업스케일/표정/MASTER_default.png"
     },
     {
       "file": "표정/MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "db9da912d43f44027f9fd371212d96f5d23e3d9f5dc64ac6bc4aef3ecdeff243",
+      "sha256": "7d92696e056cc17663e85b07e0e96009e976565e81539199f43bea71def902b5",
       "upscale": "업스케일/표정/MASTER_serious.png"
     },
     {
       "file": "표정/설명_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "c105ecc4f3a442ae8bffacc2169726d18cce58fa0ac9ba3f940b3cd369fc8b16",
+      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff",
       "upscale": "업스케일/표정/설명_default.png"
     },
     {
       "file": "표정/설명_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "bbe08cb33af756138b7a63073daf55d365c5c6388ea1fd8cf3ee723cc36271b3",
+      "sha256": "07876cc2997512c044a73d0b40a20599c5066b8357e133e52ca35bd39cfb3e30",
       "upscale": "업스케일/표정/설명_serious.png"
     },
     {
@@ -77,14 +77,14 @@
       "file": "포즈/인사.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "1b54417453e1a4f7a79ec4b8fab94f6045131643da8fe9b18f59a4f7ce26bc41",
+      "sha256": "d5db6808384201cfce76d90636a30fa49bdc0f7dd7f63f5f4e78a64ebba7ca64",
       "upscale": "업스케일/포즈/인사.png"
     },
     {
       "file": "포즈/솔직한대화.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "140a7ffe7277991aa2b253d36d6db597683e9971b6025098b216c40c0f42b58c",
+      "sha256": "0fdd2734fd8cecb9c8883c0b25b4046cb0be1165941dde047190ab1988ae86ec",
       "upscale": "업스케일/포즈/솔직한대화.png"
     },
     {

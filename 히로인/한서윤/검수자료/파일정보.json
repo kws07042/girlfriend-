@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "tool": "built-in image_gen",
   "upscale": "Lanczos3 2x; unchanged design, no synthesized new detail",
   "images": [
@@ -7,7 +7,7 @@
       "file": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "a6713353c326436a04c5fb237d39788b76489b128b6173e69611fa6b5ab7e9df",
+      "sha256": "2962798b6b48394e441178714cd101055502e5f325350f5918303a3f06171049",
       "upscale": "업스케일/MASTER.png"
     },
     {
@@ -35,14 +35,14 @@
       "file": "표정/MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "a6713353c326436a04c5fb237d39788b76489b128b6173e69611fa6b5ab7e9df",
+      "sha256": "2962798b6b48394e441178714cd101055502e5f325350f5918303a3f06171049",
       "upscale": "업스케일/표정/MASTER_default.png"
     },
     {
       "file": "표정/MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "a5891c1dd63b2c28ccfe53c9aa91d71502ae01bf7c8d25262ab40f3e4abc314d",
+      "sha256": "1f521ac9e6fc57dd0f0d2c23911c3b17bc7f64b592e5e6cd55aedd83439f577c",
       "upscale": "업스케일/표정/MASTER_serious.png"
     },
     {
