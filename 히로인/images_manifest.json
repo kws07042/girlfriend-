@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-10",
-  "scope": "All four heroine sets reverted to their pre-makeup assets. Jihyun facial design refined without cosmetics; original bodies retained and 42 runtime sprites synchronized.",
+  "scope": "Four makeup-free heroine sets. Jihyun refined, Yujin facial angularity softened while preserving purple eyes and calm identity; original bodies retained and 42 runtime sprites synchronized.",
   "runtime_images": 42,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1915440,
-      "sha256": "36d2d73d7e5eae9e5b2a2ff238f7463e12a35c4549f4cc1af109079d7aa21573"
+      "bytes": 1915652,
+      "sha256": "8361cb522201fcf81f3213498b16d3fffba7530afeb040be1abdeb4e73eb7814"
     },
     {
       "path": "히로인/백지현/MASTER.png",
