@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-10",
-  "scope": "Four makeup-free differentiated heroines with four additional personality-specific signature gestures/expressions, 2x sprites and eight authored dialogue beats. Existing master assets retained.",
+  "scope": "46 makeup-free heroine sprites: Seoyun earrings removed throughout; Yujin affectionate eye/smile appeal and Jihyun warm confident smile refined across master/poses/expressions/signature assets. Original bodies and costumes retained.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -11,8 +11,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1879904,
-      "sha256": "fa00326cd2694ec32dc28ce86981d0523a93cd43abdf0a17ffc4ca3b0daca96c"
+      "bytes": 1879156,
+      "sha256": "a6713353c326436a04c5fb237d39788b76489b128b6173e69611fa6b5ab7e9df"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1915652,
-      "sha256": "8361cb522201fcf81f3213498b16d3fffba7530afeb040be1abdeb4e73eb7814"
+      "bytes": 1916827,
+      "sha256": "0e064295652992afc806a302302d294c2b854343d01732f53823e31b2ebbe980"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1762460,
-      "sha256": "0447cf1e01f4ba16f096c3d89278a7efa4c7826432a11ecda92de3846b9e901f"
+      "bytes": 1762892,
+      "sha256": "d45de7a42d360650a82c67e13bbbe2dccc9cb4ed92f7703750438b2c1b949880"
     },
     {
       "path": "히로인/강리아/포즈/대표.png",
@@ -65,8 +65,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 848483,
-      "sha256": "cb08c513d1830b450dbb34b56f78a10dc690547465b915f970a554971e1fd81b"
+      "bytes": 848145,
+      "sha256": "f84e9f08dae57a404b8b72c1789e45508f8203bc06260f2f7305e3518657f4e9"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/대표.png",
@@ -74,8 +74,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2841723,
-      "sha256": "ffd9c179964a906ef84fd519bba5ba6e7157f59a705d443602c5d8b607006954"
+      "bytes": 2839672,
+      "sha256": "cb08a291548a694a9b62f259874d304a0196ca0e424e4850ef9bee65ff3335aa"
     },
     {
       "path": "히로인/차유진/포즈/대표.png",
@@ -83,8 +83,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 783794,
-      "sha256": "3130078cd8a18d93b94564683d67165f3385768bfe0e9aee30baa42524cad863"
+      "bytes": 783525,
+      "sha256": "a29184eff56f26374415514ab6a37dedb024770b865194c690a98c115510b115"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/대표.png",
@@ -92,8 +92,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2584215,
-      "sha256": "5ffa726131a5afd8a99136754cc8256947b133f59991a08ef2df7d6fc1a45ef8"
+      "bytes": 2582487,
+      "sha256": "a5d212035758de0332f57f5864f0d4fa1b06ba71a3ff27b89f2e224ff8c77747"
     },
     {
       "path": "히로인/백지현/포즈/대표.png",
@@ -101,8 +101,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 673815,
-      "sha256": "0f9a89861c127fdeb15dc142268a1424e0f80f1b2ad5c0d403e12d7fb4caf9eb"
+      "bytes": 672581,
+      "sha256": "7dbb516625deef61cf04afb95af5fe251fb3fc1112fa202dc21145aa8ebb6652"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -110,8 +110,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2254135,
-      "sha256": "cb37068e3ab2f2ba11be22e466520925a5a840f935d615477c8663b37984caf5"
+      "bytes": 2250842,
+      "sha256": "777ff5951728a51de2bc92165b51366f4917e8c6f4325312050ef1d1f04d3d07"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

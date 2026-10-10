@@ -1,0 +1,12 @@
+{
+  "default": {
+    "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-77996d03-1d5f-41a3-8dba-98d5453aa53e.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is this cropped portrait of a fictional ADULT brown-haired woman with two gold hoop earrings. REMOVE BOTH EARRINGS COMPLETELY, including every gold ring/attachment, stud and hole. Reconstruct simple natural clean bare EARLOBES with no piercings or jewelry and the existing brown hair/transparent gap behind the removed earrings. No remaining gold pixels, bumps, dangling fragment or replacement ornament. Do not change facial identity, eye/iris/brow geometry or color, nose, mouth/smile, beauty mark, head tilt, hair silhouette, neck, garments, skin shading or art style. Keep original thin-line soft CEL illustration, no makeup. Exact same crop framing/scale, same expression, genuinely transparent background, no colored background/glow. Only the two jewelry/earlobe regions may change."
+  },
+  "signature": {
+    "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-90044dee-24ba-4aa3-9d15-f18d65dca490.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is this cropped portrait of a fictional ADULT brown-haired woman with two gold hoop earrings. REMOVE BOTH EARRINGS COMPLETELY, including every gold ring/attachment, stud and hole. Reconstruct simple natural clean bare EARLOBES with no piercings or jewelry and the existing brown hair/transparent gap behind the removed earrings. No remaining gold pixels, bumps, dangling fragment or replacement ornament. Do not change facial identity, eye/iris/brow geometry or color, nose, mouth/smile, beauty mark, head tilt, hair silhouette, neck, garments, skin shading or art style. Keep original thin-line soft CEL illustration, no makeup. Exact same crop framing/scale, same expression, genuinely transparent background, no colored background/glow. Only the two jewelry/earlobe regions may change."
+  }
+}
