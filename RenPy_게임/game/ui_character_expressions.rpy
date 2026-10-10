@@ -164,6 +164,14 @@ init 25 python:
             store.ui_seoyun_expression = "surprised"
 
     def ui_character_static_sprite(who, pose=None, expression=None):
+        if who == "ria":
+            pose = pose or ui_pose_current(who)
+            expression = expression or ui_expression_current(who)
+            state = "serious" if expression == "serious" else "default"
+            path = "images/characters/ria_expressions/%s_%s.png" % (pose, state)
+            if renpy.loadable(path):
+                return Image(path)
+            return Image(ui_character_pose_file(who, pose))
         # Keep authored geometry and facial features. The whole sprite receives
         # smooth colour calibration to its MASTER; no eye/mouth overlay is used.
         return ui_character_palette_sprite(who, pose)

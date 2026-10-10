@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-08",
-  "scope": "Canonical heroine masters retained in heroine folder. External character, phone and CG files removed on 2026-10-08.",
-  "runtime_images": 0,
+  "updated": "2026-10-10",
+  "scope": "Ria rebuilt with one approved master, neutral pose, matching poses/expressions and 2x sprites. Old Ria images removed. Other heroines unchanged.",
+  "runtime_images": 10,
   "canonical_masters": 4,
   "comparison_previews": 0,
   "files": [
@@ -20,8 +20,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 2167361,
-      "sha256": "27466bfb2808c32140269b3b503f69c3c11cc09ee9392d61b5008798aaeb9703"
+      "bytes": 2010308,
+      "sha256": "d377c47239c17fba3156ed9a46e47d391b0fef16c074b67b5573d7a05d401a81"
     },
     {
       "path": "히로인/차유진/MASTER.png",
