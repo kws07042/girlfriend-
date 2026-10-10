@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10",
-  "scope": "46 makeup-free heroine sprites: Seoyun earrings removed throughout; Yujin affectionate eye/smile appeal and Jihyun warm confident smile refined across master/poses/expressions/signature assets. Original bodies and costumes retained.",
+  "updated": "2026-10-11",
+  "scope": "46 unified heroine sprites. Jihyun facial redesign: open amber eyes and relaxed closed smile across 11 originals, 11 2x sprites and runtime files. Original body, costume and full alpha preserved.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1762892,
-      "sha256": "d45de7a42d360650a82c67e13bbbe2dccc9cb4ed92f7703750438b2c1b949880"
+      "bytes": 1763249,
+      "sha256": "2128f6c92cb4091064e47e764a870f26dda2cc01fb7b35c942c7fe18b053848c"
     },
     {
       "path": "히로인/강리아/포즈/대표.png",
@@ -101,8 +101,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 672581,
-      "sha256": "7dbb516625deef61cf04afb95af5fe251fb3fc1112fa202dc21145aa8ebb6652"
+      "bytes": 672823,
+      "sha256": "87f79b67be7c2f5d95fa4e23472e3a0457b2367734701536f89286da3db89ba7"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -110,8 +110,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2250842,
-      "sha256": "777ff5951728a51de2bc92165b51366f4917e8c6f4325312050ef1d1f04d3d07"
+      "bytes": 2251885,
+      "sha256": "37eda6868a5bd551427230e5ec0291ab000e497ff8414bdb5ed72b0e0c0bbf04"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
