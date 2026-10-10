@@ -11,8 +11,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1884153,
-      "sha256": "f45834ede45af7913dbfc6c531f55a0c83773d21684eb3ae695826a1ef144a72"
+      "bytes": 1879904,
+      "sha256": "fa00326cd2694ec32dc28ce86981d0523a93cd43abdf0a17ffc4ca3b0daca96c"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1272263,
-      "sha256": "90ec230a070bc4afe8092baff2ac7c0ddb3a6c08a8ed6622c9c5a79c141562e9"
+      "bytes": 1915440,
+      "sha256": "36d2d73d7e5eae9e5b2a2ff238f7463e12a35c4549f4cc1af109079d7aa21573"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1235302,
-      "sha256": "ebe3a4ef0b8a1152a8428652726e3f80c2d446151d14904cbe030ab69d6bd686"
+      "bytes": 1761958,
+      "sha256": "4ad6a2a7803613cce99513abd8578d9cbc01723333898dbc8378437188feade6"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
