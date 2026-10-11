@@ -25,10 +25,10 @@ init 25 python:
         gl_FragColor.rgb = clamp(skin_c + u_face_tone*skin_weight,0.0,1.0)*skin_a;
     """)
     ui_seoyun_expression_files = {
-        "smile": "images/characters/seoyun_expressions/smile.png",
-        "serious": "images/characters/seoyun_expressions/serious.png",
-        "surprised": "images/characters/seoyun_expressions/surprised.png",
-        "sheepish": "images/characters/seoyun_expressions/sheepish.png",
+        "smile": ui_heroine_file("seoyun", "master", "default"),
+        "serious": ui_heroine_file("seoyun", "master", "serious"),
+        "surprised": ui_heroine_file("seoyun", "master", "default"),
+        "sheepish": ui_heroine_file("seoyun", "master", "default"),
     }
     ui_seoyun_expression_beats = {
         "도현 씨? 한서윤이에요. 서비스 기획 쪽은 저한테 물어보시면 돼요. 첫날이니까 오늘은 방향부터 같이 보죠.": "smile",
@@ -168,7 +168,7 @@ init 25 python:
             pose = pose or ui_pose_current(who)
             expression = expression or ui_expression_current(who)
             state = "serious" if expression == "serious" else "default"
-            path = "images/characters/%s_expressions/%s_%s.png" % (who, pose, state)
+            path = ui_heroine_file(who, pose, state)
             if renpy.loadable(path):
                 return Image(path)
             return Image(ui_character_pose_file(who, pose))

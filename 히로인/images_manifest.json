@@ -1,9 +1,9 @@
 {
   "updated": "2026-10-11",
-  "scope": "v27: Seoyun, Yujin and Jihyun restyled to Ria clean thin-line soft-cel rendering across 33 native/2x/runtime assets. Approved silhouette/height, identities, wardrobe and protected hand/accessory geometry maintained; three legacy Seoyun serious alpha variants standardized to their approved poses. Ria 13 originals unchanged. Obsolete preview imagery removed.",
+  "scope": "v28: Audited all 46 native and 46 upscale assets without altering artwork. Signature hand improvements and three Ria serious alpha differences are documented. Removed 46 runtime copies and routed the game directly to canonical upscales. Moved all current character comparisons under 히로인.",
   "runtime_images": 46,
   "canonical_masters": 4,
-  "comparison_previews": 0,
+  "comparison_previews": 28,
   "files": [
     {
       "path": "히로인/한서윤/MASTER.png",
@@ -124,5 +124,7 @@
     "reference": "강리아",
     "currentPreviewImages": 25
   },
-  "current_review": "미리보기/리아기준_전체작화통일_v27/README.md"
+  "current_review": "히로인/공통검수자료/README.md",
+  "runtime_image_copies": 0,
+  "runtime_storage": "히로인/<character>/업스케일/"
 }

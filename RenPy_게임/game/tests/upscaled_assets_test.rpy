@@ -5,8 +5,8 @@ testcase office_upscaled_assets:
     click "첫날 시작"
     run SetVariable("ui_ria_preview_time",0.0)
     advance until screen "choice"
-    assert eval renpy.image_size("images/characters/seoyun_master.png") == (2048,3070)
-    assert eval all(renpy.image_size("images/characters/%s_master.png" % who) == (2048,3072) for who in ("ria","yujin","jihyun"))
+    assert eval renpy.image_size(ui_heroine_file("seoyun")) == (2048,3072)
+    assert eval all(renpy.image_size(ui_heroine_file(who)) == (2048,3072) for who in ("ria","yujin","jihyun"))
     assert eval all(ui_master_avatar_box(who) == (770,90,500,500) for who in names)
     assert eval ui_camera_current() == "B"
     pause 0.5

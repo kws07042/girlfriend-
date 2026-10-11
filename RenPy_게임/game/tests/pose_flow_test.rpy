@@ -6,7 +6,7 @@ testcase office_pose_flow:
     run SetVariable("ui_ria_preview_time",0.0)
     advance until screen "choice"
     assert eval ui_pose_current("ria") == "master"
-    assert eval sum(len(v) for v in ui_pose_files.values()) == 9
+    assert eval sum(len(set(v.values())) for v in ui_pose_files.values()) == 22
     assert eval all(renpy.loadable(p) for d in ui_pose_files.values() for p in d.values())
     $ _pose_old_animation = persistent.ria_animation
     run SetField(persistent,"ria_animation",True)

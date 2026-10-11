@@ -58,7 +58,7 @@ init 47 python:
         ui_pose_set(who,kind)
     for _who in names:
         # Previous outfit artwork was removed; keep these scene aliases valid.
-        ui_pose_files[_who].update({kind:"images/characters/%s_master.png" % _who for kind in ("daily_a","daily_b","date_a","date_b")})
+        ui_pose_files[_who].update({kind:ui_heroine_file(_who) for kind in ("daily_a","daily_b","date_a","date_b")})
     for _d,_who,_text in [(12,"ria","메시지가 삭제되었습니다. 만나서 이야기할게요."),(15,"seoyun","오늘은 식사만 하고 각자 돌아가요. 개인적인 약속은 다음에 시간을 확인하고요."),(17,"yujin","퇴근 뒤에는 다른 곳에서 이야기할 수 있어요. 회사 자료는 놓고 와 주세요.")]:
         message_data["w34_%d" % _d] = {"who":_who,"time":"17:50","texts":[_text]}
 

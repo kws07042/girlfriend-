@@ -63,10 +63,10 @@ init 40 python:
         state = ui_ria_eye_state()
         if state == "open":
             return base, 0.016
-        path = "images/characters/ria_animation/%s.png" % state
+        path = ui_heroine_animation_file("ria", "%s.png" % state)
         if not renpy.loadable(path):
             return base, 0.016
-        eyes = AlphaMask(path,"images/characters/ria_animation/eyes_mask.svg")
+        eyes = AlphaMask(path,ui_heroine_animation_file("ria", "eyes_mask.svg"))
         return Composite((2048,3072),(0,0),base,(740,40),eyes), 0.016
 
     def ui_ria_head_update(trans,st,at):

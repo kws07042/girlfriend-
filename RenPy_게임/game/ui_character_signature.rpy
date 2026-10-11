@@ -1,7 +1,7 @@
 # Signature gestures use their authored facial expression for short positive beats.
 init 50 python:
     for _signature_who in ("ria", "seoyun", "yujin", "jihyun"):
-        ui_pose_files[_signature_who]["signature"] = "images/characters/%s_poses/signature.png" % _signature_who
+        ui_pose_files[_signature_who]["signature"] = ui_heroine_file(_signature_who, "signature")
 
     ui_signature_beats = {
         "ria": (

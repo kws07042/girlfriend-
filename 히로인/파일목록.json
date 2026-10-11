@@ -1,8 +1,8 @@
 {
   "updated": "2026-10-11",
-  "total": 112,
+  "total": 140,
   "png": 100,
-  "jpg": 12,
+  "jpg": 40,
   "images": [
     {
       "path": "히로인/강리아/MASTER.png",
@@ -313,6 +313,286 @@
       "height": 1536,
       "bytes": 2041292,
       "sha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b"
+    },
+    {
+      "path": "히로인/공통검수자료/대표_손상체확대.jpg",
+      "character": "공통검수자료",
+      "category": "대표_손상체확대.jpg",
+      "filename": "대표_손상체확대.jpg",
+      "width": 1240,
+      "height": 1100,
+      "bytes": 381370,
+      "sha256": "fe95ed1a6ad4137956f77526017275c8065445f5e08a1bc1cb2650290d2ce7c9"
+    },
+    {
+      "path": "히로인/공통검수자료/대표_얼굴확대.jpg",
+      "character": "공통검수자료",
+      "category": "대표_얼굴확대.jpg",
+      "filename": "대표_얼굴확대.jpg",
+      "width": 1320,
+      "height": 1260,
+      "bytes": 454984,
+      "sha256": "bacd09aa11234ee3d23182987b9547c6c0106b3f8ad08807c15c72c2fb383e9b"
+    },
+    {
+      "path": "히로인/공통검수자료/대표_하체확대.jpg",
+      "character": "공통검수자료",
+      "category": "대표_하체확대.jpg",
+      "filename": "대표_하체확대.jpg",
+      "width": 1000,
+      "height": 1420,
+      "bytes": 256150,
+      "sha256": "6b706c43606b5a17cce2a6d0b63ec8f5d5c95c9adeaf39ac2661c8cbef138b89"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/대표4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "대표4인.jpg",
+      "width": 1600,
+      "height": 630,
+      "bytes": 226740,
+      "sha256": "646aa5d5d7c593806a9b782a1e7e6e2bf228403ba18162e0cc5023c442b4f2ac"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/듣는자세4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "듣는자세4인.jpg",
+      "width": 1600,
+      "height": 630,
+      "bytes": 228399,
+      "sha256": "a38b1ff073c00b33efaeb8bf7dc6ffda42cee90e56f43839d64900d02bfc1015"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/마스터4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "마스터4인.jpg",
+      "width": 1600,
+      "height": 630,
+      "bytes": 232411,
+      "sha256": "5bfc0b7c822f708e120c9a7538c9ec70050256d9f12783d06b8cf99b969595b1"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/백지현_귀확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "백지현_귀확대.jpg",
+      "width": 1890,
+      "height": 1050,
+      "bytes": 639278,
+      "sha256": "a62420314c5d279218e4dd654a9636f7b41b95926a7f2d1846ec9d979726717c"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/백지현_모든얼굴.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "백지현_모든얼굴.jpg",
+      "width": 1620,
+      "height": 2240,
+      "bytes": 1440609,
+      "sha256": "3d285bda4bf0f733694177c7019388425aaef581bc7e82ba4bd92647fb1abad6"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/백지현_모든전신.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "백지현_모든전신.jpg",
+      "width": 1024,
+      "height": 1242,
+      "bytes": 321427,
+      "sha256": "810d42c69de3a135305c967623a11e377b3a833ed249e1ce805b9b53337f363a"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/백지현_손확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "백지현_손확대.jpg",
+      "width": 1360,
+      "height": 2220,
+      "bytes": 722023,
+      "sha256": "2d8391387f48fc00f3d79bab05b5f56ca8b2175450ee0f0cf4d7352f152604ec"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/백지현_신발확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "백지현_신발확대.jpg",
+      "width": 1650,
+      "height": 612,
+      "bytes": 124365,
+      "sha256": "4087819cf4275b309412811ebf8705c7a3492aa9de16a2c3d8c70feccc24b1f2"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/상체4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "상체4인.jpg",
+      "width": 1880,
+      "height": 485,
+      "bytes": 386643,
+      "sha256": "12fa462146936704d57b0df3d1aae683381eb3d9f356bfe8cd22496c49ccbc3a"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/얼굴4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "얼굴4인.jpg",
+      "width": 2160,
+      "height": 560,
+      "bytes": 492022,
+      "sha256": "eec11fbc779948099f6de380c59f1a74b31e192f26d34aa1552219241e280280"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/업무4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "업무4인.jpg",
+      "width": 1600,
+      "height": 630,
+      "bytes": 227397,
+      "sha256": "69288218bbe1528e91a1488e9d444795b30d06098dff113402b55b77a1178dd4"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/유진_벨트확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "유진_벨트확대.jpg",
+      "width": 1470,
+      "height": 500,
+      "bytes": 258545,
+      "sha256": "223a3ce1203cb0739319118e51f05b9e6a63a39d454ed8006dd2f3422903cc2c"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/유진_턱검지.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "유진_턱검지.jpg",
+      "width": 618,
+      "height": 870,
+      "bytes": 118732,
+      "sha256": "83833b63fbc49e0f06e52a31d6babcbf5a4d76d7a2cff1fc5a49daf537a946ec"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/차유진_귀확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "차유진_귀확대.jpg",
+      "width": 1890,
+      "height": 1050,
+      "bytes": 593015,
+      "sha256": "39fb233af28573c31bad2d2ed9fb3024434982273175d0e4b0d1e804745edffc"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/차유진_모든얼굴.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "차유진_모든얼굴.jpg",
+      "width": 1620,
+      "height": 2240,
+      "bytes": 1214747,
+      "sha256": "a462afc07aafbe96bcd92a27bde238a6e91e8de9c1f2ad7e5a676cfe2f7cac9b"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/차유진_모든전신.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "차유진_모든전신.jpg",
+      "width": 1024,
+      "height": 1242,
+      "bytes": 341281,
+      "sha256": "f50e4f01808bb9a042c79230d8148754c25b0b9fef5105248ec528082ee5b087"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/차유진_손확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "차유진_손확대.jpg",
+      "width": 1360,
+      "height": 2220,
+      "bytes": 724466,
+      "sha256": "6e5bdbace16f364734a59423bcb21f481192db72bf31937d7cc7d249ed8e6e77"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/차유진_신발확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "차유진_신발확대.jpg",
+      "width": 1650,
+      "height": 612,
+      "bytes": 180448,
+      "sha256": "23cd9da8983cadea625a05f538fa0dffb2d4bc78081e7b92d1f028de6f25c47f"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/캐주얼4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "캐주얼4인.jpg",
+      "width": 1600,
+      "height": 630,
+      "bytes": 226391,
+      "sha256": "809c815f02596f0d2accd5405ff0db11b863baac15b17364034806b746e59dac"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/하체4인.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "하체4인.jpg",
+      "width": 1280,
+      "height": 518,
+      "bytes": 199021,
+      "sha256": "28644989bec504de4110bf68c5d29c4277eea86e346acc302b25f85ddc964a51"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/한서윤_귀확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "한서윤_귀확대.jpg",
+      "width": 1890,
+      "height": 1050,
+      "bytes": 585533,
+      "sha256": "72f0c85e1aec74666a7440c5ce75c269a8c80a53ea5db71bb86fb24901df14d2"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/한서윤_모든얼굴.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "한서윤_모든얼굴.jpg",
+      "width": 1620,
+      "height": 2240,
+      "bytes": 1300948,
+      "sha256": "75dce864a99e3f84dfcd118d691c0f5270eff96215165b0ed2959221d5ed922d"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/한서윤_모든전신.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "한서윤_모든전신.jpg",
+      "width": 1024,
+      "height": 1242,
+      "bytes": 354982,
+      "sha256": "a6a772936cd39fb9980c85e337cee8ed93ec8f07000cb9bf4f9cd4565919b175"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/한서윤_손확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "한서윤_손확대.jpg",
+      "width": 1360,
+      "height": 2220,
+      "bytes": 740727,
+      "sha256": "c47c28526cd9d2b8e5478251c56ea3f46449100655aee99e84160aac435a5732"
+    },
+    {
+      "path": "히로인/공통검수자료/현재검수/한서윤_신발확대.jpg",
+      "character": "공통검수자료",
+      "category": "현재검수",
+      "filename": "한서윤_신발확대.jpg",
+      "width": 1650,
+      "height": 612,
+      "bytes": 202457,
+      "sha256": "a2eafe7747afccbb2c86c214fd932ecabfd9fca0273c59985ac2b64b37498eca"
     },
     {
       "path": "히로인/백지현/MASTER.png",

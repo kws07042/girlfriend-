@@ -1,0 +1,615 @@
+{
+  "date": "2026-10-11",
+  "version": "v28",
+  "artEdited": false,
+  "nativesVerified": 46,
+  "upscalesVerified": 46,
+  "identicalDefaultExpressions": 12,
+  "seriousSilhouettesMatched": 9,
+  "removedRuntimeDuplicates": [
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/casual_default.png",
+      "sha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "canonical": "히로인/백지현/업스케일/표정/캐주얼_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/casual_serious.png",
+      "sha256": "1e2800a02f565fdcb9bd71e28191b9a796b6b215802e43e16cab90015f1163ea",
+      "canonical": "히로인/백지현/업스케일/표정/캐주얼_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/master_default.png",
+      "sha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "canonical": "히로인/백지현/업스케일/표정/MASTER_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/master_serious.png",
+      "sha256": "cb53e7e8fd670e188d97ec4717c342eb8da792dc8aaed68496db5fe04c116ee8",
+      "canonical": "히로인/백지현/업스케일/표정/MASTER_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/work_default.png",
+      "sha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "canonical": "히로인/백지현/업스케일/표정/업무_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_expressions/work_serious.png",
+      "sha256": "29a5a347e83f18ad2aa3a2cfff3c00387e87d26dd37bb435b05876dd646cc957",
+      "canonical": "히로인/백지현/업스케일/표정/업무_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_master.png",
+      "sha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "canonical": "히로인/백지현/업스케일/MASTER.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/casual.png",
+      "sha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "canonical": "히로인/백지현/업스케일/포즈/캐주얼.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/listening.png",
+      "sha256": "a31ccd28d9de040124339acbd1fd994f4126f40cf5b1978159c2263489a1be30",
+      "canonical": "히로인/백지현/업스케일/포즈/듣는자세.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/signature.png",
+      "sha256": "bab0a92210d0d00dcb665d4810ea29676f9bebacd8860c5a2abcce7ee93bacc2",
+      "canonical": "히로인/백지현/업스케일/포즈/대표.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/jihyun_poses/work.png",
+      "sha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "canonical": "히로인/백지현/업스케일/포즈/업무.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/casual_default.png",
+      "sha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "canonical": "히로인/강리아/업스케일/표정/캐주얼_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/casual_serious.png",
+      "sha256": "2e50ef01d4576312b85cfdec87c772cf32e5f95b6d3f7f8ba9a2d766f0f1ad78",
+      "canonical": "히로인/강리아/업스케일/표정/캐주얼_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/explaining_default.png",
+      "sha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "canonical": "히로인/강리아/업스케일/표정/설명_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/explaining_serious.png",
+      "sha256": "56c6f4ee3972a882c07b67fec7793071fe834ee30a4ad9c3f3f868cf54d35601",
+      "canonical": "히로인/강리아/업스케일/표정/설명_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/master_default.png",
+      "sha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "canonical": "히로인/강리아/업스케일/표정/MASTER_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_expressions/master_serious.png",
+      "sha256": "38d4afb25482c17032290cd4f5fe9ca8c5f83d8493956d65e9e28ebcb429682c",
+      "canonical": "히로인/강리아/업스케일/표정/MASTER_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_master.png",
+      "sha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "canonical": "히로인/강리아/업스케일/MASTER.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/casual.png",
+      "sha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "canonical": "히로인/강리아/업스케일/포즈/캐주얼.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/explaining.png",
+      "sha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "canonical": "히로인/강리아/업스케일/포즈/설명.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/greeting.png",
+      "sha256": "9da09ca39c76f1d4fbc21668f177e1273331e2e9aceb16ac8698d35db27d6a73",
+      "canonical": "히로인/강리아/업스케일/포즈/인사.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/honest.png",
+      "sha256": "2b5aa4444cdf3eabcd9de0993534a50c07f96a41f7d79ace56de7bdfc7430947",
+      "canonical": "히로인/강리아/업스케일/포즈/솔직한대화.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/listening.png",
+      "sha256": "3b384c05bbad2f861adc224c9f93dc268782480b8bf76c2af796bff569b32fd4",
+      "canonical": "히로인/강리아/업스케일/포즈/듣는자세.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/ria_poses/signature.png",
+      "sha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440",
+      "canonical": "히로인/강리아/업스케일/포즈/대표.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/casual_default.png",
+      "sha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "canonical": "히로인/한서윤/업스케일/표정/캐주얼_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/casual_serious.png",
+      "sha256": "ca0cf980d7e9895408a5c4c82214e2cbec699bb2e838ee3aa779bb807f0e33f9",
+      "canonical": "히로인/한서윤/업스케일/표정/캐주얼_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/master_default.png",
+      "sha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "canonical": "히로인/한서윤/업스케일/표정/MASTER_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/master_serious.png",
+      "sha256": "21cb42acb9bcea79d61d3f845d6a5caa40f3d010b9c4a18a5b2b6abb65a20b10",
+      "canonical": "히로인/한서윤/업스케일/표정/MASTER_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/work_default.png",
+      "sha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "canonical": "히로인/한서윤/업스케일/표정/업무_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_expressions/work_serious.png",
+      "sha256": "a38f3b6a75b7c86e3c61f09daa79431ada13dae5abd063a9aa7d67e122c37496",
+      "canonical": "히로인/한서윤/업스케일/표정/업무_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_master.png",
+      "sha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "canonical": "히로인/한서윤/업스케일/MASTER.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/casual.png",
+      "sha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "canonical": "히로인/한서윤/업스케일/포즈/캐주얼.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/listening.png",
+      "sha256": "d46ce0fdaf3a551dbca4275666875910dbe9911e96a34088050389f8925a07ea",
+      "canonical": "히로인/한서윤/업스케일/포즈/듣는자세.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/signature.png",
+      "sha256": "9ac79bfe6df19ae815193dab367fe743d42fef462f75f8a52bdc604ac6798d2a",
+      "canonical": "히로인/한서윤/업스케일/포즈/대표.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/seoyun_poses/work.png",
+      "sha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "canonical": "히로인/한서윤/업스케일/포즈/업무.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/casual_default.png",
+      "sha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "canonical": "히로인/차유진/업스케일/표정/캐주얼_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/casual_serious.png",
+      "sha256": "67ddc107514420bf504753cc00aacff487b9c57073460836f96907a3fda01450",
+      "canonical": "히로인/차유진/업스케일/표정/캐주얼_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/master_default.png",
+      "sha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "canonical": "히로인/차유진/업스케일/표정/MASTER_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/master_serious.png",
+      "sha256": "c1cc161cf201441c597f03795647b5279e4aef98efa4f6cef98024ccccb75c3c",
+      "canonical": "히로인/차유진/업스케일/표정/MASTER_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/work_default.png",
+      "sha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "canonical": "히로인/차유진/업스케일/표정/업무_default.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_expressions/work_serious.png",
+      "sha256": "14c793118acdfc4f65504ab34877803a360991a66562550be1c38cc2ca5e9afb",
+      "canonical": "히로인/차유진/업스케일/표정/업무_serious.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_master.png",
+      "sha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "canonical": "히로인/차유진/업스케일/MASTER.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/casual.png",
+      "sha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "canonical": "히로인/차유진/업스케일/포즈/캐주얼.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/listening.png",
+      "sha256": "a12a7e1189ab4a3700b69e89f31b8c7a21fcc3e2cf4a0fa3a4d7a114b1066165",
+      "canonical": "히로인/차유진/업스케일/포즈/듣는자세.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/signature.png",
+      "sha256": "a440255be41b3ae0e17f2e8b180da41b485f3092a6cdaeac4c62a6cc084dbb50",
+      "canonical": "히로인/차유진/업스케일/포즈/대표.png"
+    },
+    {
+      "path": "RenPy_게임/game/images/characters/yujin_poses/work.png",
+      "sha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "canonical": "히로인/차유진/업스케일/포즈/업무.png"
+    }
+  ],
+  "movedReviewImages": 25,
+  "routeChecks": {
+    "expressionPoseRoutes": 114,
+    "canonicalPoseReferences": 34,
+    "distinctPoseImages": 22,
+    "signatureDialogueBeats": 8,
+    "canonicalMasters": 4,
+    "replyHold": true,
+    "nextLineReset": true,
+    "phoneExclusion": true,
+    "legacyOutfitAliases": true,
+    "runtimeDuplicates": 0,
+    "playtestPerformed": false
+  },
+  "visualConclusion": "Identity and wardrobe broadly consistent, but signature hand shapes need improvement; visual inspection does not certify defect-free art.",
+  "records": [
+    {
+      "character": "강리아",
+      "file": "MASTER.png",
+      "nativeSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/대표.png",
+      "nativeSha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
+      "upscaleSha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
+      "upscaleSha256": "3b384c05bbad2f861adc224c9f93dc268782480b8bf76c2af796bff569b32fd4",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/설명.png",
+      "nativeSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/솔직한대화.png",
+      "nativeSha256": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
+      "upscaleSha256": "2b5aa4444cdf3eabcd9de0993534a50c07f96a41f7d79ace56de7bdfc7430947",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/인사.png",
+      "nativeSha256": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
+      "upscaleSha256": "9da09ca39c76f1d4fbc21668f177e1273331e2e9aceb16ac8698d35db27d6a73",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
+      "upscaleSha256": "38d4afb25482c17032290cd4f5fe9ca8c5f83d8493956d65e9e28ebcb429682c",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/설명_default.png",
+      "nativeSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/설명_serious.png",
+      "nativeSha256": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
+      "upscaleSha256": "56c6f4ee3972a882c07b67fec7793071fe834ee30a4ad9c3f3f868cf54d35601",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
+      "upscaleSha256": "2e50ef01d4576312b85cfdec87c772cf32e5f95b6d3f7f8ba9a2d766f0f1ad78",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "MASTER.png",
+      "nativeSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
+      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/대표.png",
+      "nativeSha256": "d734341e901e2066f83a670b46de2224b10055116381ed59b1146f6ae47e36b8",
+      "upscaleSha256": "9ac79bfe6df19ae815193dab367fe743d42fef462f75f8a52bdc604ac6798d2a",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "67e4e1493b457d0af93a34181211a60926a388c5792fb3e513595418b9d37020",
+      "upscaleSha256": "d46ce0fdaf3a551dbca4275666875910dbe9911e96a34088050389f8925a07ea",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/업무.png",
+      "nativeSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
+      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
+      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
+      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "45e03e89ac7eb62828f9f3a450085a95416eca4d0c7dfa846cf36c94dda2e21e",
+      "upscaleSha256": "21cb42acb9bcea79d61d3f845d6a5caa40f3d010b9c4a18a5b2b6abb65a20b10",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
+      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "042354024b84e10940aef76c3b54992626d315a23a5452e8de15a3a86f3917f5",
+      "upscaleSha256": "a38f3b6a75b7c86e3c61f09daa79431ada13dae5abd063a9aa7d67e122c37496",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
+      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "29a2cec2e195aeda23b3270ea8bb02e1de79164e90ac838c728e85472d664e4c",
+      "upscaleSha256": "ca0cf980d7e9895408a5c4c82214e2cbec699bb2e838ee3aa779bb807f0e33f9",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "MASTER.png",
+      "nativeSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
+      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/대표.png",
+      "nativeSha256": "7c6659929e4449627e793c9b7880814f3cccc9933d177d8813ce789a20220b46",
+      "upscaleSha256": "a440255be41b3ae0e17f2e8b180da41b485f3092a6cdaeac4c62a6cc084dbb50",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "154a600c4ceaee6493a5d7a21addafae22c14664ca35c3a2b8dfd7abcbc679e7",
+      "upscaleSha256": "a12a7e1189ab4a3700b69e89f31b8c7a21fcc3e2cf4a0fa3a4d7a114b1066165",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/업무.png",
+      "nativeSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
+      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
+      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
+      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "8e18f7dd20552e4fa438a63464fb5f803a22c7ffbbde44534e8b010c923983d1",
+      "upscaleSha256": "c1cc161cf201441c597f03795647b5279e4aef98efa4f6cef98024ccccb75c3c",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
+      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "6e462d4414e2466fa61347ac75555ad6ad39051d789e031869c5a6873561fb33",
+      "upscaleSha256": "14c793118acdfc4f65504ab34877803a360991a66562550be1c38cc2ca5e9afb",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
+      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "b95d6d3adced0043ca615d238d011d95c08192484fba930d3e87df4c285c40ce",
+      "upscaleSha256": "67ddc107514420bf504753cc00aacff487b9c57073460836f96907a3fda01450",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "MASTER.png",
+      "nativeSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
+      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/대표.png",
+      "nativeSha256": "45b20d2fb25f3977bc415a46ab1e286019bf50d1575fe04a2a16cd00c82f75e7",
+      "upscaleSha256": "bab0a92210d0d00dcb665d4810ea29676f9bebacd8860c5a2abcce7ee93bacc2",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "81a856f01fec9ada4dc8619ed8b460ff8d093bc3fc42b01be21131cb9f98d568",
+      "upscaleSha256": "a31ccd28d9de040124339acbd1fd994f4126f40cf5b1978159c2263489a1be30",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/업무.png",
+      "nativeSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
+      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
+      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
+      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "38ae8ad27342c1e6f325b814c02678ed9e054dda11680fa67dc0be540c012a6f",
+      "upscaleSha256": "cb53e7e8fd670e188d97ec4717c342eb8da792dc8aaed68496db5fe04c116ee8",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
+      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "7d4a38e9744a224f14fa6398990976e16beab701af3e3fa1faa36a2358610962",
+      "upscaleSha256": "29a5a347e83f18ad2aa3a2cfff3c00387e87d26dd37bb435b05876dd646cc957",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
+      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "4b09aa730e3a1139d51379af59d96aa4b6b41138dff9bb96f1897604a268f74d",
+      "upscaleSha256": "1e2800a02f565fdcb9bd71e28191b9a796b6b215802e43e16cab90015f1163ea",
+      "upscaleMatchesLanczos3": true
+    }
+  ],
+  "alphaDifferences": [
+    {
+      "file": "강리아/표정/MASTER_serious.png",
+      "changed": 148268,
+      "differenceOver16": 6519,
+      "max": 254
+    },
+    {
+      "file": "강리아/표정/설명_serious.png",
+      "changed": 143577,
+      "differenceOver16": 7887,
+      "max": 220
+    },
+    {
+      "file": "강리아/표정/캐주얼_serious.png",
+      "changed": 125599,
+      "differenceOver16": 6763,
+      "max": 208
+    }
+  ],
+  "preservedBackgroundAndUIHashed": 53,
+  "preservedBackgroundAndUITracked": 70,
+  "removedOldCharacterScreenshots": [
+    {
+      "path": "RenPy_게임/tests/screenshots/week56_early_phone_time.png",
+      "sha256": "8f4a18d08eb30a7e4fb9464d144bcaba6b97b3bdb1c61b212f2b108dc04c3a39",
+      "reason": "Unused old test screenshot contains previous Ria avatar"
+    },
+    {
+      "path": "RenPy_게임/tests/screenshots/week56_late_phone_time.png",
+      "sha256": "2271f01cabb6e7f7c69c6899ecc4d40c0d68c9abef2215c15fd34ae65b7ee368",
+      "reason": "Unused old test screenshot contains previous Ria avatar"
+    }
+  ],
+  "characterImagesOutsideHeroine": 0
+}

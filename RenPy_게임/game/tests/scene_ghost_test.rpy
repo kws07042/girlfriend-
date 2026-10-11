@@ -115,8 +115,8 @@ testsuite office_scene_ghost_20261007:
         run Jump("_ghost_qa_scene_sequence")
         advance until eval _ghost_qa_sequence_done
         assert eval ui_scene_actor is None and not ui_scene_in_transition
-        assert eval all(any(o[0]==who and o[1]=="office" and o[3] and who+"_poses/casual.png" in o[3] for o in _ghost_qa_results[who]) for who in ui_pose_files)
-        assert eval all(all(o[3] and who+"_poses/casual.png" in o[3] for o in _ghost_qa_results[who] if o[0]==who) for who in ui_pose_files)
+        assert eval all(any(o[0]==who and o[1]=="office" and o[3] and ui_heroine_file(who,"casual") == o[3] for o in _ghost_qa_results[who]) for who in ui_pose_files)
+        assert eval all(all(o[3] and ui_heroine_file(who,"casual") == o[3] for o in _ghost_qa_results[who] if o[0]==who) for who in ui_pose_files)
         assert eval all(len(set(o[4] for o in _ghost_qa_results[who]))==1 for who in ui_pose_files)
         assert eval not ui_scene_frozen_sprites and ui_scene_frozen_frame is None
         run Function(ui_camera_set,None)

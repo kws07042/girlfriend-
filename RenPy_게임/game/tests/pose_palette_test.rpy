@@ -1,7 +1,7 @@
 init 90 python:
     def _office_palette_native_render(who,pose):
         folder = "C:\\Users\\user\\Desktop\\\uac74\\\uc624\ud53c\uc2a4\\RenPy_\uac8c\uc784\\\uc0d8\ud50c\\\ud3ec\uc988\uc0c9\uac10\ud1b5\uc77c_20261007"
-        height = 3070 if who == "seoyun" else 3072
+        height = 3072
         ui_pose_palette["enabled"] = False
         try:
             renpy.render_to_file(ui_character_static_sprite(who,pose=pose),folder+"/native_"+who+"_"+pose+"_before.png",width=2048,height=height,resize=True)
@@ -29,7 +29,7 @@ testsuite office_pose_palette_20261007:
         advance until screen "choice"
         assert eval ui_pose_palette["enabled"]
         assert eval not ui_ria_animation_active()
-        assert eval sum(len(v) for v in ui_pose_files.values()) == 9
+        assert eval sum(len(set(v.values())) for v in ui_pose_files.values()) == 22
         run SetVariable("ui_speaker","ria")
         run SetVariable("ui_scene_actor","ria")
         run Function(ui_pose_set,"ria","master")
