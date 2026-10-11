@@ -1,19 +1,10 @@
 {
-  "updated": "2026-10-11",
-  "scope": "v29: Repair Jihyun signature back hair and both hands, Seoyun chest hand and nails, normalize the alpha of three Ria serious expressions. Five native + five upscale files replaced; all approved master faces and heights retained. All character images are inside 히로인; game reads canonical upscales directly.",
-  "runtime_images": 46,
-  "canonical_masters": 4,
-  "comparison_previews": 31,
+  "updated": "2026-10-12",
+  "scope": "요청에 따라 서윤·유진·지현 및 혼합 검수 이미지를 저장소에서 제거했습니다. 강리아 이미지와 배경/UI는 보존했습니다.",
+  "runtime_images": 13,
+  "canonical_masters": 1,
+  "comparison_previews": 0,
   "files": [
-    {
-      "path": "히로인/한서윤/MASTER.png",
-      "character": "seoyun",
-      "role": "canonical_master",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 1876800,
-      "sha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a"
-    },
     {
       "path": "히로인/강리아/MASTER.png",
       "character": "ria",
@@ -22,24 +13,6 @@
       "height": 1536,
       "bytes": 2005275,
       "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454"
-    },
-    {
-      "path": "히로인/차유진/MASTER.png",
-      "character": "yujin",
-      "role": "canonical_master",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 2055252,
-      "sha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a"
-    },
-    {
-      "path": "히로인/백지현/MASTER.png",
-      "character": "jihyun",
-      "role": "canonical_master",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 814686,
-      "sha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d"
     },
     {
       "path": "히로인/강리아/포즈/대표.png",
@@ -58,60 +31,6 @@
       "height": 3072,
       "bytes": 2552129,
       "sha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440"
-    },
-    {
-      "path": "히로인/한서윤/포즈/대표.png",
-      "character": "seoyun",
-      "role": "signature_pose",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 822006,
-      "sha256": "14facdd2acdeeead0f49f6ef7075eb51f8d01449637d59e6f910740e18f694bf"
-    },
-    {
-      "path": "히로인/한서윤/업스케일/포즈/대표.png",
-      "character": "seoyun",
-      "role": "signature_pose_2x",
-      "width": 2048,
-      "height": 3072,
-      "bytes": 2740522,
-      "sha256": "53ace2c8c0ec128bc7947e41af182c2c61ce788bc001f23cc8a482a56d35a52a"
-    },
-    {
-      "path": "히로인/차유진/포즈/대표.png",
-      "character": "yujin",
-      "role": "signature_pose",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 2095733,
-      "sha256": "7c6659929e4449627e793c9b7880814f3cccc9933d177d8813ce789a20220b46"
-    },
-    {
-      "path": "히로인/차유진/업스케일/포즈/대표.png",
-      "character": "yujin",
-      "role": "signature_pose_2x",
-      "width": 2048,
-      "height": 3072,
-      "bytes": 2868999,
-      "sha256": "a440255be41b3ae0e17f2e8b180da41b485f3092a6cdaeac4c62a6cc084dbb50"
-    },
-    {
-      "path": "히로인/백지현/포즈/대표.png",
-      "character": "jihyun",
-      "role": "signature_pose",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 949461,
-      "sha256": "a18aa0c2235f8556bd99c74176c1f3ac3add5c80ca7280ea4a643f7f695bd5df"
-    },
-    {
-      "path": "히로인/백지현/업스케일/포즈/대표.png",
-      "character": "jihyun",
-      "role": "signature_pose_2x",
-      "width": 2048,
-      "height": 3072,
-      "bytes": 2407968,
-      "sha256": "96e0cd66c01b04a6ab6a3eae94501daf38d4d239422a8f287b2858595d6c5f83"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",

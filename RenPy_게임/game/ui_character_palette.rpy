@@ -156,7 +156,10 @@ init 31 python:
 
     def ui_character_palette_sprite(who,pose=None):
         pose = pose or ui_pose_current(who)
-        original = Image(ui_character_pose_file(who,pose))
+        path = ui_character_pose_file(who,pose)
+        if not renpy.loadable(path):
+            return Solid("#00000000",xysize=(1024,1536))
+        original = Image(path)
         # Rebuilt sprites already share each heroine's approved MASTER palette.
         if who in ("ria", "seoyun", "yujin", "jihyun"):
             return original

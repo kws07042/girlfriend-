@@ -171,7 +171,7 @@ init 25 python:
             path = ui_heroine_file(who, pose, state)
             if renpy.loadable(path):
                 return Image(path)
-            return Image(ui_character_pose_file(who, pose))
+            return ui_character_palette_sprite(who, pose)
         # Keep authored geometry and facial features. The whole sprite receives
         # smooth colour calibration to its MASTER; no eye/mouth overlay is used.
         return ui_character_palette_sprite(who, pose)

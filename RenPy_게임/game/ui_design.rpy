@@ -13,7 +13,10 @@ init -5 python:
         return callback
     phone_profile_boxes = {'yujin': (269, 15, 759, 759), 'jihyun': (234, 0, 759, 759), 'ria': (249, 15, 759, 759), 'seoyun': (219, 30, 759, 759)}
     def ui_master_avatar_box(who):
-        width, height = renpy.image_size(ui_heroine_file(who))
+        path = ui_heroine_file(who)
+        if not renpy.loadable(path):
+            return (0, 0, 1024, 1536)
+        width, height = renpy.image_size(path)
         return (int(round(385 * width / 1024.0)), int(round(45 * height / 1536.0)),
                 int(round(250 * width / 1024.0)), int(round(250 * height / 1536.0)))
 
@@ -21,8 +24,10 @@ init -5 python:
         path = "images/phone/%s_profile_v001.png" % who
         if profile and renpy.loadable(path):
             portrait = Crop(phone_profile_boxes[who],path)
-        else:
+        elif renpy.loadable(ui_heroine_file(who)):
             portrait = Crop(ui_master_avatar_box(who),ui_heroine_file(who))
+        else:
+            portrait = Solid(ui_colors.get(who,"#89949A"),xysize=(size,size))
         return AlphaMask(Transform(portrait,xysize=(size,size)),
                          Transform("images/ui_v2/circle.png",xysize=(size,size)))
     def ui_phone_avatar(who, size=56):
@@ -57,7 +62,9 @@ transform phone_message_arrive:
 screen office_portrait():
     zorder -5
     if not main_menu and not renpy.get_screen("day_result"):
-        add Transform(ui_heroine_file(ui_speaker), xysize=(740,1110),fit="contain") xpos 1010 ypos 2
+        $ master_path = ui_heroine_file(ui_speaker)
+        if renpy.loadable(master_path):
+            add Transform(master_path, xysize=(740,1110),fit="contain") xpos 1010 ypos 2
 
 style default:
     font "fonts/SourceHanSansLite.ttf"
