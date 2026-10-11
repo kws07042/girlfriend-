@@ -1,98 +1,111 @@
 {
-  "date": "2026-10-11",
-  "tool": "built-in image_gen",
-  "upscale": "Lanczos3 2x; unchanged design, no synthesized new detail",
-  "images": [
+  "updated": "2026-10-11",
+  "originals": 13,
+  "upscales": 13,
+  "files": [
     {
-      "file": "MASTER.png",
+      "path": "MASTER.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8",
-      "upscale": "업스케일/MASTER.png"
+      "bytes": 2005275,
+      "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3"
     },
     {
-      "file": "포즈/듣는자세.png",
+      "path": "포즈/듣는자세.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "49543d64c34d9dd6ea38cb895cb172a14a1f7d11bc14597a96fb1040f79915a4",
-      "upscale": "업스케일/포즈/듣는자세.png"
+      "bytes": 2089357,
+      "sha256": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
+      "upscaleSha256": "3b384c05bbad2f861adc224c9f93dc268782480b8bf76c2af796bff569b32fd4"
     },
     {
-      "file": "포즈/설명.png",
+      "path": "포즈/설명.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff",
-      "upscale": "업스케일/포즈/설명.png"
+      "bytes": 2064524,
+      "sha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae"
     },
     {
-      "file": "포즈/캐주얼.png",
+      "path": "포즈/캐주얼.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "73bc51132015d619b79694e1380aaf8bc6727aa846f04827fee9af12510a79ac",
-      "upscale": "업스케일/포즈/캐주얼.png"
+      "bytes": 2022263,
+      "sha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848"
     },
     {
-      "file": "표정/MASTER_default.png",
+      "path": "표정/MASTER_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8",
-      "upscale": "업스케일/표정/MASTER_default.png"
+      "bytes": 2005275,
+      "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3"
     },
     {
-      "file": "표정/MASTER_serious.png",
+      "path": "표정/MASTER_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "7d92696e056cc17663e85b07e0e96009e976565e81539199f43bea71def902b5",
-      "upscale": "업스케일/표정/MASTER_serious.png"
+      "bytes": 2027667,
+      "sha256": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
+      "upscaleSha256": "38d4afb25482c17032290cd4f5fe9ca8c5f83d8493956d65e9e28ebcb429682c"
     },
     {
-      "file": "표정/설명_default.png",
+      "path": "표정/설명_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "2331957bc68cc137eb870f0047828e270bcaab50354af1b8765cdeceadcf60ff",
-      "upscale": "업스케일/표정/설명_default.png"
+      "bytes": 2064524,
+      "sha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae"
     },
     {
-      "file": "표정/설명_serious.png",
+      "path": "표정/설명_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "07876cc2997512c044a73d0b40a20599c5066b8357e133e52ca35bd39cfb3e30",
-      "upscale": "업스케일/표정/설명_serious.png"
+      "bytes": 2086372,
+      "sha256": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
+      "upscaleSha256": "56c6f4ee3972a882c07b67fec7793071fe834ee30a4ad9c3f3f868cf54d35601"
     },
     {
-      "file": "표정/캐주얼_default.png",
+      "path": "표정/캐주얼_default.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "73bc51132015d619b79694e1380aaf8bc6727aa846f04827fee9af12510a79ac",
-      "upscale": "업스케일/표정/캐주얼_default.png"
+      "bytes": 2022263,
+      "sha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848"
     },
     {
-      "file": "표정/캐주얼_serious.png",
+      "path": "표정/캐주얼_serious.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "8670152ed9f2903a5ba16a25751ed1082306d447b3238f111248a913a82488d5",
-      "upscale": "업스케일/표정/캐주얼_serious.png"
+      "bytes": 2041292,
+      "sha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
+      "upscaleSha256": "2e50ef01d4576312b85cfdec87c772cf32e5f95b6d3f7f8ba9a2d766f0f1ad78"
     },
     {
-      "file": "포즈/인사.png",
+      "path": "포즈/인사.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "d5db6808384201cfce76d90636a30fa49bdc0f7dd7f63f5f4e78a64ebba7ca64",
-      "upscale": "업스케일/포즈/인사.png"
+      "bytes": 2074616,
+      "sha256": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
+      "upscaleSha256": "9da09ca39c76f1d4fbc21668f177e1273331e2e9aceb16ac8698d35db27d6a73"
     },
     {
-      "file": "포즈/솔직한대화.png",
+      "path": "포즈/솔직한대화.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "0fdd2734fd8cecb9c8883c0b25b4046cb0be1165941dde047190ab1988ae86ec",
-      "upscale": "업스케일/포즈/솔직한대화.png"
+      "bytes": 2013427,
+      "sha256": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
+      "upscaleSha256": "2b5aa4444cdf3eabcd9de0993534a50c07f96a41f7d79ace56de7bdfc7430947"
     },
     {
-      "file": "포즈/대표.png",
+      "path": "포즈/대표.png",
       "width": 1024,
       "height": 1536,
-      "sha256": "99661706479851fbf8b3294083238e3940b208288377eb398b3cffa2e3862e44",
-      "upscale": "업스케일/포즈/대표.png"
+      "bytes": 749243,
+      "sha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
+      "upscaleSha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "scope": "All 46 originals and 46 2x sprites audited. Jihyun candidate 02 ash-beige wavy hair/violet-gray eyes adopted across 11 sprites. Hanging hands corrected and Yujin split earring unified. 46 runtime files synchronized. Seoyun wristwatches removed in all 11 originals, 11 2x and runtime sprites.",
+  "scope": "Yujin selected green side-braid identity adopted across all 11 native/2x/runtime sprites; ivory low-top sneakers and dark brown leather belt; elbow support and chin index repaired; both-hands-waist signature. Ria all 13 belt colors unified from one MASTER reference with original geometry preserved. Jihyun all 11 pointed black pumps. Other Seoyun assets preserved.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -20,8 +20,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 2008356,
-      "sha256": "f8cd9631d8b2b3b00a9b20371c7fcc0a59350bbb5ef3c6847a4ec73e092d5eb8"
+      "bytes": 2005275,
+      "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454"
     },
     {
       "path": "히로인/차유진/MASTER.png",
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1911611,
-      "sha256": "064abb0650d7c58553b96880785e60684d0a97c400ed0c5ceb39d848b1af4677"
+      "bytes": 1400619,
+      "sha256": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 854196,
-      "sha256": "6d3ac96c1326961caca006f0ca980158e8a176ca6ada997842f191a14d70a9f6"
+      "bytes": 866088,
+      "sha256": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0"
     },
     {
       "path": "히로인/강리아/포즈/대표.png",
@@ -47,8 +47,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 752278,
-      "sha256": "99661706479851fbf8b3294083238e3940b208288377eb398b3cffa2e3862e44"
+      "bytes": 749243,
+      "sha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe"
     },
     {
       "path": "히로인/강리아/업스케일/포즈/대표.png",
@@ -56,8 +56,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2558335,
-      "sha256": "52df8b750481f1ad5841a6c1cc3d3894133aa34554cd89586616cc7f7e7c37f4"
+      "bytes": 2552129,
+      "sha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440"
     },
     {
       "path": "히로인/한서윤/포즈/대표.png",
@@ -83,8 +83,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 783602,
-      "sha256": "bd419e9f9572c14578e73e64aac7b27168e778b3aa70f71b33b3a701c70b79eb"
+      "bytes": 1413127,
+      "sha256": "9454b7c4ca3c2234fbb886c13c45f8dac48e11c6f4514d57a8a459a8573ccce0"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/대표.png",
@@ -92,8 +92,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2582176,
-      "sha256": "62bb5196448faa9a78ab80c146a0eead7450b593cc2e37bb9d22e6b6564a0bef"
+      "bytes": 2870639,
+      "sha256": "6373f7e7d071d035766dbb0ed6da5f763492f57c66c08bae272e4747486017a6"
     },
     {
       "path": "히로인/백지현/포즈/대표.png",
@@ -101,8 +101,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 759032,
-      "sha256": "de94b4255956ed3b00c1a0325299b08d6f5f0cebc3245998ee419b617bb8a991"
+      "bytes": 765391,
+      "sha256": "704f0e5221e492aa53a31152ab0fb780e7b6f35be39d064f0382e290b8f0068e"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -110,11 +110,17 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2559456,
-      "sha256": "37e1479cb9410036f7bdcfad3b07f8b746b9d7ef44dcc7216bbd0241c3304860"
+      "bytes": 2561477,
+      "sha256": "b6512d11ba81c35dec8b9556698f2c6b51a42f03b94f1e32ed6734ab1c6a39bc"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
   "pose_audit_manifest": "히로인/공통검수자료/포즈/manifest.json",
-  "external_character_images_removed": true
+  "external_character_images_removed": true,
+  "design_updates": {
+    "yujin": "forest-green side braid, rose-taupe eyes, terracotta knit, cream pleated skirt, brown leather belt, ivory sneakers",
+    "ria": "single MASTER leather brown belt palette, preserved original buckle and loop geometry",
+    "jihyun": "black pointed-toe pumps",
+    "seoyun": "unchanged gold-hardware loafers; no watch/earrings"
+  }
 }

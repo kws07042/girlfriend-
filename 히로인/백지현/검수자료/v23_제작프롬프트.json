@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-11",
+  "mode": "built-in image_gen",
+  "character": "백지현",
+  "source": "final source chain includes selected green-braid master, shoe/belt edits, corrected hand poses, expression-only generated edits",
+  "jobs": [
+    {
+      "id": "jihyun-shoe-0",
+      "name": "MASTER",
+      "reference": "C:/Users/kws07/Documents/Codex/2026-10-08/https-github-com-kws07042-girlfriend-tree/work/repo/히로인/백지현/MASTER.png",
+      "prompt": "Use case: precise-object-edit. The attached fully clothed fictional adult Jihyun sprite is the EDIT TARGET. Change ONLY her plain black round-toe pumps into elegant BLACK POINTED-TOE PUMPS with a visibly narrower, clean tapered pointed toe and a modest slender heel, same foot size, foot direction and stance. No ankle strap, metal ornament, shoelaces, boots or platform; simple matte black leather with restrained cel highlights. Both shoes must be the same design, with natural foot proportions and believable stocking-to-shoe transition.\nPreserve all other pixels/visual elements as closely as possible: exact approved ash-beige long-wave hair, violet-gray eyes, face/expression, bare skin makeup-free, earrings/watch as existing, black blazer/white blouse/charcoal skirt, existing stockings and upper leg shapes, full body proportions, pose, hands and props. Do not redesign face or outfit. Same fine anime lines and soft cel rendering over body, same 1024x1536 full-body original framing with complete head and shoes, TRUE transparent alpha with no aura/glow/floor/text/watermark. One complete sprite, nonsexual dialogue pose.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-aa31a50f-41b3-48bd-95d5-e2df87e026be.png"
+    },
+    {
+      "id": "jihyun-shoe-1",
+      "name": "듣는자세",
+      "reference": "C:/Users/kws07/Documents/Codex/2026-10-08/https-github-com-kws07042-girlfriend-tree/work/repo/히로인/백지현/포즈/듣는자세.png",
+      "prompt": "Use case: precise-object-edit. The attached fully clothed fictional adult Jihyun sprite is the EDIT TARGET. Change ONLY her plain black round-toe pumps into elegant BLACK POINTED-TOE PUMPS with a visibly narrower, clean tapered pointed toe and a modest slender heel, same foot size, foot direction and stance. No ankle strap, metal ornament, shoelaces, boots or platform; simple matte black leather with restrained cel highlights. Both shoes must be the same design, with natural foot proportions and believable stocking-to-shoe transition.\nPreserve all other pixels/visual elements as closely as possible: exact approved ash-beige long-wave hair, violet-gray eyes, face/expression, bare skin makeup-free, earrings/watch as existing, black blazer/white blouse/charcoal skirt, existing stockings and upper leg shapes, full body proportions, pose, hands and props. Do not redesign face or outfit. Same fine anime lines and soft cel rendering over body, same 1024x1536 full-body original framing with complete head and shoes, TRUE transparent alpha with no aura/glow/floor/text/watermark. One complete sprite, nonsexual dialogue pose.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-e03a1218-b17f-4603-9b3e-351ecfef09ca.png"
+    },
+    {
+      "id": "jihyun-shoe-2",
+      "name": "업무",
+      "reference": "C:/Users/kws07/Documents/Codex/2026-10-08/https-github-com-kws07042-girlfriend-tree/work/repo/히로인/백지현/포즈/업무.png",
+      "prompt": "Use case: precise-object-edit. The attached fully clothed fictional adult Jihyun sprite is the EDIT TARGET. Change ONLY her plain black round-toe pumps into elegant BLACK POINTED-TOE PUMPS with a visibly narrower, clean tapered pointed toe and a modest slender heel, same foot size, foot direction and stance. No ankle strap, metal ornament, shoelaces, boots or platform; simple matte black leather with restrained cel highlights. Both shoes must be the same design, with natural foot proportions and believable stocking-to-shoe transition.\nPreserve all other pixels/visual elements as closely as possible: exact approved ash-beige long-wave hair, violet-gray eyes, face/expression, bare skin makeup-free, earrings/watch as existing, black blazer/white blouse/charcoal skirt, existing stockings and upper leg shapes, full body proportions, pose, hands and props. Do not redesign face or outfit. Same fine anime lines and soft cel rendering over body, same 1024x1536 full-body original framing with complete head and shoes, TRUE transparent alpha with no aura/glow/floor/text/watermark. One complete sprite, nonsexual dialogue pose.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-2fa42704-3741-4501-92cd-e2344465c414.png"
+    },
+    {
+      "id": "jihyun-shoe-3",
+      "name": "캐주얼",
+      "reference": "C:/Users/kws07/Documents/Codex/2026-10-08/https-github-com-kws07042-girlfriend-tree/work/repo/히로인/백지현/포즈/캐주얼.png",
+      "prompt": "Use case: precise-object-edit. The attached fully clothed fictional adult Jihyun sprite is the EDIT TARGET. Change ONLY her plain black round-toe pumps into elegant BLACK POINTED-TOE PUMPS with a visibly narrower, clean tapered pointed toe and a modest slender heel, same foot size, foot direction and stance. No ankle strap, metal ornament, shoelaces, boots or platform; simple matte black leather with restrained cel highlights. Both shoes must be the same design, with natural foot proportions and believable stocking-to-shoe transition.\nPreserve all other pixels/visual elements as closely as possible: exact approved ash-beige long-wave hair, violet-gray eyes, face/expression, bare skin makeup-free, earrings/watch as existing, black blazer/white blouse/charcoal skirt, existing stockings and upper leg shapes, full body proportions, pose, hands and props. Do not redesign face or outfit. Same fine anime lines and soft cel rendering over body, same 1024x1536 full-body original framing with complete head and shoes, TRUE transparent alpha with no aura/glow/floor/text/watermark. One complete sprite, nonsexual dialogue pose.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-602edf30-a293-4fea-b732-043ceedbe029.png"
+    },
+    {
+      "id": "jihyun-shoe-4",
+      "name": "대표",
+      "reference": "C:/Users/kws07/Documents/Codex/2026-10-08/https-github-com-kws07042-girlfriend-tree/work/repo/히로인/백지현/포즈/대표.png",
+      "prompt": "Use case: precise-object-edit. The attached fully clothed fictional adult Jihyun sprite is the EDIT TARGET. Change ONLY her plain black round-toe pumps into elegant BLACK POINTED-TOE PUMPS with a visibly narrower, clean tapered pointed toe and a modest slender heel, same foot size, foot direction and stance. No ankle strap, metal ornament, shoelaces, boots or platform; simple matte black leather with restrained cel highlights. Both shoes must be the same design, with natural foot proportions and believable stocking-to-shoe transition.\nPreserve all other pixels/visual elements as closely as possible: exact approved ash-beige long-wave hair, violet-gray eyes, face/expression, bare skin makeup-free, earrings/watch as existing, black blazer/white blouse/charcoal skirt, existing stockings and upper leg shapes, full body proportions, pose, hands and props. Do not redesign face or outfit. Same fine anime lines and soft cel rendering over body, same 1024x1536 full-body original framing with complete head and shoes, TRUE transparent alpha with no aura/glow/floor/text/watermark. One complete sprite, nonsexual dialogue pose.",
+      "file": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-dc727d00-2f63-45a3-a154-94dabd323999.png"
+    }
+  ]
+}
