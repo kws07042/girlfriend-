@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "scope": "Yujin selected green side-braid identity adopted across all 11 native/2x/runtime sprites; ivory low-top sneakers and dark brown leather belt; elbow support and chin index repaired; both-hands-waist signature. Ria all 13 belt colors unified from one MASTER reference with original geometry preserved. Jihyun all 11 pointed black pumps. Other Seoyun assets preserved.",
+  "scope": "v24: preserve original height, body proportions, foot positions and complete alpha in all 46 native sprites. Subtle interior facial balance refinement for Seoyun across 11 sprites; Ria, Yujin and Jihyun 35 native sprites unchanged. All faces and 22 unique poses re-audited for ears, hands/nails, belts and footwear. Native/2x/runtime synchronized.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -11,8 +11,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1879843,
-      "sha256": "272ee46c7020c3b2f1406cd4e6d96df06bd418ffe5fa7403e898ce79d5e54ad2"
+      "bytes": 1879852,
+      "sha256": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -66,7 +66,7 @@
       "width": 1024,
       "height": 1536,
       "bytes": 846848,
-      "sha256": "29d2c87829b59112acc55fa968f31e11140fcfc1c0127134e09b416a4c3fcb52"
+      "sha256": "1efea55c56205e8da4a904ae30558f9f866c96899538bbe2e3c3ca519fafd7c8"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/대표.png",
@@ -74,8 +74,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2831524,
-      "sha256": "6d24799f219c205130388810c6bfc0cfaae13372ea2d205d5fa9d043dd0de782"
+      "bytes": 2831538,
+      "sha256": "378c79018b0d65197665e3f54d3c17315f986bb84f08f940c1c170e2646e391d"
     },
     {
       "path": "히로인/차유진/포즈/대표.png",
@@ -122,5 +122,6 @@
     "ria": "single MASTER leather brown belt palette, preserved original buckle and loop geometry",
     "jihyun": "black pointed-toe pumps",
     "seoyun": "unchanged gold-hardware loafers; no watch/earrings"
-  }
+  },
+  "current_review": "미리보기/얼굴균형_전체재검수_v24/README.md"
 }

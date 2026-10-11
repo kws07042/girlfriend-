@@ -1,11 +1,198 @@
 {
   "date": "2026-10-11",
-  "originals": 11,
-  "upscales": 11,
-  "runtime": 11,
-  "watchRemovedAllPoses": true,
-  "runtimeShaMatches": true,
-  "rgbaDimensionsAndTransparentCorners": true,
-  "rgbaOutsideWristPreserved": true,
-  "playtest": "not performed; code and dialogue mappings unchanged"
+  "version": "v24",
+  "character": "한서윤",
+  "nativeSize": "1024x1536",
+  "upscaleSize": "2048x3072",
+  "bodyHeightAndFootPositionPreserved": true,
+  "checks": [
+    {
+      "character": "한서윤",
+      "file": "MASTER.png",
+      "sha256": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "upscaleSha256": "630ecd0d698f0f8cc9b720af6ad2dc793a756260c280c5655a90eafdd5f83318",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 288,
+        "r": 817,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/대표.png",
+      "sha256": "1efea55c56205e8da4a904ae30558f9f866c96899538bbe2e3c3ca519fafd7c8",
+      "upscaleSha256": "378c79018b0d65197665e3f54d3c17315f986bb84f08f940c1c170e2646e391d",
+      "changedRgbPixels": 6,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 289,
+        "r": 831,
+        "t": 21,
+        "b": 1517
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/듣는자세.png",
+      "sha256": "b9a32d870f98718e82637aa491014c924ab5e28fc56351218ac3fb934011e439",
+      "upscaleSha256": "389d427a9858013f94c9458020714a6ad353c7aaafbd9a37b72d95dfb894dca9",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 325,
+        "r": 818,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/업무.png",
+      "sha256": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "upscaleSha256": "620bbab365447bee2d9ba0ef64c6b212946f3e234e8590db187c4b7252dd91ff",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 296,
+        "r": 899,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/캐주얼.png",
+      "sha256": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "upscaleSha256": "6d962ee05a4ca9b1ddd274b355936756f9594d7cec9273d0539ca08424086573",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 317,
+        "r": 818,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_default.png",
+      "sha256": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "upscaleSha256": "630ecd0d698f0f8cc9b720af6ad2dc793a756260c280c5655a90eafdd5f83318",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 288,
+        "r": 817,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_serious.png",
+      "sha256": "b43c3ffaf9af4b028b82ffc473dffcedaf7b579c5f2cd226c7a88c43480ba703",
+      "upscaleSha256": "0a4c9412a6926535f8ed77e381cba23dd1b072c727c9dcfc7ed9c7a0e14f9e04",
+      "changedRgbPixels": 10987,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 288,
+        "r": 820,
+        "t": 9,
+        "b": 1528
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_default.png",
+      "sha256": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "upscaleSha256": "620bbab365447bee2d9ba0ef64c6b212946f3e234e8590db187c4b7252dd91ff",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 296,
+        "r": 899,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_serious.png",
+      "sha256": "0b23a4b5d3bf272c348294ad0f2a82f101fa13bcd48387f64492a8e743bca430",
+      "upscaleSha256": "f6a6e6867a0b27758a5f35a98ae4004df9e1f73dfea1c4931ad7f77effd9c222",
+      "changedRgbPixels": 10988,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 296,
+        "r": 901,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_default.png",
+      "sha256": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "upscaleSha256": "6d962ee05a4ca9b1ddd274b355936756f9594d7cec9273d0539ca08424086573",
+      "changedRgbPixels": 17,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 317,
+        "r": 818,
+        "t": 9,
+        "b": 1527
+      },
+      "runtimeShaMatches": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_serious.png",
+      "sha256": "2bdcdcabb6da26cab92a02faf41366e57b07da4d3d5d89af5b24528ae6d4fad3",
+      "upscaleSha256": "02b83652262b8b7ba38f8d584b4e18f659c74d3d3cb058731871d0af18d8c624",
+      "changedRgbPixels": 10994,
+      "bodyHandsFeetUnchanged": true,
+      "entireAlphaUnchanged": true,
+      "originalSilhouetteAndHeightUnchanged": true,
+      "originalBounds": {
+        "l": 317,
+        "r": 819,
+        "t": 9,
+        "b": 1528
+      },
+      "runtimeShaMatches": true
+    }
+  ],
+  "playtestPerformed": false
 }
