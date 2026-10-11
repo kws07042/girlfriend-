@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-11",
+  "sourceCommit": "a63b96f01aed71e4fad27c827ef419be5df059e1",
+  "originalsReviewed": 46,
+  "uniquePosesReviewed": 22,
+  "reference": "강리아",
+  "method": "Same native-pixel crop scale, neutral gray backdrop, no sharpening, contrast adjustment or recoloring. Entire-body pose contact sheets and face crops reviewed for every original.",
+  "overall": "Same broad thin-line anime visual-novel style, but fine rendering treatment is not fully identical.",
+  "characters": [
+    {
+      "name": "강리아",
+      "status": "reference",
+      "findings": "Relatively clear cel-shadow boundaries, restrained nose/lip highlights; stable facial and full-body treatment across poses."
+    },
+    {
+      "name": "한서윤",
+      "status": "minor adjustment advised",
+      "findings": "Lower-contrast flatter skin/face shading and simpler nose/lip rendering than Ria; pastel clothing enhances the softer impression. Pose/expression consistency is good."
+    },
+    {
+      "name": "차유진",
+      "status": "minor adjustment advised",
+      "findings": "Broad overall style matches; nose point highlight and lip/iris shine are slightly stronger than Ria. Larger braid hair planes and denser knit fold texture differ in rendering density. Head and body feel compatible at sprite display size, with finer treatment differences under zoom."
+    },
+    {
+      "name": "백지현",
+      "status": "first adjustment priority",
+      "findings": "More pronounced nose/lip highlight, detailed iris/lash treatment and soft glossy hair gradients; face appears more polished than Ria and slightly glossier than her own exposed arm. Costume and stocking shine are largely material differences, not grounds for redesign."
+    }
+  ],
+  "priority": [
+    "백지현의 얼굴·헤어 광택",
+    "한서윤의 얼굴·피부 명암 대비",
+    "차유진의 코·입술 하이라이트와 명암 단계"
+  ],
+  "preserve": [
+    "Approved facial identities and features",
+    "Original heights and body proportions",
+    "Hairstyles, outfits, belts and individual shoe designs",
+    "Intentional material distinctions including Jihyun stockings"
+  ],
+  "numericSimilarityScoreUsed": false,
+  "characterArtworkModified": false,
+  "all46OriginalHashesUnchanged": true,
+  "scope": "Visual style audit only; no artistic correction applied."
+}
