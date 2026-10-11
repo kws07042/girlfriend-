@@ -1,616 +1,623 @@
 {
   "date": "2026-10-11",
-  "version": "v27",
-  "reference": "강리아",
-  "nativeOriginals": 46,
-  "restyledOriginals": 33,
-  "riaOriginalsUnchanged": 13,
-  "approvedPoseAlphaAndVisibleSilhouettePreservedAll46": true,
-  "seoyunLegacySeriousAlphaNormalized": 3,
-  "protectedHandBeltAccessoryCoresPreserved": true,
-  "defaultExpressionCopiesExact": true,
-  "seriousExpressionChangesLimitedToFace": true,
-  "records": [
+  "version": "v29",
+  "tool": "built-in image_gen for hair/hand artwork; Sharp for generated-image compositing, technical alpha normalization, QA crops and Lanczos3 resampling",
+  "originalsChecked": 46,
+  "upscalesChecked": 46,
+  "changedNative": 5,
+  "changedUpscale": 5,
+  "defaultExpressionClones": 12,
+  "seriousAlphaMatches": 12,
+  "bodyAndFaceChecks": {
+    "date": "2026-10-11",
+    "version": "v29",
+    "changedNatives": 5,
+    "changedUpscales": 5,
+    "allTwelveSeriousAlphaMatched": true,
+    "records": [
+      {
+        "character": "백지현",
+        "file": "포즈/대표.png",
+        "beforeSha256": "45b20d2fb25f3977bc415a46ab1e286019bf50d1575fe04a2a16cd00c82f75e7",
+        "nativeSha256": "a18aa0c2235f8556bd99c74176c1f3ac3add5c80ca7280ea4a643f7f695bd5df",
+        "upscaleSha256": "96e0cd66c01b04a6ab6a3eae94501daf38d4d239422a8f287b2858595d6c5f83",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "upscaleDimensions": [
+          2048,
+          3072
+        ],
+        "approvedFacePreserved": true,
+        "approvedHeightAndFeetPreserved": true,
+        "riaRgbPreserved": false
+      },
+      {
+        "character": "한서윤",
+        "file": "포즈/대표.png",
+        "beforeSha256": "d734341e901e2066f83a670b46de2224b10055116381ed59b1146f6ae47e36b8",
+        "nativeSha256": "14facdd2acdeeead0f49f6ef7075eb51f8d01449637d59e6f910740e18f694bf",
+        "upscaleSha256": "53ace2c8c0ec128bc7947e41af182c2c61ce788bc001f23cc8a482a56d35a52a",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "upscaleDimensions": [
+          2048,
+          3072
+        ],
+        "approvedFacePreserved": true,
+        "approvedHeightAndFeetPreserved": true,
+        "riaRgbPreserved": false
+      },
+      {
+        "character": "강리아",
+        "file": "표정/MASTER_serious.png",
+        "beforeSha256": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
+        "nativeSha256": "7ef583d4e59749959d82cb063fcc1dbab3b08af482b3ccae74bbf88e115b6f37",
+        "upscaleSha256": "ab0efafd9e15f3624fd99baa68c5f1ecabdd31eac9aa5341508a0ae0b7ce20e8",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "upscaleDimensions": [
+          2048,
+          3072
+        ],
+        "approvedFacePreserved": true,
+        "approvedHeightAndFeetPreserved": true,
+        "riaRgbPreserved": true
+      },
+      {
+        "character": "강리아",
+        "file": "표정/설명_serious.png",
+        "beforeSha256": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
+        "nativeSha256": "b3629297db633716d899a153b26b663c606d56efecfb88279c8d17160fc2f431",
+        "upscaleSha256": "871a48ffdf9de4125e0ad39d62d72d142d1041cb3f67e0b11edfd6032e69f79b",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "upscaleDimensions": [
+          2048,
+          3072
+        ],
+        "approvedFacePreserved": true,
+        "approvedHeightAndFeetPreserved": true,
+        "riaRgbPreserved": true
+      },
+      {
+        "character": "강리아",
+        "file": "표정/캐주얼_serious.png",
+        "beforeSha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
+        "nativeSha256": "de04b10e08369b0b6f56ba9436a8f3ea785a2676dfaf29e0ddc6c626b35d9ac5",
+        "upscaleSha256": "b35ef8f37f9c12b80279493c2f3ccdda64cd6cca505358dc0b64acfcb0290160",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "upscaleDimensions": [
+          2048,
+          3072
+        ],
+        "approvedFacePreserved": true,
+        "approvedHeightAndFeetPreserved": true,
+        "riaRgbPreserved": true
+      }
+    ]
+  },
+  "riaNormalization": [
     {
-      "who": "강리아",
-      "file": "MASTER.png",
-      "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
-      "outputSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
-      "changedRgbPixels": 0,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
-      "runtimeShaMatches": true
+      "file": "강리아/표정/MASTER_serious.png",
+      "method": "Only alpha replaced with the approved matching pose; original RGB and serious facial expression preserved exactly.",
+      "alphaChangedPixels": 148268,
+      "rgbUnchanged": true,
+      "alphaReference": "work/repo/히로인/강리아/MASTER.png"
     },
     {
-      "who": "강리아",
-      "file": "포즈/대표.png",
-      "sha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
-      "outputSha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/대표.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440",
-      "runtimeShaMatches": true
+      "file": "강리아/표정/설명_serious.png",
+      "method": "Only alpha replaced with the approved matching pose; original RGB and serious facial expression preserved exactly.",
+      "alphaChangedPixels": 143577,
+      "rgbUnchanged": true,
+      "alphaReference": "work/repo/히로인/강리아/포즈/설명.png"
     },
     {
-      "who": "강리아",
-      "file": "포즈/듣는자세.png",
-      "sha256": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
-      "outputSha256": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/듣는자세.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "3b384c05bbad2f861adc224c9f93dc268782480b8bf76c2af796bff569b32fd4",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "포즈/설명.png",
-      "sha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
-      "outputSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/설명.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "포즈/솔직한대화.png",
-      "sha256": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
-      "outputSha256": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/솔직한대화.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "2b5aa4444cdf3eabcd9de0993534a50c07f96a41f7d79ace56de7bdfc7430947",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "포즈/인사.png",
-      "sha256": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
-      "outputSha256": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/인사.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "9da09ca39c76f1d4fbc21668f177e1273331e2e9aceb16ac8698d35db27d6a73",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "포즈/캐주얼.png",
-      "sha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
-      "outputSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
-      "changedRgbPixels": 0,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/MASTER_default.png",
-      "sha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
-      "outputSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/MASTER_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/MASTER_serious.png",
-      "sha256": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
-      "outputSha256": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/MASTER_serious.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "38d4afb25482c17032290cd4f5fe9ca8c5f83d8493956d65e9e28ebcb429682c",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/설명_default.png",
-      "sha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
-      "outputSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/설명_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/설명_serious.png",
-      "sha256": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
-      "outputSha256": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/설명_serious.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "56c6f4ee3972a882c07b67fec7793071fe834ee30a4ad9c3f3f868cf54d35601",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/캐주얼_default.png",
-      "sha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
-      "outputSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/캐주얼_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "강리아",
-      "file": "표정/캐주얼_serious.png",
-      "sha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
-      "outputSha256": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
-      "changedRgbPixels": 0,
-      "alphaReference": "표정/캐주얼_serious.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "2e50ef01d4576312b85cfdec87c772cf32e5f95b6d3f7f8ba9a2d766f0f1ad78",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "MASTER.png",
-      "sha256": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
-      "outputSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
-      "changedRgbPixels": 392023,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "포즈/대표.png",
-      "sha256": "1efea55c56205e8da4a904ae30558f9f866c96899538bbe2e3c3ca519fafd7c8",
-      "outputSha256": "d734341e901e2066f83a670b46de2224b10055116381ed59b1146f6ae47e36b8",
-      "changedRgbPixels": 366809,
-      "alphaReference": "포즈/대표.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "9ac79bfe6df19ae815193dab367fe743d42fef462f75f8a52bdc604ac6798d2a",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "포즈/듣는자세.png",
-      "sha256": "b9a32d870f98718e82637aa491014c924ab5e28fc56351218ac3fb934011e439",
-      "outputSha256": "67e4e1493b457d0af93a34181211a60926a388c5792fb3e513595418b9d37020",
-      "changedRgbPixels": 357636,
-      "alphaReference": "포즈/듣는자세.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "d46ce0fdaf3a551dbca4275666875910dbe9911e96a34088050389f8925a07ea",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "포즈/업무.png",
-      "sha256": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
-      "outputSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
-      "changedRgbPixels": 388193,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "포즈/캐주얼.png",
-      "sha256": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
-      "outputSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
-      "changedRgbPixels": 378124,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/MASTER_default.png",
-      "sha256": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
-      "outputSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
-      "changedRgbPixels": 392023,
-      "alphaReference": "표정/MASTER_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/MASTER_serious.png",
-      "sha256": "b43c3ffaf9af4b028b82ffc473dffcedaf7b579c5f2cd226c7a88c43480ba703",
-      "outputSha256": "45e03e89ac7eb62828f9f3a450085a95416eca4d0c7dfa846cf36c94dda2e21e",
-      "changedRgbPixels": 1130917,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 123154,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "21cb42acb9bcea79d61d3f845d6a5caa40f3d010b9c4a18a5b2b6abb65a20b10",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/업무_default.png",
-      "sha256": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
-      "outputSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
-      "changedRgbPixels": 388193,
-      "alphaReference": "표정/업무_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/업무_serious.png",
-      "sha256": "0b23a4b5d3bf272c348294ad0f2a82f101fa13bcd48387f64492a8e743bca430",
-      "outputSha256": "042354024b84e10940aef76c3b54992626d315a23a5452e8de15a3a86f3917f5",
-      "changedRgbPixels": 1130240,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 136287,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a38f3b6a75b7c86e3c61f09daa79431ada13dae5abd063a9aa7d67e122c37496",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/캐주얼_default.png",
-      "sha256": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
-      "outputSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
-      "changedRgbPixels": 378124,
-      "alphaReference": "표정/캐주얼_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "한서윤",
-      "file": "표정/캐주얼_serious.png",
-      "sha256": "2bdcdcabb6da26cab92a02faf41366e57b07da4d3d5d89af5b24528ae6d4fad3",
-      "outputSha256": "29a2cec2e195aeda23b3270ea8bb02e1de79164e90ac838c728e85472d664e4c",
-      "changedRgbPixels": 1100307,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 128973,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "ca0cf980d7e9895408a5c4c82214e2cbec699bb2e838ee3aa779bb807f0e33f9",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "MASTER.png",
-      "sha256": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
-      "outputSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
-      "changedRgbPixels": 395655,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "포즈/대표.png",
-      "sha256": "8f5efda1c7dd262e457a2ba129552f03f25bad539e8f9b55ea6a3a269c8c8e9d",
-      "outputSha256": "7c6659929e4449627e793c9b7880814f3cccc9933d177d8813ce789a20220b46",
-      "changedRgbPixels": 391922,
-      "alphaReference": "포즈/대표.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a440255be41b3ae0e17f2e8b180da41b485f3092a6cdaeac4c62a6cc084dbb50",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "포즈/듣는자세.png",
-      "sha256": "b94ed5c1362b8ecb327c634633bb92f23a6b54573ca5fecb5a78d7992691cd05",
-      "outputSha256": "154a600c4ceaee6493a5d7a21addafae22c14664ca35c3a2b8dfd7abcbc679e7",
-      "changedRgbPixels": 383535,
-      "alphaReference": "포즈/듣는자세.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a12a7e1189ab4a3700b69e89f31b8c7a21fcc3e2cf4a0fa3a4d7a114b1066165",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "포즈/업무.png",
-      "sha256": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
-      "outputSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
-      "changedRgbPixels": 367428,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "포즈/캐주얼.png",
-      "sha256": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
-      "outputSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
-      "changedRgbPixels": 342859,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/MASTER_default.png",
-      "sha256": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
-      "outputSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
-      "changedRgbPixels": 395655,
-      "alphaReference": "표정/MASTER_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/MASTER_serious.png",
-      "sha256": "4b1538d489892b64e47fd8bd0944ac6bc0e1adf7421b82badaec2a228b37dc02",
-      "outputSha256": "8e18f7dd20552e4fa438a63464fb5f803a22c7ffbbde44534e8b010c923983d1",
-      "changedRgbPixels": 395395,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "c1cc161cf201441c597f03795647b5279e4aef98efa4f6cef98024ccccb75c3c",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/업무_default.png",
-      "sha256": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
-      "outputSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
-      "changedRgbPixels": 367428,
-      "alphaReference": "표정/업무_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/업무_serious.png",
-      "sha256": "5b3c6c40923bd3b92332358e1611d8abc721dff51a1c14d9a014458d95d97c5c",
-      "outputSha256": "6e462d4414e2466fa61347ac75555ad6ad39051d789e031869c5a6873561fb33",
-      "changedRgbPixels": 367232,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "14c793118acdfc4f65504ab34877803a360991a66562550be1c38cc2ca5e9afb",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/캐주얼_default.png",
-      "sha256": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
-      "outputSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
-      "changedRgbPixels": 342859,
-      "alphaReference": "표정/캐주얼_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "차유진",
-      "file": "표정/캐주얼_serious.png",
-      "sha256": "c6b0f6c31843967d04b92af55d32e98a0b02d90e47a49f767e7affc0e867ae4f",
-      "outputSha256": "b95d6d3adced0043ca615d238d011d95c08192484fba930d3e87df4c285c40ce",
-      "changedRgbPixels": 342599,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "67ddc107514420bf504753cc00aacff487b9c57073460836f96907a3fda01450",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "MASTER.png",
-      "sha256": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
-      "outputSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
-      "changedRgbPixels": 336051,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "포즈/대표.png",
-      "sha256": "ef284f458f56dddfb494b618330cda1008810e357ae0e9c96b0cfcb773fd3a6e",
-      "outputSha256": "45b20d2fb25f3977bc415a46ab1e286019bf50d1575fe04a2a16cd00c82f75e7",
-      "changedRgbPixels": 288362,
-      "alphaReference": "포즈/대표.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "bab0a92210d0d00dcb665d4810ea29676f9bebacd8860c5a2abcce7ee93bacc2",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "포즈/듣는자세.png",
-      "sha256": "6939d8f39e6d10327f006c8c3554510ade830cf5d5a234f6e5fab09ac2dffb8f",
-      "outputSha256": "81a856f01fec9ada4dc8619ed8b460ff8d093bc3fc42b01be21131cb9f98d568",
-      "changedRgbPixels": 310082,
-      "alphaReference": "포즈/듣는자세.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "a31ccd28d9de040124339acbd1fd994f4126f40cf5b1978159c2263489a1be30",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "포즈/업무.png",
-      "sha256": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
-      "outputSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
-      "changedRgbPixels": 302925,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "포즈/캐주얼.png",
-      "sha256": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
-      "outputSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
-      "changedRgbPixels": 338052,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/MASTER_default.png",
-      "sha256": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
-      "outputSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
-      "changedRgbPixels": 336051,
-      "alphaReference": "표정/MASTER_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/MASTER_serious.png",
-      "sha256": "8b5ef13df259879d7068e755fcf079bb23eef78ecc1ec61cd0c6da68f329eac7",
-      "outputSha256": "38ae8ad27342c1e6f325b814c02678ed9e054dda11680fa67dc0be540c012a6f",
-      "changedRgbPixels": 336047,
-      "alphaReference": "MASTER.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "cb53e7e8fd670e188d97ec4717c342eb8da792dc8aaed68496db5fe04c116ee8",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/업무_default.png",
-      "sha256": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
-      "outputSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
-      "changedRgbPixels": 302925,
-      "alphaReference": "표정/업무_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/업무_serious.png",
-      "sha256": "8de64dc02374aacfcf9bc47ab7fd9ad95e79d29c36b0f3f3ed3c981364d3c77d",
-      "outputSha256": "7d4a38e9744a224f14fa6398990976e16beab701af3e3fa1faa36a2358610962",
-      "changedRgbPixels": 302921,
-      "alphaReference": "포즈/업무.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "29a5a347e83f18ad2aa3a2cfff3c00387e87d26dd37bb435b05876dd646cc957",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/캐주얼_default.png",
-      "sha256": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
-      "outputSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
-      "changedRgbPixels": 338052,
-      "alphaReference": "표정/캐주얼_default.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
-      "runtimeShaMatches": true
-    },
-    {
-      "who": "백지현",
-      "file": "표정/캐주얼_serious.png",
-      "sha256": "5f2fc86f4b8f405c745ced4f82ef7508189d1a90a24be696f61e966cbee3adef",
-      "outputSha256": "4b09aa730e3a1139d51379af59d96aa4b6b41138dff9bb96f1897604a268f74d",
-      "changedRgbPixels": 338043,
-      "alphaReference": "포즈/캐주얼.png",
-      "normalizedOriginalAlphaPixels": 0,
-      "approvedPoseAlphaPreserved": true,
-      "originalCanvasAndApprovedPoseSilhouettePreserved": true,
-      "upscaleSha256": "1e2800a02f565fdcb9bd71e28191b9a796b6b215802e43e16cab90015f1163ea",
-      "runtimeShaMatches": true
+      "file": "강리아/표정/캐주얼_serious.png",
+      "method": "Only alpha replaced with the approved matching pose; original RGB and serious facial expression preserved exactly.",
+      "alphaChangedPixels": 125599,
+      "rgbUnchanged": true,
+      "alphaReference": "work/repo/히로인/강리아/포즈/캐주얼.png"
     }
   ],
-  "upscalesChecked": 46,
-  "runtimeChecked": 46,
-  "playtestPerformed": false
+  "composition": {
+    "hair": {
+      "generated": "C:/Users/kws07/.codex/generated_images/01a11b16-ef81-7b42-ada3-1857715bf1f2/exec-3be7d0f2-9715-4440-add0-e5f45e30de0d.png",
+      "compositionRows": [
+        265,
+        630
+      ],
+      "headFaceEarringsExactThroughRow": 265,
+      "lowerBodyExactFromRow": 630,
+      "method": "Use coherent generated back-hair/upper-body area with a soft transition; restore the entire approved head/face and lower body. Then replace only the hand repair regions."
+    },
+    "hands": [
+      {
+        "id": "jihyun-lapel",
+        "who": "백지현",
+        "file": "exec-cf4d22be-e6c1-4240-bf25-1ca1143bc426.png",
+        "crop": {
+          "left": 330,
+          "top": 275,
+          "width": 200,
+          "height": 200
+        },
+        "roi": {
+          "left": 363,
+          "top": 293,
+          "width": 104,
+          "height": 110
+        },
+        "modifiedPixels": 11016,
+        "method": "Generated close-up patch resampled to the original coordinates, 5px feather at context boundary."
+      },
+      {
+        "id": "jihyun-hip",
+        "who": "백지현",
+        "file": "exec-7668f274-eef3-4c46-9bf0-cdc997555d4d.png",
+        "crop": {
+          "left": 550,
+          "top": 455,
+          "width": 230,
+          "height": 230
+        },
+        "roi": {
+          "left": 568,
+          "top": 506,
+          "width": 150,
+          "height": 106
+        },
+        "modifiedPixels": 15392,
+        "method": "Generated close-up patch resampled to the original coordinates, 5px feather at context boundary."
+      },
+      {
+        "id": "seoyun-chest",
+        "who": "한서윤",
+        "file": "exec-984bb8d7-967a-46e1-a721-5c523beee173.png",
+        "crop": {
+          "left": 320,
+          "top": 255,
+          "width": 240,
+          "height": 240
+        },
+        "roi": {
+          "left": 360,
+          "top": 295,
+          "width": 158,
+          "height": 112
+        },
+        "modifiedPixels": 17160,
+        "method": "Generated close-up patch resampled to the original coordinates, 5px feather at context boundary."
+      }
+    ]
+  },
+  "runtimeCopies": 0,
+  "playtestPerformed": false,
+  "visualReview": "Examined full bodies and close crops on flat matte; lapel pinch, relaxed hip fingers, chest fingers/nails, back-hair flow and junctions improved. Visual review is not a guarantee of absence of every possible drawing defect.",
+  "records": [
+    {
+      "character": "강리아",
+      "file": "MASTER.png",
+      "nativeSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/대표.png",
+      "nativeSha256": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
+      "upscaleSha256": "78f6a3dc43aa785f0f089e1014f7b750a1add0d6185796a8e52c447b10570440",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
+      "upscaleSha256": "3b384c05bbad2f861adc224c9f93dc268782480b8bf76c2af796bff569b32fd4",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/설명.png",
+      "nativeSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/솔직한대화.png",
+      "nativeSha256": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
+      "upscaleSha256": "2b5aa4444cdf3eabcd9de0993534a50c07f96a41f7d79ace56de7bdfc7430947",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/인사.png",
+      "nativeSha256": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
+      "upscaleSha256": "9da09ca39c76f1d4fbc21668f177e1273331e2e9aceb16ac8698d35db27d6a73",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "upscaleSha256": "ef450f0521a9dc10a81cf3a4a237cb5b1a923ca2e4c36b5d41d5d091cabce8c3",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "7ef583d4e59749959d82cb063fcc1dbab3b08af482b3ccae74bbf88e115b6f37",
+      "upscaleSha256": "ab0efafd9e15f3624fd99baa68c5f1ecabdd31eac9aa5341508a0ae0b7ce20e8",
+      "changedNative": true,
+      "changedUpscale": true,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/설명_default.png",
+      "nativeSha256": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "upscaleSha256": "a2342e987e18b7414e3ea7f41bcb3bb78e359bd3d0294567a80f68cd8a7cf7ae",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/설명_serious.png",
+      "nativeSha256": "b3629297db633716d899a153b26b663c606d56efecfb88279c8d17160fc2f431",
+      "upscaleSha256": "871a48ffdf9de4125e0ad39d62d72d142d1041cb3f67e0b11edfd6032e69f79b",
+      "changedNative": true,
+      "changedUpscale": true,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "upscaleSha256": "86f024a3eaafd511a0a561757fb3b4d3a332c2b38e71e9727e0084fc19163848",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "강리아",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "de04b10e08369b0b6f56ba9436a8f3ea785a2676dfaf29e0ddc6c626b35d9ac5",
+      "upscaleSha256": "b35ef8f37f9c12b80279493c2f3ccdda64cd6cca505358dc0b64acfcb0290160",
+      "changedNative": true,
+      "changedUpscale": true,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "MASTER.png",
+      "nativeSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
+      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/대표.png",
+      "nativeSha256": "14facdd2acdeeead0f49f6ef7075eb51f8d01449637d59e6f910740e18f694bf",
+      "upscaleSha256": "53ace2c8c0ec128bc7947e41af182c2c61ce788bc001f23cc8a482a56d35a52a",
+      "changedNative": true,
+      "changedUpscale": true,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "67e4e1493b457d0af93a34181211a60926a388c5792fb3e513595418b9d37020",
+      "upscaleSha256": "d46ce0fdaf3a551dbca4275666875910dbe9911e96a34088050389f8925a07ea",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/업무.png",
+      "nativeSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
+      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
+      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "3eabd040894472c3dc578c42812c6d4b2005f2aeec2197a03d92af4ce3b6f61a",
+      "upscaleSha256": "d1532e7d4e5471f78b4b1511ad3913f8ba19e33d6c6e7b39eaca737cea392494",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "45e03e89ac7eb62828f9f3a450085a95416eca4d0c7dfa846cf36c94dda2e21e",
+      "upscaleSha256": "21cb42acb9bcea79d61d3f845d6a5caa40f3d010b9c4a18a5b2b6abb65a20b10",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "4e0da9696aa09cc989cd467f571643e5f1a9c414012ba9c45a2470a4c309e69b",
+      "upscaleSha256": "c38caa1cfadc5afeeff9950a4115758be42839688a7124bfea5d8a35fa2fbe5d",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "042354024b84e10940aef76c3b54992626d315a23a5452e8de15a3a86f3917f5",
+      "upscaleSha256": "a38f3b6a75b7c86e3c61f09daa79431ada13dae5abd063a9aa7d67e122c37496",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "caad6fdd8150247b62e190427a560fe18d2aeeda56979856e01ce274c99fa52d",
+      "upscaleSha256": "e830ebab7f20a44c2028a078be7bf8c4fb1990bb758f07faaa4f998a5bd9d3ac",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "한서윤",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "29a2cec2e195aeda23b3270ea8bb02e1de79164e90ac838c728e85472d664e4c",
+      "upscaleSha256": "ca0cf980d7e9895408a5c4c82214e2cbec699bb2e838ee3aa779bb807f0e33f9",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "MASTER.png",
+      "nativeSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
+      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/대표.png",
+      "nativeSha256": "7c6659929e4449627e793c9b7880814f3cccc9933d177d8813ce789a20220b46",
+      "upscaleSha256": "a440255be41b3ae0e17f2e8b180da41b485f3092a6cdaeac4c62a6cc084dbb50",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "154a600c4ceaee6493a5d7a21addafae22c14664ca35c3a2b8dfd7abcbc679e7",
+      "upscaleSha256": "a12a7e1189ab4a3700b69e89f31b8c7a21fcc3e2cf4a0fa3a4d7a114b1066165",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/업무.png",
+      "nativeSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
+      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
+      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "64f0577e75192b17f11b15be72642d4db77821602df6d4fc69106dbd510a837a",
+      "upscaleSha256": "612271b5ea27367ae2aeca914f83eac04fc8b74c4c6ab3776299d65a7220c878",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "8e18f7dd20552e4fa438a63464fb5f803a22c7ffbbde44534e8b010c923983d1",
+      "upscaleSha256": "c1cc161cf201441c597f03795647b5279e4aef98efa4f6cef98024ccccb75c3c",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "e0dd28d5feedb5efa3650022812e06776c61fd2f5d5765ad6d6bceaf28976ee2",
+      "upscaleSha256": "4c3ae721f764bb82ead98e8163fd9218f14224efe8a990404089c46dfe59e51e",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "6e462d4414e2466fa61347ac75555ad6ad39051d789e031869c5a6873561fb33",
+      "upscaleSha256": "14c793118acdfc4f65504ab34877803a360991a66562550be1c38cc2ca5e9afb",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "526913e9d6779d83326c6de167bb5dbee81a621917b21095b42a4032b49e78e9",
+      "upscaleSha256": "77ddc4fed3b0083ac3933dbfbc8892c2fc0b03632ff929cec231d1033b53b91a",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "차유진",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "b95d6d3adced0043ca615d238d011d95c08192484fba930d3e87df4c285c40ce",
+      "upscaleSha256": "67ddc107514420bf504753cc00aacff487b9c57073460836f96907a3fda01450",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "MASTER.png",
+      "nativeSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
+      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/대표.png",
+      "nativeSha256": "a18aa0c2235f8556bd99c74176c1f3ac3add5c80ca7280ea4a643f7f695bd5df",
+      "upscaleSha256": "96e0cd66c01b04a6ab6a3eae94501daf38d4d239422a8f287b2858595d6c5f83",
+      "changedNative": true,
+      "changedUpscale": true,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/듣는자세.png",
+      "nativeSha256": "81a856f01fec9ada4dc8619ed8b460ff8d093bc3fc42b01be21131cb9f98d568",
+      "upscaleSha256": "a31ccd28d9de040124339acbd1fd994f4126f40cf5b1978159c2263489a1be30",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/업무.png",
+      "nativeSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
+      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "포즈/캐주얼.png",
+      "nativeSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
+      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/MASTER_default.png",
+      "nativeSha256": "195452032410b582b65ce98d9f10f8b92fdb0ccb3a53597d484081620d0f835d",
+      "upscaleSha256": "4e8e28c84d98e67b3feef391c397af24f109a3a135e7f420b94fb49b756d9a09",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/MASTER_serious.png",
+      "nativeSha256": "38ae8ad27342c1e6f325b814c02678ed9e054dda11680fa67dc0be540c012a6f",
+      "upscaleSha256": "cb53e7e8fd670e188d97ec4717c342eb8da792dc8aaed68496db5fe04c116ee8",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/업무_default.png",
+      "nativeSha256": "59d4957c7aca719aa09e3ce205f538fd11d69ee6177bd27626bdfac41951cd53",
+      "upscaleSha256": "049ec4cd50d1cf51c125b1d33e84283762fc144376c41fede21bf360d01e1bed",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/업무_serious.png",
+      "nativeSha256": "7d4a38e9744a224f14fa6398990976e16beab701af3e3fa1faa36a2358610962",
+      "upscaleSha256": "29a5a347e83f18ad2aa3a2cfff3c00387e87d26dd37bb435b05876dd646cc957",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/캐주얼_default.png",
+      "nativeSha256": "74e26d70f7e602d50d12e71be5dc2ea29a5e319023fbe3346e38bbd299dd908b",
+      "upscaleSha256": "dc7dff6e043d965c7c3ed621e89ca2031271ec32ffeaf5974589c5270c126e4c",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    },
+    {
+      "character": "백지현",
+      "file": "표정/캐주얼_serious.png",
+      "nativeSha256": "4b09aa730e3a1139d51379af59d96aa4b6b41138dff9bb96f1897604a268f74d",
+      "upscaleSha256": "1e2800a02f565fdcb9bd71e28191b9a796b6b215802e43e16cab90015f1163ea",
+      "changedNative": false,
+      "changedUpscale": false,
+      "upscaleMatchesLanczos3": true
+    }
+  ]
 }

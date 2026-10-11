@@ -1,9 +1,9 @@
 {
   "updated": "2026-10-11",
-  "scope": "v28: Audited all 46 native and 46 upscale assets without altering artwork. Signature hand improvements and three Ria serious alpha differences are documented. Removed 46 runtime copies and routed the game directly to canonical upscales. Moved all current character comparisons under 히로인.",
+  "scope": "v29: Repair Jihyun signature back hair and both hands, Seoyun chest hand and nails, normalize the alpha of three Ria serious expressions. Five native + five upscale files replaced; all approved master faces and heights retained. All character images are inside 히로인; game reads canonical upscales directly.",
   "runtime_images": 46,
   "canonical_masters": 4,
-  "comparison_previews": 28,
+  "comparison_previews": 31,
   "files": [
     {
       "path": "히로인/한서윤/MASTER.png",
@@ -65,8 +65,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 813420,
-      "sha256": "d734341e901e2066f83a670b46de2224b10055116381ed59b1146f6ae47e36b8"
+      "bytes": 822006,
+      "sha256": "14facdd2acdeeead0f49f6ef7075eb51f8d01449637d59e6f910740e18f694bf"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/대표.png",
@@ -74,8 +74,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2711997,
-      "sha256": "9ac79bfe6df19ae815193dab367fe743d42fef462f75f8a52bdc604ac6798d2a"
+      "bytes": 2740522,
+      "sha256": "53ace2c8c0ec128bc7947e41af182c2c61ce788bc001f23cc8a482a56d35a52a"
     },
     {
       "path": "히로인/차유진/포즈/대표.png",
@@ -101,8 +101,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 717582,
-      "sha256": "45b20d2fb25f3977bc415a46ab1e286019bf50d1575fe04a2a16cd00c82f75e7"
+      "bytes": 949461,
+      "sha256": "a18aa0c2235f8556bd99c74176c1f3ac3add5c80ca7280ea4a643f7f695bd5df"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -110,8 +110,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2362614,
-      "sha256": "bab0a92210d0d00dcb665d4810ea29676f9bebacd8860c5a2abcce7ee93bacc2"
+      "bytes": 2407968,
+      "sha256": "96e0cd66c01b04a6ab6a3eae94501daf38d4d239422a8f287b2858595d6c5f83"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
