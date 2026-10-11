@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-11",
+  "baselineCommit": "5904183683a5f69bad55a4fedf2f7e081879181a",
+  "images": [
+    {
+      "file": "MASTER.png",
+      "roi": {
+        "left": 660,
+        "top": 625,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 13033,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "포즈/듣는자세.png",
+      "roi": {
+        "left": 460,
+        "top": 475,
+        "width": 130,
+        "height": 125
+      },
+      "changedChannels": 7927,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "포즈/업무.png",
+      "roi": {
+        "left": 715,
+        "top": 330,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 11668,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "포즈/캐주얼.png",
+      "roi": {
+        "left": 585,
+        "top": 445,
+        "width": 170,
+        "height": 145
+      },
+      "changedChannels": 10006,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/MASTER_default.png",
+      "roi": {
+        "left": 660,
+        "top": 625,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 13033,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/MASTER_serious.png",
+      "roi": {
+        "left": 660,
+        "top": 625,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 13284,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/업무_default.png",
+      "roi": {
+        "left": 715,
+        "top": 330,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 11668,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/업무_serious.png",
+      "roi": {
+        "left": 715,
+        "top": 330,
+        "width": 130,
+        "height": 145
+      },
+      "changedChannels": 11667,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/캐주얼_default.png",
+      "roi": {
+        "left": 585,
+        "top": 445,
+        "width": 170,
+        "height": 145
+      },
+      "changedChannels": 10006,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "표정/캐주얼_serious.png",
+      "roi": {
+        "left": 585,
+        "top": 445,
+        "width": 170,
+        "height": 145
+      },
+      "changedChannels": 10097,
+      "rgbaOutsideWristIdentical": true
+    },
+    {
+      "file": "포즈/대표.png",
+      "roi": {
+        "left": 660,
+        "top": 500,
+        "width": 160,
+        "height": 145
+      },
+      "changedChannels": 9526,
+      "rgbaOutsideWristIdentical": true
+    }
+  ]
+}

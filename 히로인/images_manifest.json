@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "scope": "All 46 originals and 46 2x sprites audited. Jihyun candidate 02 ash-beige wavy hair/violet-gray eyes adopted across 11 sprites. Hanging hands corrected and Yujin split earring unified. 46 runtime files synchronized.",
+  "scope": "All 46 originals and 46 2x sprites audited. Jihyun candidate 02 ash-beige wavy hair/violet-gray eyes adopted across 11 sprites. Hanging hands corrected and Yujin split earring unified. 46 runtime files synchronized. Seoyun wristwatches removed in all 11 originals, 11 2x and runtime sprites.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -11,8 +11,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1881473,
-      "sha256": "2962798b6b48394e441178714cd101055502e5f325350f5918303a3f06171049"
+      "bytes": 1879843,
+      "sha256": "272ee46c7020c3b2f1406cd4e6d96df06bd418ffe5fa7403e898ce79d5e54ad2"
     },
     {
       "path": "히로인/강리아/MASTER.png",
@@ -65,8 +65,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 848145,
-      "sha256": "f84e9f08dae57a404b8b72c1789e45508f8203bc06260f2f7305e3518657f4e9"
+      "bytes": 846848,
+      "sha256": "29d2c87829b59112acc55fa968f31e11140fcfc1c0127134e09b416a4c3fcb52"
     },
     {
       "path": "히로인/한서윤/업스케일/포즈/대표.png",
@@ -74,8 +74,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2839672,
-      "sha256": "cb08a291548a694a9b62f259874d304a0196ca0e424e4850ef9bee65ff3335aa"
+      "bytes": 2831524,
+      "sha256": "6d24799f219c205130388810c6bfc0cfaae13372ea2d205d5fa9d043dd0de782"
     },
     {
       "path": "히로인/차유진/포즈/대표.png",

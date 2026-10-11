@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-11",
+  "mode": "built-in image_gen",
+  "generation": [
+    {
+      "key": "master",
+      "file": "MASTER.png",
+      "roi": {
+        "left": 660,
+        "top": 625,
+        "width": 130,
+        "height": 145
+      },
+      "mask": {
+        "cx": 64,
+        "cy": 63,
+        "rx": 40,
+        "ry": 42
+      },
+      "prompt": "Use case: precise-object-edit. Image 1 is a tightly cropped edit target from an adult female anime visual-novel sprite. REMOVE ONLY THE WRISTWATCH COMPLETELY: delete the silver round watch face, black strap/band, connector and their cast shadows. Restore a bare natural peach wrist and forearm with a smooth anatomically plausible contour and original skin shading where the watch was. Restore any small background/cloth areas exposed by removing the watch's protruding outline. There must be no bracelet, ring, black band, dark watch-shaped line, bulge or replacement jewelry. Preserve the exact hand pose, all fingers/nails, wrist position and width, forearm angle, garment folds/colors, tablet if present and surrounding crop pixels. Do not change finger anatomy or make a new hand pose. Match existing thin smooth anime outlines and soft restrained CEL skin shading exactly. Keep original crop framing and composition (520x580), genuine transparent background wherever the target is transparent. The wrist should join the hand and forearm naturally without a seam or hard color patch. ONE edited crop only, no labels/panels.",
+      "generated": "work/style-transfer/seoyun13-aligned-master.png",
+      "originalGenerated": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-31ff058a-8dcb-46e5-a8fa-72ccd369767e.png",
+      "registration": {
+        "score": 4.834011676396974,
+        "scale": 1.015,
+        "deg": 1,
+        "dx": 0,
+        "dy": 3
+      }
+    },
+    {
+      "key": "listening",
+      "file": "포즈/듣는자세.png",
+      "roi": {
+        "left": 460,
+        "top": 475,
+        "width": 130,
+        "height": 125
+      },
+      "mask": {
+        "cx": 40,
+        "cy": 62,
+        "rx": 21,
+        "ry": 28
+      },
+      "prompt": "Use case: precise-object-edit. Image 1 is a tightly cropped edit target from an adult female anime visual-novel sprite. REMOVE ONLY THE WRISTWATCH COMPLETELY: delete the silver round watch face, black strap/band, connector and their cast shadows. Restore a bare natural peach wrist and forearm with a smooth anatomically plausible contour and original skin shading where the watch was. Restore any small background/cloth areas exposed by removing the watch's protruding outline. There must be no bracelet, ring, black band, dark watch-shaped line, bulge or replacement jewelry. Preserve the exact hand pose, all fingers/nails, wrist position and width, forearm angle, garment folds/colors, tablet if present and surrounding crop pixels. Do not change finger anatomy or make a new hand pose. Match existing thin smooth anime outlines and soft restrained CEL skin shading exactly. Keep original crop framing and composition (520x500), genuine transparent background wherever the target is transparent. The wrist should join the hand and forearm naturally without a seam or hard color patch. ONE edited crop only, no labels/panels.",
+      "generated": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-4ad5ac37-1900-49ef-9e54-47e7fa28e0a3.png"
+    },
+    {
+      "key": "work",
+      "file": "포즈/업무.png",
+      "roi": {
+        "left": 715,
+        "top": 330,
+        "width": 130,
+        "height": 145
+      },
+      "mask": {
+        "cx": 48,
+        "cy": 64,
+        "rx": 38,
+        "ry": 42
+      },
+      "prompt": "Use case: precise-object-edit. Image 1 is a tightly cropped edit target from an adult female anime visual-novel sprite. REMOVE ONLY THE WRISTWATCH COMPLETELY: delete the silver round watch face, black strap/band, connector and their cast shadows. Restore a bare natural peach wrist and forearm with a smooth anatomically plausible contour and original skin shading where the watch was. Restore any small background/cloth areas exposed by removing the watch's protruding outline. There must be no bracelet, ring, black band, dark watch-shaped line, bulge or replacement jewelry. Preserve the exact hand pose, all fingers/nails, wrist position and width, forearm angle, garment folds/colors, tablet if present and surrounding crop pixels. Do not change finger anatomy or make a new hand pose. Match existing thin smooth anime outlines and soft restrained CEL skin shading exactly. Keep original crop framing and composition (520x580), genuine transparent background wherever the target is transparent. The wrist should join the hand and forearm naturally without a seam or hard color patch. ONE edited crop only, no labels/panels.",
+      "generated": "work/style-transfer/seoyun13-aligned-work.png",
+      "originalGenerated": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-4da71c68-f0d4-43d3-9678-581147482137.png",
+      "registration": {
+        "score": 7.461804878048769,
+        "scale": 1.03,
+        "deg": 1,
+        "dx": 4,
+        "dy": 3
+      }
+    },
+    {
+      "key": "casual",
+      "file": "포즈/캐주얼.png",
+      "roi": {
+        "left": 585,
+        "top": 445,
+        "width": 170,
+        "height": 145
+      },
+      "mask": {
+        "cx": 71,
+        "cy": 94,
+        "rx": 27,
+        "ry": 30
+      },
+      "prompt": "Use case: precise-object-edit. Image 1 is a tightly cropped edit target from an adult female anime visual-novel sprite. REMOVE ONLY THE WRISTWATCH COMPLETELY: delete the silver round watch face, black strap/band, connector and their cast shadows. Restore a bare natural peach wrist and forearm with a smooth anatomically plausible contour and original skin shading where the watch was. Restore any small background/cloth areas exposed by removing the watch's protruding outline. There must be no bracelet, ring, black band, dark watch-shaped line, bulge or replacement jewelry. Preserve the exact hand pose, all fingers/nails, wrist position and width, forearm angle, garment folds/colors, tablet if present and surrounding crop pixels. Do not change finger anatomy or make a new hand pose. Match existing thin smooth anime outlines and soft restrained CEL skin shading exactly. Keep original crop framing and composition (680x580), genuine transparent background wherever the target is transparent. The wrist should join the hand and forearm naturally without a seam or hard color patch. ONE edited crop only, no labels/panels.",
+      "generated": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-18a4371e-123a-49f0-89c7-df37e5763c98.png"
+    },
+    {
+      "key": "signature",
+      "file": "포즈/대표.png",
+      "roi": {
+        "left": 660,
+        "top": 500,
+        "width": 160,
+        "height": 145
+      },
+      "mask": {
+        "cx": 79,
+        "cy": 68,
+        "rx": 31,
+        "ry": 30
+      },
+      "prompt": "Use case: precise-object-edit. Image 1 is a tightly cropped edit target from an adult female anime visual-novel sprite. REMOVE ONLY THE WRISTWATCH COMPLETELY: delete the silver round watch face, black strap/band, connector and their cast shadows. Restore a bare natural peach wrist and forearm with a smooth anatomically plausible contour and original skin shading where the watch was. Restore any small background/cloth areas exposed by removing the watch's protruding outline. There must be no bracelet, ring, black band, dark watch-shaped line, bulge or replacement jewelry. Preserve the exact hand pose, all fingers/nails, wrist position and width, forearm angle, garment folds/colors, tablet if present and surrounding crop pixels. Do not change finger anatomy or make a new hand pose. Match existing thin smooth anime outlines and soft restrained CEL skin shading exactly. Keep original crop framing and composition (640x580), genuine transparent background wherever the target is transparent. The wrist should join the hand and forearm naturally without a seam or hard color patch. ONE edited crop only, no labels/panels.",
+      "generated": "C:\\Users\\kws07\\.codex\\generated_images\\01a11b16-ef81-7b42-ada3-1857715bf1f2\\exec-1b7ee0e5-09b5-454d-bcdd-4de2808af431.png"
+    }
+  ],
+  "compositing": "Localized wrist crops, feathered mask, premultiplied alpha; master/work generated crops registered to original context before compositing."
+}
