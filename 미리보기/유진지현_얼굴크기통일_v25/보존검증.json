@@ -1,0 +1,837 @@
+{
+  "date": "2026-10-11",
+  "changedOriginals": 22,
+  "referenceOriginalsUnchanged": 24,
+  "bodyAndHeightPreservedAll46": true,
+  "yujinChinFingerProtected": true,
+  "records": [
+    {
+      "who": "강리아",
+      "file": "MASTER.png",
+      "inputSha": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "outputSha": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      },
+      "finalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/대표.png",
+      "inputSha": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
+      "outputSha": "8ba696992a0d4d29cbbe91b9ff7c453341cbb335f30e258d94abbf1f9b0f8ebe",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1496,
+        "height": 1480
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1496,
+        "height": 1480
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/듣는자세.png",
+      "inputSha": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
+      "outputSha": "d4e4f9c327cc70ad68cfba2662f2bef0d8332cabb97edb0497b47c1300e32bed",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 5,
+        "bottom": 1519,
+        "height": 1515
+      },
+      "finalHeightBounds": {
+        "top": 5,
+        "bottom": 1519,
+        "height": 1515
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/설명.png",
+      "inputSha": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "outputSha": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 7,
+        "bottom": 1499,
+        "height": 1493
+      },
+      "finalHeightBounds": {
+        "top": 7,
+        "bottom": 1499,
+        "height": 1493
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/솔직한대화.png",
+      "inputSha": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
+      "outputSha": "c75972f621dce006e56b779ca359c12f3b68aa19882c572c3e657204b3ad22ed",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 6,
+        "bottom": 1499,
+        "height": 1494
+      },
+      "finalHeightBounds": {
+        "top": 6,
+        "bottom": 1499,
+        "height": 1494
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/인사.png",
+      "inputSha": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
+      "outputSha": "a34f3c0906f4a09826d09d90d010038683bcc6964d9ad10f91954dd8cde10175",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 6,
+        "bottom": 1499,
+        "height": 1494
+      },
+      "finalHeightBounds": {
+        "top": 6,
+        "bottom": 1499,
+        "height": 1494
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "포즈/캐주얼.png",
+      "inputSha": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "outputSha": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 7,
+        "bottom": 1519,
+        "height": 1513
+      },
+      "finalHeightBounds": {
+        "top": 7,
+        "bottom": 1519,
+        "height": 1513
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/MASTER_default.png",
+      "inputSha": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "outputSha": "2cf65b5a1aaae96f7e688d29e3ed3885c66ece308741466ade523333be3d1454",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      },
+      "finalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/MASTER_serious.png",
+      "inputSha": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
+      "outputSha": "a195d363b478f50535f6da4d53fbc46ce2fc2fd303fc3b60f1424e9631738bdb",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      },
+      "finalHeightBounds": {
+        "top": 6,
+        "bottom": 1498,
+        "height": 1493
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/설명_default.png",
+      "inputSha": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "outputSha": "6c7c032c194dc6ebfd5d859083cbd7f2fdf2fe819cf44bfc05d42542c49d9e6b",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 7,
+        "bottom": 1499,
+        "height": 1493
+      },
+      "finalHeightBounds": {
+        "top": 7,
+        "bottom": 1499,
+        "height": 1493
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/설명_serious.png",
+      "inputSha": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
+      "outputSha": "36c477613fc58305536f262674ec28af7f26b6d86f627c3b7972f7d2ba3b9107",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 7,
+        "bottom": 1500,
+        "height": 1494
+      },
+      "finalHeightBounds": {
+        "top": 7,
+        "bottom": 1500,
+        "height": 1494
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/캐주얼_default.png",
+      "inputSha": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "outputSha": "0944e0b2e89e79c5c8b4c3c015c1ad62f04b08604d3fb2b350cec7f4c5613a11",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 7,
+        "bottom": 1519,
+        "height": 1513
+      },
+      "finalHeightBounds": {
+        "top": 7,
+        "bottom": 1519,
+        "height": 1513
+      }
+    },
+    {
+      "who": "강리아",
+      "file": "표정/캐주얼_serious.png",
+      "inputSha": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
+      "outputSha": "c938dbc82b49c03f08efdae2bdce4b3f95ff9d80f032a934574fda2780fe691b",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1519,
+        "height": 1512
+      },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1519,
+        "height": 1512
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "MASTER.png",
+      "inputSha": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "outputSha": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "포즈/대표.png",
+      "inputSha": "1efea55c56205e8da4a904ae30558f9f866c96899538bbe2e3c3ca519fafd7c8",
+      "outputSha": "1efea55c56205e8da4a904ae30558f9f866c96899538bbe2e3c3ca519fafd7c8",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 21,
+        "bottom": 1517,
+        "height": 1497
+      },
+      "finalHeightBounds": {
+        "top": 21,
+        "bottom": 1517,
+        "height": 1497
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "포즈/듣는자세.png",
+      "inputSha": "b9a32d870f98718e82637aa491014c924ab5e28fc56351218ac3fb934011e439",
+      "outputSha": "b9a32d870f98718e82637aa491014c924ab5e28fc56351218ac3fb934011e439",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "포즈/업무.png",
+      "inputSha": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "outputSha": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "포즈/캐주얼.png",
+      "inputSha": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "outputSha": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/MASTER_default.png",
+      "inputSha": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "outputSha": "a9f9d3d265feca143f964cc0dbadce943f1bf7ce5991e4466a629b5dd18057bc",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/MASTER_serious.png",
+      "inputSha": "b43c3ffaf9af4b028b82ffc473dffcedaf7b579c5f2cd226c7a88c43480ba703",
+      "outputSha": "b43c3ffaf9af4b028b82ffc473dffcedaf7b579c5f2cd226c7a88c43480ba703",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1528,
+        "height": 1520
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1528,
+        "height": 1520
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/업무_default.png",
+      "inputSha": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "outputSha": "f7e7e6f50bf4cc5ec1962e509741aa1265348103e75dde20a2b06a6941beaa39",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/업무_serious.png",
+      "inputSha": "0b23a4b5d3bf272c348294ad0f2a82f101fa13bcd48387f64492a8e743bca430",
+      "outputSha": "0b23a4b5d3bf272c348294ad0f2a82f101fa13bcd48387f64492a8e743bca430",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/캐주얼_default.png",
+      "inputSha": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "outputSha": "3fe69263ac8ae660693afbcc3d02334aaece437efd7c66a6262c8c6c4e45ad92",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1527,
+        "height": 1519
+      }
+    },
+    {
+      "who": "한서윤",
+      "file": "표정/캐주얼_serious.png",
+      "inputSha": "2bdcdcabb6da26cab92a02faf41366e57b07da4d3d5d89af5b24528ae6d4fad3",
+      "outputSha": "2bdcdcabb6da26cab92a02faf41366e57b07da4d3d5d89af5b24528ae6d4fad3",
+      "changedPixels": 0,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1528,
+        "height": 1520
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1528,
+        "height": 1520
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "MASTER.png",
+      "inputSha": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
+      "outputSha": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "포즈/대표.png",
+      "inputSha": "9454b7c4ca3c2234fbb886c13c45f8dac48e11c6f4514d57a8a459a8573ccce0",
+      "outputSha": "8f5efda1c7dd262e457a2ba129552f03f25bad539e8f9b55ea6a3a269c8c8e9d",
+      "changedPixels": 40871,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 12,
+        "bottom": 1518,
+        "height": 1507
+      },
+      "finalHeightBounds": {
+        "top": 12,
+        "bottom": 1518,
+        "height": 1507
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "포즈/듣는자세.png",
+      "inputSha": "2e3dc31858e3899526caad485d8ae1d85c3dd944578acc7963f2fa2ae2af7c33",
+      "outputSha": "b94ed5c1362b8ecb327c634633bb92f23a6b54573ca5fecb5a78d7992691cd05",
+      "changedPixels": 38745,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "포즈/업무.png",
+      "inputSha": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
+      "outputSha": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
+      "changedPixels": 36161,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "포즈/캐주얼.png",
+      "inputSha": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
+      "outputSha": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
+      "changedPixels": 38846,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/MASTER_default.png",
+      "inputSha": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
+      "outputSha": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/MASTER_serious.png",
+      "inputSha": "6f5e9bf188b216921ccce90dfeb80d16083f65a4e77d287e145921e22d827af0",
+      "outputSha": "4b1538d489892b64e47fd8bd0944ac6bc0e1adf7421b82badaec2a228b37dc02",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/업무_default.png",
+      "inputSha": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
+      "outputSha": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
+      "changedPixels": 36161,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/업무_serious.png",
+      "inputSha": "04c21c8b2a89024c4b92c48b6ea7645b208cb481901addf9c4a090743a0f66ad",
+      "outputSha": "5b3c6c40923bd3b92332358e1611d8abc721dff51a1c14d9a014458d95d97c5c",
+      "changedPixels": 36162,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/캐주얼_default.png",
+      "inputSha": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
+      "outputSha": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
+      "changedPixels": 38846,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      }
+    },
+    {
+      "who": "차유진",
+      "file": "표정/캐주얼_serious.png",
+      "inputSha": "d967d8aac38e844db00d22279a8aed0f8aa2c9bf778135d2ef7562f891e14635",
+      "outputSha": "c6b0f6c31843967d04b92af55d32e98a0b02d90e47a49f767e7affc0e867ae4f",
+      "changedPixels": 38847,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "MASTER.png",
+      "inputSha": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
+      "outputSha": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "포즈/대표.png",
+      "inputSha": "704f0e5221e492aa53a31152ab0fb780e7b6f35be39d064f0382e290b8f0068e",
+      "outputSha": "ef284f458f56dddfb494b618330cda1008810e357ae0e9c96b0cfcb773fd3a6e",
+      "changedPixels": 41470,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 29,
+        "bottom": 1495,
+        "height": 1467
+      },
+      "finalHeightBounds": {
+        "top": 29,
+        "bottom": 1495,
+        "height": 1467
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "포즈/듣는자세.png",
+      "inputSha": "4884227c2f2efd6b500a3c681d61b03cf0d533da752d98dc03854be6777a36bd",
+      "outputSha": "6939d8f39e6d10327f006c8c3554510ade830cf5d5a234f6e5fab09ac2dffb8f",
+      "changedPixels": 41325,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 29,
+        "bottom": 1491,
+        "height": 1463
+      },
+      "finalHeightBounds": {
+        "top": 29,
+        "bottom": 1491,
+        "height": 1463
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "포즈/업무.png",
+      "inputSha": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
+      "outputSha": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
+      "changedPixels": 41333,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "포즈/캐주얼.png",
+      "inputSha": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
+      "outputSha": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/MASTER_default.png",
+      "inputSha": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
+      "outputSha": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/MASTER_serious.png",
+      "inputSha": "8cf1375037a94ebbc33528786c81cc0bc78bfb4658bfae94474dbf80ad2e23dd",
+      "outputSha": "8b5ef13df259879d7068e755fcf079bb23eef78ecc1ec61cd0c6da68f329eac7",
+      "changedPixels": 41301,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/업무_default.png",
+      "inputSha": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
+      "outputSha": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
+      "changedPixels": 41333,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/업무_serious.png",
+      "inputSha": "394fdb9555bc0b81e9c2fee667f468c6a3f67e4925cf1d8890ca4657a1bdc821",
+      "outputSha": "8de64dc02374aacfcf9bc47ab7fd9ad95e79d29c36b0f3f3ed3c981364d3c77d",
+      "changedPixels": 41347,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/캐주얼_default.png",
+      "inputSha": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
+      "outputSha": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      }
+    },
+    {
+      "who": "백지현",
+      "file": "표정/캐주얼_serious.png",
+      "inputSha": "0ac18acf48195b546cbe23df6f821da72b2a7f6bdd9304382f5bf326a21299ee",
+      "outputSha": "5f2fc86f4b8f405c745ced4f82ef7508189d1a90a24be696f61e966cbee3adef",
+      "changedPixels": 41301,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "scope": "v24: preserve original height, body proportions, foot positions and complete alpha in all 46 native sprites. Subtle interior facial balance refinement for Seoyun across 11 sprites; Ria, Yujin and Jihyun 35 native sprites unchanged. All faces and 22 unique poses re-audited for ears, hands/nails, belts and footwear. Native/2x/runtime synchronized.",
+  "scope": "v25: Yujin and Jihyun facial silhouette/size matched to approved Ria and Seoyun scale across 22 native, 22 upscale and 22 runtime sprites. All 46 body/hand/wardrobe/foot pixels outside the bounded head region and visible full-body heights preserved. Ria and Seoyun 24 native references unchanged.",
   "runtime_images": 46,
   "canonical_masters": 4,
   "comparison_previews": 0,
@@ -29,8 +29,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 1400619,
-      "sha256": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38"
+      "bytes": 2103005,
+      "sha256": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2"
     },
     {
       "path": "히로인/백지현/MASTER.png",
@@ -38,8 +38,8 @@
       "role": "canonical_master",
       "width": 1024,
       "height": 1536,
-      "bytes": 866088,
-      "sha256": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0"
+      "bytes": 861482,
+      "sha256": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432"
     },
     {
       "path": "히로인/강리아/포즈/대표.png",
@@ -83,8 +83,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 1413127,
-      "sha256": "9454b7c4ca3c2234fbb886c13c45f8dac48e11c6f4514d57a8a459a8573ccce0"
+      "bytes": 2093009,
+      "sha256": "8f5efda1c7dd262e457a2ba129552f03f25bad539e8f9b55ea6a3a269c8c8e9d"
     },
     {
       "path": "히로인/차유진/업스케일/포즈/대표.png",
@@ -92,8 +92,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2870639,
-      "sha256": "6373f7e7d071d035766dbb0ed6da5f763492f57c66c08bae272e4747486017a6"
+      "bytes": 2852031,
+      "sha256": "aad47e4657b09461f20176ae4eccb50ef11a1d165fb5c6deb778ca9f4a30d6ba"
     },
     {
       "path": "히로인/백지현/포즈/대표.png",
@@ -101,8 +101,8 @@
       "role": "signature_pose",
       "width": 1024,
       "height": 1536,
-      "bytes": 765391,
-      "sha256": "704f0e5221e492aa53a31152ab0fb780e7b6f35be39d064f0382e290b8f0068e"
+      "bytes": 760908,
+      "sha256": "ef284f458f56dddfb494b618330cda1008810e357ae0e9c96b0cfcb773fd3a6e"
     },
     {
       "path": "히로인/백지현/업스케일/포즈/대표.png",
@@ -110,8 +110,8 @@
       "role": "signature_pose_2x",
       "width": 2048,
       "height": 3072,
-      "bytes": 2561477,
-      "sha256": "b6512d11ba81c35dec8b9556698f2c6b51a42f03b94f1e32ed6734ab1c6a39bc"
+      "bytes": 2546733,
+      "sha256": "158fbed5aeea669f71f545a099a2ea1dd511a7e55851430b8646908b2b8d4ae0"
     }
   ],
   "hand_repair_manifest": "히로인/공통검수자료/손손톱/수정파일.json",
@@ -123,5 +123,5 @@
     "jihyun": "black pointed-toe pumps",
     "seoyun": "unchanged gold-hardware loafers; no watch/earrings"
   },
-  "current_review": "미리보기/얼굴균형_전체재검수_v24/README.md"
+  "current_review": "미리보기/유진지현_얼굴크기통일_v25/README.md"
 }

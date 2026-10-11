@@ -1,196 +1,229 @@
 {
   "date": "2026-10-11",
-  "version": "v24",
+  "version": "v25",
   "character": "차유진",
-  "nativeSize": "1024x1536",
-  "upscaleSize": "2048x3072",
-  "bodyHeightAndFootPositionPreserved": true,
-  "checks": [
+  "native": "1024x1536",
+  "upscale": "2048x3072",
+  "bodyAndHeightPreserved": true,
+  "files": [
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "MASTER.png",
-      "sha256": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
-      "upscaleSha256": "c60efc073d8130ef0afeb9ff37f59319508665317a6f7691fdc980a26797e7f3",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 277,
-        "r": 765,
-        "t": 8,
-        "b": 1517
+      "inputSha": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
+      "outputSha": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
       },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "upscaleSha256": "270ab30b036d01bf8162b885febea90983d1ca3ee91507b00a3c3049cc60cb98",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "포즈/대표.png",
-      "sha256": "9454b7c4ca3c2234fbb886c13c45f8dac48e11c6f4514d57a8a459a8573ccce0",
-      "upscaleSha256": "6373f7e7d071d035766dbb0ed6da5f763492f57c66c08bae272e4747486017a6",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 246,
-        "r": 816,
-        "t": 12,
-        "b": 1518
+      "inputSha": "9454b7c4ca3c2234fbb886c13c45f8dac48e11c6f4514d57a8a459a8573ccce0",
+      "outputSha": "8f5efda1c7dd262e457a2ba129552f03f25bad539e8f9b55ea6a3a269c8c8e9d",
+      "changedPixels": 40871,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 12,
+        "bottom": 1518,
+        "height": 1507
       },
+      "finalHeightBounds": {
+        "top": 12,
+        "bottom": 1518,
+        "height": 1507
+      },
+      "upscaleSha256": "aad47e4657b09461f20176ae4eccb50ef11a1d165fb5c6deb778ca9f4a30d6ba",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "포즈/듣는자세.png",
-      "sha256": "2e3dc31858e3899526caad485d8ae1d85c3dd944578acc7963f2fa2ae2af7c33",
-      "upscaleSha256": "7209ecab42fb72da83d3bacc030f577d9ad84cd281618f4c6a1ab65847d090f2",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 292,
-        "r": 777,
-        "t": 9,
-        "b": 1520
+      "inputSha": "2e3dc31858e3899526caad485d8ae1d85c3dd944578acc7963f2fa2ae2af7c33",
+      "outputSha": "b94ed5c1362b8ecb327c634633bb92f23a6b54573ca5fecb5a78d7992691cd05",
+      "changedPixels": 38745,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "upscaleSha256": "b5438f19fd4772e6a4bbe46edfe008b7ff7f3056c863f950fb7f85608f207ce3",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "포즈/업무.png",
-      "sha256": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
-      "upscaleSha256": "79e2c1ed470dcad76fe9bcbf738528ce0ec64185bcb26dec344468b7a4571fa6",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 286,
-        "r": 777,
-        "t": 9,
-        "b": 1520
+      "inputSha": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
+      "outputSha": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
+      "changedPixels": 36161,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "upscaleSha256": "8b8e8d407ca240e6976b6575b13d071b8dfc489b9928a6af8af696d58987a515",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "포즈/캐주얼.png",
-      "sha256": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
-      "upscaleSha256": "11cb2422c30588a400b6bee9c1cf1d59d7b8618d1b12b15ceb04a16b6debc8db",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 316,
-        "r": 762,
-        "t": 9,
-        "b": 1519
+      "inputSha": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
+      "outputSha": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
+      "changedPixels": 38846,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "upscaleSha256": "dad4667e68c4784377141eeae7f08bcc4f4797271635b527fdaf3187ef1eeb5b",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/MASTER_default.png",
-      "sha256": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
-      "upscaleSha256": "c60efc073d8130ef0afeb9ff37f59319508665317a6f7691fdc980a26797e7f3",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 277,
-        "r": 765,
-        "t": 8,
-        "b": 1517
+      "inputSha": "289c2482bf2d6983ef2d1c3df5f95e87a21bca5a245ff66cddca6438a7734b38",
+      "outputSha": "5d56a15e1c5335beffcafcbca6eded105add2d843dbc7f63ce852d6d897415e2",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
       },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "upscaleSha256": "270ab30b036d01bf8162b885febea90983d1ca3ee91507b00a3c3049cc60cb98",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/MASTER_serious.png",
-      "sha256": "6f5e9bf188b216921ccce90dfeb80d16083f65a4e77d287e145921e22d827af0",
-      "upscaleSha256": "694a4f81df7938c5252acfa9e6a3b289db29216cd14f7f70fc409b6ce6a5755b",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 277,
-        "r": 765,
-        "t": 8,
-        "b": 1517
+      "inputSha": "6f5e9bf188b216921ccce90dfeb80d16083f65a4e77d287e145921e22d827af0",
+      "outputSha": "4b1538d489892b64e47fd8bd0944ac6bc0e1adf7421b82badaec2a228b37dc02",
+      "changedPixels": 38630,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
       },
+      "finalHeightBounds": {
+        "top": 8,
+        "bottom": 1517,
+        "height": 1510
+      },
+      "upscaleSha256": "3a73f487d058b40dc134d77847ed44dee61e1eb30df0bd144cdf3bb92e448464",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/업무_default.png",
-      "sha256": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
-      "upscaleSha256": "79e2c1ed470dcad76fe9bcbf738528ce0ec64185bcb26dec344468b7a4571fa6",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 286,
-        "r": 777,
-        "t": 9,
-        "b": 1520
+      "inputSha": "c1321900e9ac4177f0eb0bae4d3b4f4bac22af02269afaf39ed7074286c807ca",
+      "outputSha": "7a021dacc92254cf4bd015861f83338690693872e669dea5c6d292b633b70bab",
+      "changedPixels": 36161,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "upscaleSha256": "8b8e8d407ca240e6976b6575b13d071b8dfc489b9928a6af8af696d58987a515",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/업무_serious.png",
-      "sha256": "04c21c8b2a89024c4b92c48b6ea7645b208cb481901addf9c4a090743a0f66ad",
-      "upscaleSha256": "eca5ab96dcfc4937816e0795f5336a68ff770167343f035865be1a927870fb04",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 286,
-        "r": 777,
-        "t": 9,
-        "b": 1520
+      "inputSha": "04c21c8b2a89024c4b92c48b6ea7645b208cb481901addf9c4a090743a0f66ad",
+      "outputSha": "5b3c6c40923bd3b92332358e1611d8abc721dff51a1c14d9a014458d95d97c5c",
+      "changedPixels": 36162,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1520,
+        "height": 1512
+      },
+      "upscaleSha256": "22e63f1d86dc6548ffa9ddacf9dca1cbaae15882f7c9a9af0f35d199c147ec3d",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/캐주얼_default.png",
-      "sha256": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
-      "upscaleSha256": "11cb2422c30588a400b6bee9c1cf1d59d7b8618d1b12b15ceb04a16b6debc8db",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 316,
-        "r": 762,
-        "t": 9,
-        "b": 1519
+      "inputSha": "efe93e3f804eb1e1898e677e0f8faaf6c63eabd1029ac996379439e5e01deba7",
+      "outputSha": "8280bf38a9ce6673c224a9c4c5eb7f8e6aa4e8ce12e48364d83240944dadf3b2",
+      "changedPixels": 38846,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "upscaleSha256": "dad4667e68c4784377141eeae7f08bcc4f4797271635b527fdaf3187ef1eeb5b",
       "runtimeShaMatches": true
     },
     {
-      "character": "차유진",
+      "who": "차유진",
       "file": "표정/캐주얼_serious.png",
-      "sha256": "d967d8aac38e844db00d22279a8aed0f8aa2c9bf778135d2ef7562f891e14635",
-      "upscaleSha256": "23a6c40ef4e531548018626667bbfb3ee5ac0ba0ebfd1cf05e16d670b7d12419",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 316,
-        "r": 762,
-        "t": 9,
-        "b": 1519
+      "inputSha": "d967d8aac38e844db00d22279a8aed0f8aa2c9bf778135d2ef7562f891e14635",
+      "outputSha": "c6b0f6c31843967d04b92af55d32e98a0b02d90e47a49f767e7affc0e867ae4f",
+      "changedPixels": 38847,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
       },
+      "finalHeightBounds": {
+        "top": 9,
+        "bottom": 1519,
+        "height": 1511
+      },
+      "upscaleSha256": "9a6a45b5dfed0a6406eb61519dc8ea181ea49f2c8f43c1153f12f247f0a75992",
       "runtimeShaMatches": true
     }
   ],

@@ -1,194 +1,231 @@
 {
-  "updated": "2026-10-11",
-  "originals": 11,
-  "upscales": 11,
+  "date": "2026-10-11",
+  "version": "v25",
+  "character": "백지현",
+  "native": "1024x1536",
+  "upscale": "2048x3072",
+  "bodyAndHeightPreserved": true,
   "files": [
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "MASTER.png",
-      "sha256": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
-      "upscaleSha256": "1e7cbfb4e8fb1459ce8b30fa023eb644c84ffd0cabb28f5103f401d663d84c21",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1499
+      "inputSha": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
+      "outputSha": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "upscaleSha256": "3ec1603e0f7b325677138ad05101026635982768a919f03939e70ffd1a065ac8",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "포즈/대표.png",
-      "sha256": "704f0e5221e492aa53a31152ab0fb780e7b6f35be39d064f0382e290b8f0068e",
-      "upscaleSha256": "b6512d11ba81c35dec8b9556698f2c6b51a42f03b94f1e32ed6734ab1c6a39bc",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 290,
-        "r": 790,
-        "t": 29,
-        "b": 1495
+      "inputSha": "704f0e5221e492aa53a31152ab0fb780e7b6f35be39d064f0382e290b8f0068e",
+      "outputSha": "ef284f458f56dddfb494b618330cda1008810e357ae0e9c96b0cfcb773fd3a6e",
+      "changedPixels": 41470,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 29,
+        "bottom": 1495,
+        "height": 1467
       },
+      "finalHeightBounds": {
+        "top": 29,
+        "bottom": 1495,
+        "height": 1467
+      },
+      "upscaleSha256": "158fbed5aeea669f71f545a099a2ea1dd511a7e55851430b8646908b2b8d4ae0",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "포즈/듣는자세.png",
-      "sha256": "4884227c2f2efd6b500a3c681d61b03cf0d533da752d98dc03854be6777a36bd",
-      "upscaleSha256": "10fb08f3e3489490dcf154051e8a5e51f2c890d7cbaf8ac19b48a2ce8312eae0",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 316,
-        "r": 744,
-        "t": 29,
-        "b": 1491
+      "inputSha": "4884227c2f2efd6b500a3c681d61b03cf0d533da752d98dc03854be6777a36bd",
+      "outputSha": "6939d8f39e6d10327f006c8c3554510ade830cf5d5a234f6e5fab09ac2dffb8f",
+      "changedPixels": 41325,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 29,
+        "bottom": 1491,
+        "height": 1463
       },
+      "finalHeightBounds": {
+        "top": 29,
+        "bottom": 1491,
+        "height": 1463
+      },
+      "upscaleSha256": "2cb72cf077d1054a56d6c4aac26bef91f2d6c59edfcb7b3dc863792d9872359b",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "포즈/업무.png",
-      "sha256": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
-      "upscaleSha256": "09dfe55745f451cdb381a5c64602e4d8ac31efc55f74e771a3129b8ca0bf15e1",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 307,
-        "r": 746,
-        "t": 28,
-        "b": 1491
+      "inputSha": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
+      "outputSha": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
+      "changedPixels": 41333,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
       },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "upscaleSha256": "3f6d80d641e9f7ac000c2b4dc4bbeced531c26fadcd8dac436946af180c7b4a4",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "포즈/캐주얼.png",
-      "sha256": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
-      "upscaleSha256": "6e85549c97f72b282783225653545a810c678615bfb93e466008b512ecbab7b8",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1500
+      "inputSha": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
+      "outputSha": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "upscaleSha256": "dccab14eed2230ffacb16884c6206dc5de12d712a014d8e4a032e4a61b8324ac",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/MASTER_default.png",
-      "sha256": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
-      "upscaleSha256": "1e7cbfb4e8fb1459ce8b30fa023eb644c84ffd0cabb28f5103f401d663d84c21",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1499
+      "inputSha": "5b002d2b36db5fbb687d589c19d2a14d96e188fb56ec4106044087793950b3f0",
+      "outputSha": "797a65050619c92f724d0c2a2fd2f955b689a473301393480aa0e9fccc06c432",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "upscaleSha256": "3ec1603e0f7b325677138ad05101026635982768a919f03939e70ffd1a065ac8",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/MASTER_serious.png",
-      "sha256": "8cf1375037a94ebbc33528786c81cc0bc78bfb4658bfae94474dbf80ad2e23dd",
-      "upscaleSha256": "069bca56d31d3c35df1f6db9063743263f3688f61a276979a2344e6202948111",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1499
+      "inputSha": "8cf1375037a94ebbc33528786c81cc0bc78bfb4658bfae94474dbf80ad2e23dd",
+      "outputSha": "8b5ef13df259879d7068e755fcf079bb23eef78ecc1ec61cd0c6da68f329eac7",
+      "changedPixels": 41301,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1499,
+        "height": 1483
+      },
+      "upscaleSha256": "c7945b76c3fee28706bafc58d9cd954fac044539739d7d95f2abfdd2cc66e5e3",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/업무_default.png",
-      "sha256": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
-      "upscaleSha256": "09dfe55745f451cdb381a5c64602e4d8ac31efc55f74e771a3129b8ca0bf15e1",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 307,
-        "r": 746,
-        "t": 28,
-        "b": 1491
+      "inputSha": "bdafc9f6c96dd578e67cf9dc4dc9d907ea40ac5bbcbda5378e7278c2ca818550",
+      "outputSha": "81758e8b108bf83dce205f65c528f188140d276b022ab8cd354936cd1d7b42a2",
+      "changedPixels": 41333,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
       },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "upscaleSha256": "3f6d80d641e9f7ac000c2b4dc4bbeced531c26fadcd8dac436946af180c7b4a4",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/업무_serious.png",
-      "sha256": "394fdb9555bc0b81e9c2fee667f468c6a3f67e4925cf1d8890ca4657a1bdc821",
-      "upscaleSha256": "e3e614bb1f114351d6184f8a8e67bd81b1889f7c69657c0181ea86fcd13a19a4",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 307,
-        "r": 746,
-        "t": 28,
-        "b": 1491
+      "inputSha": "394fdb9555bc0b81e9c2fee667f468c6a3f67e4925cf1d8890ca4657a1bdc821",
+      "outputSha": "8de64dc02374aacfcf9bc47ab7fd9ad95e79d29c36b0f3f3ed3c981364d3c77d",
+      "changedPixels": 41347,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
       },
+      "finalHeightBounds": {
+        "top": 28,
+        "bottom": 1491,
+        "height": 1464
+      },
+      "upscaleSha256": "441da40cf1317c557668158dbf0eacde7c26424b2ba9a4f8658de43dd412f2b4",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/캐주얼_default.png",
-      "sha256": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
-      "upscaleSha256": "6e85549c97f72b282783225653545a810c678615bfb93e466008b512ecbab7b8",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1500
+      "inputSha": "d6983e282a03218b502a6a8359ccb72b2b57ef714fb2486c77e829f13eb368ab",
+      "outputSha": "aa14728e3933efe9c22519c0d7c26798469fbc23380eab6eaa8e1c5d9d6bc708",
+      "changedPixels": 41299,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "upscaleSha256": "dccab14eed2230ffacb16884c6206dc5de12d712a014d8e4a032e4a61b8324ac",
       "runtimeShaMatches": true
     },
     {
-      "character": "백지현",
+      "who": "백지현",
       "file": "표정/캐주얼_serious.png",
-      "sha256": "0ac18acf48195b546cbe23df6f821da72b2a7f6bdd9304382f5bf326a21299ee",
-      "upscaleSha256": "458b171ea358f4688c6680d3b926205e20fa07c61ba19553529850e5a6caa4fb",
-      "changedRgbPixels": 0,
-      "bodyHandsFeetUnchanged": true,
-      "entireAlphaUnchanged": true,
-      "originalSilhouetteAndHeightUnchanged": true,
-      "originalBounds": {
-        "l": 297,
-        "r": 749,
-        "t": 17,
-        "b": 1500
+      "inputSha": "0ac18acf48195b546cbe23df6f821da72b2a7f6bdd9304382f5bf326a21299ee",
+      "outputSha": "5f2fc86f4b8f405c745ced4f82ef7508189d1a90a24be696f61e966cbee3adef",
+      "changedPixels": 41301,
+      "bodyHandsFeetRgbaPreserved": true,
+      "originalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
       },
+      "finalHeightBounds": {
+        "top": 17,
+        "bottom": 1500,
+        "height": 1484
+      },
+      "upscaleSha256": "077f116d89878a2d6e8470d138f1e8e049bc189040d379ffeb4b0e84b3e46e4d",
       "runtimeShaMatches": true
     }
-  ]
+  ],
+  "playtestPerformed": false
 }

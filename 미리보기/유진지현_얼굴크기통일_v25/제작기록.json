@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-11",
+  "adoptedPrompts": [
+    {
+      "id": "차유진_MASTER",
+      "prompt": "Precise image edit, adult fictional anime heroine portrait sprite crop. Image 1 is the ONLY identity/design target. Images 2 and 3 are other characters provided ONLY as a face SIZE reference at exactly the same crop magnification. Make Image 1's exposed face silhouette and facial scale match the reference scale range while retaining the exact same character. Her current exposed facial height is a little short: increase the face from hairline to chin by roughly SIX percent, mostly adding a little lower-cheek and jaw length, and increase cheek width around THREE percent. Keep rose-taupe eyes, forest-green side braid over viewer-right shoulder, bare ears/no earrings and no makeup. Preserve distinctive eye design, nose, lips, gentle smile, head orientation and hair style. Edit the entire face outline and facial features together so this is a real facial-size correction. Do NOT copy the blonde or brown-haired reference identities, eye colors or hairstyles. Leave the top of her head/hair at the identical location; keep the external hair footprint, neck position, clothing and shoulders identical, so overall character height and body remain unchanged. Preserve clean thin anime lines and restrained soft cel shading; resolve ears/jaw/neck anatomy cleanly, single jaw contour without ghost outlines. Output Image 1's exact original crop composition and aspect ratio as a transparent cutout with no text."
+    },
+    {
+      "id": "차유진_대표",
+      "prompt": "Precise edit of adult anime woman IMAGE 1. IMAGE 2 is her approved face-size corrected master. Match her visible facial SIZE, lower cheek/jaw length and feature scale exactly to Image 2, but preserve Image 1's head tilt, smile, gaze, head placement, forest-green braid, rose-taupe eyes, bare ears/no earrings, neckline and original shoulders. Increase the face silhouette about 6% taller and 3% wider as needed to match that MASTER. Do not change overall stature/hair crown location or costume. Keep clean thin anime linework and restrained soft cel shading and natural adult identity. Single clean jaw contour, no new makeup/accessories. Exact Image 1 crop framing and aspect ratio, transparent cutout, no text."
+    },
+    {
+      "id": "차유진_MASTER_serious",
+      "prompt": "IMAGE 1 is the approved adult heroine face-size corrected master. Keep its exact framing, face outline/size, hair, eyes' design and rose-taupe color, bare ears without jewelry, jaw and neck geometry, clothes and thin anime cel-shaded style. IMAGE 2 is ONLY an expression reference: replace the gentle smile with her serious closed neutral mouth and slightly serious brows; remain calm and attractive, no scowl. Only alter eyes/brows/mouth expression, leave chin contour, face scale and all other geometry unchanged. No makeup, no text, no earrings. Transparent cutout, original Image 1 aspect ratio and framing."
+    },
+    {
+      "id": "백지현_MASTER_v2",
+      "prompt": "Precise facial-size correction of the adult fictional woman in IMAGE 1 ONLY. Images 2/3 are ONLY a same-magnification face size reference. Retain her exact violet-gray eyes, ash-beige wavy hair, natural beauty, tilted head, two tiny pearl studs, expression, anime line and cel-shading style, costume and shoulders. Her visible face is too compact relative to these refs: make the complete forehead-cheek-jaw facial silhouette noticeably 7 percent taller and 5 percent wider. Keep the original forehead hairline at about 24% of the crop height; lower the chin from about 66% to 69% of the crop height, using a little of the long upper neck. Increase feature scale proportionally without making eyes a new design. Do not relocate the skull/hair crown or shoulders; preserve overall height. Change only the face/ear/jaw/upper-neck region; keep the same hair footprint. Avoid extra jewelry, makeup, double contours, or copying reference facial identities. Return the EXACT Image 1 crop framing and aspect ratio as a transparent cutout, no text."
+    },
+    {
+      "id": "백지현_대표",
+      "prompt": "Precise same-character adult anime portrait edit. Image 1 is the target pose. Image 2 is her approved MASTER with corrected face size matching the other heroines. Apply Image 2's facial scale: visible hairline-to-chin face height about 148 native-equivalent pixels in this 380x340 crop, and cheek width/feature scale matching its master. Preserve Image 1's existing head tilt/gaze/gentle smile, hair crown location, outer hairstyle footprint and face identity: violet-gray eyes, ash-beige waves and two small pearl ear studs. Enlarge the lower cheek-jaw part moderately using some of the long neck, without altering shoulders/collar/hand/body. Do not copy another character's face. Same clean thin anime/cel-shading style; one continuous jaw contour, simple correct ears. Preserve Image 1 exact crop framing/aspect ratio, transparent cutout, no text, no makeup or added accessories."
+    },
+    {
+      "id": "백지현_MASTER_serious",
+      "prompt": "Image 1 is the adult heroine's APPROVED face-size corrected MASTER. Preserve its exact face outline, scale, hairline and chin locations, eye design/violet-gray color, nose identity, ash-beige wavy hair, ear shapes with exactly the two existing tiny pearl studs, neck/shoulders/clothes and anime linework/cel shading. Image 2 is ONLY an expression reference. Replace the gentle smile with her calm serious closed neutral mouth and slightly serious eyebrows/eye expression. Alter only eyes/brows/mouth expression; leave jaw contour and the entire face/head proportions unchanged. Same crop framing/aspect ratio as Image 1; transparent cutout, no text, no makeup."
+    }
+  ],
+  "poseAlignment": {
+    "차유진": {
+      "MASTER": [
+        0,
+        0
+      ],
+      "듣는자세": [
+        1,
+        0
+      ],
+      "업무": [
+        1,
+        0
+      ],
+      "캐주얼": [
+        1,
+        0
+      ]
+    },
+    "백지현": {
+      "MASTER": [
+        0,
+        0
+      ],
+      "듣는자세": [
+        0,
+        9
+      ],
+      "업무": [
+        2,
+        9
+      ],
+      "캐주얼": [
+        0,
+        0
+      ]
+    }
+  },
+  "composite": {
+    "region": [
+      400,
+      50,
+      640,
+      300
+    ],
+    "ellipse": {
+      "cx": 515,
+      "cy": 166,
+      "rx": 112,
+      "ry": 121
+    },
+    "feather": "premultiplied alpha",
+    "protectedYujinIndexPolygon": [
+      [
+        501,
+        202
+      ],
+      [
+        508,
+        210
+      ],
+      [
+        506,
+        230
+      ],
+      [
+        522,
+        246
+      ],
+      [
+        521,
+        267
+      ],
+      [
+        511,
+        291
+      ],
+      [
+        475,
+        320
+      ],
+      [
+        453,
+        340
+      ],
+      [
+        416,
+        340
+      ],
+      [
+        430,
+        307
+      ],
+      [
+        463,
+        265
+      ],
+      [
+        482,
+        219
+      ]
+    ]
+  },
+  "bodyScalingApplied": false,
+  "referenceCharactersModified": false
+}
